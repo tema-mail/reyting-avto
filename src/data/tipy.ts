@@ -23,6 +23,7 @@ export interface NicheTexts {
   whoGen: string; // «установочных центров»
   schemaType: 'AutomotiveBusiness' | 'AutoRepair';
   kind: (c: { dealer: boolean; brands: string | null }) => string;
+  short: string; // «Коротко»: {s:<название в съёме>} подставляет балл из формулы
   shortAfter: string;
   disclosure?: string;
   bullets: string[];

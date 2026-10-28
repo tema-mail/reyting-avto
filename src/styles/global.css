@@ -100,7 +100,7 @@ mark.confirm { background: var(--signal-soft); color: #5a4300; border: 1px dashe
 .btns { display: flex; flex-wrap: wrap; gap: 10px; }
 
 /* ── Хлебные крошки ─────────────────────────────── */
-.crumbs { font: 500 13px/1.4 var(--f-mono); color: var(--steel); padding: 18px 0 0; }
+.crumbs { font: 500 13px/1.4 var(--f-mono); color: var(--steel); padding-top: 18px; }
 .crumbs ol { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 4px 0; }
 .crumbs li + li::before { content: '/'; margin: 0 8px; color: var(--line); }
 .crumbs a { color: var(--steel); }
@@ -164,11 +164,17 @@ mark.confirm { background: var(--signal-soft); color: #5a4300; border: 1px dashe
 .rt .sc { font: 600 20px/1 var(--f-mono); }
 .rt .sc .gauge { margin-top: 8px; width: 72px; height: 6px; }
 .rt td[data-l]::before { display: none; }
+.rt .cnt { display: block; font-size: 13px; color: var(--steel); margin-top: 3px; }
+.rt .dot { display: none; }
 .rt-wrap { margin-top: 8px; }
-@media (min-width: 761px) and (max-width: 1100px) {
+@media (min-width: 761px) {
   .rt-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-  .rt { min-width: 980px; }
+  .rt th, .rt td { padding: 12px 9px; }
+  .rt { font-size: 14px; }
+  .rt thead th { letter-spacing: 0.02em; white-space: normal; }
+  .rt .co { min-width: 150px; }
 }
+@media (min-width: 761px) and (max-width: 1100px) { .rt { min-width: 940px; } }
 @media (max-width: 760px) {
   .rt, .rt tbody, .rt tr, .rt td { display: block; width: 100%; }
   .rt thead { display: none; }
@@ -182,6 +188,8 @@ mark.confirm { background: var(--signal-soft); color: #5a4300; border: 1px dashe
   .rt td.sc .gauge { margin-left: auto; width: 60px; }
   .rt td.x { grid-column: 1 / -1; display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 10px; padding: 8px 0; border-top: 1px solid var(--line-2); font-size: 14.5px; }
   .rt td.x:first-of-type { margin-top: 10px; }
+  .rt .cnt { display: inline; font-size: inherit; color: inherit; margin: 0; }
+  .rt .dot { display: inline; }
   .rt td[data-l]::before { display: block; content: attr(data-l); font: 600 11px/1.5 var(--f-mono); letter-spacing: 0.06em; text-transform: uppercase; color: var(--steel); }
   .sorter { display: flex !important; }
 }

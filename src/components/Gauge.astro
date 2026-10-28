@@ -1,0 +1,6 @@
+---
+// Шкала балла 0–10 с делениями
+interface Props { value: number; signal?: boolean }
+const { value, signal = false } = Astro.props;
+---
+<div class:list={['gauge', { 'gauge--signal': signal }]} style={`--v:${Math.max(0, Math.min(1, value / 10)).toFixed(3)}`} aria-hidden="true"></div>

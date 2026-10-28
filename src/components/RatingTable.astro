@@ -1,0 +1,94 @@
+---
+// Таблица баллов. На телефоне строки становятся карточками (без прокрутки страницы вбок);
+// сортировка по столбцам – кнопками в заголовке, на телефоне – списком.
+import type { Niche } from '../lib/reyting';
+import { ties } from '../lib/reyting';
+import { score, rating, num } from '../lib/format';
+import { u } from '../lib/url';
+import { md } from '../lib/md';
+import Gauge from './Gauge.astro';
+interface Props { n: Niche }
+const { n } = Astro.props;
+const id = `rt-${n.slug}`;
+const tieNotes = ties(n).map(([a, b]) => `${a.t.name} и ${b.t.name} округляются до ${score(a.score)}; ${a.t.name} выше на сотые (${num(a.raw, 2)} против ${num(b.raw, 2)}).`);
+const otz = (k: number) => `${num(k)} отз.`;
+---
+<div class="sorter" data-sorter={id}>
+  <label for={`${id}-s`}>Сортировать:</label>
+  <select id={`${id}-s`}>
+    <option value="0:asc">по месту</option>
+    <option value="2:desc">по баллу</option>
+    <option value="3:desc">по оценке Яндекса</option>
+    <option value="4:desc">по оценке 2ГИС</option>
+    <option value="5:desc">по числу отзывов</option>
+  </select>
+</div>
+<div class="rt-wrap">
+  <table class="rt" id={id}>
+    <caption class="sr-only">{n.t.tableH2}</caption>
+    <thead>
+      <tr>
+        <th scope="col" aria-sort="ascending"><button type="button" data-col="0" data-dir="asc">№</button></th>
+        <th scope="col">Компания</th>
+        <th scope="col"><button type="button" data-col="2" data-dir="desc">Балл</button></th>
+        <th scope="col"><button type="button" data-col="3" data-dir="desc">Яндекс Карты</button></th>
+        <th scope="col"><button type="button" data-col="4" data-dir="desc">2ГИС</button></th>
+        <th scope="col"><button type="button" data-col="5" data-dir="desc">Отзывов всего</button></th>
+        {n.t.tableCols.map((h) => <th scope="col">{h}</th>)}
+      </tr>
+    </thead>
+    <tbody>
+      {n.companies.map((c) => (
+        <tr class={c.place <= 3 ? 'top3' : undefined} data-k={`${c.place}|${c.id}|${c.raw}|${c.y.rating}|${c.g.rating}|${c.reviews}`}>
+          <td class="pos">{c.place}</td>
+          <td class="co"><a href={u(c.url)}>{c.t.name}</a></td>
+          <td class="sc">{score(c.score)}<Gauge value={c.score} signal={c.place <= 3} /></td>
+          <td class="x num" data-l="Яндекс Карты">{rating(c.y.rating)}<span class="cnt"><span class="dot"> · </span>{otz(c.y.reviews)}</span></td>
+          <td class="x num" data-l="2ГИС">{rating(c.g.rating)}<span class="cnt"><span class="dot"> · </span>{otz(c.g.reviews)}</span></td>
+          <td class="x num" data-l="Отзывов всего">{num(c.reviews)}</td>
+          {c.t.cells.map((cell, i) => <td class="x" data-l={n.t.tableCols[i]} set:html={md(cell)} />)}
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>
+<p class="note">{n.t.tableNote} {tieNotes.join(' ')} «Отзывов всего» – текстовые отзывы Яндекса плюс отзывы 2ГИС, так их считает формула.</p>
+
+<script>
+  // Сортировка таблицы рейтинга: ключи строки лежат в data-k (место|id|балл|Я|2ГИС|отзывы).
+  document.querySelectorAll<HTMLTableElement>('table.rt').forEach((table) => {
+    const body = table.tBodies[0];
+    const heads = Array.from(table.querySelectorAll<HTMLTableCellElement>('thead th'));
+    const sorter = document.querySelector<HTMLSelectElement>(`[data-sorter="${table.id}"] select`);
+    const sort = (col: number, dir: 'asc' | 'desc') => {
+      const rows = Array.from(body.rows);
+      rows.sort((a, b) => {
+        const x = parseFloat(a.dataset.k!.split('|')[col]);
+        const y = parseFloat(b.dataset.k!.split('|')[col]);
+        return dir === 'asc' ? x - y : y - x;
+      });
+      rows.forEach((r) => body.appendChild(r));
+      heads.forEach((th) => {
+        const b = th.querySelector('button');
+        if (!b) return;
+        if (Number(b.dataset.col) === col) th.setAttribute('aria-sort', dir === 'asc' ? 'ascending' : 'descending');
+        else th.removeAttribute('aria-sort');
+      });
+      if (sorter) sorter.value = `${col}:${dir}`;
+    };
+    table.querySelectorAll<HTMLButtonElement>('thead button').forEach((b) => {
+      b.addEventListener('click', () => {
+        const col = Number(b.dataset.col);
+        const th = b.closest('th')!;
+        const cur = th.getAttribute('aria-sort');
+        const def = b.dataset.dir as 'asc' | 'desc';
+        const dir = cur ? (cur === 'ascending' ? 'desc' : 'asc') : def;
+        sort(col, dir);
+      });
+    });
+    sorter?.addEventListener('change', () => {
+      const [col, dir] = sorter.value.split(':');
+      sort(Number(col), dir as 'asc' | 'desc');
+    });
+  });
+</script>

@@ -8,6 +8,7 @@ import { kitayskie } from '../data/teksty-kitayskie';
 import type { NicheTexts, CompanyTexts } from '../data/tipy';
 import { slugify } from './slug';
 import { CITY } from './site';
+import { md } from './md';
 
 export interface Company {
   id: string; // название в съёме
@@ -142,3 +143,18 @@ export function ties(n: Niche): [Company, Company][] {
   }
   return out;
 }
+
+/** Подставляет баллы формулы в тексты: {s:<название в съёме>} → «8,5». */
+export function fill(text: string): string {
+  return text.replace(/\{s:(.+?)\}/g, (_m, id) => {
+    const c = COMPANIES.find((x) => x.id === id);
+    if (!c) throw new Error(`fill: нет компании «${id}»`);
+    return (Math.round(c.score * 10) / 10).toFixed(1).replace('.', ',');
+  });
+}
+
+/** Текст для разметки: без пометок «подтвердить» и без **. */
+export const plain = (s: string) => fill(s).replace(/\s*\{\?.+?\?\}/g, '').replace(/\*\*/g, '');
+
+/** md() с подстановкой баллов */
+export const mdf = (s: string) => md(fill(s));

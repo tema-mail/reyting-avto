@@ -1,0 +1,16 @@
+---
+// Кнопки компании: звонок, сайт (nofollow, без utm), карточки Яндекс Карт и 2ГИС из съёма.
+import type { Company } from '../lib/reyting';
+import { telHref } from '../lib/format';
+import { u } from '../lib/url';
+interface Props { c: Company; more?: boolean; cls?: string }
+const { c, more = true, cls = 'co__acts' } = Astro.props;
+const ext = 'nofollow noopener';
+---
+<div class={cls}>
+  {c.phones[0] && <a class="btn btn--sm" href={telHref(c.phones[0])}>Позвонить</a>}
+  {c.site && c.siteWorks && <a class="btn btn--sm btn--ghost" href={c.site} rel={ext} target="_blank">Сайт</a>}
+  {c.y.cards.map((href, i) => <a class="btn btn--sm btn--ghost" href={href} rel={ext} target="_blank">Яндекс Карты{c.y.cards.length > 1 ? ` · ${i + 1}` : ''}</a>)}
+  {c.g.cards.map((href, i) => <a class="btn btn--sm btn--ghost" href={href} rel={ext} target="_blank">2ГИС{c.g.cards.length > 1 ? ` · ${i + 1}` : ''}</a>)}
+  {more && <a class="btn btn--sm btn--signal" href={u(c.url)}>Подробнее</a>}
+</div>

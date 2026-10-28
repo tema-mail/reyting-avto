@@ -1,0 +1,67 @@
+---
+// Плашка «Помочь выбрать» на рейтинге (без H2 – не смысловой раздел, заголовок – абзацем).
+import type { Niche } from '../lib/reyting';
+import { md } from '../lib/md';
+import { u } from '../lib/url';
+import { FORM_ENDPOINT } from '../lib/site';
+interface Props { n: Niche }
+const { n } = Astro.props;
+const h = n.t.help;
+const id = (s: string) => `${n.slug}-${s}`;
+const testMsg = 'Тестовая версия: заявки пока не принимаются. Позвоните в компанию из рейтинга напрямую – телефоны в таблице и в карточках выше.';
+---
+<div class="help" id="pomoch">
+  <div class="stack">
+    <p class="h2">{h.title}</p>
+    <p>{h.text}</p>
+    <p class="small muted" set:html={md('{?кто и когда ответит – например «ответим в течение рабочего дня»?}')} />
+    <p class="small muted" set:html={md('{?передаём ли заявку компаниям – если да, нужна вторая галочка «согласен на передачу данных компаниям из рейтинга»?}')} />
+    <p class="small muted">Номер в рейтинге компании от вашей заявки не меняется.</p>
+  </div>
+  <form class="form" data-form={`pomoch-${n.slug}`} data-endpoint={FORM_ENDPOINT} data-thanks={u('/spasibo/')} data-test-msg={testMsg} novalidate>
+    <div class="f">
+      <label for={id('car')}>{h.carLabel}</label>
+      <input id={id('car')} name="car" type="text" required autocomplete="off" placeholder={h.carPlaceholder} />
+      <p class="err" aria-live="polite"></p>
+    </div>
+    <fieldset class="f" data-required>
+      <legend>{h.selectLabel}</legend>
+      <div class="chips">
+        {h.options.map((o) => <label><input type="checkbox" name="task" value={o} /><span>{o}</span></label>)}
+      </div>
+      <p class="err" aria-live="polite"></p>
+    </fieldset>
+    {h.extraOptions ? (
+      <fieldset class="f">
+        <legend>{h.extraLabel}</legend>
+        <div class="chips">
+          {h.extraOptions.map((o) => <label><input type="radio" name="warranty" value={o} /><span>{o}</span></label>)}
+        </div>
+      </fieldset>
+    ) : (
+      <div class="f">
+        <label for={id('area')}>Удобный район <span class="opt">(необязательно)</span></label>
+        <input id={id('area')} name="area" type="text" autocomplete="off" />
+      </div>
+    )}
+    <div class="f-row">
+      <div class="f">
+        <label for={id('tel')}>Телефон</label>
+        <input id={id('tel')} name="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="+7 (___) ___-__-__" data-one-of />
+        <p class="err" aria-live="polite"></p>
+      </div>
+      <div class="f">
+        <label for={id('tg')}>или Telegram</label>
+        <input id={id('tg')} name="telegram" type="text" autocomplete="off" placeholder="@username" data-one-of />
+        <p class="err" aria-live="polite"></p>
+      </div>
+    </div>
+    <input type="text" name="website" tabindex="-1" autocomplete="off" class="sr-only" aria-hidden="true" />
+    <label class="agree"><input type="checkbox" name="consent" value="да" /><span>Согласен на <a href={u('/soglasie-na-obrabotku-dannykh/')}>обработку персональных данных</a> по <a href={u('/politika-konfidentsialnosti/')}>политике</a></span></label>
+    <div><button class="btn btn--signal" type="submit" disabled>{h.button}</button></div>
+    <p class="form__msg" role="status" tabindex="-1" hidden></p>
+  </form>
+</div>
+<script>
+  import '../scripts/forms';
+</script>

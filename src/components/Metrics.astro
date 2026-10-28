@@ -1,0 +1,14 @@
+---
+// Цифры компании с карт на дату съёма
+import type { Company } from '../lib/reyting';
+import { rating, num, plural, date } from '../lib/format';
+interface Props { c: Company }
+const { c } = Astro.props;
+const flags = [c.y.goodPlace && '«Хорошее место 2026» на Яндексе', c.y.ownerConfirmed ? 'карточку подтвердил владелец' : 'карточку на Яндексе владелец не подтвердил'].filter(Boolean);
+---
+<div class="metrics">
+  <div class="metric"><em>Яндекс Карты</em><b>{rating(c.y.rating)}</b><span>{num(c.y.ratings)} {plural(c.y.ratings, ['оценка', 'оценки', 'оценок'])} · {num(c.y.reviews)} {plural(c.y.reviews, ['отзыв', 'отзыва', 'отзывов'])}</span></div>
+  <div class="metric"><em>2ГИС</em><b>{rating(c.g.rating)}</b><span>{num(c.g.reviews)} {plural(c.g.reviews, ['отзыв', 'отзыва', 'отзывов'])}</span></div>
+  <div class="metric"><em>Последний отзыв на Яндексе</em><b>{date(c.y.last)}</b><span>за 12 месяцев – {c.y.recent} среди загруженных</span></div>
+</div>
+<p class="small muted">{flags.join('; ').replace(/^./, (m) => m.toUpperCase())}.</p>
