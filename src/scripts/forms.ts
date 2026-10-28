@@ -3,8 +3,9 @@
 // сообщение тестовой версии, без «Спасибо» (куда идут заявки, владелец не решил: docs/resheniya.md).
 
 function digits(v: string): string {
-  let d = v.replace(/\D/g, '');
-  if (d.startsWith('8') || d.startsWith('7')) d = d.slice(1);
+  // «+7 (» маски – не часть номера; 8 или 7 первым символом или 11 цифр – код страны
+  let d = v.replace(/^\s*\+7/, '').replace(/\D/g, '');
+  if (d.length === 11 || (d.length === 1 && /[78]/.test(d))) d = d.slice(1);
   return d.slice(0, 10);
 }
 

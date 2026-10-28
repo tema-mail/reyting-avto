@@ -1,0 +1,92 @@
+---
+import Base from '../layouts/Base.astro';
+import Crumbs from '../components/Crumbs.astro';
+import { NICHES } from '../lib/reyting';
+import { SITE_NAME, FORM_ENDPOINT, CITY } from '../lib/site';
+import { md } from '../lib/md';
+import { u, abs } from '../lib/url';
+const site = Astro.site;
+const schema = [
+  { '@type': 'WebPage', url: abs('/dobavit-kompaniyu/', site), name: 'Добавить компанию в рейтинг', inLanguage: 'ru' },
+  { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) }, { '@type': 'ListItem', position: 2, name: 'Добавить компанию', item: abs('/dobavit-kompaniyu/', site) }] },
+];
+const testMsg = 'Тестовая версия: заявки пока не принимаются. Данные не отправлены – вернитесь после запуска сайта.';
+---
+<Base title={`Добавить автосервис в рейтинг бесплатно – ${SITE_NAME}`} description="Бесплатно: пришлите название, сайт и ссылку на Яндекс Карты – проверим данные и посчитаем балл по той же формуле. Место не продаётся." schema={schema}>
+  <Crumbs items={[['Главная', '/'], ['Добавить компанию']]} />
+  <section class="hero">
+    <div class="wrap stack">
+      <h1>Добавить компанию в рейтинг</h1>
+      <p class="lead">Добавление бесплатное. Через эту же форму можно исправить данные о компании, которая уже в рейтинге.</p>
+    </div>
+  </section>
+  <section class="sec">
+    <div class="wrap cols-2">
+      <div class="stack-lg">
+        <div class="prose">
+          <h2>Что нужно прислать</h2>
+          <ul>
+            <li>Название компании и город</li>
+            <li>Ниша: установка магнитол, сервис китайских автомобилей или другая авто-ниша</li>
+            <li>Ссылка на карточку Яндекс Карт – обязательно; ссылка на 2ГИС</li>
+            <li>Сайт и страница с ценами, если есть</li>
+            <li>Подтверждение статуса дилера или фирменного центра, если он есть</li>
+            <li>Как с вами связаться</li>
+          </ul>
+        </div>
+        <div class="prose">
+          <h2>Что будет после заявки</h2>
+          <ol>
+            <li>Мы сверим данные с Яндекс Картами, 2ГИС и вашим сайтом. <Fragment set:html={md('{?срок проверки?}')} /></li>
+            <li>Посчитаем балл по формуле ниши. В рейтинг попадает компания с оценками на Яндекс Картах и в 2ГИС.</li>
+            <li>Компания появится в рейтинге при ближайшем ежемесячном обновлении на том месте, которое дала формула.</li>
+            <li>Если ниши в вашем городе ещё нет, мы откроем её, когда в ней наберётся пять компаний с данными.</li>
+          </ol>
+        </div>
+        <div class="prose">
+          <h2>Почему место нельзя купить</h2>
+          <p>Место считает одна формула для всех компаний ниши, она опубликована на странице «Методика». Платных мест и рекламы в рейтингах нет.</p>
+          <p><a href={u('/metodika/')}>Методика →</a></p>
+        </div>
+      </div>
+      <form class="form form--light" data-form="dobavit" data-endpoint={FORM_ENDPOINT} data-thanks={u('/spasibo/')} data-test-msg={testMsg} novalidate>
+        <div class="f"><label for="d-name">Название компании</label><input id="d-name" name="company" required autocomplete="organization" /><p class="err" aria-live="polite"></p></div>
+        <div class="f-row">
+          <div class="f"><label for="d-city">Город</label><input id="d-city" name="city" required value={CITY.name} /><p class="err" aria-live="polite"></p></div>
+          <div class="f"><label for="d-niche">Ниша</label>
+            <select id="d-niche" name="niche" required>
+              <option value="">Выберите</option>
+              {NICHES.map((n) => <option>{n.t.crumb}</option>)}
+              <option>Другая авто-ниша</option>
+            </select><p class="err" aria-live="polite"></p></div>
+        </div>
+        <div class="f"><label for="d-ya">Ссылка на Яндекс Карты</label><input id="d-ya" name="yandex" type="url" required placeholder="https://yandex.ru/maps/org/…" /><p class="err" aria-live="polite"></p></div>
+        <div class="f"><label for="d-2gis">Ссылка на 2ГИС <span class="opt">(необязательно)</span></label><input id="d-2gis" name="gis" type="url" placeholder="https://2gis.ru/…" /><p class="err" aria-live="polite"></p></div>
+        <div class="f-row">
+          <div class="f"><label for="d-site">Сайт <span class="opt">(необязательно)</span></label><input id="d-site" name="site" type="url" placeholder="https://" /><p class="err" aria-live="polite"></p></div>
+          <div class="f"><label for="d-prices">Ссылка на цены <span class="opt">(необязательно)</span></label><input id="d-prices" name="prices" type="url" placeholder="https://" /><p class="err" aria-live="polite"></p></div>
+        </div>
+        <div class="f"><label for="d-status">Статус дилера или фирменного центра <span class="opt">(ссылка или текст)</span></label><input id="d-status" name="status" /></div>
+        <div class="f"><label for="d-fix">Что исправить <span class="opt">(если компания уже в рейтинге)</span></label><textarea id="d-fix" name="fix"></textarea></div>
+        <div class="f"><label for="d-person">Ваше имя</label><input id="d-person" name="name" required autocomplete="name" /><p class="err" aria-live="polite"></p></div>
+        <div class="f-row">
+          <div class="f"><label for="d-tel">Телефон</label><input id="d-tel" name="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="+7 (___) ___-__-__" data-one-of /><p class="err" aria-live="polite"></p></div>
+          <div class="f"><label for="d-mail">или почта</label><input id="d-mail" name="email" type="email" autocomplete="email" data-one-of /><p class="err" aria-live="polite"></p></div>
+        </div>
+        <fieldset class="f">
+          <legend>Кто вы <span class="opt">(необязательно)</span></legend>
+          <div class="chips">{['Владелец', 'Сотрудник', 'Клиент'].map((o) => <label><input type="radio" name="role" value={o} /><span>{o}</span></label>)}</div>
+          <p class="err" aria-live="polite"></p>
+        </fieldset>
+        <input type="text" name="website" tabindex="-1" autocomplete="off" class="sr-only" aria-hidden="true" />
+        <label class="agree"><input type="checkbox" name="consent" value="да" /><span>Согласен на <a href={u('/soglasie-na-obrabotku-dannykh/')}>обработку персональных данных</a> по <a href={u('/politika-konfidentsialnosti/')}>политике</a></span></label>
+        <div><button class="btn btn--signal" type="submit" disabled>Отправить на проверку</button></div>
+        <p class="small muted" set:html={md('После отправки: заявка на проверке. {?кто ответит и в какой срок?}. Результат увидите в рейтинге после ближайшего обновления.')} />
+        <p class="form__msg" role="status" tabindex="-1" hidden></p>
+      </form>
+    </div>
+  </section>
+</Base>
+<script>
+  import '../scripts/forms';
+</script>

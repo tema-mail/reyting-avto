@@ -1,0 +1,11 @@
+---
+// Юридические и простые текстовые страницы
+import Base from './Base.astro';
+import Crumbs from '../components/Crumbs.astro';
+interface Props { title: string; h1: string; robots?: 'index' | 'noindex-follow' | 'noindex' }
+const { title, h1, robots = 'index' } = Astro.props;
+---
+<Base title={title} robots={robots}>
+  <Crumbs items={[['Главная', '/'], [h1]]} />
+  <section class="hero"><div class="wrap doc"><h1>{h1}</h1><slot /></div></section>
+</Base>

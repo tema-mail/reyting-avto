@@ -1,0 +1,26 @@
+---
+// HTML-карта сайта: города → рейтинги → компании. noindex, follow.
+import Doc from '../layouts/Doc.astro';
+import { NICHES } from '../lib/reyting';
+import { SITE_NAME, CITY } from '../lib/site';
+import { u } from '../lib/url';
+---
+<Doc title={`Карта сайта – ${SITE_NAME}`} h1="Карта сайта" robots="noindex-follow">
+  <ul class="sitemap links">
+    <li><a href={u('/')}>Главная</a></li>
+    <li><a href={u(`/${CITY.slug}/`)}>{CITY.name}: все рейтинги</a>
+      <ul class="links" style="margin-top:8px;padding-left:16px">
+        {NICHES.map((n) => (
+          <li><a href={u(n.url)}>{n.t.crumb}</a>
+            <ul class="links" style="margin-top:6px;padding-left:16px">{n.companies.map((c) => <li><a href={u(c.url)}>{c.t.brand}</a></li>)}</ul>
+          </li>
+        ))}
+      </ul>
+    </li>
+    <li><a href={u('/metodika/')}>Методика</a></li>
+    <li><a href={u('/o-proekte/')}>О проекте</a></li>
+    <li><a href={u('/dobavit-kompaniyu/')}>Добавить компанию</a></li>
+    <li><a href={u('/politika-konfidentsialnosti/')}>Политика конфиденциальности</a></li>
+    <li><a href={u('/soglasie-na-obrabotku-dannykh/')}>Согласие на обработку данных</a></li>
+  </ul>
+</Doc>

@@ -1,0 +1,56 @@
+---
+// Хаб города: навигационный, без «лучшие/топ» и без таблиц компаний. noindex, follow до третьего рейтинга (карта сайта).
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Gauge from '../../components/Gauge.astro';
+import { NICHES, mdf, HUB_INDEX } from '../../lib/reyting';
+import { CITY, DATA_DATE } from '../../lib/site';
+import { score, date } from '../../lib/format';
+import { u, abs } from '../../lib/url';
+
+
+const site = Astro.site;
+const pageUrl = abs(`/${CITY.slug}/`, site);
+const schema = [
+  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: `Авто-рейтинги ${CITY.of}`, inLanguage: 'ru', dateModified: DATA_DATE, publisher: { '@id': abs('/', site) + '#org' }, mainEntity: { '@type': 'ItemList', itemListElement: NICHES.map((n, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'WebPage', '@id': abs(n.url, site), name: `${n.t.crumb} ${CITY.in}`, url: abs(n.url, site) } })) } },
+  { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) }, { '@type': 'ListItem', position: 2, name: CITY.name, item: pageUrl }] },
+];
+---
+<Base title={`Авто-рейтинги ${CITY.of} – сервисы и установочные центры`} description={`Рейтинги ${NICHES.length} авто-ниш ${CITY.in} по отзывам Яндекс Карт и 2ГИС: установка магнитол, сервис китайских автомобилей. Данные на ${date(DATA_DATE)}.`} robots={HUB_INDEX ? 'index' : 'noindex-follow'} schema={schema} active="city">
+  <Crumbs items={[['Главная', '/'], [CITY.name]]} />
+  <section class="hero">
+    <div class="wrap stack">
+      <p class="label">Хаб города · данные на {date(DATA_DATE)}</p>
+      <h1>Авто-рейтинги {CITY.of}</h1>
+      <p class="lead" style="max-width:800px">Здесь собраны рейтинги установочных центров и автосервисов {CITY.of}. Места считает одна открытая формула по данным Яндекс Карт, 2ГИС и сайтов компаний, данные на {date(DATA_DATE)}.</p>
+    </div>
+  </section>
+  <section class="sec">
+    <div class="wrap">
+      <div class="sec__head"><h2>Рейтинги {CITY.of}</h2></div>
+      <div class="tiles">
+        {NICHES.map((n) => (
+          <a class="tile" href={u(n.url)}>
+            <span class="tile__top"><span>{n.companies.length} {n.t.who}</span><span>данные на {date(n.date)}</span></span>
+            <h3>{n.t.crumb}</h3>
+            <span class="tile__lead"><span>№1 {n.companies[0].t.brand}</span><b>{score(n.companies[0].score)}/10</b><span style="grid-column:1/-1"><Gauge value={n.companies[0].score} signal /></span></span>
+            <span class="tile__go">Открыть рейтинг</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+  <section class="sec">
+    <div class="wrap">
+      <div class="sec__head"><h2>Как выбирать автосервис по задаче</h2></div>
+      <ul class="nom">{NICHES.map((n) => <li><Fragment set:html={mdf(n.t.hubScenario)} /> <a href={u(n.url)}>Рейтинг →</a></li>)}</ul>
+    </div>
+  </section>
+  <section class="sec">
+    <div class="wrap prose">
+      <h2>Как мы составляем рейтинги</h2>
+      <p>В рейтинг попадает компания с карточкой на Яндекс Картах и в 2ГИС. Балл складывается из оценок, числа и свежести отзывов, открытости компании и профиля ниши. Данные снимаем раз в месяц, формула открыта.</p>
+      <p><a href={u('/metodika/')}>Методика →</a></p>
+    </div>
+  </section>
+</Base>

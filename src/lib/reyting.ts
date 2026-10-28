@@ -158,3 +158,22 @@ export const plain = (s: string) => fill(s).replace(/\s*\{\?.+?\?\}/g, '').repla
 
 /** md() с подстановкой баллов */
 export const mdf = (s: string) => md(fill(s));
+
+/** Хаб города индексируется с третьего опубликованного рейтинга (карта сайта). */
+export const HUB_INDEX = NICHES.length >= 3;
+
+/** Индексируемые адреса – для sitemap.xml (lastmod = дата съёма, не дата сборки). */
+export function indexable(): { path: string; lastmod: string }[] {
+  const d = NICHES[0].date;
+  return [
+    { path: '/', lastmod: d },
+    ...(HUB_INDEX ? [{ path: `/${CITY.slug}/`, lastmod: d }] : []),
+    ...NICHES.map((n) => ({ path: n.url, lastmod: n.date })),
+    ...COMPANIES.map((c) => ({ path: c.url, lastmod: nicheOf(c).date })),
+    { path: '/metodika/', lastmod: d },
+    { path: '/o-proekte/', lastmod: d },
+    { path: '/dobavit-kompaniyu/', lastmod: d },
+    { path: '/politika-konfidentsialnosti/', lastmod: d },
+    { path: '/soglasie-na-obrabotku-dannykh/', lastmod: d },
+  ];
+}
