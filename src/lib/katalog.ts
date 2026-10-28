@@ -21,7 +21,7 @@ export interface Rating {
 }
 
 // Порядок внутри группы – по спросу Вордстата (НСК, сентябрь 2026, docs/nishi-avto-nsk.md в reytingi).
-const ORDER = ['avtoshkoly', 'avtoservisy', 'tonirovka', 'evakuatory', 'tekhosmotr', 'shinomontazh', 'avtomoyki', 'chip-tyuning', 'kuzovnoy-remont', 'avtosignalizatsii', 'ustanovka-magnitol', 'avtoelektriki', 'avtopodbor', 'deteyling', 'remont-dvigateley', 'razval-skhozhdenie', 'avtozvuk', 'polirovka-far', 'remont-rulevykh-reek', 'diagnostika-avto', 'remont-akpp', 'avtostekla', 'ustanovka-gbo', 'servis-kitayskikh-avtomobiley'];
+const ORDER = ['avtoshkoly', 'avtoservisy', 'tonirovka', 'evakuatory', 'tekhosmotr', 'shinomontazh', 'avtomoyki', 'chip-tyuning', 'kuzovnoy-remont', 'avtosignalizatsii', 'ustanovka-magnitol', 'avtoelektriki', 'avtopodbor', 'deteyling', 'remont-dvigateley', 'razval-skhozhdenie', 'avtozvuk', 'polirovka-far', 'remont-rulevykh-reek', 'diagnostika-avto', 'remont-akpp', 'avtostekla', 'ustanovka-gbo', 'khimchistka-salona', 'ustanovka-farkopa', 'remont-diskov', 'peretyazhka-salona', 'udalenie-vmyatin', 'shumoizolyatsiya', 'remont-dizeley', 'remont-podveski', 'remont-turbin', 'servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov'];
 
 const plural = (n: number, f: [string, string, string]) => {
   const a = n % 100;
@@ -64,12 +64,73 @@ for (const r of RATINGS) if (!GROUPS.includes(r.group) || ORDER.indexOf(r.key) <
 
 export const BY_GROUP = GROUPS.map((g) => ({ name: g, slug: (GROUP_SLUG as Record<string, string>)[g], items: RATINGS.filter((r) => r.group === g) })).filter((g) => g.items.length);
 
-/** 3–4 соседних рейтинга: сначала своя группа, затем остальные по спросу. */
+/** Соседи по смыслу (SEO-проверка 28.10): та же задача клиента или та же работа. Нет в списке – своя группа. */
+const RELATED: Record<string, string[]> = {
+  avtoshkoly: ['avtopodbor', 'prokat-avtomobiley', 'tekhosmotr'],
+  avtoservisy: ['diagnostika-avto', 'remont-podveski', 'avtoelektriki', 'servis-yaponskikh-avtomobiley'],
+  tonirovka: ['deteyling', 'okleyka-plenkoy', 'avtostekla', 'polirovka-far'],
+  evakuatory: ['avtoservisy', 'avtoyuristy', 'avtoekspertiza'],
+  tekhosmotr: ['avtoservisy', 'diagnostika-avto', 'avtoshkoly'],
+  shinomontazh: ['razval-skhozhdenie', 'khranenie-shin', 'remont-diskov', 'gruzovoy-shinomontazh'],
+  avtomoyki: ['khimchistka-salona', 'deteyling', 'polirovka-far'],
+  'chip-tyuning': ['diagnostika-avto', 'remont-dvigateley', 'ustanovka-gbo'],
+  'kuzovnoy-remont': ['udalenie-vmyatin', 'antikor', 'avtostekla', 'avtoekspertiza'],
+  avtosignalizatsii: ['ustanovka-avtozapuska', 'ustanovka-magnitol', 'ustanovka-parktronikov', 'avtoelektriki'],
+  'ustanovka-magnitol': ['avtozvuk', 'ustanovka-parktronikov', 'avtosignalizatsii', 'shumoizolyatsiya'],
+  avtoelektriki: ['diagnostika-avto', 'remont-starterov-i-generatorov', 'avtosignalizatsii', 'avtosvet'],
+  avtopodbor: ['avtoekspertiza', 'diagnostika-avto', 'tekhosmotr', 'vykup-avto'],
+  deteyling: ['polirovka-far', 'okleyka-plenkoy', 'tonirovka', 'khimchistka-salona'],
+  'remont-dvigateley': ['remont-dizeley', 'remont-turbin', 'diagnostika-avto', 'remont-akpp'],
+  'razval-skhozhdenie': ['shinomontazh', 'remont-podveski', 'remont-rulevykh-reek'],
+  avtozvuk: ['shumoizolyatsiya', 'ustanovka-magnitol', 'avtosignalizatsii'],
+  'polirovka-far': ['avtosvet', 'deteyling', 'tonirovka'],
+  'remont-rulevykh-reek': ['remont-podveski', 'razval-skhozhdenie', 'diagnostika-avto'],
+  'diagnostika-avto': ['avtoservisy', 'avtoelektriki', 'remont-dvigateley', 'avtopodbor'],
+  'remont-akpp': ['remont-dvigateley', 'diagnostika-avto', 'avtoservisy'],
+  avtostekla: ['remont-skolov', 'tonirovka', 'kuzovnoy-remont'],
+  'ustanovka-gbo': ['remont-dvigateley', 'chip-tyuning', 'diagnostika-avto'],
+  'servis-kitayskikh-avtomobiley': ['servis-koreyskikh-avtomobiley', 'servis-yaponskikh-avtomobiley', 'avtoservisy', 'remont-elektromobiley-i-gibridov'],
+  'khimchistka-salona': ['avtomoyki', 'deteyling', 'peretyazhka-salona'],
+  'ustanovka-farkopa': ['avtoelektriki', 'avtoservisy', 'ustanovka-parktronikov'],
+  'remont-diskov': ['shinomontazh', 'khranenie-shin', 'razval-skhozhdenie'],
+  'peretyazhka-salona': ['khimchistka-salona', 'shumoizolyatsiya', 'deteyling'],
+  'udalenie-vmyatin': ['kuzovnoy-remont', 'polirovka-far', 'deteyling'],
+  shumoizolyatsiya: ['avtozvuk', 'peretyazhka-salona', 'ustanovka-magnitol'],
+  'remont-dizeley': ['remont-turbin', 'remont-dvigateley', 'remont-gruzovikov', 'diagnostika-avto'],
+  'remont-podveski': ['razval-skhozhdenie', 'remont-rulevykh-reek', 'avtoservisy', 'remont-tormoznoy-sistemy'],
+  'remont-turbin': ['remont-dizeley', 'remont-dvigateley', 'diagnostika-avto'],
+  'remont-elektromobiley-i-gibridov': ['servis-kitayskikh-avtomobiley', 'avtoelektriki', 'servis-yaponskikh-avtomobiley', 'diagnostika-avto'],
+  'servis-yaponskikh-avtomobiley': ['servis-koreyskikh-avtomobiley', 'servis-kitayskikh-avtomobiley', 'avtoservisy', 'remont-elektromobiley-i-gibridov'],
+  'servis-koreyskikh-avtomobiley': ['servis-yaponskikh-avtomobiley', 'servis-kitayskikh-avtomobiley', 'avtoservisy'],
+  'servis-nemetskikh-avtomobiley': ['servis-vag', 'avtoservisy', 'remont-akpp'],
+  'servis-vag': ['servis-nemetskikh-avtomobiley', 'remont-akpp', 'chip-tyuning'],
+  'remont-avtokonditsionerov': ['avtoelektriki', 'avtoservisy', 'diagnostika-avto'],
+  'remont-starterov-i-generatorov': ['avtoelektriki', 'diagnostika-avto', 'avtoservisy'],
+  'remont-glushiteley': ['avtoservisy', 'remont-podveski', 'tekhosmotr'],
+  'remont-tormoznoy-sistemy': ['remont-podveski', 'avtoservisy', 'tekhosmotr'],
+  'remont-gruzovikov': ['gruzovoy-shinomontazh', 'remont-dizeley', 'remont-turbin'],
+  motoservisy: ['avtoservisy', 'khranenie-shin', 'remont-diskov'],
+  antikor: ['kuzovnoy-remont', 'deteyling', 'okleyka-plenkoy'],
+  'remont-skolov': ['avtostekla', 'tonirovka', 'polirovka-far'],
+  'khranenie-shin': ['shinomontazh', 'remont-diskov', 'razval-skhozhdenie'],
+  'gruzovoy-shinomontazh': ['shinomontazh', 'remont-gruzovikov', 'evakuatory'],
+  avtosvet: ['polirovka-far', 'avtoelektriki', 'tonirovka'],
+  'ustanovka-avtozapuska': ['avtosignalizatsii', 'avtoelektriki', 'ustanovka-parktronikov'],
+  'ustanovka-parktronikov': ['ustanovka-magnitol', 'avtosignalizatsii', 'ustanovka-avtozapuska'],
+  'okleyka-plenkoy': ['deteyling', 'tonirovka', 'polirovka-far'],
+  avtoekspertiza: ['avtoyuristy', 'avtopodbor', 'kuzovnoy-remont'],
+  avtoyuristy: ['avtoekspertiza', 'evakuatory', 'vykup-avto'],
+  'prokat-avtomobiley': ['avtoshkoly', 'evakuatory', 'avtopodbor'],
+  avtorazbory: ['vykup-avto', 'avtoservisy', 'kuzovnoy-remont'],
+  'vykup-avto': ['avtopodbor', 'avtoekspertiza', 'avtorazbory'],
+};
+
+/** 3–4 соседних рейтинга: сначала по смыслу (RELATED), затем своя группа. */
 export function neighbours(key: string, n = 4): Rating[] {
   const me = RATINGS.find((r) => r.key === key)!;
-  const same = RATINGS.filter((r) => r.key !== key && r.group === me.group);
-  const other = RATINGS.filter((r) => r.key !== key && r.group !== me.group);
-  return [...same, ...other].slice(0, n);
+  const rel = (RELATED[key] || []).map((k) => RATINGS.find((r) => r.key === k)).filter(Boolean) as Rating[];
+  const same = RATINGS.filter((r) => r.key !== key && r.group === me.group && !rel.includes(r));
+  return [...rel, ...same].slice(0, n);
 }
 
 /** Цифры для главной и хаба – из данных. Компания в нескольких рейтингах считается один раз. */
@@ -89,7 +150,7 @@ export function indexableAll(): { path: string; lastmod: string }[] {
   const latest = RATINGS.map((r) => r.date).sort().pop()!;
   const old = indexable().filter((p) => p.path !== `/${CITY.slug}/`);
   const ya = NICHES_YA_PUB.map((n) => ({ path: n.url, lastmod: n.date }));
-  const cards = NEW_CARDS.map((e) => ({ path: e.url, lastmod: latest }));
+  const cards = NEW_CARDS.filter((e) => e.index).map((e) => ({ path: e.url, lastmod: latest }));
   return [
     ...old.slice(0, 1).map((p) => ({ ...p, lastmod: latest })),
     ...(HUB_INDEX_ALL ? [{ path: `/${CITY.slug}/`, lastmod: latest }] : []),
