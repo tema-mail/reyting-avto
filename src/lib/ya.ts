@@ -212,8 +212,8 @@ function build(): NicheYa[] {
 export const DUP_SHARE = 0.7;
 function dedupe(all: NicheYa[]): NicheYa[] {
   const pub: NicheYa[] = [];
-  // правило для новых волн (с 28.10, начиная с фаркопов); 22 ниши первой волны уже опубликованы – у них ссылки «Коротко»
-  const from = all.findIndex((x) => x.key === 'ustanovka-farkopa');
+  // правило для третьей волны (задание 28.10); волны 1–2 уже опубликованы – у пересекающихся ссылки «Коротко»
+  const from = all.findIndex((x) => x.key === 'servis-yaponskikh-avtomobiley');
   all.forEach((n, i) => {
     if (n.published && i < from) pub.push(n);
   });
