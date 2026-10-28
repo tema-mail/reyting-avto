@@ -6,8 +6,8 @@
 // свежесть = 0,5·max(0; 1 − дней с последнего отзыва/365) + 0,5·min(1; отзывов за 12 мес./12), отсчёт от даты съёма;
 //   нет даты – свежесть 0 и пометка;
 // открытость = 0,25·сайт + 0,25·часы + 0,25·владелец подтвердил + 0,25·«Хорошее место».
-// Отбор: профиль по рубрикам (otbor.mjs), не закрыта, оценка ≥ 4,0, отзывов ≥ 10. Сеть (одно название) – одна строка:
-// отзывы и оценки по филиалам складываются, оценка – средняя, взвешенная по числу оценок.
+// Отбор: профиль по рубрикам (otbor.mjs), не закрыта, оценка ≥ 4,0, отзывов ≥ 10. Сеть (одно название) – одна строка,
+// балл и пороги – по главной точке (больше всего оценок), остальные филиалы – списком адресов.
 
 import { rejectReason, brandKey, GENERIC } from './otbor.mjs';
 
@@ -15,10 +15,9 @@ export const W_YA = { rating: 0.35, reviews: 0.35, fresh: 0.15, open: 0.15 };
 export const MIN_RATING = 4.0;
 export const MIN_REVIEWS = 10;
 export const MIN_PUBLISH = 5;
-export const TOP = 10;
+export const TOP = 20;
 
 const DAY = 86400000;
-const round3 = (x) => Math.round(x * 1000) / 1000;
 const street = (addr) => addr.split(',').slice(0, 2).join(',').replace(/, Новосибирск$/, '').trim();
 
 /** Свежесть по дате последнего отзыва и числу отзывов за 12 месяцев. */
@@ -28,26 +27,32 @@ export function freshness(last, recent, at) {
   return { fresh: 0.5 * Math.max(0, 1 - days / 365) + 0.5 * Math.min(1, recent / 12), days };
 }
 
-/** Сливает филиалы одного бренда в строку рейтинга. */
-function merge(branches) {
-  const ratings = branches.reduce((s, b) => s + (b['оценок'] || 0), 0);
-  const rating = ratings ? round3(branches.reduce((s, b) => s + b['рейтинг'] * (b['оценок'] || 0), 0) / ratings) : 0;
-  const dates = branches.map((b) => b['последний_отзыв']).filter(Boolean).sort();
-  const dated = branches.filter((b) => b['последний_отзыв']);
+/** Главная точка сети – филиал с наибольшим числом оценок (при равенстве – больше отзывов, затем меньший id). */
+export function mainBranch(branches) {
+  return [...branches].sort((a, b) => (b['оценок'] || 0) - (a['оценок'] || 0) || (b['отзывов'] || 0) - (a['отзывов'] || 0) || String(a.id).localeCompare(String(b.id)))[0];
+}
+
+/**
+ * Строка рейтинга бренда (решение 28.10.2026 «сети – по главной точке»): все цифры балла – по главной точке,
+ * остальные филиалы только перечисляются. branches[0] – главная точка.
+ */
+function merge(all) {
+  const main = mainBranch(all);
+  const branches = [main, ...all.filter((b) => b !== main)];
   return {
-    name: branches[0]['название'],
+    name: main['название'],
     branches,
     ids: branches.map((b) => b.id),
-    rating,
-    ratings,
-    reviews: branches.reduce((s, b) => s + (b['отзывов'] || 0), 0),
-    last: dates.length ? dates[dates.length - 1] : null,
-    recent: dated.reduce((s, b) => s + (b['отзывов_за_12_мес_из_загруженных'] || 0), 0),
-    site: branches.some((b) => (b['сайты'] || []).length > 0),
-    hours: branches.some((b) => !!b['часы']),
-    owner: branches.some((b) => !!b['владелец_подтвердил']),
-    good: branches.some((b) => !!b['хорошее_место']),
-    allDay: branches.some((b) => !!b['круглосуточно']),
+    rating: main['рейтинг'],
+    ratings: main['оценок'] || 0,
+    reviews: main['отзывов'] || 0,
+    last: main['последний_отзыв'] || null,
+    recent: main['последний_отзыв'] ? main['отзывов_за_12_мес_из_загруженных'] || 0 : 0,
+    site: (main['сайты'] || []).length > 0,
+    hours: !!main['часы'],
+    owner: !!main['владелец_подтвердил'],
+    good: !!main['хорошее_место'],
+    allDay: !!main['круглосуточно'],
   };
 }
 

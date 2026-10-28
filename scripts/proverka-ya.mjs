@@ -1,5 +1,5 @@
 // Проверка ниш «только Яндекс Карты» перед сборкой. Роняет сборку (exit 1), если:
-// – балл формулы (src/lib/formula-ya.mjs) расходится с независимым пересчётом из сырых полей больше чем на 0,001;
+// – балл формулы (сети – по главной точке с наибольшим числом оценок) (src/lib/formula-ya.mjs) расходится с независимым пересчётом из сырых полей больше чем на 0,001;
 // – в список попала компания не по правилам (закрыта, не профиль, оценка < 4,0, отзывов < 10);
 // – места не по убыванию балла, балл вне 0–10, опубликована ниша меньше чем с 5 компаниями;
 // – нет текстов ниши, в чек-листе не 5–7 пунктов, в FAQ не 3–5 вопросов, в текстах длинное тире.
@@ -20,23 +20,20 @@ for (const [key, cfg] of Object.entries(NICHES_YA)) {
   // независимый пересчёт: сначала сырые величины, потом min-max
   const at = Date.parse(src['дата_съёма'] + 'T00:00:00Z');
   const raw = rows.map((r) => {
-    let w = 0, s = 0, rev = 0, recent = 0, last = '';
-    for (const b of r.branches) {
-      if (rejectReason(b, cfg)) err(`${key}: «${b['название']}» не проходит отбор (${rejectReason(b, cfg)})`);
-      w += b['оценок'];
-      s += b['рейтинг'] * b['оценок'];
-      rev += b['отзывов'];
-      if (b['последний_отзыв']) {
-        recent += b['отзывов_за_12_мес_из_загруженных'] || 0;
-        if (b['последний_отзыв'] > last) last = b['последний_отзыв'];
-      }
-    }
-    const rating = Math.round((s / w) * 1000) / 1000;
+    for (const b of r.branches) if (rejectReason(b, cfg)) err(`${key}: «${b['название']}» не проходит отбор (${rejectReason(b, cfg)})`);
+    // главная точка сети – больше всего оценок; все величины балла – только по ней
+    const top = Math.max(...r.branches.map((b) => b['оценок'] || 0));
+    const m = r.branches[0];
+    if ((m['оценок'] || 0) !== top) err(`${key}: «${r.display}» главная точка не с наибольшим числом оценок`);
+    const rating = m['рейтинг'];
+    const rev = m['отзывов'] || 0;
+    const last = m['последний_отзыв'] || '';
+    const recent = last ? m['отзывов_за_12_мес_из_загруженных'] || 0 : 0;
     if (rating < MIN_RATING || rev < MIN_REVIEWS) err(`${key}: «${r.display}» ниже порога (${rating}, ${rev})`);
+    if (r.reviews !== rev) err(`${key}: «${r.display}» отзывы строки ${r.reviews} ≠ главной точки ${rev}`);
     const days = last ? Math.round((at - Date.parse(last + 'T00:00:00Z')) / 86400000) : null;
     const fresh = days === null ? 0 : 0.5 * Math.max(0, 1 - days / 365) + 0.5 * Math.min(1, recent / 12);
-    const any = (f) => r.branches.some(f);
-    const open = (any((b) => (b['сайты'] || []).length) + any((b) => !!b['часы']) + any((b) => b['владелец_подтвердил']) + any((b) => b['хорошее_место'])) / 4;
+    const open = (!!(m['сайты'] || []).length + !!m['часы'] + !!m['владелец_подтвердил'] + !!m['хорошее_место']) / 4;
     return { rating, lg: Math.log10(1 + rev), fresh, open };
   });
   const mm = (k) => {
