@@ -3,7 +3,7 @@
 import type { Company } from '../lib/reyting';
 import { mdf } from '../lib/reyting';
 import { score, telHref } from '../lib/format';
-import { md } from '../lib/md';
+import { md, real } from '../lib/md';
 import { u } from '../lib/url';
 import Gauge from './Gauge.astro';
 import Metrics from './Metrics.astro';
@@ -21,7 +21,7 @@ const hours = c.hours.replace(/^./, (m) => m.toUpperCase());
   </header>
   <div class="co__body">
     <div class="stack">
-      {t.note && <p class="co__note" set:html={md(t.note)} />}
+      {real(t.note) && <p class="co__note" set:html={md(t.note)} />}
       <Metrics c={c} />
       {t.pros && (
         <div class="stack">
@@ -34,9 +34,8 @@ const hours = c.hours.replace(/^./, (m) => m.toUpperCase());
     <dl class="dl">
       {t.fit && <div><dt>Кому подходит</dt><dd>{t.fit}</dd></div>}
       <div><dt>Адрес и часы</dt><dd>{c.addresses.join('; ')}. {hours}.</dd></div>
-      <div><dt>Телефон</dt><dd>{c.phones.map((p, i) => <>{i > 0 && '; '}<a href={telHref(p)}>{p}</a></>)}{t.phoneNote && <> <Fragment set:html={md(t.phoneNote)} /></>}</dd></div>
+      <div><dt>Телефон</dt><dd>{c.phones.map((p, i) => <>{i > 0 && '; '}<a href={telHref(p)}>{p}</a></>)}{real(t.phoneNote) && <> <Fragment set:html={md(t.phoneNote)} /></>}</dd></div>
       <div><dt>Сайт</dt><dd>{c.site ? <a href={c.site} rel="nofollow noopener" target="_blank">{c.site.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '')}</a> : 'нет в карточке'}</dd></div>
-      <div><dt>Отзывы</dt><dd set:html={md('{?2 свежих отзыва с датой и источником?}')} /></div>
     </dl>
   </div>
   <MapLinks c={c} />

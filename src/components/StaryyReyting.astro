@@ -11,7 +11,7 @@ import { mdf, plain, type Niche } from '../lib/reyting';
 import { neighbours } from '../lib/katalog';
 import { CITY, DATA_DATE, PUBLISHED } from '../lib/site';
 import { score, rating, num, date, telHref } from '../lib/format';
-import { md } from '../lib/md';
+import { md, real } from '../lib/md';
 import { u, abs } from '../lib/url';
 
 interface Props { n: Niche }
@@ -78,7 +78,7 @@ const schema = [
         <p class="label">Рейтинг · {CITY.name} · данные на {date(n.date)}</p>
         <h1>{t.h1}</h1>
         <p class="short lead"><span class="short__k">Коротко:</span><Fragment set:html={mdf(t.short)} /> {t.shortAfter}</p>
-        {t.disclosure && <p class="small" style="margin-top:10px" set:html={md(t.disclosure)} />}
+        {real(t.disclosure) && <p class="small" style="margin-top:10px" set:html={md(t.disclosure)} />}
         <ul class="facts">{t.bullets.map((b) => <li>{b}</li>)}</ul>
         <div class="btns">
           <a class="btn btn--signal" href="#tablitsa">Смотреть рейтинг</a>
@@ -206,7 +206,7 @@ const schema = [
     </div>
   </section>
   <section class="sec sec--flush">
-    <div class="wrap"><p class="small muted">Данные рейтинга на {date(DATA_DATE)}. Следующее обновление – <Fragment set:html={md('{?дата?}')} />.</p></div>
+    <div class="wrap"><p class="small muted">Данные рейтинга на {date(DATA_DATE)}. Обновляем данные раз в месяц.</p></div>
   </section>
 
   <div class="sticky" slot="after">
