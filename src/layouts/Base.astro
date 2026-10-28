@@ -1,0 +1,63 @@
+---
+import '@fontsource/ibm-plex-sans/cyrillic-400.css';
+import '@fontsource/ibm-plex-sans/cyrillic-500.css';
+import '@fontsource/ibm-plex-sans/cyrillic-600.css';
+import '@fontsource/ibm-plex-sans/latin-400.css';
+import '@fontsource/ibm-plex-sans/latin-600.css';
+import '@fontsource/fira-sans-condensed/cyrillic-700.css';
+import '@fontsource/fira-sans-condensed/latin-700.css';
+import '@fontsource/ibm-plex-mono/cyrillic-500.css';
+import '@fontsource/ibm-plex-mono/cyrillic-600.css';
+import '@fontsource/ibm-plex-mono/latin-500.css';
+import '@fontsource/ibm-plex-mono/latin-600.css';
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_NAME, NOINDEX_ALL } from '../lib/site';
+import { u, abs } from '../lib/url';
+
+interface Props {
+  title: string;
+  description?: string;
+  /** noindex, follow – хаб до третьего рейтинга, карта сайта; noindex, nofollow – спасибо, 404 */
+  robots?: 'index' | 'noindex-follow' | 'noindex';
+  schema?: object[];
+  active?: string;
+  sticky?: boolean;
+}
+const { title, description, robots = 'index', schema = [], active = '', sticky = false } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site).toString();
+// Тестовая копия на GitHub Pages закрыта от поиска целиком.
+const meta = NOINDEX_ALL || robots === 'noindex' ? 'noindex, nofollow' : robots === 'noindex-follow' ? 'noindex, follow' : null;
+const org = { '@type': 'Organization', '@id': abs('/', Astro.site) + '#org', name: SITE_NAME, url: abs('/', Astro.site), logo: abs('/favicon.svg', Astro.site) };
+const graph = { '@context': 'https://schema.org', '@graph': [org, ...schema] };
+---
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={canonical} />
+    {meta && <meta name="robots" content={meta} />}
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={title} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content="ru_RU" />
+    <meta name="theme-color" content="#16191d" />
+    <link rel="icon" href={u('/favicon.svg')} type="image/svg+xml" />
+    <script type="application/ld+json" set:html={JSON.stringify(graph)} />
+  </head>
+  <body class={sticky ? 'has-sticky' : undefined}>
+    <a class="sr-only" href="#main">К содержимому</a>
+    <Header active={active} />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer />
+    <slot name="after" />
+  </body>
+</html>

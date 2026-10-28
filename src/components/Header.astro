@@ -1,0 +1,35 @@
+---
+import Logo from './Logo.astro';
+import { u } from '../lib/url';
+import { NICHES } from '../lib/reyting';
+import { CITY } from '../lib/site';
+interface Props { active?: string }
+const { active = '' } = Astro.props;
+const cur = (key: string) => (active === key ? 'page' : undefined);
+---
+<header class="top">
+  <div class="wrap top__in">
+    <Logo />
+    <nav class="nav" aria-label="Главное меню">
+      <a href={u(`/${CITY.slug}/`)} aria-current={cur('city')}>{CITY.name}</a>
+      <details>
+        <summary>Рейтинги</summary>
+        <div class="nav__drop">
+          {NICHES.map((n) => <a href={u(n.url)} aria-current={cur(n.slug)}>{n.t.menu}</a>)}
+        </div>
+      </details>
+      <a href={u('/metodika/')} aria-current={cur('metodika')}>Методика</a>
+      <a class="btn btn--top" href={u('/dobavit-kompaniyu/')}>Добавить компанию</a>
+    </nav>
+    <details class="burger">
+      <summary>Меню</summary>
+      <nav class="burger__panel" aria-label="Меню на телефоне">
+        <a href={u(`/${CITY.slug}/`)}>Рейтинги: {CITY.name}</a>
+        {NICHES.map((n) => <a class="burger__sub" href={u(n.url)}>{n.t.menu}</a>)}
+        <a href={u('/metodika/')}>Методика</a>
+        <a href={u('/o-proekte/')}>О проекте</a>
+        <a class="btn btn--signal" href={u('/dobavit-kompaniyu/')}>Добавить компанию</a>
+      </nav>
+    </details>
+  </div>
+</header>

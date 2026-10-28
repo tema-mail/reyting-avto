@@ -1,0 +1,41 @@
+---
+import Logo from './Logo.astro';
+import { u } from '../lib/url';
+import { NICHES } from '../lib/reyting';
+import { SITE_NAME, DATA_DATE, CITY } from '../lib/site';
+import { date } from '../lib/format';
+import { md } from '../lib/md';
+---
+<footer class="foot">
+  <div class="wrap">
+    <div class="foot__grid">
+      <div class="stack">
+        <Logo />
+        <p>{SITE_NAME} – рейтинги автосервисов и установочных центров по открытой формуле. Данные обновлены {date(DATA_DATE)}.</p>
+        <p>Места в рейтингах не продаются. <Fragment set:html={md('{?юр. лицо и контакт в подвале?}')} /></p>
+      </div>
+      <div>
+        <p class="foot__h">Рейтинги · {CITY.name}</p>
+        <ul>
+          {NICHES.map((n) => <li><a href={u(n.url)}>{n.t.menu}</a></li>)}
+          <li><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of}</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="foot__h">Проект</p>
+        <ul>
+          <li><a href={u('/metodika/')}>Методика</a></li>
+          <li><a href={u('/o-proekte/')}>О проекте</a></li>
+          <li><a href={u('/dobavit-kompaniyu/')}>Добавить компанию</a></li>
+          <li><a href={u('/politika-konfidentsialnosti/')}>Политика конфиденциальности</a></li>
+          <li><a href={u('/soglasie-na-obrabotku-dannykh/')}>Согласие на обработку данных</a></li>
+          <li><a href={u('/karta-sayta/')}>Карта сайта</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot__bottom">
+      <p>Источники цифр: Яндекс Карты, 2ГИС и сайты компаний, съём {date(DATA_DATE)}. Ссылки на компании не рекламные.</p>
+      <p>Рабочее название «{SITE_NAME}» – до решения владельца.</p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,7 @@
+---
+import Base from '../layouts/Base.astro';
+import { NICHES } from '../lib/reyting';
+---
+<Base title="Автобалл">
+  <section class="wrap hero"><h1>Каркас</h1><p>{NICHES.map((n) => n.companies.length).join(' / ')}</p></section>
+</Base>
