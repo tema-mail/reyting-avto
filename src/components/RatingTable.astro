@@ -43,8 +43,8 @@ const otz = (k: number) => `${num(k)} отз.`;
           <td class="pos">{c.place}</td>
           <td class="co"><a href={u(c.url)}>{c.t.name}</a></td>
           <td class="sc">{score(c.score)}<Gauge value={c.score} signal={c.place <= 3} /></td>
-          <td class="x num" data-l="Яндекс Карты">{rating(c.y.rating)}<span class="cnt"><span class="dot"> · </span>{otz(c.y.reviews)}</span></td>
-          <td class="x num" data-l="2ГИС">{rating(c.g.rating)}<span class="cnt"><span class="dot"> · </span>{otz(c.g.reviews)}</span></td>
+          <td class="x num" data-l="Яндекс Карты"><span>{rating(c.y.rating)}<span class="cnt"><span class="dot"> · </span>{otz(c.y.reviews)}</span></span></td>
+          <td class="x num" data-l="2ГИС"><span>{rating(c.g.rating)}<span class="cnt"><span class="dot"> · </span>{otz(c.g.reviews)}</span></span></td>
           <td class="x num" data-l="Отзывов всего">{num(c.reviews)}</td>
           {c.t.cells.map((cell, i) => <td class="x" data-l={n.t.tableCols[i]} set:html={md(cell)} />)}
         </tr>
