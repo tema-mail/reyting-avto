@@ -1,0 +1,75 @@
+---
+// Таблица топ-10 ниши Яндекса + строка «Ещё в рейтинге» + фильтры (район, круглосуточно, 4,8+, 300+, «Хорошее место», сайт).
+// Фильтр только скрывает строки, место не меняет. На телефоне строки – карточки (классы .rt как в старых нишах).
+import type { NicheYa, YaRow } from '../../lib/ya';
+import { flags, FILTERS, rt, otz, filials } from '../../lib/ya-tekst';
+import { score, num, date } from '../../lib/format';
+import { u } from '../../lib/url';
+import { RAYONY, OUTSIDE } from '../../lib/rayony.mjs';
+import Gauge from '../Gauge.astro';
+interface Props { n: NicheYa }
+const { n } = Astro.props;
+const id = `f-${n.key}`;
+const present = new Set(n.rows.flatMap((r) => r.rayony));
+const rayony = [...RAYONY.filter((r: string) => present.has(r)), ...(present.has(OUTSIDE) ? [OUTSIDE] : [])];
+const filters = FILTERS.filter(([k]) => n.rows.some((r) => flags(r).includes(k)));
+const attrs = (r: YaRow) => ({ 'data-rayony': r.rayony.join('|'), 'data-f': flags(r).join(' ') });
+const where = (r: YaRow) => (r.branches.length > 1 ? `${filials(r.branches.length)}: ${r.rayony.join(", ")}` : `${r.branches[0].address} · ${r.rayony[0]}`);
+---
+<div class="flt" data-filter={id} aria-label="Фильтры рейтинга">
+  <div class="flt__row">
+    <label class="flt__sel"><span>Район</span>
+      <select data-rayon>
+        <option value="">Все районы</option>
+        {rayony.map((r) => <option value={r}>{r}</option>)}
+      </select>
+    </label>
+    <div class="chips flt__chips" role="group" aria-label="Признаки">
+      {filters.map(([k, label]) => <label><input type="checkbox" value={k} /><span>{label}</span></label>)}
+    </div>
+  </div>
+  <p class="small muted flt__count" aria-live="polite" data-count>Показаны все {n.rows.length}. Фильтр скрывает строки, места не меняются.</p>
+</div>
+
+<div class="rt-wrap" id={id}>
+  <table class="rt rt--ya">
+    <caption class="sr-only">{n.t.h1}: первые 10 мест</caption>
+    <thead>
+      <tr>
+        <th scope="col">№</th>
+        <th scope="col">Компания</th>
+        <th scope="col">Балл</th>
+        <th scope="col">Яндекс Карты</th>
+        <th scope="col">Последний отзыв</th>
+        <th scope="col">Где</th>
+      </tr>
+    </thead>
+    <tbody>
+      {n.top.map((r) => (
+        <tr class={r.place <= 3 ? 'top3' : undefined} {...attrs(r)}>
+          <td class="pos">{r.place}</td>
+          <td class="co">{r.url ? <a href={u(r.url)}>{r.display}</a> : <span>{r.display}</span>}{(r.allDay || r.good) && <span class="tags">{r.allDay && <span class="tag">24 часа</span>}{r.good && <span class="tag">Хорошее место</span>}</span>}</td>
+          <td class="sc">{score(r.score)}<Gauge value={r.score} signal={r.place <= 3} /></td>
+          <td class="x num" data-l="Яндекс Карты"><span>{rt(r.rating)}<span class="cnt"><span class="dot"> · </span>{otz(r.reviews)}</span></span></td>
+          <td class="x num" data-l="Последний отзыв">{r.last ? date(r.last) : <mark class="confirm">нет даты</mark>}</td>
+          <td class="x" data-l="Где">{where(r)}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  {n.rest.length > 0 && (
+    <div class="more-in">
+      <h3>Ещё в рейтинге</h3>
+      <ul class="more-in__list">
+        {n.rest.map((r) => (
+          <li {...attrs(r)}><b>{r.place}.</b> {r.url ? <a href={u(r.url)}>{r.display}</a> : r.display} – {score(r.score)} <span class="muted">({rt(r.rating)}, {num(r.reviews)} отз., {r.rayony.join(', ')})</span></li>
+        ))}
+      </ul>
+    </div>
+  )}
+  <p class="flt__empty" hidden data-empty>Под эти условия никто не подошёл. Снимите часть фильтров.</p>
+</div>
+
+<script>
+  import '../../scripts/filtr';
+</script>
