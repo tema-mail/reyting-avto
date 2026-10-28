@@ -52,10 +52,10 @@ const hasPrices = n.rows.some((r) => r.prices.length);
     </thead>
     <tbody>
       {n.top.map((r) => (
-        <tr class={r.place <= 3 ? 'top3' : undefined} {...attrs(r)}>
+        <tr class={[r.place <= 3 && 'top3', r.partner && 'is-pick'].filter(Boolean).join(' ') || undefined} {...attrs(r)}>
           <td class="pos">{r.place}</td>
           <td class="co">{r.url ? <a href={u(r.url)}>{r.display}</a> : <span>{r.display}</span>}{(r.allDay || r.good) && <span class="tags">{r.allDay && <span class="tag">24 часа</span>}{r.good && <span class="tag">Хорошее место</span>}</span>}</td>
-          <td class="sc">{score(r.score)}<Gauge value={r.score} signal={r.place <= 3} /></td>
+          <td class="sc">{r.partner ? <b class="pick">Выбор редакции</b> : <>{score(r.score)}<Gauge value={r.score} signal={r.place <= 3} /></>}</td>
           <td class="x num" data-l="Яндекс Карты"><span>{rt(r.rating)}<span class="cnt"><span class="dot"> · </span>{otz(r.reviews)}</span></span></td>
           <td class="x num" data-l="Последний отзыв">{r.last ? date(r.last) : <mark class="confirm">нет даты</mark>}</td>
           <td class="x" data-l="Где"><span>{r.branches[0].address} · {r.branches[0].rayon}{more(r) > 0 && (
@@ -82,3 +82,8 @@ const hasPrices = n.rows.some((r) => r.prices.length);
 <script>
   import '../../scripts/filtr';
 </script>
+
+<style>
+  .pick { display: inline-block; padding: 2px 8px; border-radius: 6px; background: var(--signal, #e8ff4a); color: #111; font-size: 13px; white-space: nowrap; }
+  :global(.rt .is-pick) { outline: 2px solid var(--signal, currentColor); outline-offset: -2px; }
+</style>

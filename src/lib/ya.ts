@@ -5,6 +5,7 @@
 import { computeYa, TOP } from './formula-ya.mjs';
 import { NICHES_YA } from './otbor.mjs';
 import { rayon } from './rayony.mjs';
+import { partnersOf } from '../data/partnery';
 import type { NicheTextYa } from '../data/nishi/tip';
 import { COMPANIES } from './reyting';
 import { slugify } from './slug';
@@ -67,6 +68,7 @@ export interface YaRow {
   prices: Price[]; // по возрастанию цены; пусто – цен на сайте не нашли
   priceFrom: number | null;
   entity?: Entity;
+  partner?: boolean; // выбор редакции: закреплён первым (data/partnery.ts)
 }
 
 export interface NicheYa {
@@ -100,6 +102,21 @@ export interface Entity {
   branches: Branch[];
   label: string; // имя для title: при совпадении названий – с улицей или нишей
   index: boolean; // индексировать: есть цены с сайта или топ-5 хотя бы одного рейтинга (иначе noindex, follow)
+}
+
+/** Выбор редакции: партнёры встают первыми, их цифры – настоящие с Яндекс Карт; остальные сдвигаются вниз. */
+function pinPartners(key: string, rows: YaRow[], day: string) {
+  const ps = partnersOf(key);
+  if (!ps.length) return;
+  const pinned: YaRow[] = ps.map((p) => {
+    const i = rows.findIndex((r) => r.ids.includes(p.ya.id));
+    if (i >= 0) return { ...rows.splice(i, 1)[0], partner: true };
+    const b: Branch = { id: p.ya.id, name: p.name, address: p.address, rayon: rayon(p.ya.coords), rating: p.ya.rating, ratings: p.ya.ratings, reviews: p.ya.reviews, last: p.ya.last, recent: p.ya.recent, site: p.site, phones: [p.phone], hours: p.ya.hours, allDay: false, rubrics: [], card: p.yandex || '', good: false, owner: false };
+    const days = p.ya.last ? Math.round((Date.parse(day) - Date.parse(p.ya.last)) / 864e5) : null;
+    return { niche: key, place: 0, score: 0, raw: 0, parts: { rating: 0, reviews: 0, fresh: 0, open: 0 }, name: p.name, display: p.name, rating: p.ya.rating, ratings: p.ya.ratings, reviews: p.ya.reviews, last: p.ya.last, days, recent: p.ya.recent, site: true, hours: !!p.ya.hours, owner: false, good: false, allDay: false, branches: [b], ids: [p.ya.id], rayony: [b.rayon], url: null, prices: [], priceFrom: null, partner: true };
+  });
+  rows.unshift(...pinned);
+  rows.forEach((r, i) => (r.place = i + 1));
 }
 
 const branchOf = (c: any): Branch => ({
@@ -185,6 +202,7 @@ function build(): NicheYa[] {
       };
     });
     for (const x of rows) x.priceFrom = x.prices.length ? x.prices[0].from : null;
+    pinPartners(key, rows, src['дата_съёма']);
     return {
       kind: 'ya' as const,
       key,

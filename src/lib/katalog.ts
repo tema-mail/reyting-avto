@@ -13,7 +13,7 @@ export interface Rating {
   group: string;
   count: number; // компаний в рейтинге
   who: string; // «12 центров»
-  top: { name: string; score: number; url: string | null };
+  top: { name: string; score: number; url: string | null; partner?: boolean };
   date: string;
   reviews: number;
   hubLine: string;
@@ -40,7 +40,7 @@ export const RATINGS: Rating[] = [
     group: (OLD_GROUP as Record<string, string>)[n.slug],
     count: n.companies.length,
     who: `${n.companies.length} ${n.t.whoGen}`,
-    top: { name: n.companies[0].t.brand, score: n.companies[0].score, url: n.companies[0].url },
+    top: { name: n.companies[0].t.brand, score: n.companies[0].score, url: n.companies[0].url, partner: !!n.companies[0].partner },
     date: n.date,
     reviews: n.reviews,
     hubLine: n.t.hubScenario,
@@ -54,7 +54,7 @@ export const RATINGS: Rating[] = [
     group: n.group,
     count: n.rows.length,
     who: `${n.rows.length} ${plural(n.rows.length, n.who)}`,
-    top: { name: n.rows[0].display, score: n.rows[0].score, url: n.rows[0].url },
+    top: { name: n.rows[0].display, score: n.rows[0].score, url: n.rows[0].url, partner: !!n.rows[0].partner },
     date: n.date,
     reviews: n.reviews,
     hubLine: n.t.hubLine,

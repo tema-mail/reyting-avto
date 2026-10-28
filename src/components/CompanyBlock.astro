@@ -17,8 +17,8 @@ const hours = c.hours.replace(/^./, (m) => m.toUpperCase());
 <article class="co" id={c.slug}>
   <header class="co__head">
     <span class="co__pos">{String(c.place).padStart(2, '0')}</span>
-    <h3><a href={u(c.url)}>{c.place}. {t.name}</a> <span class="sr-only">– {score(c.score)}/10</span></h3>
-    <div class="co__score">{score(c.score)}<small>/10</small><Gauge value={c.score} signal={c.place <= 3} /></div>
+    <h3><a href={u(c.url)}>{c.place}. {t.name}</a> <span class="sr-only">– {c.partner ? 'выбор редакции' : `${score(c.score)}/10`}</span></h3>
+    <div class="co__score">{c.partner ? <small>Выбор редакции</small> : <>{score(c.score)}<small>/10</small><Gauge value={c.score} signal={c.place <= 3} /></>}</div>
   </header>
   <div class="co__body">
     <div class="stack">

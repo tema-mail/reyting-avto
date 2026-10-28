@@ -9,6 +9,7 @@ import type { NicheTexts, CompanyTexts } from '../data/tipy';
 import { slugify } from './slug';
 import { CITY } from './site';
 import { md } from './md';
+import { partnersOf, type Partner } from '../data/partnery';
 
 export interface Company {
   id: string; // название в съёме
@@ -39,6 +40,7 @@ export interface Company {
   pricesOnSite: boolean;
   y: { rating: number; ratings: number; reviews: number; last: string; recent: number; goodPlace: boolean; ownerConfirmed: boolean; cards: string[] };
   g: { rating: number; reviews: number; cards: string[] };
+  partner?: boolean; // выбор редакции: закреплён первым (data/partnery.ts)
 }
 
 export interface Niche {
@@ -106,6 +108,7 @@ function build(): Niche[] {
         g: { rating: g['рейтинг'], reviews: g['отзывов'], cards: g['карточки'] || [] },
       };
     });
+    pinOld(t.slug, companies, src);
     return {
       slug: t.slug,
       url: `/${CITY.slug}/${t.slug}/`,
@@ -116,6 +119,33 @@ function build(): Niche[] {
       points: companies.reduce((s, c) => s + c.addresses.length, 0),
     };
   });
+}
+
+/** Выбор редакции в старых нишах: партнёр первым, цифры карт – из съёма; остальные сдвигаются вниз. */
+function pinOld(niche: string, companies: Company[], src: any) {
+  const pinned = partnersOf(niche).map((p: Partner) => {
+    const i = companies.findIndex((c) => c.y.cards.some((h) => h.includes(p.ya.id)));
+    if (i >= 0) return { ...companies.splice(i, 1)[0], partner: true };
+    const c = src['компании'].find((x: any) => (x['яндекс']['карточки'] || []).some((h: string) => h.includes(p.ya.id)));
+    const y = c ? c['яндекс'] : null;
+    const g = c ? c['2гис'] : { рейтинг: 0, отзывов: 0, карточки: [] };
+    const slug = slugify(p.name);
+    const co: Company = {
+      id: p.name, slug, url: `/${CITY.slug}/kompanii/${slug}/`,
+      t: { name: p.name, brand: p.name, cells: ['независимый', c?.['марки'] || 'электромобили и гибриды', c?.['часы'] || p.ya.hours || 'по записи', c?.['цены_на_сайте'] ? 'на сайте' : 'нет'], pros: p.services, fit: p.about },
+      niche, place: 0, score: 0, raw: 0, parts: { rating: 0, reviews: 0, fresh: 0, open: 0, profile: 0 },
+      rating: p.ya.rating, reviews: p.ya.reviews + (g['отзывов'] || 0), days: 0, recent: p.ya.recent, status: 0, dealer: false,
+      addresses: [p.address], phones: [p.phone], site: p.site, siteWorks: true, hours: c?.['часы'] || p.ya.hours,
+      rubrics: c?.['рубрики'] || '', brands: c?.['марки'] || null, officialStatus: null,
+      prices: c?.['цены_от'] || [], pricesNote: c?.['цены_примечание'] || '', pricesOnSite: !!c?.['цены_на_сайте'],
+      y: { rating: p.ya.rating, ratings: p.ya.ratings, reviews: p.ya.reviews, last: p.ya.last || '', recent: p.ya.recent, goodPlace: false, ownerConfirmed: false, cards: y?.['карточки'] || (p.yandex ? [p.yandex] : []) },
+      g: { rating: g['рейтинг'] || 0, reviews: g['отзывов'] || 0, cards: g['карточки'] || [] },
+      partner: true,
+    };
+    return co;
+  });
+  companies.unshift(...pinned);
+  companies.forEach((c, i) => (c.place = i + 1));
 }
 
 export const NICHES: Niche[] = build();

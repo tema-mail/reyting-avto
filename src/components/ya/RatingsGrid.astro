@@ -22,7 +22,7 @@ const T = H === 'h2' ? 'h3' : 'h4';
           <a class="rtile" href={u(r.url)}>
             <span class="rtile__meta"><span>{r.who}</span><span>{date(r.date)}</span></span>
             <T class="rtile__t">{r.crumb}</T>
-            <span class="rtile__lead"><span>№1 {r.top.name}</span><b>{score(r.top.score)}</b><Gauge value={r.top.score} signal /></span>
+            <span class="rtile__lead"><span>№1 {r.top.name}</span>{r.top.partner ? <b>Выбор редакции</b> : <><b>{score(r.top.score)}</b><Gauge value={r.top.score} signal /></>}</span>
           </a>
         ))}
       </div>

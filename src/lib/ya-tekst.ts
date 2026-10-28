@@ -45,13 +45,18 @@ export function seeAlso(n: NicheYa): string {
 
 export function kratko(n: NicheYa): string {
   const [a, b, c] = n.rows;
+  if (a.partner) {
+    const others = n.rows.filter((r) => !r.partner);
+    const ps = n.rows.filter((r) => r.partner).map((r) => `**${r.display}**`).join(', затем ');
+    return `№1 – ${ps}, выбор редакции. Следом – ${others[0].display} (${score(others[0].score)}) и ${others[1].display} (${score(others[1].score)}).`;
+  }
   const last = a.last ? `, последний – ${date(a.last)}` : '';
   const net = a.branches.length > 1 ? ` (${filials(a.branches.length)})` : '';
   return `№1 – **${a.display}**${net}: ${score(a.score)} из 10. На Яндекс Картах ${rt(a.rating)} и ${otz(a.reviews)}${last}. Следом – ${b.display} (${score(b.score)}) и ${c.display} (${score(c.score)}).${seeAlso(n)}`;
 }
 
 export function description(n: NicheYa): string {
-  return `${n.t.crumb} ${CITY.in}: ${whoN(n, n.rows.length)} по оценкам и отзывам Яндекс Карт, №1 – ${n.rows[0].display} (${score(n.rows[0].score)}/10). Открытая формула, данные на ${date(n.date)}.`;
+  return `${n.t.crumb} ${CITY.in}: ${whoN(n, n.rows.length)} по оценкам и отзывам Яндекс Карт, №1 – ${n.rows[0].display}${n.rows[0].partner ? '' : ` (${score(n.rows[0].score)}/10)`}. Данные на ${date(n.date)}.`;
 }
 
 export interface Nom { title: string; text: string; rows: YaRow[] }
@@ -135,8 +140,9 @@ export function strengthsYa(e: Entity): string[] {
 export function attentionYa(e: Entity): string[] {
   const out: string[] = [];
   const r = e.rows[0];
+  if (r.partner) return []; // партнёр: полная карточка без замечаний
   const n = nicheYa(r.niche);
-  const top = n.rows[0];
+  const top = n.rows.find((x) => !x.partner)!;
   if (r !== top && r.reviews < top.reviews / 3) out.push(`${otz(r.reviews)} – в ${Math.round(top.reviews / Math.max(1, r.reviews))} раз меньше, чем у первого места (${num(top.reviews)}).`);
   if (r.days === null) out.push('Дату последнего отзыва Яндекс не показал – свежесть в балле 0.');
   else if (r.days > 90) out.push(`Последний отзыв – ${date(r.last!)}, больше трёх месяцев до съёма.`);

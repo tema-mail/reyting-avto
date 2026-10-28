@@ -42,7 +42,7 @@ const otz = (k: number) => `${num(k)} отз.`;
         <tr class={c.place <= 3 ? 'top3' : undefined} data-k={`${c.place}|${c.id}|${c.raw}|${c.y.rating}|${c.g.rating}|${c.reviews}`}>
           <td class="pos">{c.place}</td>
           <td class="co"><a href={u(c.url)}>{c.t.name}</a></td>
-          <td class="sc">{score(c.score)}<Gauge value={c.score} signal={c.place <= 3} /></td>
+          <td class="sc">{c.partner ? <b class="pick">Выбор редакции</b> : <>{score(c.score)}<Gauge value={c.score} signal={c.place <= 3} /></>}</td>
           <td class="x num" data-l="Яндекс Карты"><span>{rating(c.y.rating)}<span class="cnt"><span class="dot"> · </span>{otz(c.y.reviews)}</span></span></td>
           <td class="x num" data-l="2ГИС"><span>{rating(c.g.rating)}<span class="cnt"><span class="dot"> · </span>{otz(c.g.reviews)}</span></span></td>
           <td class="x num" data-l="Отзывов всего">{num(c.reviews)}</td>
@@ -92,3 +92,7 @@ const otz = (k: number) => `${num(k)} отз.`;
     });
   });
 </script>
+
+<style>
+  .pick { display: inline-block; padding: 2px 8px; border-radius: 6px; background: var(--signal, #e8ff4a); color: #111; font-size: 13px; white-space: nowrap; }
+</style>

@@ -10,6 +10,8 @@ export interface Partner {
   site: string;
   yandex?: string;
   services: string[];
+  /** Карточка на Яндекс Картах: настоящие цифры, которые показываем в строке рейтинга. */
+  ya: { id: string; rating: number; ratings: number; reviews: number; last: string | null; recent: number; coords: [number, number]; hours: string };
 }
 
 export const PARTNERS: Record<string, Partner> = {
@@ -22,6 +24,7 @@ export const PARTNERS: Record<string, Partner> = {
     site: 'https://teyes-sibir.ru/',
     yandex: 'https://yandex.ru/maps/org/teyes_sibir/103758102748/',
     services: ['Установка мультимедиа Teyes', 'Камеры и парктроники', 'Сигнализации и автозапуск', 'Русификация мультимедиа'],
+    ya: { id: '103758102748', rating: 4.8, ratings: 49, reviews: 29, last: '2026-10-25', recent: 17, coords: [82.873091, 55.04484], hours: 'пн-пт 11:00–19:00' },
   },
   evolution: {
     key: 'evolution',
@@ -30,7 +33,9 @@ export const PARTNERS: Record<string, Partner> = {
     address: 'Сухарная ул., 35, корп. 13',
     phone: '+7 (993) 953-37-28',
     site: 'https://evolutioncarservice.ru/',
+    yandex: 'https://yandex.ru/maps/org/evolution_sibir/161009443026/',
     services: ['ТО электромобилей и гибридов', 'Сервис китайских автомобилей', 'Русификация автомобилей', 'Диагностика'],
+    ya: { id: '161009443026', rating: 4.4, ratings: 9, reviews: 5, last: '2024-12-16', recent: 0, coords: [82.873091, 55.04484], hours: '' },
   },
 };
 
