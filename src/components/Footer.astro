@@ -1,8 +1,8 @@
 ---
 import Logo from './Logo.astro';
 import { u } from '../lib/url';
-import { NICHES } from '../lib/reyting';
-import { SITE_NAME, DATA_DATE, CITY } from '../lib/site';
+import { BY_GROUP, TOTALS } from '../lib/katalog';
+import { SITE_NAME, CITY, YA_DATE } from '../lib/site';
 import { date } from '../lib/format';
 import { md } from '../lib/md';
 ---
@@ -11,13 +11,13 @@ import { md } from '../lib/md';
     <div class="foot__grid">
       <div class="stack">
         <Logo />
-        <p>{SITE_NAME} – рейтинги автосервисов и установочных центров по открытой формуле. Данные обновлены {date(DATA_DATE)}.</p>
+        <p>{SITE_NAME} – {TOTALS.ratings} авто-рейтингов {CITY.of} по открытой формуле. Данные обновлены {date(YA_DATE)}.</p>
         <p>Места в рейтингах не продаются. <Fragment set:html={md('{?юр. лицо и контакт в подвале?}')} /></p>
       </div>
       <div>
         <p class="foot__h">Рейтинги · {CITY.name}</p>
         <ul>
-          {NICHES.map((n) => <li><a href={u(n.url)}>{n.t.menu}</a></li>)}
+          {BY_GROUP.map((g) => <li><a href={u(`/${CITY.slug}/#${g.slug}`)}>{g.name}</a> <span class="muted">· {g.items.length}</span></li>)}
           <li><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of}</a></li>
         </ul>
       </div>
@@ -34,7 +34,7 @@ import { md } from '../lib/md';
       </div>
     </div>
     <div class="foot__bottom">
-      <p>Источники цифр: Яндекс Карты, 2ГИС и сайты компаний, съём {date(DATA_DATE)}. Ссылки на компании не рекламные.</p>
+      <p>Источники цифр: Яндекс Карты (все рейтинги), 2ГИС и сайты компаний (установка магнитол и сервис китайских автомобилей, съём 25.10.2026). Ссылки на компании не рекламные.</p>
       <p>Рабочее название «{SITE_NAME}» – до решения владельца.</p>
     </div>
   </div>

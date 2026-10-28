@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import Crumbs from '../components/Crumbs.astro';
-import { NICHES } from '../lib/reyting';
+import { RATINGS } from '../lib/katalog';
 import { SITE_NAME, FORM_ENDPOINT, CITY } from '../lib/site';
 import { md } from '../lib/md';
 import { u, abs } from '../lib/url';
@@ -56,7 +56,7 @@ const testMsg = 'Тестовая версия: заявки пока не пр�
           <div class="f"><label for="d-niche">Ниша</label>
             <select id="d-niche" name="niche" required>
               <option value="">Выберите</option>
-              {NICHES.map((n) => <option>{n.t.crumb}</option>)}
+              {RATINGS.map((r) => <option>{r.crumb}</option>)}
               <option>Другая авто-ниша</option>
             </select><p class="err" aria-live="polite"></p></div>
         </div>

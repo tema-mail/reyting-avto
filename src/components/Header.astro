@@ -1,7 +1,8 @@
 ---
+// Шапка: «Рейтинги» – раскрывающийся список по 5 группам (на телефоне – группы ссылками на хаб).
 import Logo from './Logo.astro';
 import { u } from '../lib/url';
-import { NICHES } from '../lib/reyting';
+import { BY_GROUP } from '../lib/katalog';
 import { CITY } from '../lib/site';
 interface Props { active?: string }
 const { active = '' } = Astro.props;
@@ -14,8 +15,14 @@ const cur = (key: string) => (active === key ? 'page' : undefined);
       <a href={u(`/${CITY.slug}/`)} aria-current={cur('city')}>{CITY.name}</a>
       <details>
         <summary>Рейтинги</summary>
-        <div class="nav__drop">
-          {NICHES.map((n) => <a href={u(n.url)} aria-current={cur(n.slug)}>{n.t.menu}</a>)}
+        <div class="nav__drop nav__mega">
+          {BY_GROUP.map((g) => (
+            <div>
+              <p>{g.name}</p>
+              {g.items.map((r) => <a href={u(r.url)} aria-current={cur(r.key)} style="display:block">{r.crumb}</a>)}
+            </div>
+          ))}
+          <a class="nav__all" href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of} →</a>
         </div>
       </details>
       <a href={u('/metodika/')} aria-current={cur('metodika')}>Методика</a>
@@ -24,8 +31,8 @@ const cur = (key: string) => (active === key ? 'page' : undefined);
     <details class="burger">
       <summary>Меню</summary>
       <nav class="burger__panel" aria-label="Меню на телефоне">
-        <a href={u(`/${CITY.slug}/`)}>Рейтинги: {CITY.name}</a>
-        {NICHES.map((n) => <a class="burger__sub" href={u(n.url)}>{n.t.menu}</a>)}
+        <a href={u(`/${CITY.slug}/`)}>Все рейтинги: {CITY.name}</a>
+        {BY_GROUP.map((g) => <a class="burger__sub" href={u(`/${CITY.slug}/#${g.slug}`)}>{g.name} · {g.items.length}</a>)}
         <a href={u('/metodika/')}>Методика</a>
         <a href={u('/o-proekte/')}>О проекте</a>
         <a class="btn btn--signal" href={u('/dobavit-kompaniyu/')}>Добавить компанию</a>

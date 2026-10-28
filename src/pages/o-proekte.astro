@@ -1,9 +1,9 @@
 ---
 import Base from '../layouts/Base.astro';
 import Crumbs from '../components/Crumbs.astro';
-import { NICHES, COMPANIES } from '../lib/reyting';
-import { SITE_NAME, DATA_DATE, CITY } from '../lib/site';
-import { date } from '../lib/format';
+import { TOTALS } from '../lib/katalog';
+import { SITE_NAME, YA_DATE, CITY } from '../lib/site';
+import { date, num, plural } from '../lib/format';
 import { md } from '../lib/md';
 import { u, abs } from '../lib/url';
 const site = Astro.site;
@@ -12,12 +12,12 @@ const schema = [
   { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) }, { '@type': 'ListItem', position: 2, name: 'О проекте', item: abs('/o-proekte/', site) }] },
 ];
 ---
-<Base title={`О проекте ${SITE_NAME}: кто составляет рейтинги и зачем`} description="Кто делает рейтинги автосервисов и установочных центров, на чём зарабатываем, как связаться и исправить ошибку. Места в рейтинге не продаются." schema={schema}>
+<Base title={`О проекте ${SITE_NAME}: кто составляет рейтинги и зачем`} description="Кто делает авто-рейтинги Новосибирска, на чём зарабатываем, как связаться и исправить ошибку. Места в рейтинге не продаются." schema={schema}>
   <Crumbs items={[['Главная', '/'], ['О проекте']]} />
   <section class="hero">
     <div class="wrap stack">
       <h1>О проекте {SITE_NAME}</h1>
-      <p class="lead" style="max-width:800px">{SITE_NAME} составляет рейтинги автосервисов и установочных центров по открытым данным: Яндекс Карты, 2ГИС и сайты компаний. Сейчас в проекте {NICHES.length === 2 ? 'два рейтинга' : NICHES.length + ' рейтинга'} {CITY.of}, {COMPANIES.length} компании, данные на {date(DATA_DATE)}.</p>
+      <p class="lead" style="max-width:800px">{SITE_NAME} составляет рейтинги авто-ниш по открытым данным: Яндекс Карты, а для двух первых ниш ещё 2ГИС и сайты компаний. Сейчас в проекте {TOTALS.ratings} {plural(TOTALS.ratings, ['рейтинг', 'рейтинга', 'рейтингов'])} {CITY.of}, {num(TOTALS.companies)} {plural(TOTALS.companies, ['компания', 'компании', 'компаний'])}, данные на {date(YA_DATE)}.</p>
       <p class="small" set:html={md(`{?название «${SITE_NAME}» рабочее – название и домен выбирает владелец?}`)} />
     </div>
   </section>

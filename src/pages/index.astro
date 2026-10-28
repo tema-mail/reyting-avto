@@ -1,26 +1,28 @@
 ---
 // Главная: про проект и методику, без города в title (город – у хаба).
 import Base from '../layouts/Base.astro';
-import Gauge from '../components/Gauge.astro';
-import { NICHES, COMPANIES, mdf } from '../lib/reyting';
-import { SITE_NAME, DATA_DATE, CITY } from '../lib/site';
-import { score, num, date } from '../lib/format';
+import RatingsGrid from '../components/ya/RatingsGrid.astro';
+import { TOTALS } from '../lib/katalog';
+import { NICHES_YA_PUB } from '../lib/ya';
+import { W_YA } from '../lib/formula-ya.mjs';
+import { SITE_NAME, YA_DATE, CITY } from '../lib/site';
+import { num, date, plural } from '../lib/format';
 import { u, abs } from '../lib/url';
 
-const reviews = COMPANIES.reduce((s, c) => s + c.reviews, 0);
 const site = Astro.site;
 const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs('/', site), name: SITE_NAME, inLanguage: 'ru', publisher: { '@id': abs('/', site) + '#org' } }];
 ---
-<Base title={`${SITE_NAME} – рейтинги автосервисов и установочных центров`} description="Независимые рейтинги автосервисов и установочных центров по отзывам Яндекс Карт и 2ГИС. Открытая формула, места не продаются." schema={schema}>
+<Base title={`${SITE_NAME} – рейтинги автосервисов, автошкол и детейлинга по отзывам`} description={`${TOTALS.ratings} рейтингов автосервисов, автошкол, детейлинга и других авто-ниш ${CITY.of} по отзывам Яндекс Карт. Открытая формула, места не продаются.`} schema={schema}>
   <section class="sec sec--dark" style="padding-top:48px">
     <div class="wrap">
       <p class="label">Авто-рейтинги по открытой формуле</p>
-      <h1 style="margin:16px 0 20px;max-width:900px;color:#fff">Рейтинги автосервисов и установочных центров – по отзывам с карт</h1>
-      <p class="lead" style="max-width:780px">{SITE_NAME} ранжирует автосервисы и установочные центры по открытой формуле: оценки и отзывы на Яндекс Картах и в 2ГИС, свежесть отзывов, цены и статус на сайте компании. Данные обновляем раз в месяц, места не продаются.</p>
+      <h1 style="margin:16px 0 20px;max-width:900px;color:#fff">Рейтинги автосервисов, автошкол и детейлинга – по отзывам с карт</h1>
+      <p class="lead" style="max-width:780px">{SITE_NAME} ранжирует автосервисы, автошколы, детейлинг, шиномонтаж и другие авто-ниши {CITY.of} по открытой формуле: оценка и число отзывов на Яндекс Картах, свежесть отзывов, открытость карточки. Данные обновляем раз в месяц, места не продаются.</p>
       <div class="stats">
-        <div class="stat"><b>{COMPANIES.length}</b><span>компании {CITY.of} в {NICHES.length} рейтингах</span></div>
-        <div class="stat"><b>{num(reviews)}</b><span>отзывов с Яндекс Карт и 2ГИС в расчёте</span></div>
-        <div class="stat"><b>{date(DATA_DATE)}</b><span>данные на эту дату</span></div>
+        <div class="stat"><b>{TOTALS.ratings}</b><span>{plural(TOTALS.ratings, ['рейтинг', 'рейтинга', 'рейтингов'])} {CITY.of}</span></div>
+        <div class="stat"><b>{num(TOTALS.companies)}</b><span>{plural(TOTALS.companies, ['компания', 'компании', 'компаний'])} в рейтингах</span></div>
+        <div class="stat"><b>{num(TOTALS.yaReviews)}</b><span>отзывов Яндекс Карт в расчёте</span></div>
+        <div class="stat"><b>{date(YA_DATE)}</b><span>данные на эту дату</span></div>
       </div>
       <div class="btns" style="margin-top:28px"><a class="btn btn--signal" href="#goroda">Выбрать рейтинг</a></div>
     </div>
@@ -28,39 +30,19 @@ const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs(
 
   <section class="sec sec--flush" id="goroda">
     <div class="wrap">
-      <div class="sec__head"><p class="label">01 · Города</p><h2>Выберите город и рейтинг</h2></div>
-      <h3 style="margin-bottom:14px">{CITY.name}</h3>
-      <ul class="links">
-        {NICHES.map((n) => <li><a href={u(n.url)}>{n.t.crumb}</a> – {n.companies.length} {n.t.whoGen}, №1 {n.companies[0].t.brand} ({score(n.companies[0].score)}/10)</li>)}
-      </ul>
-      <p style="margin-top:14px"><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of} →</a></p>
-      <p class="muted" style="margin-top:14px">Другие города добавим, когда в городе наберётся пять компаний с данными и свой спрос. Пустых списков не публикуем.</p>
+      <div class="sec__head"><p class="label">01 · Рейтинги</p><h2>Рейтинги {CITY.of}</h2><p>Выберите группу – останутся только её рейтинги. Другие города добавим, когда в городе наберётся пять компаний с данными и свой спрос.</p></div>
+      <RatingsGrid id="home" h="h3" />
+      <p><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of} на одной странице →</a></p>
     </div>
   </section>
 
   <section class="sec">
     <div class="wrap">
-      <div class="sec__head"><p class="label">02 · Свежие</p><h2>Свежие рейтинги</h2></div>
-      <div class="tiles">
-        {NICHES.map((n) => (
-          <a class="tile" href={u(n.url)}>
-            <span class="tile__top"><span>{CITY.name}</span><span>данные на {date(n.date)}</span></span>
-            <h3>{n.t.crumb} {CITY.in}</h3>
-            <p>Первые места: {n.companies.slice(0, 3).map((c) => `${c.t.brand} (${score(c.score)})`).join(', ')}. {n.t.homeLine}</p>
-            <span class="tile__lead"><span>№1 {n.companies[0].t.brand}</span><b>{score(n.companies[0].score)}</b><span style="grid-column:1/-1"><Gauge value={n.companies[0].score} signal /></span></span>
-            <span class="tile__go">Смотреть рейтинг</span>
-          </a>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <section class="sec">
-    <div class="wrap">
-      <div class="sec__head"><p class="label">03 · Формула</p><h2>Как мы считаем места</h2></div>
+      <div class="sec__head"><p class="label">02 · Формула</p><h2>Как мы считаем места</h2></div>
       <div class="prose">
-        <p>Балл от 0 до 10 складывается из пяти частей: средняя оценка на Яндекс Картах и в 2ГИС, число отзывов, свежесть отзывов, открытость компании (цены и часы на сайте, подтверждённая карточка) и профиль ниши (например, статус официального дилера). Веса одинаковы для всех компаний ниши и опубликованы на странице «Методика».</p>
-        <p class="formula">балл = 10 × (<b>0,30</b> × оценка + <b>0,30</b> × отзывы + <b>0,15</b> × свежесть + <b>0,10</b> × открытость + <b>0,15</b> × профиль ниши)</p>
+        <p>Балл от 0 до 10. В {NICHES_YA_PUB.length} рейтингах источник один – Яндекс Карты: оценка, число отзывов, их свежесть и открытость карточки (сайт, часы, подтверждение владельцем, «Хорошее место»). Веса одинаковы для всех компаний ниши.</p>
+        <p class="formula">балл = 10 × (<b>{num(W_YA.rating, 2)}</b> × оценка + <b>{num(W_YA.reviews, 2)}</b> × отзывы + <b>{num(W_YA.fresh, 2)}</b> × свежесть + <b>{num(W_YA.open, 2)}</b> × открытость)</p>
+        <p>Рейтинги установки магнитол и сервиса китайских автомобилей считаются по Яндекс Картам и 2ГИС с профилем ниши (статус дилера, цены на сайте) – формула для них своя и тоже открыта.</p>
         <p><a href={u('/metodika/')}>Формула и веса по нишам →</a></p>
       </div>
     </div>
@@ -68,9 +50,9 @@ const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs(
 
   <section class="sec">
     <div class="wrap">
-      <div class="sec__head"><p class="label">04 · Доверие</p><h2>Почему рейтингу можно верить</h2></div>
+      <div class="sec__head"><p class="label">03 · Доверие</p><h2>Почему рейтингу можно верить</h2></div>
       <ol class="trust">
-        <li>У каждой цифры есть источник и дата: рейтинг и число отзывов со ссылкой на карточку Яндекс Карт и 2ГИС.</li>
+        <li>У каждой цифры есть источник и дата: оценка и число отзывов со ссылкой на карточку Яндекс Карт.</li>
         <li>Формулу видно целиком. Вы можете пересчитать балл любой компании сами.</li>
         <li>За место нельзя заплатить. Ссылки на компании не рекламные, рекламы на страницах рейтингов нет.</li>
         <li>У каждой компании мы пишем, на что обратить внимание: мало отзывов, давно не было новых, нет цен на сайте.</li>

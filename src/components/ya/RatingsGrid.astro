@@ -1,0 +1,48 @@
+---
+// Все рейтинги по группам с чипами-фильтрами («Все» первым; при выборе видны только рейтинги группы).
+// В плитке: ниша, №1 с баллом, сколько компаний, дата. Адрес с #<группа> сразу выбирает группу.
+import Gauge from '../Gauge.astro';
+import { BY_GROUP } from '../../lib/katalog';
+import { score, date } from '../../lib/format';
+import { u } from '../../lib/url';
+interface Props { id: string; h: 'h2' | 'h3' }
+const { id, h: H } = Astro.props;
+const T = H === 'h2' ? 'h3' : 'h4';
+---
+<div class="rgrid" data-rgrid={id}>
+  <div class="gchips" role="group" aria-label="Группы рейтингов">
+    <button type="button" aria-pressed="true" data-g="">Все</button>
+    {BY_GROUP.map((g) => <button type="button" aria-pressed="false" data-g={g.slug}>{g.name}</button>)}
+  </div>
+  {BY_GROUP.map((g) => (
+    <section class="ggroup" id={g.slug} data-group={g.slug} style="scroll-margin-top:16px">
+      <H class="ggroup__h">{g.name}</H>
+      <div class="rtiles">
+        {g.items.map((r) => (
+          <a class="rtile" href={u(r.url)}>
+            <span class="rtile__meta"><span>{r.who}</span><span>{date(r.date)}</span></span>
+            <T class="rtile__t">{r.crumb}</T>
+            <span class="rtile__lead"><span>№1 {r.top.name}</span><b>{score(r.top.score)}</b><Gauge value={r.top.score} signal /></span>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+</div>
+<script>
+  document.querySelectorAll<HTMLElement>('[data-rgrid]').forEach((box) => {
+    const btns = Array.from(box.querySelectorAll<HTMLButtonElement>('.gchips button'));
+    const groups = Array.from(box.querySelectorAll<HTMLElement>('[data-group]'));
+    const pick = (g: string) => {
+      btns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.g === g)));
+      groups.forEach((s) => (s.hidden = !!g && s.dataset.group !== g));
+    };
+    btns.forEach((b) => b.addEventListener('click', () => pick(b.dataset.g || '')));
+    const fromHash = () => {
+      const h = decodeURIComponent(location.hash.slice(1));
+      if (groups.some((s) => s.dataset.group === h)) pick(h);
+    };
+    fromHash();
+    window.addEventListener('hashchange', fromHash);
+  });
+</script>

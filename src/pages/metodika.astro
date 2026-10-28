@@ -3,7 +3,11 @@
 import Base from '../layouts/Base.astro';
 import Crumbs from '../components/Crumbs.astro';
 import { NICHES } from '../lib/reyting';
-import { FORMULA_DATE, DATA_DATE, PUBLISHED, CITY, SITE_NAME } from '../lib/site';
+import { NICHES_YA_PUB, NICHES_YA_HIDDEN } from '../lib/ya';
+import { RATINGS } from '../lib/katalog';
+import { W_YA, MIN_RATING, MIN_REVIEWS, MIN_PUBLISH, TOP } from '../lib/formula-ya.mjs';
+import { num } from '../lib/format';
+import { DATA_DATE, YA_DATE, PUBLISHED, CITY, SITE_NAME } from '../lib/site';
 import { date } from '../lib/format';
 import { md } from '../lib/md';
 import { u, abs } from '../lib/url';
@@ -15,33 +19,66 @@ const profile: Record<string, string> = {
 const site = Astro.site;
 const pageUrl = abs('/metodika/', site);
 const schema = [
-  { '@type': 'Article', '@id': pageUrl + '#article', headline: 'Методика: как мы считаем места в рейтингах', url: pageUrl, inLanguage: 'ru', datePublished: PUBLISHED, dateModified: FORMULA_DATE, author: { '@id': abs('/', site) + '#org' }, publisher: { '@id': abs('/', site) + '#org' } },
+  { '@type': 'Article', '@id': pageUrl + '#article', headline: 'Методика: как мы считаем места в рейтингах', url: pageUrl, inLanguage: 'ru', datePublished: PUBLISHED, dateModified: YA_DATE, author: { '@id': abs('/', site) + '#org' }, publisher: { '@id': abs('/', site) + '#org' } },
   { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) }, { '@type': 'ListItem', position: 2, name: 'Методика', item: pageUrl }] },
 ];
 ---
-<Base title={`Методика рейтинга: формула, веса и источники – ${SITE_NAME}`} description="Как считаем места: формула из рейтинга и числа отзывов на Яндекс Картах и 2ГИС, свежести отзывов, статуса и цен. Веса по нишам, дата съёма." schema={schema} active="metodika">
+<Base title={`Методика рейтинга: формула, веса и источники – ${SITE_NAME}`} description="Как считаем места: оценка, число и свежесть отзывов на Яндекс Картах, открытость карточки. Правила отбора по каждой нише, веса и дата съёма." schema={schema} active="metodika">
   <Crumbs items={[['Главная', '/'], ['Методика']]} />
   <section class="hero">
     <div class="wrap stack">
-      <p class="label">Формула изменена {date(FORMULA_DATE)}</p>
+      <p class="label">Формула для ниш Яндекса – {date(YA_DATE)}</p>
       <h1>Методика: как мы считаем места в рейтингах</h1>
     </div>
   </section>
   <section class="sec">
     <div class="wrap prose">
-      <h2>Формула в одном абзаце</h2>
+      <h2>Две формулы: какая где</h2>
+      <p>{NICHES_YA_PUB.length} рейтингов считаются только по Яндекс Картам (съём {date(YA_DATE)}). Рейтинги «Установка магнитол» и «Сервис китайских автомобилей» – по Яндекс Картам, 2ГИС и сайтам компаний (съём {date(DATA_DATE)}), у них своя формула с профилем ниши – она описана ниже.</p>
+    </div>
+  </section>
+  <section class="sec" id="formula-yandex">
+    <div class="wrap prose">
+      <h2>Формула рейтингов по Яндекс Картам</h2>
+      <p class="formula">балл = 10 × ({num(W_YA.rating, 2)} × оценка + {num(W_YA.reviews, 2)} × отзывы + {num(W_YA.fresh, 2)} × свежесть + {num(W_YA.open, 2)} × открытость)</p>
+      <p><strong>Оценка.</strong> Оценка компании на Яндекс Картах. Внутри опубликованного списка ниши лучшая получает 1, худшая – 0, остальные – пропорционально (min-max).</p>
+      <p><strong>Отзывы.</strong> Число текстовых отзывов на Яндекс Картах через логарифм: log10(1 + отзывы). Первые сотни отзывов добавляют больше, чем следующие тысячи. Дальше – min-max внутри списка.</p>
+      <p><strong>Свежесть.</strong> 0,5 × max(0; 1 − дней с последнего отзыва / 365) + 0,5 × min(1; отзывов за 12 месяцев / 12). Дни считаем от даты съёма {date(YA_DATE)}. Отзывы за 12 месяцев – среди тех, что Яндекс отдал при загрузке, поэтому оценка свежести скорее занижена. Нет даты последнего отзыва – свежесть 0, в таблице пометка «нет даты».</p>
+      <p><strong>Открытость.</strong> Четыре равные доли по 0,25: сайт указан в карточке, часы указаны, карточку подтвердил владелец, отметка Яндекса «Хорошее место».</p>
+      <p><strong>Отбор.</strong> Берём компании, которые Яндекс Карты показали по запросам ниши в поиске по {CITY.of}. В рейтинг проходит компания с профильной рубрикой (правило для каждой ниши – ниже), не закрытая, из Новосибирска или пригорода (другие города области, например Бердск, – нет), с оценкой не ниже {num(MIN_RATING, 1)} и не меньше {MIN_REVIEWS} отзывов. Если прошло меньше {MIN_PUBLISH} компаний, рейтинг не публикуем.</p>
+      <p><strong>Сети.</strong> Филиалы с одним названием – одна строка: отзывы и оценки складываем, оценка – средняя, взвешенная по числу оценок. Сайт, часы, подтверждение и «Хорошее место» засчитываем, если они есть хотя бы у одного филиала. Общие названия вроде «Шиномонтаж» или «Автоэлектрик» не объединяем – это разные мастерские, к названию добавляем улицу.</p>
+      <p><strong>Показ.</strong> В таблице – первые {TOP} мест, остальные прошедшие отбор – списком «Ещё в рейтинге». Фильтры (район, круглосуточно, оценка 4,8+, 300+ отзывов, «Хорошее место», есть сайт) скрывают строки, места не меняют. Район определяем по координатам компании и границам районов из OpenStreetMap.</p>
+      <p><strong>Ничья.</strong> При равенстве в десятых место определяют сотые, затем число отзывов.</p>
+    </div>
+  </section>
+  <section class="sec">
+    <div class="wrap prose">
+      <h2>Правила отбора по нишам (Яндекс Карты)</h2>
+      {NICHES_YA_PUB.map((n) => (
+        <div class="stack" id={n.key} style="scroll-margin-top:16px">
+          <h3>{n.t.crumb}</h3>
+          <p>Для этой ниши – только Яндекс Карты. Профиль: {n.rule}</p>
+          <p>Найдено {n.found}, в рейтинге {n.rows.length}. Не прошли: {Object.entries(n.rejected).filter(([, v]) => v > 0).map(([k, v]) => `${k} – ${v}`).join(', ') || 'нет'}. Данные на {date(n.date)}. <a href={u(n.url)}>Рейтинг →</a></p>
+        </div>
+      ))}
+      {NICHES_YA_HIDDEN.length > 0 && <p>Не опубликованы (меньше {MIN_PUBLISH} компаний прошли отбор): {NICHES_YA_HIDDEN.map((n) => `${n.t.crumb} – ${n.rows.length}`).join(', ')}.</p>}
+    </div>
+  </section>
+  <section class="sec">
+    <div class="wrap prose">
+      <h2>Формула рейтингов «Установка магнитол» и «Сервис китайских автомобилей»</h2>
       <p>Каждая компания получает балл от 0 до 10. Балл складывается из пяти частей: средняя оценка на Яндекс Картах и в 2ГИС, число отзывов, свежесть отзывов, открытость компании и профиль ниши. Веса частей одинаковы для всех компаний одной ниши. Первое место получает компания с наибольшим баллом.</p>
       <p class="formula"><b>Формула:</b> балл = 10 × (0,30 × оценка + 0,30 × отзывы + 0,15 × свежесть + 0,10 × открытость + 0,15 × профиль ниши)</p>
     </div>
   </section>
   <section class="sec">
     <div class="wrap prose">
-      <h2>Источники данных и дата съёма</h2>
+      <h2>Источники данных: магнитолы и китайские автомобили</h2>
       <ul>
         <li><strong>Яндекс Карты:</strong> оценка, число оценок и текстовых отзывов, даты последних отзывов, отметки «Хорошее место 2026» и «владелец подтвердил», часы, сайт.</li>
         <li><strong>2ГИС:</strong> оценка и число отзывов, название и рубрики.</li>
         <li><strong>Сайты компаний:</strong> цены, статус дилера, работает ли сайт.</li>
-        <li>Последний съём – {date(DATA_DATE)}, все рейтинги {CITY.of}.</li>
+        <li>Съём для магнитол и китайских автомобилей – {date(DATA_DATE)}; для остальных рейтингов – {date(YA_DATE)}, только Яндекс Карты (2ГИС отдаёт проверку на робота, обходить её не стали).</li>
       </ul>
     </div>
   </section>
@@ -60,7 +97,7 @@ const schema = [
   </section>
   <section class="sec">
     <div class="wrap prose">
-      <h2>Признаки и веса по нишам</h2>
+      <h2>Признаки и веса: магнитолы и китайские автомобили</h2>
       {NICHES.map((n) => (
         <div class="stack" id={n.slug} style="scroll-margin-top:16px">
           <h3>{n.t.crumb}</h3>
@@ -93,7 +130,7 @@ const schema = [
     <div class="wrap prose">
       <h2>Как оспорить место или исправить данные</h2>
       <p>Место не меняем по просьбе. Меняем данные, если они неверны: адрес, часы, цены, статус дилера, сайт. Пришлите правку и ссылку, где это видно, через форму «Добавить компанию». Мы проверим источник и пересчитаем балл при следующем съёме. <Fragment set:html={md('{?срок ответа на правку?}')} /></p>
-      <p><a href={u('/dobavit-kompaniyu/')}>Добавить или уточнить данные →</a> · <a href={u('/o-proekte/')}>О проекте →</a> · рейтинги: {NICHES.map((n, i) => <>{i > 0 && ' · '}<a href={u(n.url)}>{n.t.crumb}</a></>)}</p>
+      <p><a href={u('/dobavit-kompaniyu/')}>Добавить или уточнить данные →</a> · <a href={u('/o-proekte/')}>О проекте →</a> · <a href={u(`/${CITY.slug}/`)}>все {RATINGS.length} рейтингов →</a></p>
     </div>
   </section>
 </Base>
