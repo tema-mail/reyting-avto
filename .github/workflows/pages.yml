@@ -1,0 +1,43 @@
+name: Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      # Тестовая копия: подпапка репозитория, весь сайт закрыт от индексации.
+      # PUBLIC_FORM_ENDPOINT пуст – формы показывают «Тестовая версия» (куда идут заявки, владелец не решил).
+      - run: npm run build
+        env:
+          PUBLIC_BASE: /reyting-avto
+          PUBLIC_SITE_URL: https://tema-mail.github.io/reyting-avto
+          PUBLIC_NOINDEX: '1'
+          PUBLIC_FORM_ENDPOINT: ''
+      - run: touch dist/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
