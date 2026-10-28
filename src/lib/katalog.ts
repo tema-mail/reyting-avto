@@ -1,0 +1,100 @@
+// Все опубликованные рейтинги города одним списком: меню, главная, хаб, карта сайта, соседние ниши.
+// Старые ниши (Я+2ГИС, reyting.ts) и ниши Яндекса (ya.ts) приводятся к одному виду.
+import { NICHES, COMPANIES, indexable } from './reyting';
+import { CITY } from './site';
+import { NICHES_YA_PUB, NEW_CARDS, uniqueTotals } from './ya';
+import { GROUPS, GROUP_SLUG, OLD_GROUP } from './otbor.mjs';
+
+export interface Rating {
+  key: string;
+  url: string;
+  crumb: string;
+  h1: string;
+  group: string;
+  count: number; // компаний в рейтинге
+  who: string; // «12 центров»
+  top: { name: string; score: number; url: string | null };
+  date: string;
+  reviews: number;
+  hubLine: string;
+  source: string; // «Яндекс Карты» или «Яндекс Карты и 2ГИС»
+}
+
+// Порядок внутри группы – по спросу Вордстата (НСК, сентябрь 2026, docs/nishi-avto-nsk.md в reytingi).
+const ORDER = ['avtoshkoly', 'avtoservisy', 'tonirovka', 'evakuatory', 'tekhosmotr', 'shinomontazh', 'avtomoyki', 'chip-tyuning', 'kuzovnoy-remont', 'avtosignalizatsii', 'ustanovka-magnitol', 'avtoelektriki', 'avtopodbor', 'deteyling', 'remont-dvigateley', 'razval-skhozhdenie', 'avtozvuk', 'polirovka-far', 'remont-rulevykh-reek', 'diagnostika-avto', 'remont-akpp', 'avtostekla', 'ustanovka-gbo', 'servis-kitayskikh-avtomobiley'];
+
+const plural = (n: number, f: [string, string, string]) => {
+  const a = n % 100;
+  const b = a % 10;
+  return a > 10 && a < 20 ? f[2] : b > 1 && b < 5 ? f[1] : b === 1 ? f[0] : f[2];
+};
+
+export const RATINGS: Rating[] = [
+  ...NICHES.map((n) => ({
+    key: n.slug,
+    url: n.url,
+    crumb: n.t.crumb,
+    h1: n.t.h1,
+    group: (OLD_GROUP as Record<string, string>)[n.slug],
+    count: n.companies.length,
+    who: `${n.companies.length} ${n.t.whoGen}`,
+    top: { name: n.companies[0].t.brand, score: n.companies[0].score, url: n.companies[0].url },
+    date: n.date,
+    reviews: n.reviews,
+    hubLine: n.t.hubScenario,
+    source: 'Яндекс Карты и 2ГИС',
+  })),
+  ...NICHES_YA_PUB.map((n) => ({
+    key: n.key,
+    url: n.url,
+    crumb: n.t.crumb,
+    h1: n.t.h1,
+    group: n.group,
+    count: n.rows.length,
+    who: `${n.rows.length} ${plural(n.rows.length, n.who)}`,
+    top: { name: n.rows[0].display, score: n.rows[0].score, url: n.rows[0].url },
+    date: n.date,
+    reviews: n.reviews,
+    hubLine: n.t.hubLine,
+    source: 'Яндекс Карты',
+  })),
+].sort((a, b) => ORDER.indexOf(a.key) - ORDER.indexOf(b.key));
+
+for (const r of RATINGS) if (!GROUPS.includes(r.group) || ORDER.indexOf(r.key) < 0) throw new Error(`Рейтинг ${r.key}: нет группы или места в порядке`);
+
+export const BY_GROUP = GROUPS.map((g) => ({ name: g, slug: (GROUP_SLUG as Record<string, string>)[g], items: RATINGS.filter((r) => r.group === g) })).filter((g) => g.items.length);
+
+/** 3–4 соседних рейтинга: сначала своя группа, затем остальные по спросу. */
+export function neighbours(key: string, n = 4): Rating[] {
+  const me = RATINGS.find((r) => r.key === key)!;
+  const same = RATINGS.filter((r) => r.key !== key && r.group === me.group);
+  const other = RATINGS.filter((r) => r.key !== key && r.group !== me.group);
+  return [...same, ...other].slice(0, n);
+}
+
+/** Цифры для главной и хаба – из данных. Компания в нескольких рейтингах считается один раз. */
+const U = uniqueTotals(COMPANIES);
+export const TOTALS = {
+  ratings: RATINGS.length,
+  companies: U.companies, // разных компаний во всех рейтингах
+  cards: COMPANIES.length + NEW_CARDS.length, // карточек на сайте
+  yaReviews: U.yaReviews, // отзывов Яндекс Карт, каждая организация один раз
+};
+
+/** Хаб города индексируется с третьего опубликованного рейтинга (карта сайта). */
+export const HUB_INDEX_ALL = RATINGS.length >= 3;
+
+/** Индексируемые адреса для sitemap.xml (lastmod = дата съёма, не дата сборки). */
+export function indexableAll(): { path: string; lastmod: string }[] {
+  const latest = RATINGS.map((r) => r.date).sort().pop()!;
+  const old = indexable().filter((p) => p.path !== `/${CITY.slug}/`);
+  const ya = NICHES_YA_PUB.map((n) => ({ path: n.url, lastmod: n.date }));
+  const cards = NEW_CARDS.map((e) => ({ path: e.url, lastmod: latest }));
+  return [
+    ...old.slice(0, 1).map((p) => ({ ...p, lastmod: latest })),
+    ...(HUB_INDEX_ALL ? [{ path: `/${CITY.slug}/`, lastmod: latest }] : []),
+    ...old.slice(1),
+    ...ya,
+    ...cards,
+  ];
+}

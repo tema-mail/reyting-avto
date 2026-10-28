@@ -1,0 +1,177 @@
+---
+// Рейтинг ниши «только Яндекс Карты»: Кратко → таблица с фильтрами → номинации → как составляли → чек-лист →
+// FAQ → рядом → «вашей компании нет». Цифры – из данных (lib/ya.ts), тексты ниши – src/data/nishi/<ключ>.ts.
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../Crumbs.astro';
+import Gauge from '../Gauge.astro';
+import YaTable from './YaTable.astro';
+import type { NicheYa } from '../../lib/ya';
+import { kratko, description, nominations, rt, otz, whoN } from '../../lib/ya-tekst';
+import { neighbours } from '../../lib/katalog';
+import { W_YA, MIN_RATING, MIN_REVIEWS, TOP } from '../../lib/formula-ya.mjs';
+import { CITY, PUBLISHED } from '../../lib/site';
+import { score, num, date } from '../../lib/format';
+import { md } from '../../lib/md';
+import { u, abs } from '../../lib/url';
+
+interface Props { n: NicheYa }
+const { n } = Astro.props;
+const t = n.t;
+const title = `${t.h1} – рейтинг по отзывам Яндекс Карт`;
+const desc = description(n);
+const noms = nominations(n);
+const near = neighbours(n.key);
+const rejected = Object.entries(n.rejected).filter(([, v]) => v > 0);
+const site = Astro.site;
+const pageUrl = abs(n.url, site);
+const plain = (s: string) => s.replace(/\*\*/g, '').replace(/\[(.+?)\]\(.+?\)/g, '$1');
+const pct = (w: number) => Math.round(w * 100);
+
+const schema = [
+  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: t.h1, description: desc, inLanguage: 'ru', datePublished: PUBLISHED, dateModified: n.date, publisher: { '@id': abs('/', site) + '#org' }, mainEntity: { '@id': pageUrl + '#list' } },
+  {
+    '@type': 'ItemList',
+    '@id': pageUrl + '#list',
+    name: t.h1,
+    numberOfItems: n.rows.length,
+    itemListOrder: 'https://schema.org/ItemListOrderDescending',
+    itemListElement: n.rows.map((r) => ({
+      '@type': 'ListItem',
+      position: r.place,
+      item: {
+        '@type': n.schema,
+        name: r.display,
+        ...(r.url ? { '@id': abs(r.url, site) + '#company', url: abs(r.url, site) } : {}),
+        address: { '@type': 'PostalAddress', streetAddress: r.branches[0].address, addressLocality: CITY.name, addressCountry: 'RU' },
+      },
+    })),
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) },
+      { '@type': 'ListItem', position: 2, name: CITY.name, item: abs(`/${CITY.slug}/`, site) },
+      { '@type': 'ListItem', position: 3, name: t.crumb, item: pageUrl },
+    ],
+  },
+  { '@type': 'FAQPage', mainEntity: t.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: plain(a) } })) },
+];
+---
+<Base title={title} description={desc} schema={schema} active={n.key} sticky>
+  <Crumbs items={[['Главная', '/'], [CITY.name, `/${CITY.slug}/`], [t.crumb]]} />
+
+  <section class="hero">
+    <div class="wrap hero__grid">
+      <div>
+        <p class="label">Рейтинг · {CITY.name} · данные на {date(n.date)}</p>
+        <h1>{t.h1}</h1>
+        <p class="short lead"><span class="short__k">Кратко:</span><Fragment set:html={md(kratko(n))} /></p>
+        <p class="lead-in" set:html={md(t.intro)} />
+        <ul class="facts">
+          <li>В рейтинге {whoN(n, n.rows.length)}: прошли отбор из {n.found}, которых Яндекс Карты нашли по запросу.</li>
+          <li>Источник – только Яндекс Карты: оценка, отзывы, их свежесть и открытость карточки.</li>
+          <li>Места считает формула, их нельзя купить.</li>
+        </ul>
+        <div class="btns">
+          <a class="btn btn--signal" href="#tablitsa">Смотреть рейтинг</a>
+          <a class="btn btn--ghost" href="#kak-sostavlyali">Как составляли</a>
+        </div>
+      </div>
+      <aside class="board" aria-label="Первые три места">
+        <p class="board__h"><span>Тройка лидеров</span><span>балл / 10</span></p>
+        {n.rows.slice(0, 3).map((r) => (
+          <a class="board__row" href={r.url ? u(r.url) : '#tablitsa'}>
+            <span class="board__pos">{String(r.place).padStart(2, '0')}</span>
+            <span class="board__name">{r.display}<br /><span class="small muted mono">Я {rt(r.rating)} · {otz(r.reviews)}</span></span>
+            <span class="board__score">{score(r.score)}</span>
+            <Gauge value={r.score} signal />
+          </a>
+        ))}
+      </aside>
+    </div>
+  </section>
+
+  <section class="sec" id="tablitsa">
+    <div class="wrap">
+      <div class="sec__head">
+        <p class="label">01 · Таблица баллов</p>
+        <h2>{t.crumb} {CITY.in}: первые {Math.min(TOP, n.rows.length)} мест</h2>
+        <p>Балл от 0 до 10 по одной формуле для всех. Компании ниже десятого места – списком под таблицей.</p>
+      </div>
+      <YaTable n={n} />
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap">
+      <div class="sec__head"><p class="label">02 · Номинации по данным</p><h2>Кто выделяется по цифрам</h2></div>
+      <ul class="nom">
+        {noms.map((m) => (
+          <li><strong>{m.title}:</strong> {m.rows.map((r, i) => <>{i > 0 && ', '}{r.url ? <a href={u(r.url)}>{r.display}</a> : r.display}</>)}. {m.text}</li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="sec" id="kak-sostavlyali">
+    <div class="wrap">
+      <div class="sec__head"><p class="label">03 · Методика коротко</p><h2>Как мы составляли рейтинг</h2></div>
+      <div class="prose">
+        <p>Для этой ниши – только Яндекс Карты, данных 2ГИС в расчёте нет. Съём {date(n.date)}: поиск по Новосибирску, {n.found} карточек.</p>
+        <p><strong>Отбор.</strong> Профиль: {n.rule} Не закрыта, оценка не ниже {num(MIN_RATING, 1)}, не меньше {MIN_REVIEWS} отзывов. Сеть с одним названием – одна строка: отзывы филиалов складываем, оценку усредняем по числу оценок.{rejected.length > 0 && <> Не прошли: {rejected.map(([k, v]) => `${k} – ${v}`).join(', ')}.</>}</p>
+        <p class="formula">балл = 10 × (<b>{num(W_YA.rating, 2)}</b> × оценка + <b>{num(W_YA.reviews, 2)}</b> × отзывы + <b>{num(W_YA.fresh, 2)}</b> × свежесть + <b>{num(W_YA.open, 2)}</b> × открытость)</p>
+        <p>Оценка и отзывы ({pct(W_YA.rating)}% и {pct(W_YA.reviews)}%) сравниваются внутри списка: лучшая получает 1, худшая – 0. Свежесть ({pct(W_YA.fresh)}%) – как давно был последний отзыв и сколько пришло за год. Открытость ({pct(W_YA.open)}%) – сайт, часы, подтверждённая владельцем карточка и отметка «Хорошее место».</p>
+        <p><a href={u(`/metodika/#${n.key}`)}>Полная методика и правило отбора →</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap">
+      <div class="sec__head"><p class="label">04 · Чек-лист</p><h2>{t.checkH2}</h2></div>
+      <ol class="check">{t.check.map((q) => <li set:html={md(q)} />)}</ol>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap">
+      <div class="sec__head"><p class="label">05 · Вопросы</p><h2>Частые вопросы</h2></div>
+      <div class="faq">
+        {t.faq.map(([q, a], i) => (
+          <details open={i === 0}>
+            <summary>{q}</summary>
+            <div><p set:html={md(a)} /></div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap">
+      <div class="sec__head"><p class="label">06 · Рядом</p><h2>Рядом с этим рейтингом</h2></div>
+      <ul class="links">
+        {near.map((o) => <li><a href={u(o.url)}>{o.crumb} {CITY.in}</a> – {o.who}, №1 {o.top.name} ({score(o.top.score)}/10)</li>)}
+        <li><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of} →</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="sec sec--dark">
+    <div class="wrap cta-band">
+      <div class="stack">
+        <h2>Вашей компании нет в рейтинге?</h2>
+        <p>Пришлите название и ссылку на карточку в Яндекс Картах. Проверим профиль и посчитаем балл по той же формуле при следующем съёме. Это бесплатно.</p>
+      </div>
+      <a class="btn btn--signal" href={u('/dobavit-kompaniyu/')}>Добавить или уточнить данные</a>
+    </div>
+  </section>
+  <section class="sec sec--flush">
+    <div class="wrap"><p class="small muted">Данные рейтинга на {date(n.date)}. Следующее обновление – <Fragment set:html={md('{?дата?}')} />.</p></div>
+  </section>
+
+  <div class="sticky" slot="after">
+    <a class="btn btn--signal" href="#tablitsa">К рейтингу и фильтрам</a>
+    <a class="btn btn--ghost" style="color:#fff;border-color:#4a525b" href={u(`/${CITY.slug}/`)}>Все</a>
+  </div>
+</Base>
