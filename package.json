@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/proverka-ballov.mjs && astro build && node scripts/proverka-ssylok.mjs",
+    "build": "node scripts/proverka-ballov.mjs && node scripts/proverka-ya.mjs && astro build && node scripts/proverka-ssylok.mjs",
     "preview": "astro preview",
     "proverka": "node scripts/proverka-ballov.mjs"
   },
