@@ -4,6 +4,7 @@
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../Crumbs.astro';
 import Gauge from '../Gauge.astro';
+import YaCeny from './YaCeny.astro';
 import type { Entity } from '../../lib/ya';
 import { nicheYa } from '../../lib/ya';
 import { cardLead, strengthsYa, attentionYa, rt, otz, filials } from '../../lib/ya-tekst';
@@ -17,8 +18,10 @@ const { e } = Astro.props;
 const main = e.rows[0];
 const n = nicheYa(main.niche);
 const lead = cardLead(e);
-const title = `${e.name} – отзывы, адрес, место в рейтинге ${CITY.in}`;
-const description = `${lead} Данные Яндекс Карт на ${date(n.date)}.`;
+const title = `${e.label} – отзывы, адрес, место в рейтинге ${CITY.in}`;
+// description ≤160 знаков (SEO-проверка 28.10): место, балл, цифры карт; длинное – режем по слову
+const cut = (s: string, max = 160) => (s.length <= max ? s : s.slice(0, s.lastIndexOf(' ', max - 1)).replace(/[,;:–\s]+$/, '') + '…');
+const description = cut(`${e.label}: ${main.place}-е место в рейтинге «${n.t.crumb}» ${CITY.in}, ${score(main.score)}/10. Яндекс Карты: ${rt(main.rating)}, ${otz(main.reviews)}. Адрес и часы.`);
 const pros = strengthsYa(e);
 const cons = attentionYa(e);
 const domain = (s: string) => s.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '');
@@ -53,7 +56,7 @@ const schema = [
   },
 ];
 ---
-<Base title={title} description={description} schema={schema}>
+<Base title={title} description={description} schema={schema} robots={e.index ? 'index' : 'noindex-follow'}>
   <Crumbs items={[['Главная', '/'], [CITY.name, `/${CITY.slug}/`], [e.name]]} />
 
   <section class="hero">
@@ -105,11 +108,14 @@ const schema = [
         </div>
         <div class="prose">
           <p>Для этой ниши источник один – Яндекс Карты. Оценку и число отзывов сравниваем с другими компаниями рейтинга, свежесть считаем от {date(n.date)}{main.days !== null ? `, с последнего отзыва прошло дней: ${main.days}` : ''}.</p>
+          {main.branches.length > 1 && <p>У сети {filials(main.branches.length)} в рейтинге; балл считаем по главной точке – {main.branches[0].address}, у неё больше всего оценок. Остальные филиалы в балл не входят.</p>}
           <p><a href={u(`/metodika/#${n.key}`)}>Как считали →</a></p>
         </div>
       </div>
     </div>
   </section>
+
+  <YaCeny rows={e.rows} />
 
   <section class="sec">
     <div class="wrap cols-2">
@@ -131,6 +137,7 @@ const schema = [
       <div class="co-list">
         {e.branches.map((b) => (
           <div class="co"><div class="co__body">
+            {e.branches.length > 1 && main.branches[0].id === b.id && <p class="small"><span class="tag">Главная точка – по ней балл</span></p>}
             <dl class="dl">
               <div><dt>Адрес</dt><dd>{b.address} · {b.rayon}</dd></div>
               <div><dt>Часы</dt><dd>{b.allDay ? 'Круглосуточно' : b.hours ? cap(b.hours) : 'не указаны в карточке'}</dd></div>

@@ -1,0 +1,30 @@
+---
+// «Цены на сайте компании» в карточке: услуги «от N ₽» из съёма сайтов (src/data/ceny), ссылка на страницу-источник.
+// В балл не входят. Товарные цены не показываем (отбрасываются в lib/ya.ts).
+import type { YaRow } from '../../lib/ya';
+import { nicheYa } from '../../lib/ya';
+import { rub } from '../../lib/ya-tekst';
+import { date } from '../../lib/format';
+interface Props { rows: YaRow[] }
+const rows = Astro.props.rows.filter((r) => r.prices.length);
+const domain = (s: string) => { try { return new URL(s).hostname.replace(/^www\./, ''); } catch { return s; } };
+const when = rows.length ? nicheYa(rows[0].niche).priceDate : null;
+---
+{rows.length > 0 && (
+  <section class="sec" id="tseny">
+    <div class="wrap stack">
+      <h2>Цены на сайте компании</h2>
+      {rows.map((r) => (
+        <div class="stack">
+          {rows.length > 1 && <p><strong>{nicheYa(r.niche).t.crumb}</strong></p>}
+          <ul class="prices">
+            {r.prices.map((p) => (
+              <li><span>{p.name}</span><span><b>{rub(p.from)}</b> · <a href={p.url} rel="nofollow noopener" target="_blank">{domain(p.url)}</a></span></li>
+            ))}
+          </ul>
+        </div>
+      ))}
+      <p class="small muted">По данным сайта компании на {when ? date(when) : '–'}: цена «от» – как написано на странице-источнике. Точную стоимость уточняйте у компании. В балл рейтинга цены не входят.</p>
+    </div>
+  </section>
+)}

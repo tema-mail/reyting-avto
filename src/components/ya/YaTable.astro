@@ -1,8 +1,11 @@
 ---
-// Таблица топ-10 ниши Яндекса + строка «Ещё в рейтинге» + фильтры (район, круглосуточно, 4,8+, 300+, «Хорошее место», сайт).
+// Таблица топ-20 ниши Яндекса + строка «Ещё в рейтинге» + фильтры (район, круглосуточно, 4,8+, 300+, «Хорошее место», сайт,
+// цены на сайте). Сеть – одна строка: адрес главной точки (по ней балл) и «ещё N филиалов» с адресами.
 // Фильтр только скрывает строки, место не меняет. На телефоне строки – карточки (классы .rt как в старых нишах).
 import type { NicheYa, YaRow } from '../../lib/ya';
-import { flags, FILTERS, rt, otz, filials } from '../../lib/ya-tekst';
+import { flags, FILTERS, rt, otz, rub } from '../../lib/ya-tekst';
+import { TOP } from '../../lib/formula-ya.mjs';
+import { plural } from '../../lib/format';
 import { score, num, date } from '../../lib/format';
 import { u } from '../../lib/url';
 import { RAYONY, OUTSIDE } from '../../lib/rayony.mjs';
@@ -14,7 +17,9 @@ const present = new Set(n.rows.flatMap((r) => r.rayony));
 const rayony = [...RAYONY.filter((r: string) => present.has(r)), ...(present.has(OUTSIDE) ? [OUTSIDE] : [])];
 const filters = FILTERS.filter(([k]) => n.rows.some((r) => flags(r).includes(k)));
 const attrs = (r: YaRow) => ({ 'data-rayony': r.rayony.join('|'), 'data-f': flags(r).join(' ') });
-const where = (r: YaRow) => (r.branches.length > 1 ? `${filials(r.branches.length)}: ${r.rayony.join(", ")}` : `${r.branches[0].address} · ${r.rayony[0]}`);
+const more = (r: YaRow) => r.branches.length - 1;
+const moreLabel = (k: number) => `ещё ${k} ${plural(k, ['филиал', 'филиала', 'филиалов'])}`;
+const hasPrices = n.rows.some((r) => r.prices.length);
 ---
 <div class="flt" data-filter={id} aria-label="Фильтры рейтинга">
   <div class="flt__row">
@@ -33,7 +38,7 @@ const where = (r: YaRow) => (r.branches.length > 1 ? `${filials(r.branches.lengt
 
 <div class="rt-wrap" id={id}>
   <table class="rt rt--ya">
-    <caption class="sr-only">{n.t.h1}: первые 10 мест</caption>
+    <caption class="sr-only">{n.t.h1}: первые {TOP} мест</caption>
     <thead>
       <tr>
         <th scope="col">№</th>
@@ -42,6 +47,7 @@ const where = (r: YaRow) => (r.branches.length > 1 ? `${filials(r.branches.lengt
         <th scope="col">Яндекс Карты</th>
         <th scope="col">Последний отзыв</th>
         <th scope="col">Где</th>
+        {hasPrices && <th scope="col">Цены на сайте</th>}
       </tr>
     </thead>
     <tbody>
@@ -52,7 +58,10 @@ const where = (r: YaRow) => (r.branches.length > 1 ? `${filials(r.branches.lengt
           <td class="sc">{score(r.score)}<Gauge value={r.score} signal={r.place <= 3} /></td>
           <td class="x num" data-l="Яндекс Карты"><span>{rt(r.rating)}<span class="cnt"><span class="dot"> · </span>{otz(r.reviews)}</span></span></td>
           <td class="x num" data-l="Последний отзыв">{r.last ? date(r.last) : <mark class="confirm">нет даты</mark>}</td>
-          <td class="x" data-l="Где">{where(r)}</td>
+          <td class="x" data-l="Где"><span>{r.branches[0].address} · {r.branches[0].rayon}{more(r) > 0 && (
+            <details class="fil"><summary>{moreLabel(more(r))}</summary><ul>{r.branches.slice(1).map((b) => <li>{b.address} · {b.rayon}</li>)}</ul></details>
+          )}</span></td>
+          {hasPrices && <td class="x num" data-l="Цены на сайте">{r.prices.length ? <span title={r.prices[0].name}>{rub(r.prices[0].from)}</span> : <span class="muted">–</span>}</td>}
         </tr>
       ))}
     </tbody>
@@ -62,7 +71,7 @@ const where = (r: YaRow) => (r.branches.length > 1 ? `${filials(r.branches.lengt
       <h3>Ещё в рейтинге</h3>
       <ul class="more-in__list">
         {n.rest.map((r) => (
-          <li {...attrs(r)}><b>{r.place}.</b> {r.url ? <a href={u(r.url)}>{r.display}</a> : r.display} – {score(r.score)} <span class="muted">({rt(r.rating)}, {num(r.reviews)} отз., {r.rayony.join(', ')})</span></li>
+          <li {...attrs(r)}><b>{r.place}.</b> {r.url ? <a href={u(r.url)}>{r.display}</a> : r.display} – {score(r.score)} <span class="muted">({rt(r.rating)}, {num(r.reviews)} отз., {r.rayony.join(', ')}{r.branches.length > 1 && `, ${moreLabel(more(r))}`}{r.prices.length > 0 && `, цены на сайте ${rub(r.prices[0].from)}`})</span></li>
         ))}
       </ul>
     </div>

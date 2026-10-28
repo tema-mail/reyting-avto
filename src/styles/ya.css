@@ -38,3 +38,14 @@
 .nav__mega p { font: 600 11px/1.2 var(--f-mono); letter-spacing: 0.1em; text-transform: uppercase; color: #9aa1a8; margin: 8px 0 2px; padding: 0 12px; }
 .nav__mega a { padding: 7px 12px; font-size: 14px; }
 .nav__mega .nav__all { grid-column: 1 / -1; border-top: 1px solid #3a4048; margin-top: 6px; padding-top: 12px; color: var(--signal); }
+
+/* Сеть: «ещё N филиалов» в таблице; цены с сайтов */
+.fil { margin-top: 4px; font-size: 13px; }
+.fil summary { cursor: pointer; color: var(--steel); text-decoration: underline dotted; }
+.fil ul { margin: 4px 0 0; padding-left: 16px; display: grid; gap: 2px; }
+.prices { list-style: none; padding: 0; display: grid; gap: 6px; }
+.prices li { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 12px; background: var(--card); border: 1px solid var(--line-2); border-radius: var(--r); padding: 10px 12px; overflow-wrap: anywhere; }
+.prices b { font-family: var(--f-mono); white-space: nowrap; }
+/* 30+ рейтингов: 5 колонок групп, меню не выше экрана */
+.nav__mega { position: fixed; top: 64px; left: 50%; right: auto; transform: translateX(-50%); width: min(1180px, calc(100vw - 32px)); grid-template-columns: repeat(5, minmax(0, 1fr)); max-height: calc(100vh - 90px); overflow-y: auto; }
+.nav__mega a { padding: 5px 10px; font-size: 13.5px; line-height: 1.25; }

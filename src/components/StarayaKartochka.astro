@@ -6,6 +6,7 @@ import Crumbs from './Crumbs.astro';
 import Metrics from './Metrics.astro';
 import MapLinks from './MapLinks.astro';
 import Gauge from './Gauge.astro';
+import YaCeny from './ya/YaCeny.astro';
 import { nicheOf, type Company } from '../lib/reyting';
 import { placesOfOld, nicheYa } from '../lib/ya';
 import { CARDS } from '../data/kartochki';
@@ -13,7 +14,7 @@ import { strengths, attention } from '../lib/fakty';
 import { WEIGHTS } from '../lib/formula.mjs';
 import { CITY, PUBLISHED } from '../lib/site';
 import { score, rating, num, date, plural, telHref } from '../lib/format';
-import { md } from '../lib/md';
+import { md, real } from '../lib/md';
 import { u, abs } from '../lib/url';
 
 interface Props { c: Company }
@@ -26,9 +27,11 @@ const domain = (s: string) => s.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$
 const priceNums = c.prices.filter((p) => !/^магнитола/i.test(p)).map((p) => Number((p.match(/(\d[\d\s]*)\s*₽/) || [])[1]?.replace(/\s/g, ''))).filter(Boolean);
 const priceFrom = priceNums.length ? Math.min(...priceNums) : 0;
 const title = k.title || `${brand} – отзывы, цены, адрес ${CITY.in}`;
-const description =
+// ≤160 знаков (SEO-проверка 28.10): без хвоста с датой, если не влезает
+const descFull =
   k.description ||
   `${brand} ${CITY.in}: ${rating(c.y.rating)} на Яндекс Картах (${num(c.y.reviews)} ${plural(c.y.reviews, ['отзыв', 'отзыва', 'отзывов'])}), ${rating(c.g.rating)} в 2ГИС, ${c.place}-е место в рейтинге «${n.t.crumb}».${priceFrom ? ` Цены от ${num(priceFrom)} ₽.` : ''} Данные на ${date(n.date)}.`;
+const description = descFull.length <= 160 ? descFull : descFull.replace(/ Данные на [\d.]+\.$/, '');
 const similar = n.companies.filter((x) => x.slug !== c.slug).sort((a, b) => Math.abs(a.place - c.place) - Math.abs(b.place - c.place) || a.place - b.place).slice(0, 3).sort((a, b) => a.place - b.place);
 const parts: [string, number, number][] = [
   ['Оценка на картах', c.parts.rating, WEIGHTS.rating],
@@ -119,6 +122,8 @@ const schema = [
     </div>
   </section>
 
+  <YaCeny rows={more} />
+
   <section class="sec">
     <div class="wrap stack">
       <h2>Услуги и цены</h2>
@@ -167,16 +172,18 @@ const schema = [
     </div>
   </section>
 
+  {real(k.reviews) && (
   <section class="sec">
     <div class="wrap stack">
       <h2>Отзывы с Яндекс Карт и 2ГИС</h2>
-      <p set:html={md(k.reviews || '{?2 свежих отзыва с датой, оценкой и источником?}')} />
+      <p set:html={md(k.reviews)} />
       <ul class="links">
         {c.y.cards.map((h, i) => <li><a href={h} rel="nofollow noopener" target="_blank">Все отзывы на Яндекс Картах{c.y.cards.length > 1 ? ` – ${c.addresses[i] || ''}` : ''} →</a></li>)}
         {c.g.cards.map((h, i) => <li><a href={h} rel="nofollow noopener" target="_blank">Все отзывы в 2ГИС{c.g.cards.length > 1 ? ` – ${c.addresses[i] || ''}` : ''} →</a></li>)}
       </ul>
     </div>
   </section>
+  )}
 
   <section class="sec">
     <div class="wrap stack">

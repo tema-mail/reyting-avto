@@ -1,5 +1,6 @@
 // Модель ниш «только Яндекс Карты»: съём src/data/source/avto/<ключ>.json + отбор (otbor.mjs) + формула (formula-ya.mjs)
-// + тексты src/data/nishi/<ключ>.ts. Компании из топ-10 получают карточку; одна компания в нескольких нишах –
+// + тексты src/data/nishi/<ключ>.ts + цены с сайтов src/data/ceny/<ключ>.json (в балл не входят).
+// Компании из топ-20 получают карточку; одна компания в нескольких нишах –
 // одна карточка (связь по id организаций Яндекса), в том числе со старыми карточками ниш Я+2ГИС.
 import { computeYa, TOP } from './formula-ya.mjs';
 import { NICHES_YA } from './otbor.mjs';
@@ -10,6 +11,7 @@ import { slugify } from './slug';
 import { CITY } from './site';
 
 const SRC = import.meta.glob('../data/source/avto/*.json', { eager: true, import: 'default' }) as Record<string, any>;
+const CENY = import.meta.glob('../data/ceny/*.json', { eager: true, import: 'default' }) as Record<string, any>;
 const TXT = import.meta.glob(['../data/nishi/*.ts', '!../data/nishi/tip.ts'], { eager: true, import: 'default' }) as Record<string, NicheTextYa>;
 
 export interface Branch {
@@ -30,6 +32,13 @@ export interface Branch {
   card: string;
   good: boolean;
   owner: boolean;
+}
+
+/** Цена «от» с сайта компании (только услуги; товары в нишах услуг не показываем). */
+export interface Price {
+  name: string;
+  from: number;
+  url: string;
 }
 
 export interface YaRow {
@@ -54,7 +63,9 @@ export interface YaRow {
   branches: Branch[];
   ids: string[];
   rayony: string[];
-  url: string | null; // карточка на сайте (топ-10 или уже есть карточка)
+  url: string | null; // карточка на сайте (топ-20 или уже есть карточка)
+  prices: Price[]; // по возрастанию цены; пусто – цен на сайте не нашли
+  priceFrom: number | null;
   entity?: Entity;
 }
 
@@ -75,6 +86,8 @@ export interface NicheYa {
   top: YaRow[];
   rest: YaRow[];
   reviews: number;
+  priceDate: string | null; // дата съёма цен; null – цен для ниши нет
+  byRayon: boolean; // поиск шёл по городу и по 10 районам (у компаний есть поле «найдено_по»)
 }
 
 export interface Entity {
@@ -84,6 +97,8 @@ export interface Entity {
   oldSlug: string | null; // карточка старой ниши (Я+2ГИС)
   rows: YaRow[]; // места в нишах Яндекса, лучшее место первым
   branches: Branch[];
+  label: string; // имя для title: при совпадении названий – с улицей или нишей
+  index: boolean; // индексировать: есть цены с сайта или топ-5 хотя бы одного рейтинга (иначе noindex, follow)
 }
 
 const branchOf = (c: any): Branch => ({
@@ -106,6 +121,27 @@ const branchOf = (c: any): Branch => ({
   owner: !!c['владелец_подтвердил'],
 });
 
+/** Цены компании из съёма ниши: ищем по id главной точки, затем остальных филиалов. */
+function pricesOf(ceny: any, ids: string[]): Price[] {
+  if (!ceny) return [];
+  for (const id of ids) {
+    const c = ceny['компании'].find((x: any) => String(x.id) === String(id));
+    if (!c) continue;
+    const seen = new Set<string>();
+    const out: Price[] = [];
+    for (const p of c['цены'] || []) {
+      if (p['вид'] !== 'услуга' || !(p['от_руб'] > 0) || !p.url) continue;
+      const name = String(p['услуга']).replace(/\s+/g, ' ').trim();
+      const k = `${name.toLowerCase()}|${p['от_руб']}`;
+      if (seen.has(k)) continue;
+      seen.add(k);
+      out.push({ name, from: p['от_руб'], url: p.url });
+    }
+    if (out.length) return out.sort((a, b) => a.from - b.from);
+  }
+  return [];
+}
+
 function build(): NicheYa[] {
   return Object.entries(NICHES_YA).map(([key, cfg]: [string, any]) => {
     const src = SRC[`../data/source/avto/${key}.json`];
@@ -113,7 +149,11 @@ function build(): NicheYa[] {
     const t = TXT[`../data/nishi/${key}.ts`];
     if (!t) throw new Error(`Нет текстов ниши ${key}`);
     if (t.key !== key) throw new Error(`Тексты ${key}: key = ${t.key}`);
+    // H1 по SEO-проверке 28.10: «{Ниша} в Новосибирске – рейтинг лучших {кого} {год}», как у магнитол
+    const year = src['дата_съёма'].slice(0, 4);
+    const tt: NicheTextYa = { ...t, h1: `${t.crumb} ${CITY.in} – рейтинг лучших ${cfg.who[2]} ${year}` };
     const r = computeYa(src, cfg);
+    const ceny = CENY[`../data/ceny/${key}.json`] || null;
     const rows: YaRow[] = r.rows.map((x: any) => {
       const branches = x.branches.map(branchOf);
       return {
@@ -139,13 +179,16 @@ function build(): NicheYa[] {
         ids: x.ids,
         rayony: [...new Set(branches.map((b: Branch) => b.rayon))] as string[],
         url: null,
+        prices: pricesOf(ceny, x.ids),
+        priceFrom: null,
       };
     });
+    for (const x of rows) x.priceFrom = x.prices.length ? x.prices[0].from : null;
     return {
       kind: 'ya' as const,
       key,
       url: `/${CITY.slug}/${key}/`,
-      t,
+      t: tt,
       group: cfg.group,
       schema: cfg.schema,
       who: cfg.who,
@@ -158,6 +201,8 @@ function build(): NicheYa[] {
       top: rows.slice(0, TOP),
       rest: rows.slice(TOP),
       reviews: rows.reduce((s, x) => s + x.reviews, 0),
+      priceDate: ceny ? ceny['дата_съёма'] : null,
+      byRayon: src['компании'].some((c: any) => Array.isArray(c['найдено_по']) ? c['найдено_по'].length > 0 : !!c['найдено_по']),
     };
   });
 }
@@ -209,15 +254,28 @@ function entities(): Entity[] {
     }
     used.add(slug);
     const old = oldSlug ? COMPANIES.find((c) => c.slug === oldSlug)! : null;
-    const e: Entity = { slug, url: `/${CITY.slug}/kompanii/${slug}/`, name: old ? old.t.brand : lead.display, oldSlug, rows: g, branches };
+    const name = old ? old.t.brand : lead.display;
+    const index = g.some((r) => r.prices.length > 0 || r.place <= 5);
+    const e: Entity = { slug, url: `/${CITY.slug}/kompanii/${slug}/`, name, oldSlug, rows: g, branches, label: name, index };
     for (const r of g) {
       r.url = e.url;
       r.entity = e;
     }
     out.push(e);
   }
+  // одинаковые названия у разных карточек – в title добавляем улицу главной точки, затем нишу
+  const key = (s: string) => s.toLowerCase().replace(/ё/g, 'е').trim();
+  const allNames = [...out.filter((e) => !e.oldSlug).map((e) => e.name), ...COMPANIES.map((c) => c.t.brand)].map(key);
+  for (const e of out) {
+    if (e.oldSlug || allNames.filter((x) => x === key(e.name)).length < 2) continue;
+    const street = e.branches[0].address.split(',')[0];
+    e.label = e.name.includes(street) ? `${e.name}, ${nicheCrumb(e.rows[0].niche)}` : `${e.name}, ${street}`;
+  }
+  const labels = out.map((e) => key(e.label));
+  for (const e of out) if (labels.filter((x) => x === key(e.label)).length > 1) e.label = `${e.label}, ${nicheCrumb(e.rows[0].niche).toLowerCase()}`;
   return out.sort((a, b) => a.slug.localeCompare(b.slug));
 }
+const nicheCrumb = (k: string) => NICHES_YA_PUB.find((n) => n.key === k)!.t.crumb;
 
 const STATS = { groups: 0, matchedOld: 0 };
 export const ENTITIES: Entity[] = entities();
@@ -225,9 +283,10 @@ export const ENTITIES: Entity[] = entities();
 /** Уникальные компании и отзывы Яндекса по всем рейтингам (компания в нескольких нишах – один раз). */
 export function uniqueTotals(oldCompanies: { y: { reviews: number; cards: string[] } }[]) {
   const reviews = new Map<string, number>();
-  for (const n of NICHES_YA_PUB) for (const r of n.rows) for (const b of r.branches) reviews.set(b.id, b.reviews);
+  for (const n of NICHES_YA_PUB) for (const r of n.rows) reviews.set(r.branches[0].id, r.branches[0].reviews); // в балл идёт главная точка сети
+  const all = new Set(NICHES_YA_PUB.flatMap((n) => n.rows.flatMap((r) => r.ids)));
   let yaReviews = [...reviews.values()].reduce((s, x) => s + x, 0);
-  for (const c of oldCompanies) if (!c.y.cards.some((u) => reviews.has(idOf(u)!))) yaReviews += c.y.reviews;
+  for (const c of oldCompanies) if (!c.y.cards.some((u) => all.has(idOf(u)!))) yaReviews += c.y.reviews;
   return { companies: STATS.groups + oldCompanies.length - STATS.matchedOld, yaReviews };
 }
 /** Новые карточки (у компаний старых ниш карточка уже есть – туда добавляются места). */
