@@ -1,0 +1,169 @@
+---
+// Карточка компании из ниш Яндекса: брендовый запрос («<название> отзывы, адрес»). Описание, сильные стороны и
+// замечания собираются из данных по одному правилу (lib/ya-tekst.ts), текст рейтинга не копируется.
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../Crumbs.astro';
+import Gauge from '../Gauge.astro';
+import type { Entity } from '../../lib/ya';
+import { nicheYa } from '../../lib/ya';
+import { cardLead, strengthsYa, attentionYa, rt, otz, filials } from '../../lib/ya-tekst';
+import { W_YA } from '../../lib/formula-ya.mjs';
+import { CITY, PUBLISHED } from '../../lib/site';
+import { score, num, date, telHref } from '../../lib/format';
+import { u, abs } from '../../lib/url';
+
+interface Props { e: Entity }
+const { e } = Astro.props;
+const main = e.rows[0];
+const n = nicheYa(main.niche);
+const lead = cardLead(e);
+const title = `${e.name} – отзывы, адрес, место в рейтинге ${CITY.in}`;
+const description = `${lead} Данные Яндекс Карт на ${date(n.date)}.`;
+const pros = strengthsYa(e);
+const cons = attentionYa(e);
+const domain = (s: string) => s.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '');
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+const parts: [string, number, number][] = [
+  ['Оценка на Яндекс Картах', main.parts.rating, W_YA.rating],
+  ['Число отзывов', main.parts.reviews, W_YA.reviews],
+  ['Свежесть отзывов', main.parts.fresh, W_YA.fresh],
+  ['Открытость карточки', main.parts.open, W_YA.open],
+];
+const similar = n.rows.filter((x) => x !== main && x.url).sort((a, b) => Math.abs(a.place - main.place) - Math.abs(b.place - main.place)).slice(0, 3).sort((a, b) => a.place - b.place);
+const site = Astro.site;
+const pageUrl = abs(e.url, site);
+const schema = [
+  { '@type': 'WebPage', '@id': pageUrl + '#page', url: pageUrl, name: title, description, inLanguage: 'ru', datePublished: PUBLISHED, dateModified: n.date, publisher: { '@id': abs('/', site) + '#org' }, about: { '@id': pageUrl + '#company' } },
+  {
+    '@type': n.schema,
+    '@id': pageUrl + '#company',
+    name: e.name,
+    address: e.branches.map((b) => ({ '@type': 'PostalAddress', streetAddress: b.address, addressLocality: CITY.name, addressCountry: 'RU' })),
+    telephone: [...new Set(e.branches.flatMap((b) => b.phones))],
+    ...(e.branches.find((b) => b.site) ? { url: e.branches.find((b) => b.site)!.site } : {}),
+    sameAs: e.branches.map((b) => b.card),
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) },
+      { '@type': 'ListItem', position: 2, name: CITY.name, item: abs(`/${CITY.slug}/`, site) },
+      { '@type': 'ListItem', position: 3, name: e.name, item: pageUrl },
+    ],
+  },
+];
+---
+<Base title={title} description={description} schema={schema}>
+  <Crumbs items={[['Главная', '/'], [CITY.name, `/${CITY.slug}/`], [e.name]]} />
+
+  <section class="hero">
+    <div class="wrap card-head">
+      <div class="stack">
+        <p class="label">Карточка компании · данные на {date(n.date)}</p>
+        <h1>{e.name}</h1>
+        <p class="sub">{e.branches.length > 1 ? filials(e.branches.length) : e.branches[0].address} · {[...new Set(e.branches.map((b) => b.rayon))].join(', ')}</p>
+        <p class="lead">{lead}</p>
+        <div class="metrics">
+          <div class="metric"><em>Яндекс Карты</em><b>{rt(main.rating)}</b><span>{num(main.ratings)} оценок · {otz(main.reviews)}</span></div>
+          <div class="metric"><em>Последний отзыв</em><b>{main.last ? date(main.last) : '–'}</b><span>за 12 месяцев – {main.recent} среди загруженных</span></div>
+        </div>
+        <div class="btns">
+          {e.branches[0].phones[0] && <a class="btn btn--sm" href={telHref(e.branches[0].phones[0])}>Позвонить</a>}
+          {e.branches.find((b) => b.site) && <a class="btn btn--sm btn--ghost" href={e.branches.find((b) => b.site)!.site} rel="nofollow noopener" target="_blank">Сайт</a>}
+          <a class="btn btn--sm btn--ghost" href={e.branches[0].card} rel="nofollow noopener" target="_blank">Яндекс Карты</a>
+        </div>
+      </div>
+      <aside class="board" aria-label="Балл">
+        <p class="board__h"><span>{n.t.crumb}</span><span>место {main.place} из {n.rows.length}</span></p>
+        <div class="board__row" style="border-top:0">
+          <span class="board__pos">{String(main.place).padStart(2, '0')}</span>
+          <span class="board__name">Балл по формуле</span>
+          <span class="board__score">{score(main.score)}<small>/10</small></span>
+          <Gauge value={main.score} signal />
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap stack-lg">
+      <div class="sec__head"><h2>Место в рейтингах</h2></div>
+      <div class="tbl-wrap">
+        <table class="tbl">
+          <thead><tr><th scope="col">Рейтинг</th><th scope="col">Место</th><th scope="col">Балл</th></tr></thead>
+          <tbody>
+            {e.rows.map((r) => { const y = nicheYa(r.niche); return <tr><td><a href={u(y.url)}>{y.t.crumb} {CITY.in}</a></td><td class="num">{r.place} из {y.rows.length}</td><td class="num">{score(r.score)}/10</td></tr>; })}
+          </tbody>
+        </table>
+      </div>
+      <div class="cols-2">
+        <div class="parts" aria-label="Части балла">
+          {parts.map(([name, v, w]) => (
+            <div class="part"><span>{name} · вес {Math.round(w * 100)}%</span><b>{num(v, 2)}</b><Gauge value={v * 10} /></div>
+          ))}
+          <p class="small muted">Рейтинг «{n.t.crumb}». Каждая часть – от 0 до 1. Балл = 10 × сумма частей с весами = {num(main.raw, 2)} → {score(main.score)}.</p>
+        </div>
+        <div class="prose">
+          <p>Для этой ниши источник один – Яндекс Карты. Оценку и число отзывов сравниваем с другими компаниями рейтинга, свежесть считаем от {date(n.date)}{main.days !== null ? `, с последнего отзыва прошло дней: ${main.days}` : ''}.</p>
+          <p><a href={u(`/metodika/#${n.key}`)}>Как считали →</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap cols-2">
+      <div class="stack">
+        <h2>Сильные стороны и на что обратить внимание</h2>
+        <p><strong>Сильные стороны по данным:</strong></p>
+        {pros.length ? <ul class="pros">{pros.map((p) => <li>{p}</li>)}</ul> : <p class="muted">Выделяющихся цифр нет.</p>}
+      </div>
+      <div class="stack" style="align-content:end">
+        <p><strong>На что обратить внимание:</strong></p>
+        {cons.length ? <ul class="stack" style="padding:0;list-style:none">{cons.map((p) => <li class="warn">{p}</li>)}</ul> : <p class="muted">По данным съёма замечаний нет.</p>}
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap stack">
+      <h2>{e.branches.length > 1 ? 'Адреса и часы работы' : 'Адрес и часы работы'}</h2>
+      <div class="co-list">
+        {e.branches.map((b) => (
+          <div class="co"><div class="co__body">
+            <dl class="dl">
+              <div><dt>Адрес</dt><dd>{b.address} · {b.rayon}</dd></div>
+              <div><dt>Часы</dt><dd>{b.allDay ? 'Круглосуточно' : b.hours ? cap(b.hours) : 'не указаны в карточке'}</dd></div>
+              <div><dt>Телефон</dt><dd>{b.phones.length ? b.phones.map((p, i) => <>{i > 0 && '; '}<a href={telHref(p)}>{p}</a></>) : 'нет в карточке'}</dd></div>
+              <div><dt>Сайт</dt><dd>{b.site ? <a href={b.site} rel="nofollow noopener" target="_blank">{domain(b.site)}</a> : 'нет в карточке'}</dd></div>
+              <div><dt>Яндекс Карты</dt><dd>{rt(b.rating)}, {otz(b.reviews)} · <a href={b.card} rel="nofollow noopener" target="_blank">все отзывы →</a></dd></div>
+              <div><dt>Рубрики</dt><dd>{b.rubrics.join(', ')}</dd></div>
+            </dl>
+          </div></div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {similar.length > 0 && (
+    <section class="sec">
+      <div class="wrap stack">
+        <h2>Похожие компании {CITY.in}</h2>
+        <ul class="links">
+          {similar.map((s) => <li><a href={u(s.url!)}>{s.display}</a> – {s.place}-е место, {score(s.score)}/10, {otz(s.reviews)}</li>)}
+        </ul>
+        <p><a href={u(n.url)}>Весь рейтинг «{n.t.crumb}» →</a></p>
+      </div>
+    </section>
+  )}
+
+  <section class="sec sec--dark">
+    <div class="wrap cta-band">
+      <div class="stack">
+        <h2>Это ваша компания?</h2>
+        <p>Если данные устарели (часы, телефон, сайт), пришлите правку со ссылкой на источник. Мы проверим и обновим карточку при следующем съёме. Место считает формула, его нельзя купить или сдвинуть по просьбе.</p>
+      </div>
+      <a class="btn btn--signal" href={u('/dobavit-kompaniyu/')}>Уточнить данные</a>
+    </div>
+  </section>
+</Base>

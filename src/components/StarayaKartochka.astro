@@ -1,23 +1,21 @@
 ---
 // Карточка компании /novosibirsk/kompanii/<slug>/ – брендовый запрос («<название> отзывы, адрес»), без «лучший/топ».
 // H2 по SEO-заданию: Место в рейтингах → Услуги и цены → Марки и модели → Сильные стороны → Отзывы → Адрес → Похожие → Это ваша компания?
-import Base from '../../../layouts/Base.astro';
-import Crumbs from '../../../components/Crumbs.astro';
-import Metrics from '../../../components/Metrics.astro';
-import MapLinks from '../../../components/MapLinks.astro';
-import Gauge from '../../../components/Gauge.astro';
-import { COMPANIES, nicheOf, type Company } from '../../../lib/reyting';
-import { CARDS } from '../../../data/kartochki';
-import { strengths, attention } from '../../../lib/fakty';
-import { WEIGHTS } from '../../../lib/formula.mjs';
-import { CITY, PUBLISHED } from '../../../lib/site';
-import { score, rating, num, date, plural, telHref } from '../../../lib/format';
-import { md } from '../../../lib/md';
-import { u, abs } from '../../../lib/url';
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import Metrics from './Metrics.astro';
+import MapLinks from './MapLinks.astro';
+import Gauge from './Gauge.astro';
+import { nicheOf, type Company } from '../lib/reyting';
+import { placesOfOld, nicheYa } from '../lib/ya';
+import { CARDS } from '../data/kartochki';
+import { strengths, attention } from '../lib/fakty';
+import { WEIGHTS } from '../lib/formula.mjs';
+import { CITY, PUBLISHED } from '../lib/site';
+import { score, rating, num, date, plural, telHref } from '../lib/format';
+import { md } from '../lib/md';
+import { u, abs } from '../lib/url';
 
-export function getStaticPaths() {
-  return COMPANIES.map((c) => ({ params: { slug: c.slug }, props: { c } }));
-}
 interface Props { c: Company }
 const { c } = Astro.props;
 const n = nicheOf(c);
@@ -41,6 +39,7 @@ const parts: [string, number, number][] = [
 ];
 const pros = k.strengths || strengths(c);
 const cons = k.attention || attention(c);
+const more = placesOfOld(c.slug);
 const hours = c.hours.replace(/^./, (m) => m.toUpperCase());
 const site = Astro.site;
 const pageUrl = abs(c.url, site);
@@ -98,7 +97,10 @@ const schema = [
       <div class="tbl-wrap">
         <table class="tbl">
           <thead><tr><th scope="col">Рейтинг</th><th scope="col">Место</th><th scope="col">Балл</th></tr></thead>
-          <tbody><tr><td><a href={u(n.url)}>{n.t.crumb} {CITY.in}</a></td><td class="num">{c.place} из {n.companies.length}</td><td class="num">{score(c.score)}/10</td></tr></tbody>
+          <tbody>
+            <tr><td><a href={u(n.url)}>{n.t.crumb} {CITY.in}</a></td><td class="num">{c.place} из {n.companies.length}</td><td class="num">{score(c.score)}/10</td></tr>
+            {more.map((r) => { const y = nicheYa(r.niche); return <tr><td><a href={u(y.url)}>{y.t.crumb} {CITY.in}</a> <span class="small muted">(только Яндекс Карты)</span></td><td class="num">{r.place} из {y.rows.length}</td><td class="num">{score(r.score)}/10</td></tr>; })}
+          </tbody>
         </table>
       </div>
       <div class="cols-2">
