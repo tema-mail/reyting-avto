@@ -6,7 +6,7 @@
 
 - Тест: https://tema-mail.github.io/reyting-avto/ (весь сайт noindex)
 - Исходники текстов, карты и данных: `~/Sites/reytingi/docs` (karta-avto.md, teksty-avto.md, dannye/)
-- Решения и открытые вопросы: `docs/resheniya.md`
+- Решения и открытые вопросы: `~/Sites/reytingi/docs/sayty/resheniya-avto.md (закрытый репо)`
 
 ## Где что
 - `src/data/source/*.json` – съём 25.10.2026 (копия itog.json), `src/lib/formula.mjs` – формула v2, `src/lib/reyting.ts` – модель двух старых ниш.

@@ -1,5 +1,5 @@
 // Сверка: баллы, посчитанные формулой из сырых полей, против чисел в текстах
-// (~/Sites/reytingi/docs/marketing/teksty-avto.md, 25.10.2026). Известные расхождения – в docs/resheniya.md.
+// (~/Sites/reytingi/docs/marketing/teksty-avto.md, 25.10.2026). Известные расхождения – в ~/Sites/reytingi/docs/sayty/resheniya-avto.md (закрытый репо).
 import { readFileSync } from 'node:fs';
 import { computeNiche } from '../src/lib/formula.mjs';
 
@@ -36,7 +36,7 @@ for (const n of NICHES) {
   }
 }
 if (bad) {
-  console.error(`\nРасхождений без объяснения: ${bad}. Разобрать и записать в docs/resheniya.md.`);
+  console.error(`\nРасхождений без объяснения: ${bad}. Разобрать и записать в ~/Sites/reytingi/docs/sayty/resheniya-avto.md (закрытый репо).`);
   process.exit(1);
 }
 console.log('\nБаллы совпадают с текстами (кроме известных расхождений).');

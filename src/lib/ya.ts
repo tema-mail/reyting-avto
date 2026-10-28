@@ -165,7 +165,7 @@ function build(): NicheYa[] {
 const ALL_YA = build();
 /** Опубликованные ниши (5 и больше компаний прошли отбор). */
 export const NICHES_YA_PUB: NicheYa[] = ALL_YA.filter((n) => n.published);
-/** Не прошли порог – на сайте их нет, причина в docs/resheniya.md и на /metodika/. */
+/** Не прошли порог – на сайте их нет, причина в ~/Sites/reytingi/docs/sayty/resheniya-avto.md (закрытый репо) и на /metodika/. */
 export const NICHES_YA_HIDDEN: NicheYa[] = ALL_YA.filter((n) => !n.published);
 
 const idOf = (url: string) => (url.match(/\/(\d+)\/?$/) || [])[1];
