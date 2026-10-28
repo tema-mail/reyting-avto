@@ -1,0 +1,2546 @@
+{
+ "ниша": "Автосвет и ремонт фар",
+ "ключ": "avtosvet",
+ "запросы": [
+  "замена линз в фарах",
+  "ремонт фар"
+ ],
+ "найдено_в_яндексе": {
+  "замена линз в фарах": 10,
+  "ремонт фар": 67,
+  "замена линз в фарах Центральный район": 5,
+  "замена линз в фарах Железнодорожный район": 13,
+  "замена линз в фарах Заельцовский район": 12,
+  "замена линз в фарах Дзержинский район": 17,
+  "замена линз в фарах Калининский район": 8,
+  "замена линз в фарах Октябрьский район": 24,
+  "замена линз в фарах Первомайский район": 17,
+  "замена линз в фарах Кировский район": 24,
+  "замена линз в фарах Ленинский район": 17,
+  "замена линз в фарах Советский район": 4
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "1252735200",
+   "название": "Reaktor",
+   "seoname": "reaktor",
+   "адрес": "ул. Писарева, 73, Новосибирск",
+   "координаты": [
+    82.925053,
+    55.049581
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1832,
+   "отзывов": 1141,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nsk.reaktor24.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-50-89"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reaktor/1252735200/",
+   "последний_отзыв": "2026-09-27",
+   "отзывов_за_12_мес_из_загруженных": 70,
+   "загружено_дат": 76
+  },
+  {
+   "id": "1018288258",
+   "название": "Топ Моторс",
+   "seoname": "top_motors",
+   "адрес": "Днепрогэсовская ул., 9/1",
+   "координаты": [
+    82.981003,
+    54.992587
+   ],
+   "рейтинг": 5,
+   "оценок": 1407,
+   "отзывов": 932,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://topmotors-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 227-72-88"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосигнализация",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/top_motors/1018288258/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 59,
+   "загружено_дат": 90
+  },
+  {
+   "id": "1094657253",
+   "название": "Авто Экспресс Сервис",
+   "seoname": "avto_ekspress_servis",
+   "адрес": "ул. Писарева, 147А",
+   "координаты": [
+    82.94108,
+    55.051123
+   ],
+   "рейтинг": 4.3,
+   "оценок": 804,
+   "отзывов": 340,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.r54.su/",
+    "http://www.razval54.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 375-70-00",
+    "+7 (383) 292-00-52",
+    "+7 (383) 375-15-37"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_ekspress_servis/1094657253/",
+   "последний_отзыв": "2026-09-15",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 63
+  },
+  {
+   "id": "101900660693",
+   "название": "Ксеноншоп54",
+   "seoname": "ksenonshop54",
+   "адрес": "ул. Аэропорт, 27Б",
+   "координаты": [
+    82.898396,
+    55.08132
+   ],
+   "рейтинг": 4.9,
+   "оценок": 540,
+   "отзывов": 288,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://xenonshop54.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 247-81-82"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ksenonshop54/101900660693/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 45,
+   "загружено_дат": 72
+  },
+  {
+   "id": "1382319992",
+   "название": "Tls service",
+   "seoname": "tls_service",
+   "адрес": "ул. Жуковского, 96/2",
+   "координаты": [
+    82.893145,
+    55.070133
+   ],
+   "рейтинг": 4.4,
+   "оценок": 695,
+   "отзывов": 285,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://toyota-lexus.su/"
+   ],
+   "телефоны": [
+    "+7 (383) 258-02-21"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "installation",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repairs",
+    "service_maintenance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tls_service/1382319992/",
+   "последний_отзыв": "2026-10-01",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 88
+  },
+  {
+   "id": "236196212065",
+   "название": "Ксенон 54",
+   "seoname": "ksenon_54",
+   "адрес": "Тульская ул., 137/2, Новосибирск",
+   "координаты": [
+    82.909847,
+    54.973758
+   ],
+   "рейтинг": 5,
+   "оценок": 505,
+   "отзывов": 244,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://xenon54.2gis.biz/"
+   ],
+   "телефоны": [
+    "+7 (913) 743-77-77",
+    "+7 (383) 375-20-20"
+   ],
+   "часы": "ежедневно, 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосвет",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "additional_equipment_installation",
+    "authorized_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "motorsport_equipment",
+    "parking_disabled",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ksenon_54/236196212065/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 78
+  },
+  {
+   "id": "1095851133",
+   "название": "Экспресс-сервис",
+   "seoname": "ekspress_servis",
+   "адрес": "ул. Николая Островского, 101",
+   "координаты": [
+    82.933339,
+    55.051875
+   ],
+   "рейтинг": 4.3,
+   "оценок": 387,
+   "отзывов": 191,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://express-service.su/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-90-54",
+    "+7 (383) 310-47-65"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekspress_servis/1095851133/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 66
+  },
+  {
+   "id": "114553311009",
+   "название": "Автовыхлоп",
+   "seoname": "avtovykhlop",
+   "адрес": "ул. Богдана Хмельницкого, 1/2",
+   "координаты": [
+    82.934064,
+    55.06693
+   ],
+   "рейтинг": 5,
+   "оценок": 291,
+   "отзывов": 162,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtovyhlop54.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-55-15"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtovykhlop/114553311009/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 88
+  },
+  {
+   "id": "27749514115",
+   "название": "Ксеноншоп54",
+   "seoname": "ksenonshop54",
+   "адрес": "ул. Александры Плотниковой, 26",
+   "координаты": [
+    82.849774,
+    54.974677
+   ],
+   "рейтинг": 5,
+   "оценок": 200,
+   "отзывов": 125,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://xenonshop54.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 247-81-82"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ksenonshop54/27749514115/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 44,
+   "загружено_дат": 71
+  },
+  {
+   "id": "1050010751",
+   "название": "Виста",
+   "seoname": "vista",
+   "адрес": "ул. Стофато, 34",
+   "координаты": [
+    82.981656,
+    55.033511
+   ],
+   "рейтинг": 4.6,
+   "оценок": 299,
+   "отзывов": 120,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://vista54.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 916-42-37",
+    "+7 (383) 292-42-37",
+    "+7 (913) 735-55-31"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vista/1050010751/",
+   "последний_отзыв": "2026-09-12",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 58
+  },
+  {
+   "id": "1065278816",
+   "название": "Большой Авто Ремонтный Сервис",
+   "seoname": "bolshoy_avto_remontny_servis",
+   "адрес": "ул. Фрунзе, 104А",
+   "координаты": [
+    82.938075,
+    55.036953
+   ],
+   "рейтинг": 4.3,
+   "оценок": 235,
+   "отзывов": 104,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://servis-bars.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 367-11-00"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "покраска автомобилей",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "airbrushing",
+    "anti_corrosion_treatment",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "raptor_painting",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bolshoy_avto_remontny_servis/1065278816/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 85
+  },
+  {
+   "id": "96457209832",
+   "название": "Zb-service",
+   "seoname": "zb_service",
+   "адрес": "ул. Богдана Хмельницкого, 1/1",
+   "координаты": [
+    82.933436,
+    55.066442
+   ],
+   "рейтинг": 4.9,
+   "оценок": 145,
+   "отзывов": 99,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автосервис-калининский.рф/",
+    "https://wa.clck.bar/79231183636"
+   ],
+   "телефоны": [
+    "+7 (923) 117-36-36"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zb_service/96457209832/",
+   "последний_отзыв": "2026-09-14",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 62
+  },
+  {
+   "id": "36224863469",
+   "название": "AllService",
+   "seoname": "allservice",
+   "адрес": "ул. Писарева, 121, корп. 1",
+   "координаты": [
+    82.935002,
+    55.050844
+   ],
+   "рейтинг": 4.9,
+   "оценок": 174,
+   "отзывов": 79,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://allservice54.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 247-87-27",
+    "+7 (952) 912-46-64"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/allservice/36224863469/",
+   "последний_отзыв": "2026-06-20",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 72
+  },
+  {
+   "id": "16460409425",
+   "название": "vws.pro",
+   "seoname": "vws_pro",
+   "адрес": "Инская ул., 69",
+   "координаты": [
+    82.93679,
+    55.010433
+   ],
+   "рейтинг": 5,
+   "оценок": 196,
+   "отзывов": 78,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://vwspro.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 452-99-58",
+    "+7 (999) 452-99-59"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vws_pro/16460409425/",
+   "последний_отзыв": "2026-10-18",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 75
+  },
+  {
+   "id": "117586712712",
+   "название": "Арв-сервис",
+   "seoname": "arv_servis",
+   "адрес": "ул. Николая Островского, 188",
+   "координаты": [
+    82.948309,
+    55.052232
+   ],
+   "рейтинг": 4.3,
+   "оценок": 118,
+   "отзывов": 69,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://arv-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-42-05",
+    "+7 (913) 985-58-58",
+    "+7 (913) 980-10-24"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/arv_servis/117586712712/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 48
+  },
+  {
+   "id": "220777953814",
+   "название": "Allcar54",
+   "seoname": "allcar54",
+   "адрес": "ул. Связистов, 12Б, корп. 23, Новосибирск",
+   "координаты": [
+    82.833787,
+    54.988071
+   ],
+   "рейтинг": 4.8,
+   "оценок": 125,
+   "отзывов": 59,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://antikor154.ru/",
+    "https://allcar154.ru/remont-rulevoy-reyki-v-novosibirske"
+   ],
+   "телефоны": [
+    "+7 (983) 001-86-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "guarantee",
+    "hybrid_car_repair",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/allcar54/220777953814/",
+   "последний_отзыв": "2026-07-12",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 68
+  },
+  {
+   "id": "142705347238",
+   "название": "НСК Авто 54",
+   "seoname": "nsk_avto_54",
+   "адрес": "Первомайская ул., 140, корп. 3, Новосибирск",
+   "координаты": [
+    83.103407,
+    54.968242
+   ],
+   "рейтинг": 4.6,
+   "оценок": 97,
+   "отзывов": 43,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nskavto54.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 141-91-40",
+    "+7 (952) 943-35-05",
+    "+7 (383) 375-95-05"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "spare_parts",
+    "tire_fitting",
+    "trailer_repair",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nsk_avto_54/142705347238/",
+   "последний_отзыв": "2026-08-19",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 61
+  },
+  {
+   "id": "1427473648",
+   "название": "Асто",
+   "seoname": "asto",
+   "адрес": "ул. Николая Островского, 37/1",
+   "координаты": [
+    82.922951,
+    55.050495
+   ],
+   "рейтинг": 4.4,
+   "оценок": 111,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://a-sto.ru/",
+    "http://asto.pro/"
+   ],
+   "телефоны": [
+    "+7 (383) 212-10-15",
+    "+7 (383) 381-00-11",
+    "+7 (953) 783-14-00",
+    "+7 (953) 886-10-15"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосигнализация",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "guarantee",
+    "installation",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/asto/1427473648/",
+   "последний_отзыв": "2024-10-09",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 47
+  },
+  {
+   "id": "226569603085",
+   "название": "Автотитан 54",
+   "seoname": "avtotitan_54",
+   "адрес": "Северная ул., 43",
+   "координаты": [
+    82.902633,
+    55.069287
+   ],
+   "рейтинг": 4.4,
+   "оценок": 113,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 288-68-98",
+    "+7 (983) 002-68-98"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotitan_54/226569603085/",
+   "последний_отзыв": "2026-08-05",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 52
+  },
+  {
+   "id": "74132961236",
+   "название": "Rowl",
+   "seoname": "rowl",
+   "адрес": "ул. Жуковского, 74",
+   "координаты": [
+    82.894891,
+    55.0747
+   ],
+   "рейтинг": 5,
+   "оценок": 83,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://rowl.studio/"
+   ],
+   "телефоны": [
+    "+7 (953) 798-88-00"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "студия тюнинга",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rowl/74132961236/",
+   "последний_отзыв": "2025-11-09",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 42
+  },
+  {
+   "id": "224403785651",
+   "название": "Оникс",
+   "seoname": "oniks",
+   "адрес": "Троллейная ул., 85/1, корп. 1, Новосибирск",
+   "координаты": [
+    82.855539,
+    54.964223
+   ],
+   "рейтинг": 4.8,
+   "оценок": 66,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://onyx54.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 952-23-44",
+    "+7 (383) 375-91-33",
+    "+7 (903) 947-06-29"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт рулевых реек",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "engine_endoscopy",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oniks/224403785651/",
+   "последний_отзыв": "2026-08-21",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 38
+  },
+  {
+   "id": "178811241141",
+   "название": "Ledakademia",
+   "seoname": "ledakademia",
+   "адрес": "Ионосферная ул., 3/5, микрорайон Академгородок, Советский район, Новосибирск",
+   "координаты": [
+    83.124119,
+    54.844013
+   ],
+   "рейтинг": 4.9,
+   "оценок": 42,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ledakademia.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 773-40-50",
+    "+7 (999) 467-47-76"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "repairs",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ledakademia/178811241141/",
+   "последний_отзыв": "2026-05-16",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 26
+  },
+  {
+   "id": "49250496041",
+   "название": "Bg сервис",
+   "seoname": "bg_servis",
+   "адрес": "Тюменская ул., 2, корп. 5, Северо-Чемской жилмассив",
+   "координаты": [
+    82.943822,
+    54.961201
+   ],
+   "рейтинг": 4.6,
+   "оценок": 42,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bgservice-nsk.ru/",
+    "https://bgservice-nsk.ru/ONLINE-ZAPIS"
+   ],
+   "телефоны": [
+    "+7 (383) 380-98-80"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bg_servis/49250496041/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 25
+  },
+  {
+   "id": "101963195211",
+   "название": "CoolBox",
+   "seoname": "coolbox",
+   "адрес": "Покатная ул., 20",
+   "координаты": [
+    82.942124,
+    55.025932
+   ],
+   "рейтинг": 4.4,
+   "оценок": 17,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://coolbox-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 299-62-26",
+    "+7 (913) 917-62-26"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "детейлинг",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/coolbox/101963195211/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 18
+  },
+  {
+   "id": "186562625296",
+   "название": "Центр Ремонта СТО",
+   "seoname": "tsentr_remonta_sto",
+   "адрес": "ул. Кропоткина, 201",
+   "координаты": [
+    82.926218,
+    55.056788
+   ],
+   "рейтинг": 4.4,
+   "оценок": 14,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 917-70-58"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_remonta_sto/186562625296/",
+   "последний_отзыв": "2026-05-13",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 18
+  },
+  {
+   "id": "76498289856",
+   "название": "XenonShop54",
+   "seoname": "xenonshop54",
+   "адрес": "ул. Богдана Хмельницкого, 1/1",
+   "координаты": [
+    82.933579,
+    55.066394
+   ],
+   "рейтинг": 4.3,
+   "оценок": 41,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://xenonshop54.com/"
+   ],
+   "телефоны": [
+    "+7 (913) 374-61-61",
+    "+7 (383) 349-39-49"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "ramp",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/xenonshop54/76498289856/",
+   "последний_отзыв": "2025-01-07",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 15
+  },
+  {
+   "id": "111390552878",
+   "название": "Remix",
+   "seoname": "remix",
+   "адрес": "ул. Жуковского, 11",
+   "координаты": [
+    82.89717,
+    55.079605
+   ],
+   "рейтинг": 4.5,
+   "оценок": 13,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 784-92-68"
+   ],
+   "часы": "пн-пт 11:00–20:00; сб 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автосвет",
+    "автохимчистка"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "scratch_repair",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remix/111390552878/"
+  },
+  {
+   "id": "151749313073",
+   "название": "Респект",
+   "seoname": "respekt",
+   "адрес": "Выборная ул., 122/2к1",
+   "координаты": [
+    83.013508,
+    55.000812
+   ],
+   "рейтинг": 4,
+   "оценок": 8,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://respekt-vybornaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (913) 920-08-80"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/respekt/151749313073/"
+  },
+  {
+   "id": "36289785703",
+   "название": "Headlight. 54",
+   "seoname": "headlight_54",
+   "адрес": "Восточная ул., 1, корп. 1, рабочий посёлок Краснообск",
+   "координаты": [
+    83.000272,
+    54.937541
+   ],
+   "рейтинг": 4.2,
+   "оценок": 3,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 11:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "disable_photopoi",
+    "gift_certificate",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/headlight_54/36289785703/"
+  },
+  {
+   "id": "177564534492",
+   "название": "АвтоБлиц",
+   "seoname": "avtoblits",
+   "адрес": "ул. Писемского, 4, Новосибирск",
+   "координаты": [
+    82.981542,
+    55.079277
+   ],
+   "рейтинг": 3.6,
+   "оценок": 8,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://disel-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 946-31-23",
+    "+7 (953) 802-19-13"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoblits/177564534492/"
+  },
+  {
+   "id": "140864788249",
+   "название": "Оптика true lab",
+   "seoname": "optika_true_lab",
+   "адрес": "Большевистская ул., 280/2",
+   "координаты": [
+    83.002967,
+    54.979645
+   ],
+   "рейтинг": 3.9,
+   "оценок": 4,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 882-77-76"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/optika_true_lab/140864788249/"
+  },
+  {
+   "id": "166326575183",
+   "название": "Pensne",
+   "seoname": "pensne",
+   "адрес": "Нарымская ул., 17/2, Новосибирск",
+   "координаты": [
+    82.907733,
+    55.041146
+   ],
+   "рейтинг": 5,
+   "оценок": 115,
+   "отзывов": 65,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.pensne-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 902-76-26"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт очков",
+    "оптика"
+   ],
+   "признаки": [
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pensne/166326575183/",
+   "найдено_по": "замена линз в фарах Железнодорожный район",
+   "последний_отзыв": "2026-09-08",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 95
+  },
+  {
+   "id": "158209482985",
+   "название": "Омега детейл",
+   "seoname": "omega_deteyl",
+   "адрес": "ул. Федосеева, 4, Новосибирск",
+   "координаты": [
+    82.966188,
+    55.039509
+   ],
+   "рейтинг": 5,
+   "оценок": 41,
+   "отзывов": 26,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omega-detail.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 212-79-67"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "студия тюнинга",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "access_by_agreement",
+    "anti_gravity_film",
+    "autovinil",
+    "bike_parking",
+    "car_armoring",
+    "car_interior_wallpapering",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "good_place",
+    "leather_repair",
+    "parking_disabled",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "ramp",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omega_deteyl/158209482985/",
+   "найдено_по": "замена линз в фарах Железнодорожный район",
+   "последний_отзыв": "2026-09-01",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 51
+  },
+  {
+   "id": "20224098763",
+   "название": "Топлайт",
+   "seoname": "toplayt",
+   "адрес": "Волочаевская ул., 49",
+   "координаты": [
+    83.000252,
+    55.053222
+   ],
+   "рейтинг": 4.9,
+   "оценок": 26,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://toplightstudio.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 700-04-63"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toplayt/20224098763/",
+   "найдено_по": "замена линз в фарах Дзержинский район",
+   "последний_отзыв": "2026-10-03",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 27
+  },
+  {
+   "id": "56550860280",
+   "название": "Центр Автоэлектрики",
+   "seoname": "tsentr_avtoelektriki",
+   "адрес": "просп. Дзержинского, 1/4к3",
+   "координаты": [
+    82.958365,
+    55.049225
+   ],
+   "рейтинг": 4.7,
+   "оценок": 49,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 999-86-87",
+    "+7 (983) 001-86-87",
+    "+7 (383) 301-86-87",
+    "+7 (923) 744-87-17"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосигнализация",
+    "автосвет",
+    "автоакустика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_noise_insulation",
+    "delivery",
+    "installation",
+    "installing_car_audio",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_avtoelektriki/56550860280/",
+   "найдено_по": "замена линз в фарах Дзержинский район",
+   "последний_отзыв": "2026-04-03",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 46
+  },
+  {
+   "id": "150634795087",
+   "название": "AudioLab",
+   "seoname": "audiolab",
+   "адрес": "ул. Толбухина, 35/3, корп. 1",
+   "координаты": [
+    83.010537,
+    55.043424
+   ],
+   "рейтинг": 5,
+   "оценок": 28,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (993) 953-81-41"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Студия тюнинга",
+    "автосвет",
+    "автоакустика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "additional_equipment_installation",
+    "car_noise_insulation",
+    "delivery",
+    "installing_car_audio",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tuning_of_motor_vehicles",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/audiolab/150634795087/",
+   "найдено_по": "замена линз в фарах Дзержинский район",
+   "последний_отзыв": "2026-07-30",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 18
+  },
+  {
+   "id": "38532585309",
+   "название": "АвтоТема",
+   "seoname": "avtotema",
+   "адрес": "ул. Доватора, 11",
+   "координаты": [
+    82.997075,
+    55.046638
+   ],
+   "рейтинг": 5,
+   "оценок": 158,
+   "отзывов": 122,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-tema54.ru/",
+    "http://автотема54.рф/"
+   ],
+   "телефоны": [
+    "+7 (913) 383-60-60",
+    "+7 (913) 983-60-60"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Тонирование автостёкол",
+    "автосвет",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "armoring_headlights",
+    "gift_certificate",
+    "installation",
+    "payment_by_credit_card",
+    "repairs",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotema/38532585309/",
+   "найдено_по": "замена линз в фарах Дзержинский район",
+   "последний_отзыв": null,
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 0
+  },
+  {
+   "id": "94558100505",
+   "название": "3dgroup",
+   "seoname": "3dgroup",
+   "адрес": "Пролетарская ул., 18, корп. 1",
+   "координаты": [
+    82.954018,
+    55.026076
+   ],
+   "рейтинг": 3.9,
+   "оценок": 6,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://3dyslugi.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (913) 001-10-76"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "additional_equipment_installation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/3dgroup/94558100505/",
+   "найдено_по": "замена линз в фарах Дзержинский район"
+  },
+  {
+   "id": "82385984538",
+   "название": "De: Car",
+   "seoname": "de_car",
+   "адрес": "ул. Декабристов, 269",
+   "координаты": [
+    82.977793,
+    55.000129
+   ],
+   "рейтинг": 4.7,
+   "оценок": 22,
+   "отзывов": 12,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://decar.center/"
+   ],
+   "телефоны": [
+    "+7 (913) 000-84-00",
+    "+7 (383) 310-10-00",
+    "+7 (913) 000-79-00"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосвет",
+    "детейлинг"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/de_car/82385984538/",
+   "найдено_по": "замена линз в фарах Дзержинский район",
+   "последний_отзыв": "2026-09-02",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 22
+  },
+  {
+   "id": "136874415808",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Коминтерна, 94",
+   "координаты": [
+    83.022912,
+    55.046283
+   ],
+   "рейтинг": 3.9,
+   "оценок": 31,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Ремонт АКПП",
+    "автосвет",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/136874415808/",
+   "найдено_по": "замена линз в фарах Дзержинский район"
+  },
+  {
+   "id": "225113602497",
+   "название": "Ars Detailing",
+   "seoname": "ars_detailing",
+   "адрес": "Лучезарная ул., 12",
+   "координаты": [
+    82.990247,
+    55.057481
+   ],
+   "рейтинг": 4.2,
+   "оценок": 7,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 076-64-03",
+    "+7 (913) 909-82-22"
+   ],
+   "часы": "ежедневно, 12:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автосвет"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ars_detailing/225113602497/",
+   "найдено_по": "замена линз в фарах Дзержинский район"
+  },
+  {
+   "id": "118621770072",
+   "название": "Ssq Studio",
+   "seoname": "ssq_studio",
+   "адрес": "ул. Сакко и Ванцетти, 108",
+   "координаты": [
+    82.952716,
+    55.022809
+   ],
+   "рейтинг": 4.7,
+   "оценок": 38,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://taplink.cc/ssq_studio"
+   ],
+   "телефоны": [
+    "+7 (983) 321-65-01"
+   ],
+   "часы": "пн-сб 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Студия тюнинга",
+    "автосвет",
+    "автоакустика"
+   ],
+   "признаки": [
+    "additional_equipment_installation",
+    "autovinil",
+    "car_door_closers",
+    "car_interior_re_lighting",
+    "car_noise_insulation",
+    "disable_captions",
+    "gift_certificate",
+    "glass_tinting",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ssq_studio/118621770072/",
+   "найдено_по": "замена линз в фарах Дзержинский район",
+   "последний_отзыв": "2026-07-22",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 28
+  },
+  {
+   "id": "1090348082",
+   "название": "Автосвет",
+   "seoname": "avtosvet",
+   "адрес": "ул. Гаранина, 15",
+   "координаты": [
+    82.966465,
+    55.027515
+   ],
+   "рейтинг": 4.2,
+   "оценок": 37,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.autolight-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 930-87-83",
+    "+7 (383) 260-79-22"
+   ],
+   "часы": "пн-пт 09:00–16:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосвет",
+    "светотехника"
+   ],
+   "признаки": [
+    "automotive_products",
+    "car_park",
+    "payment_by_credit_card",
+    "pickup"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosvet/1090348082/",
+   "найдено_по": "замена линз в фарах Дзержинский район",
+   "последний_отзыв": "2026-01-16",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 12
+  },
+  {
+   "id": "1272704629",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "Народная ул., 20В",
+   "координаты": [
+    82.949444,
+    55.070823
+   ],
+   "рейтинг": 4.1,
+   "оценок": 4,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 913-11-61"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "автосвет"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/1272704629/",
+   "найдено_по": "замена линз в фарах Дзержинский район"
+  },
+  {
+   "id": "186917166249",
+   "название": "Вариус Лайт",
+   "seoname": "varius_layt",
+   "адрес": "ул. Богдана Хмельницкого, 1/1",
+   "координаты": [
+    82.933689,
+    55.066406
+   ],
+   "рейтинг": 4.2,
+   "оценок": 4,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://variuslight.ru/"
+   ],
+   "телефоны": [
+    "+7 (995) 129-20-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "delivery",
+    "elevator_wheelchair_accessible",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "ramp",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/varius_layt/186917166249/",
+   "найдено_по": "замена линз в фарах Калининский район"
+  },
+  {
+   "id": "214917015405",
+   "название": "Аозоом-Nsk",
+   "seoname": "aozoom_nsk",
+   "адрес": "Ипподромская ул., 16/1",
+   "координаты": [
+    82.94275,
+    55.031935
+   ],
+   "рейтинг": 4.3,
+   "оценок": 5,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://aozoomnsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 375-84-75"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "светодиодные системы освещения",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_accessories",
+    "car_park",
+    "delivery",
+    "disable_captions",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "ramp",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aozoom_nsk/214917015405/",
+   "найдено_по": "замена линз в фарах Октябрьский район"
+  },
+  {
+   "id": "17736285772",
+   "название": "Car Pdr 54",
+   "seoname": "car_pdr_54",
+   "адрес": "Новосибирск, Первомайский район",
+   "координаты": [
+    83.04198,
+    54.973546
+   ],
+   "рейтинг": 4.2,
+   "оценок": 9,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 784-70-31"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосвет",
+    "детейлинг"
+   ],
+   "признаки": [
+    "bumper_repair",
+    "removing_dents_without_painting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/car_pdr_54/17736285772/",
+   "найдено_по": "замена линз в фарах Октябрьский район"
+  },
+  {
+   "id": "160836693543",
+   "название": "Cinkof",
+   "seoname": "cinkof",
+   "адрес": "Новогодняя ул., 8, Новосибирск",
+   "координаты": [
+    82.902544,
+    54.981961
+   ],
+   "рейтинг": 5,
+   "оценок": 66,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.cinkof-optica.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 207-98-48"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб,вс 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Оптика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "childrens_optics",
+    "custom_glasses",
+    "delivery",
+    "eye_tests",
+    "frame_selection",
+    "gift_certificate",
+    "kz_kaspi_qr",
+    "lenses_for_the_control_of_myopia",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "perifocal_lenses",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "sunglasses",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cinkof/160836693543/",
+   "найдено_по": "замена линз в фарах Первомайский район",
+   "последний_отзыв": "2026-07-29",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 54
+  },
+  {
+   "id": "87535697131",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "Пионерская ул., 31А, Новосибирск",
+   "координаты": [
+    82.977293,
+    54.955567
+   ],
+   "рейтинг": 4.4,
+   "оценок": 162,
+   "отзывов": 81,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://novosibirsk.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 363-59-55"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/87535697131/",
+   "найдено_по": "замена линз в фарах Первомайский район",
+   "последний_отзыв": "2026-07-26",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 89
+  },
+  {
+   "id": "1781104647",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Аэропорт, 1Б, Новосибирск",
+   "координаты": [
+    82.907683,
+    55.079715
+   ],
+   "рейтинг": 4.2,
+   "оценок": 264,
+   "отзывов": 132,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://novosibirsk.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 363-59-55"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/1781104647/",
+   "найдено_по": "замена линз в фарах Первомайский район",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 95
+  },
+  {
+   "id": "142826281983",
+   "название": "Led star mafia",
+   "seoname": "led_star_mafia",
+   "адрес": "Обогатительная ул., 6, Северо-Чемской жилмассив, Кировский район",
+   "координаты": [
+    82.953802,
+    54.965223
+   ],
+   "рейтинг": 4.2,
+   "оценок": 3,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 390-39-44"
+   ],
+   "часы": "пн-пт 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "additional_equipment_installation",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/led_star_mafia/142826281983/",
+   "найдено_по": "замена линз в фарах Кировский район"
+  },
+  {
+   "id": "72075781313",
+   "название": "Vlm studio",
+   "seoname": "vlm_studio",
+   "адрес": "ул. Римского-Корсакова, 47",
+   "координаты": [
+    82.886734,
+    54.970587
+   ],
+   "рейтинг": 4.2,
+   "оценок": 5,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 361-39-56"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "детейлинг"
+   ],
+   "признаки": [
+    "additional_equipment_installation",
+    "car_park",
+    "car_valeting",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vlm_studio/72075781313/",
+   "найдено_по": "замена линз в фарах Кировский район"
+  },
+  {
+   "id": "164766276463",
+   "название": "Центр Автоэлектрики",
+   "seoname": "tsentr_avtoelektriki",
+   "адрес": "микрорайон Горский, 2, корп. 1",
+   "координаты": [
+    82.908333,
+    54.994187
+   ],
+   "рейтинг": 0,
+   "оценок": 41,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 999-86-87",
+    "+7 (983) 001-86-87",
+    "+7 (383) 301-86-87",
+    "+7 (923) 744-87-17"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосигнализация",
+    "автосвет",
+    "автоакустика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_noise_insulation",
+    "delivery",
+    "installation",
+    "installing_car_audio",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/tsentr_avtoelektriki/164766276463/",
+   "найдено_по": "замена линз в фарах Кировский район"
+  },
+  {
+   "id": "42305286424",
+   "название": "Led Fashion Nsk",
+   "seoname": "led_fashion_nsk",
+   "адрес": "Новосибирск, Советский район, микрорайон Академгородок, квартал Верхняя Зона Академгородка",
+   "координаты": [
+    83.118357,
+    54.856583
+   ],
+   "рейтинг": 4.4,
+   "оценок": 7,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 472-50-66"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "детейлинг",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/led_fashion_nsk/42305286424/",
+   "найдено_по": "замена линз в фарах Советский район"
+  }
+ ],
+ "расширено_по_районам": true
+}
