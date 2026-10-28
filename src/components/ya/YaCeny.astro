@@ -5,6 +5,7 @@ import type { YaRow } from '../../lib/ya';
 import { nicheYa } from '../../lib/ya';
 import { rub } from '../../lib/ya-tekst';
 import { date } from '../../lib/format';
+import { isPartnerSite } from '../../data/partnery';
 interface Props { rows: YaRow[] }
 const rows = Astro.props.rows.filter((r) => r.prices.length);
 const domain = (s: string) => { try { return new URL(s).hostname.replace(/^www\./, ''); } catch { return s; } };
@@ -19,7 +20,7 @@ const when = rows.length ? nicheYa(rows[0].niche).priceDate : null;
           {rows.length > 1 && <p><strong>{nicheYa(r.niche).t.crumb}</strong></p>}
           <ul class="prices">
             {r.prices.map((p) => (
-              <li><span>{p.name}</span><span><b>{rub(p.from)}</b> · <a href={p.url} rel="nofollow noopener" target="_blank">{domain(p.url)}</a></span></li>
+              <li><span>{p.name}</span><span><b>{rub(p.from)}</b> · {isPartnerSite(p.url) ? <a href={p.url} rel="noopener" target="_blank">{domain(p.url)}</a> : <span>сайт компании</span>}</span></li>
             ))}
           </ul>
         </div>

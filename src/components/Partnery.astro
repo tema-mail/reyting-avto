@@ -1,0 +1,49 @@
+---
+// «Выбор редакции»: партнёры проекта первыми в нише (data/partnery.ts).
+import { partnersOf } from '../data/partnery';
+
+interface Props { niche: string }
+const list = partnersOf(Astro.props.niche);
+const tel = (p: string) => 'tel:' + p.replace(/[^\d+]/g, '');
+const domain = (s: string) => s.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '');
+---
+{list.length > 0 && (
+  <section class="partnery" id="vybor-redaktsii">
+    <div class="wrap">
+      <h2>Выбор редакции</h2>
+      <ol class="partnery__list">
+        {list.map((p, i) => (
+          <li class="partnery__card">
+            <span class="partnery__place">№{i + 1}</span>
+            <div class="partnery__body">
+              <h3><a href={p.site} target="_blank" rel="noopener">{p.name}</a></h3>
+              <p>{p.about}</p>
+              <ul class="partnery__srv">{p.services.map((s) => <li>{s}</li>)}</ul>
+              <p class="partnery__meta">{p.address} · <a href={tel(p.phone)}>{p.phone}</a> · <a href={p.site} target="_blank" rel="noopener">{domain(p.site)}</a></p>
+              <div class="btns">
+                <a class="btn btn--signal" href={tel(p.phone)}>Записаться</a>
+                <a class="btn btn--ghost" href={p.site} target="_blank" rel="noopener">Сайт</a>
+                {p.yandex && <a class="btn btn--ghost" href={p.yandex} target="_blank" rel="noopener">Отзывы на Яндекс Картах</a>}
+              </div>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+)}
+
+<style>
+  .partnery { padding: 28px 0 8px; }
+  .partnery h2 { margin: 0 0 14px; }
+  .partnery__list { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
+  .partnery__card { display: flex; gap: 16px; padding: 18px; border: 2px solid var(--signal, currentColor); border-radius: 12px; background: var(--card, transparent); }
+  .partnery__place { flex: none; font-size: 28px; font-weight: 800; line-height: 1; }
+  .partnery__body { min-width: 0; }
+  .partnery__body h3 { margin: 0 0 6px; font-size: 22px; }
+  .partnery__body p { margin: 0 0 8px; }
+  .partnery__srv { display: flex; flex-wrap: wrap; gap: 6px; list-style: none; padding: 0; margin: 0 0 10px; }
+  .partnery__srv li { padding: 3px 10px; border-radius: 999px; border: 1px solid currentColor; font-size: 14px; }
+  .partnery__meta { font-size: 15px; overflow-wrap: anywhere; }
+  @media (max-width: 600px) { .partnery__card { flex-direction: column; gap: 8px; } }
+</style>

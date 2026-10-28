@@ -16,6 +16,7 @@ import { CITY, PUBLISHED } from '../lib/site';
 import { score, rating, num, date, plural, telHref } from '../lib/format';
 import { md, real } from '../lib/md';
 import { u, abs } from '../lib/url';
+import { isPartnerSite } from '../data/partnery';
 
 interface Props { c: Company }
 const { c } = Astro.props;
@@ -192,7 +193,7 @@ const schema = [
         <div><dt>Адрес</dt><dd>{k.addressFull || c.addresses.join('; ')}</dd></div>
         <div><dt>Часы</dt><dd>{hours}</dd></div>
         <div><dt>Телефон</dt><dd>{c.phones.map((p, i) => <>{i > 0 && '; '}<a href={telHref(p)}>{p}</a></>)}</dd></div>
-        <div><dt>Сайт</dt><dd>{c.site ? <a href={c.site} rel="nofollow noopener" target="_blank">{domain(c.site)}</a> : 'нет в карточке'}</dd></div>
+        <div><dt>Сайт</dt><dd>{c.site && isPartnerSite(c.site) ? <a href={c.site} rel="noopener" target="_blank">{domain(c.site)}</a> : c.site ? 'покажем после подтверждения данных' : 'нет в карточке'}</dd></div>
         {k.email && <div><dt>Почта с сайта</dt><dd>{k.email}</dd></div>}
       </dl>
       <div class="btns"><a class="btn btn--signal" href={c.y.cards[0]} rel="nofollow noopener" target="_blank">Построить маршрут</a></div>
@@ -213,7 +214,7 @@ const schema = [
     <div class="wrap cta-band">
       <div class="stack">
         <h2>Это ваша компания?</h2>
-        <p>Если данные устарели (цены, часы, телефон), пришлите правку со ссылкой на источник. Мы проверим и обновим карточку при следующем съёме. Место считает формула, его нельзя купить или сдвинуть по просьбе.</p>
+        <p>Если данные устарели (цены, часы, телефон), пришлите правку со ссылкой на источник. Мы проверим и обновим карточку при следующем съёме. Место в списке считает формула.</p>
       </div>
       <a class="btn btn--signal" href={u('/dobavit-kompaniyu/')}>Уточнить данные</a>
     </div>

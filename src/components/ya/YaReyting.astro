@@ -4,6 +4,8 @@
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../Crumbs.astro';
 import Gauge from '../Gauge.astro';
+import Partnery from '../Partnery.astro';
+import { partnersOf } from '../../data/partnery';
 import YaTable from './YaTable.astro';
 import type { NicheYa } from '../../lib/ya';
 import { kratko, description, nominations, rt, otz, whoN } from '../../lib/ya-tekst';
@@ -68,12 +70,11 @@ const schema = [
       <div>
         <p class="label">Рейтинг · {CITY.name} · данные на {date(n.date)}</p>
         <h1>{t.h1}</h1>
-        <p class="short lead"><span class="short__k">Коротко:</span><Fragment set:html={md(kratko(n))} /></p>
+        <p class="short lead"><span class="short__k">Коротко:</span>{partnersOf(n.key).length > 0 && <Fragment set:html={md(`Выбор редакции – **${partnersOf(n.key).map((p) => p.name).join("**, затем **")}**. По цифрам Яндекс Карт: `)} />}<Fragment set:html={md(kratko(n))} /></p>
         <p class="lead-in" set:html={md(t.intro)} />
         <ul class="facts">
           <li>В рейтинге {whoN(n, n.rows.length)}: прошли отбор из {n.found}, которых Яндекс Карты нашли по запросу{n.byRayon ? ' в городе и 10 районах' : ''}.</li>
           <li>Источник – только Яндекс Карты: оценка, отзывы, их свежесть и открытость карточки.</li>
-          <li>Места считает формула, их нельзя купить.</li>
         </ul>
         <div class="btns">
           <a class="btn btn--signal" href="#tablitsa">Смотреть рейтинг</a>
@@ -93,6 +94,7 @@ const schema = [
       </aside>
     </div>
   </section>
+  <Partnery niche={n.key} />
 
   <section class="sec" id="tablitsa">
     <div class="wrap">

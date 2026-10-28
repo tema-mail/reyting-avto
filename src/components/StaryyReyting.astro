@@ -7,6 +7,8 @@ import RatingTable from './RatingTable.astro';
 import CompanyBlock from './CompanyBlock.astro';
 import HelpForm from './HelpForm.astro';
 import Gauge from './Gauge.astro';
+import Partnery from './Partnery.astro';
+import { partnersOf } from '../data/partnery';
 import { mdf, plain, type Niche } from '../lib/reyting';
 import { neighbours } from '../lib/katalog';
 import { CITY, DATA_DATE, PUBLISHED } from '../lib/site';
@@ -77,7 +79,7 @@ const schema = [
       <div>
         <p class="label">Рейтинг · {CITY.name} · данные на {date(n.date)}</p>
         <h1>{t.h1}</h1>
-        <p class="short lead"><span class="short__k">Коротко:</span><Fragment set:html={mdf(t.short)} /> {t.shortAfter}</p>
+        <p class="short lead"><span class="short__k">Коротко:</span>{partnersOf(n.slug).length > 0 && <Fragment set:html={md(`Выбор редакции – **${partnersOf(n.slug).map((p) => p.name).join("**, затем **")}**. По цифрам карт: `)} />}<Fragment set:html={mdf(t.short)} /> {t.shortAfter}</p>
         {real(t.disclosure) && <p class="small" style="margin-top:10px" set:html={md(t.disclosure)} />}
         <ul class="facts">{t.bullets.map((b) => <li>{b}</li>)}</ul>
         <div class="btns">
@@ -98,6 +100,7 @@ const schema = [
       </aside>
     </div>
   </section>
+  <Partnery niche={n.slug} />
 
   <section class="sec" id="tablitsa">
     <div class="wrap">

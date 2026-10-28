@@ -8,6 +8,7 @@ import { u } from '../lib/url';
 import Gauge from './Gauge.astro';
 import Metrics from './Metrics.astro';
 import MapLinks from './MapLinks.astro';
+import { isPartnerSite } from '../data/partnery';
 interface Props { c: Company }
 const { c } = Astro.props;
 const t = c.t;
@@ -35,7 +36,7 @@ const hours = c.hours.replace(/^./, (m) => m.toUpperCase());
       {t.fit && <div><dt>Кому подходит</dt><dd>{t.fit}</dd></div>}
       <div><dt>Адрес и часы</dt><dd>{c.addresses.join('; ')}. {hours}.</dd></div>
       <div><dt>Телефон</dt><dd>{c.phones.map((p, i) => <>{i > 0 && '; '}<a href={telHref(p)}>{p}</a></>)}{real(t.phoneNote) && <> <Fragment set:html={md(t.phoneNote)} /></>}</dd></div>
-      <div><dt>Сайт</dt><dd>{c.site ? <a href={c.site} rel="nofollow noopener" target="_blank">{c.site.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '')}</a> : 'нет в карточке'}</dd></div>
+      <div><dt>Сайт</dt><dd>{c.site && isPartnerSite(c.site) ? <a href={c.site} rel="nofollow noopener" target="_blank">{c.site.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '')}</a> : c.site ? 'покажем после подтверждения данных' : 'нет в карточке'}</dd></div>
     </dl>
   </div>
   <MapLinks c={c} />

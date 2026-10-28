@@ -21,7 +21,7 @@ export interface Rating {
 }
 
 // Порядок внутри группы – по спросу Вордстата (НСК, сентябрь 2026, docs/nishi-avto-nsk.md в reytingi).
-const ORDER = ['avtoshkoly', 'avtoservisy', 'tonirovka', 'evakuatory', 'tekhosmotr', 'shinomontazh', 'avtomoyki', 'chip-tyuning', 'kuzovnoy-remont', 'avtosignalizatsii', 'ustanovka-magnitol', 'avtoelektriki', 'avtopodbor', 'deteyling', 'remont-dvigateley', 'razval-skhozhdenie', 'avtozvuk', 'polirovka-far', 'remont-rulevykh-reek', 'diagnostika-avto', 'remont-akpp', 'avtostekla', 'ustanovka-gbo', 'khimchistka-salona', 'ustanovka-farkopa', 'remont-diskov', 'peretyazhka-salona', 'udalenie-vmyatin', 'shumoizolyatsiya', 'remont-dizeley', 'remont-podveski', 'remont-turbin', 'servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov',
+const ORDER = ['avtoshkoly', 'avtoservisy', 'tonirovka', 'evakuatory', 'tekhosmotr', 'shinomontazh', 'avtomoyki', 'chip-tyuning', 'kuzovnoy-remont', 'avtosignalizatsii', 'ustanovka-magnitol', 'avtoelektriki', 'avtopodbor', 'deteyling', 'remont-dvigateley', 'razval-skhozhdenie', 'avtozvuk', 'polirovka-far', 'remont-rulevykh-reek', 'diagnostika-avto', 'remont-akpp', 'avtostekla', 'ustanovka-gbo', 'khimchistka-salona', 'ustanovka-farkopa', 'remont-diskov', 'peretyazhka-salona', 'udalenie-vmyatin', 'shumoizolyatsiya', 'remont-dizeley', 'remont-podveski', 'remont-turbin', 'servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov', 'rusifikatsiya-avtomobiley',
   // третья волна: спроса по Вордстату ещё нет – порядок по широте запроса
   'servis-yaponskikh-avtomobiley', 'servis-koreyskikh-avtomobiley', 'servis-nemetskikh-avtomobiley', 'servis-vag', 'remont-avtokonditsionerov', 'remont-tormoznoy-sistemy', 'remont-glushiteley', 'remont-starterov-i-generatorov', 'remont-gruzovikov', 'motoservisy', 'khranenie-shin', 'antikor', 'remont-skolov', 'gruzovoy-shinomontazh', 'okleyka-plenkoy', 'ustanovka-avtozapuska', 'ustanovka-parktronikov', 'avtosvet', 'prokat-avtomobiley', 'vykup-avto', 'avtorazbory', 'avtoekspertiza', 'avtoyuristy'];
 
@@ -84,6 +84,7 @@ const RELATED: Record<string, string[]> = {
   deteyling: ['polirovka-far', 'okleyka-plenkoy', 'tonirovka', 'khimchistka-salona'],
   'remont-dvigateley': ['remont-dizeley', 'remont-turbin', 'diagnostika-avto', 'remont-akpp'],
   'razval-skhozhdenie': ['shinomontazh', 'remont-podveski', 'remont-rulevykh-reek'],
+  'rusifikatsiya-avtomobiley': ['servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov', 'ustanovka-magnitol'],
   avtozvuk: ['shumoizolyatsiya', 'ustanovka-magnitol', 'avtosignalizatsii'],
   'polirovka-far': ['avtosvet', 'deteyling', 'tonirovka'],
   'remont-rulevykh-reek': ['remont-podveski', 'razval-skhozhdenie', 'diagnostika-avto'],
