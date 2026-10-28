@@ -3,6 +3,8 @@
 import { NICHES, COMPANIES, indexable } from './reyting';
 import { CITY } from './site';
 import { NICHES_YA_PUB, NEW_CARDS, uniqueTotals } from './ya';
+import { STATI } from './stati';
+import { AVTOR } from '../data/avtor';
 import { GROUPS, GROUP_SLUG, OLD_GROUP } from './otbor.mjs';
 
 export interface Rating {
@@ -160,5 +162,7 @@ export function indexableAll(): { path: string; lastmod: string }[] {
     ...old.slice(1),
     ...ya,
     ...cards,
+    ...STATI.map((s) => ({ path: s.url, lastmod: s.fm.updated || s.fm.date })),
+    ...(STATI.length ? [{ path: AVTOR.url, lastmod: latest }] : []),
   ];
 }

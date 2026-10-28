@@ -20,7 +20,7 @@ export const PARTNERS: Record<string, Partner> = {
     name: 'Teyes Sibir',
     about: 'Официальный дилер и установочный центр мультимедиа Teyes в Новосибирске: Android-магнитолы, камеры, парктроники, сигнализации и автозапуск.',
     address: 'Сухарная ул., 35, корп. 13',
-    phone: '+7 (905) 945-06-95',
+    phone: '+7 (995) 437-92-66',
     site: 'https://teyes-sibir.ru/',
     yandex: 'https://yandex.ru/maps/org/teyes_sibir/103758102748/',
     services: ['Установка мультимедиа Teyes', 'Камеры и парктроники', 'Сигнализации и автозапуск', 'Русификация мультимедиа'],
@@ -62,3 +62,6 @@ export const isPartnerSite = (url?: string | null): boolean => {
     return false;
   }
 };
+
+/** Телефон партнёра с его сайта – вместо телефона из съёма карт (в карточке Яндекса старый номер). */
+export const partnerPhone = (yaId: string): string | null => Object.values(PARTNERS).find((p) => p.ya.id === yaId)?.phone || null;

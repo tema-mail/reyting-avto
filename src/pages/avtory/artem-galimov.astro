@@ -1,0 +1,15 @@
+---
+// Страница автора гидов (E-E-A-T): кто он, что сделал для рейтинга, какие статьи написал.
+import Doc from '../../layouts/Doc.astro';
+import { AVTOR } from '../../data/avtor';
+import { STATI } from '../../lib/stati';
+import { u } from '../../lib/url';
+---
+<Doc title={`${AVTOR.name} – ${AVTOR.role.toLowerCase()}`} h1={AVTOR.name}>
+  <p class="lead"><strong>{AVTOR.role}.</strong> {AVTOR.short}</p>
+  <h2>Что сделано для рейтинга</h2>
+  <ul>{AVTOR.did.map((d) => <li>{d}</li>)}</ul>
+  <p>Как считаются баллы и почему компании стоят на своих местах – в <a href={u('/metodika/')}>методике</a>. Кто стоит за проектом – в разделе <a href={u('/o-proekte/')}>«О проекте»</a>.</p>
+  <h2>Гиды автора</h2>
+  <ul>{STATI.map((s) => <li><a href={u(s.url)}>{s.fm.h1}</a></li>)}</ul>
+</Doc>

@@ -5,7 +5,7 @@
 import { computeYa, TOP } from './formula-ya.mjs';
 import { NICHES_YA } from './otbor.mjs';
 import { rayon } from './rayony.mjs';
-import { partnersOf } from '../data/partnery';
+import { partnersOf, partnerPhone } from '../data/partnery';
 import type { NicheTextYa } from '../data/nishi/tip';
 import { COMPANIES } from './reyting';
 import { slugify } from './slug';
@@ -130,7 +130,7 @@ const branchOf = (c: any): Branch => ({
   last: c['последний_отзыв'] || null,
   recent: c['отзывов_за_12_мес_из_загруженных'] || 0,
   site: (c['сайты'] || [])[0] || null,
-  phones: c['телефоны'] || [],
+  phones: partnerPhone(String(c.id)) ? [partnerPhone(String(c.id))!] : c['телефоны'] || [],
   hours: c['часы'] || '',
   allDay: !!c['круглосуточно'],
   rubrics: c['рубрики'] || [],

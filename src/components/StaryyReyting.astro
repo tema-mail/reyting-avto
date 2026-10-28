@@ -15,9 +15,11 @@ import { CITY, DATA_DATE, PUBLISHED } from '../lib/site';
 import { score, rating, num, date, telHref } from '../lib/format';
 import { md, real } from '../lib/md';
 import { u, abs } from '../lib/url';
+import { statyaOf } from '../lib/stati';
 
 interface Props { n: Niche }
 const { n } = Astro.props;
+const gid = statyaOf(n.slug);
 const t = n.t;
 const top = n.companies.slice(0, 3);
 const detailed = n.companies.filter((c) => c.t.pros);
@@ -85,6 +87,7 @@ const schema = [
         <div class="btns">
           <a class="btn btn--signal" href="#tablitsa">Смотреть рейтинг</a>
           <a class="btn btn--ghost" href="#pomoch">Помочь выбрать</a>
+          {gid && <a class="btn btn--ghost" href={u(gid.url)}>Как выбрать: гид</a>}
         </div>
       </div>
       <aside class="board" aria-label="Первые три места">

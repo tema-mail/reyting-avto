@@ -1,0 +1,171 @@
+---
+// Статья-гид к рейтингу ниши: «куда обратиться и как выбрать». Текст – src/data/stati/<ниша>.md,
+// таблица рейтинга – живая, из тех же данных, что страница рейтинга. Справа содержание и призыв (прилипают).
+import Base from '../../../layouts/Base.astro';
+import Crumbs from '../../../components/Crumbs.astro';
+import Partnery from '../../../components/Partnery.astro';
+import YaTable from '../../../components/ya/YaTable.astro';
+import RatingTable from '../../../components/RatingTable.astro';
+import { STATI, type Statya } from '../../../lib/stati';
+import { NICHES_YA_PUB } from '../../../lib/ya';
+import { NICHES } from '../../../lib/reyting';
+import { partnersOf } from '../../../data/partnery';
+import { AVTOR } from '../../../data/avtor';
+import { CITY } from '../../../lib/site';
+import { date } from '../../../lib/format';
+import { md } from '../../../lib/md';
+import { u, abs } from '../../../lib/url';
+
+export function getStaticPaths() {
+  return STATI.map((s) => ({ params: { nisha: s.key }, props: { s } }));
+}
+interface Props { s: Statya }
+const { s } = Astro.props;
+const fm = s.fm;
+const ya = NICHES_YA_PUB.find((n) => n.key === s.key);
+const old = NICHES.find((n) => n.slug === s.key);
+const crumb = ya ? ya.t.crumb : old!.t.crumb;
+const ratingUrl = `/${CITY.slug}/${s.key}/`;
+const toc = s.headings.filter((h) => h.depth === 2);
+const pick = partnersOf(s.key)[0];
+const tel = (p: string) => 'tel:' + p.replace(/[^\d+]/g, '');
+const minutes = Math.max(1, Math.round(s.words / 180));
+const others = STATI.filter((x) => x.key !== s.key);
+const site = Astro.site;
+const pageUrl = abs(s.url, site);
+const plain = (t: string) => t.replace(/\*\*/g, '').replace(/\[(.+?)\]\(.+?\)/g, '$1');
+
+const schema = [
+  {
+    '@type': 'Article',
+    '@id': pageUrl + '#article',
+    headline: fm.h1,
+    description: fm.description,
+    inLanguage: 'ru',
+    datePublished: fm.date,
+    dateModified: fm.updated || fm.date,
+    wordCount: s.words,
+    mainEntityOfPage: pageUrl,
+    author: { '@type': 'Person', '@id': abs(AVTOR.url, site) + '#person', name: AVTOR.name, jobTitle: AVTOR.role, url: abs(AVTOR.url, site) },
+    publisher: { '@id': abs('/', site) + '#org' },
+    about: { '@type': 'Thing', name: `${crumb} ${CITY.in}` },
+  },
+  { '@type': 'FAQPage', mainEntity: fm.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: plain(f.a) } })) },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) },
+      { '@type': 'ListItem', position: 2, name: CITY.name, item: abs(`/${CITY.slug}/`, site) },
+      { '@type': 'ListItem', position: 3, name: crumb, item: abs(ratingUrl, site) },
+      { '@type': 'ListItem', position: 4, name: 'Как выбрать', item: pageUrl },
+    ],
+  },
+];
+---
+<Base title={fm.title} description={fm.description} schema={schema} active={s.key} sticky>
+  <Crumbs items={[['Главная', '/'], [CITY.name, `/${CITY.slug}/`], [crumb, ratingUrl], ['Как выбрать']]} />
+
+  <section class="hero">
+    <div class="wrap">
+      <p class="label">Гид · {CITY.name} · {crumb}</p>
+      <h1>{fm.h1}</h1>
+      <p class="short lead"><span class="short__k">Коротко:</span><Fragment set:html={md(fm.lead)} /></p>
+      <p class="st-by">
+        <a href={u(AVTOR.url)}><strong>{AVTOR.name}</strong></a>, {AVTOR.role.toLowerCase()} ·
+        опубликовано {date(fm.date)}{fm.updated && fm.updated !== fm.date && <> · обновлено {date(fm.updated)}</>} · {minutes} мин чтения
+      </p>
+    </div>
+  </section>
+
+  <div class="wrap st">
+    <aside class="st__side">
+      <details class="st__toc" open>
+        <summary>Содержание</summary>
+        <ol>{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}<li><a href="#reyting">Рейтинг компаний</a></li><li><a href="#voprosy">Частые вопросы</a></li></ol>
+      </details>
+      <div class="st__cta">
+        {pick ? (
+          <>
+            <p class="label">Выбор редакции</p>
+            <p><strong>{pick.name}</strong><br /><span class="small">{pick.address}</span></p>
+            <a class="btn btn--signal" href={tel(pick.phone)}>Записаться: {pick.phone}</a>
+          </>
+        ) : <p class="label">Рейтинг</p>}
+        <a class="btn btn--ghost" href={u(ratingUrl)}>Весь рейтинг</a>
+      </div>
+    </aside>
+
+    <article class="st__body">
+      <div class="prose" set:html={s.parts[0]} />
+
+      <section id="reyting" class="st__rt">
+        <h2>Рейтинг: {crumb.toLowerCase()} {CITY.in}</h2>
+        <p class="muted small">Таблица обновляется вместе с рейтингом. Как считали – в <a href={u('/metodika/')}>методике</a>.</p>
+      </section>
+    </article>
+  </div>
+
+  <Partnery niche={s.key} />
+  <section class="sec sec--flush"><div class="wrap">{ya ? <YaTable n={ya} /> : <RatingTable n={old!} />}</div></section>
+
+  <div class="wrap st st--after">
+    <div class="st__side" aria-hidden="true"></div>
+    <article class="st__body">
+      <div class="prose" set:html={s.parts[1]} />
+
+      <section id="voprosy">
+        <h2>Частые вопросы</h2>
+        {fm.faq.map((f) => (
+          <details class="st__faq"><summary>{f.q}</summary><p set:html={md(f.a)} /></details>
+        ))}
+      </section>
+
+      <section class="st__author">
+        <p class="label">Автор</p>
+        <p><a href={u(AVTOR.url)}><strong>{AVTOR.name}</strong></a> – {AVTOR.role.toLowerCase()}. {AVTOR.short}</p>
+        <p class="small muted">Данные рейтинга – на {date(ya ? ya.date : old!.date)}. Нашли ошибку в цифрах – <a href={u('/dobavit-kompaniyu/')}>напишите нам</a>.</p>
+      </section>
+
+      <section>
+        <h2>Ещё гиды</h2>
+        <ul class="st__more">
+          {others.map((x) => <li><a href={u(x.url)}>{x.fm.h1}</a></li>)}
+        </ul>
+      </section>
+    </article>
+  </div>
+
+  <a class="st__bar btn btn--signal" href={pick ? tel(pick.phone) : u(ratingUrl)}>{pick ? `Записаться в ${pick.name}` : 'Смотреть рейтинг'}</a>
+</Base>
+
+<style>
+  .st-by { font-size: 15px; color: var(--steel); margin-top: 8px; }
+  .st { display: grid; gap: 24px; padding-top: 32px; padding-bottom: 16px; }
+  .st--after { padding-top: 8px; }
+  .st__body { min-width: 0; max-width: 760px; }
+  .st__toc { border: 1px solid var(--line); background: var(--card); border-radius: var(--r); padding: 12px 16px; }
+  .st__toc summary { font: 600 16px var(--f-head); cursor: pointer; }
+  .st__toc ol { margin: 10px 0 0; padding-left: 20px; font-size: 14px; display: grid; gap: 6px; }
+  .st__cta { display: none; }
+  .st__rt { margin-top: 32px; }
+  .st__faq { border-bottom: 1px solid var(--line); padding: 12px 0; }
+  .st__faq summary { font-weight: 600; cursor: pointer; }
+  .st__author { margin: 40px 0 8px; padding: 18px; background: var(--card); border: 1px solid var(--line); border-radius: var(--r); }
+  .st__more { padding-left: 20px; display: grid; gap: 6px; }
+  .st__bar { position: fixed; left: 16px; right: 16px; bottom: 12px; z-index: 20; text-align: center; }
+  @media (min-width: 1024px) {
+    .st { grid-template-columns: minmax(0, 1fr) 280px; align-items: start; }
+    .st__side { order: 2; position: sticky; top: 16px; display: grid; gap: 14px; }
+    .st--after .st__side { position: static; }
+    .st__cta { display: grid; gap: 10px; padding: 16px; border: 2px solid var(--signal); background: var(--card); border-radius: var(--r); }
+    .st__cta p { margin: 0; }
+    .st__bar { display: none; }
+  }
+  .prose :global(h2) { font-size: 26px; margin: 40px 0 12px; }
+  .prose :global(h3) { font-size: 20px; margin: 28px 0 8px; }
+  .prose :global(p), .prose :global(li) { font-size: 17px; line-height: 1.7; }
+  .prose :global(table) { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--line); font-size: 15px; margin: 16px 0; display: block; overflow-x: auto; }
+  .prose :global(th), .prose :global(td) { padding: 8px 10px; border-bottom: 1px solid var(--line-2); text-align: left; vertical-align: top; }
+  .prose :global(th) { background: var(--asphalt); color: #eceae4; font-weight: 600; }
+  .prose :global(blockquote) { margin: 16px 0; padding: 12px 16px; border-left: 4px solid var(--signal); background: var(--signal-soft); }
+</style>
