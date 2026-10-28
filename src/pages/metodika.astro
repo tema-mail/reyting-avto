@@ -63,7 +63,8 @@ const schema = [
           <p>Найдено {n.found}, в рейтинге {n.rows.length}. Не прошли: {Object.entries(n.rejected).filter(([, v]) => v > 0).map(([k, v]) => `${k} – ${v}`).join(', ') || 'нет'}. Данные на {date(n.date)}. <a href={u(n.url)}>Рейтинг →</a></p>
         </div>
       ))}
-      {NICHES_YA_HIDDEN.length > 0 && <p>Не опубликованы (меньше {MIN_PUBLISH} компаний прошли отбор): {NICHES_YA_HIDDEN.map((n) => `${n.t.crumb} – ${n.rows.length}`).join(', ')}.</p>}
+      {NICHES_YA_HIDDEN.filter((n) => !n.dup).length > 0 && <p>Не опубликованы (меньше {MIN_PUBLISH} компаний прошли отбор): {NICHES_YA_HIDDEN.filter((n) => !n.dup).map((n) => `${n.t.crumb} – ${n.rows.length}`).join(', ')}.</p>}
+      {NICHES_YA_HIDDEN.filter((n) => n.dup).map((n) => <p>Не опубликован рейтинг «{n.t.crumb}»: {Math.round(n.dup!.share * 100)}% его компаний уже есть в рейтинге <a href={u(`/${CITY.slug}/${n.dup!.key}/`)}>«{n.dup!.crumb}»</a>, отдельная страница повторяла бы его.</p>)}
     </div>
   </section>
   <section class="sec">

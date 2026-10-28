@@ -87,6 +87,7 @@ export interface NicheYa {
   rest: YaRow[];
   reviews: number;
   priceDate: string | null; // дата съёма цен; null – цен для ниши нет
+  dup?: { key: string; crumb: string; share: number }; // не опубликована: состав дублирует другую нишу
   byRayon: boolean; // поиск шёл по городу и по 10 районам (у компаний есть поле «найдено_по»)
 }
 
@@ -202,12 +203,37 @@ function build(): NicheYa[] {
       rest: rows.slice(TOP),
       reviews: rows.reduce((s, x) => s + x.reviews, 0),
       priceDate: ceny ? ceny['дата_съёма'] : null,
-      byRayon: src['компании'].some((c: any) => Array.isArray(c['найдено_по']) ? c['найдено_по'].length > 0 : !!c['найдено_по']),
+      byRayon: !!src['расширено_по_районам'] || src['компании'].some((c: any) => !!c['найдено_по']),
     };
   });
 }
 
-const ALL_YA = build();
+/** Порог дубля: новая ниша, чей состав (id организаций) на 70%+ совпадает с уже опубликованной, не публикуется. */
+export const DUP_SHARE = 0.7;
+function dedupe(all: NicheYa[]): NicheYa[] {
+  const pub: NicheYa[] = [];
+  // правило для новых волн (с 28.10, начиная с фаркопов); 22 ниши первой волны уже опубликованы – у них ссылки «Коротко»
+  const from = all.findIndex((x) => x.key === 'ustanovka-farkopa');
+  all.forEach((n, i) => {
+    if (n.published && i < from) pub.push(n);
+  });
+  for (const n of all.slice(from)) {
+    if (!n.published) continue;
+    const ids = new Set(n.rows.flatMap((r) => r.ids));
+    for (const o of pub) {
+      const oIds = new Set(o.rows.flatMap((r) => r.ids));
+      const share = [...ids].filter((i) => oIds.has(i)).length / ids.size;
+      if (share > DUP_SHARE) {
+        n.published = false;
+        n.dup = { key: o.key, crumb: o.t.crumb, share };
+        break;
+      }
+    }
+    if (n.published) pub.push(n);
+  }
+  return all;
+}
+const ALL_YA = dedupe(build());
 /** Опубликованные ниши (5 и больше компаний прошли отбор). */
 export const NICHES_YA_PUB: NicheYa[] = ALL_YA.filter((n) => n.published);
 /** Не прошли порог – на сайте их нет, причина в ~/Sites/reytingi/docs/sayty/resheniya-avto.md (закрытый репо) и на /metodika/. */
