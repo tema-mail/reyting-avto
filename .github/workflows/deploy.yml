@@ -16,25 +16,25 @@ jobs:
       DEPLOY_KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
     steps:
       # Пока секретов нет – выкладка только с мака (deploy/vylozhit.sh), шаги ниже пропускаются.
-      - if: env.DEPLOY_KEY == ''
-        run: echo "::notice::Секрета DEPLOY_KEY нет – выкладка на Бегет пропущена"
-      - if: env.DEPLOY_KEY != ''
+      - if: env.DEPLOY_KEY == '' || env.DEPLOY_KNOWN_HOSTS == ''
+        run: echo "::notice::Нет секрета DEPLOY_KEY или DEPLOY_KNOWN_HOSTS – выкладка на Бегет пропущена"
+      - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         uses: actions/checkout@v4
-      - if: env.DEPLOY_KEY != ''
+      - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         uses: actions/setup-node@v4
         with:
           node-version: 24
           cache: npm
-      - if: env.DEPLOY_KEY != ''
+      - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         run: npm ci
       # Боевая сборка: корень домена, индексация открыта. Формы – «Тестовая версия», пока владелец не решил, куда заявки.
-      - if: env.DEPLOY_KEY != ''
+      - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         run: npm run build
         env:
           PUBLIC_BASE: /
           PUBLIC_SITE_URL: https://avtoball.ru
           PUBLIC_FORM_ENDPOINT: ''
-      - if: env.DEPLOY_KEY != ''
+      - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         run: |
           install -m 700 -d ~/.ssh
           printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/deploy && chmod 600 ~/.ssh/deploy
