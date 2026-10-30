@@ -21,7 +21,7 @@ for (const f of html) {
   const rel = f.slice(DIST.length - 1);
   if (s.includes('—')) err(`${rel}: длинное тире «—»`);
   if (!/<title>[^<]+<\/title>/.test(s)) err(`${rel}: нет title`);
-  if (!rel.includes('/companies/index.html') && !/<h1[\s>]/.test(s)) err(`${rel}: нет h1`);
+  if (!rel.includes('/districts/index.html') && !/<h1[\s>]/.test(s)) err(`${rel}: нет h1`);
   for (const m of s.matchAll(/(?:href|src)="([^"]+)"/g)) {
     let h = m[1].replace(/&amp;/g, '&');
     if (/^(https?:|mailto:|tel:|data:)/.test(h)) continue;

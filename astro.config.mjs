@@ -12,7 +12,7 @@ export default defineConfig({
   trailingSlash: 'always',
   build: { format: 'directory', inlineStylesheets: 'auto' },
   devToolbar: { enabled: false },
-  // Страницы-списка компаний нет (карта сайта): адрес ведёт на хаб города.
+  // Списка районов нет: /novosibirsk/districts/ ведёт на хаб города (районы – там). Каталог компаний – своя страница.
   // цель с учётом base: Astro сам подпапку к цели редиректа не добавляет
-  redirects: { '/novosibirsk/companies/': BASE.replace(/\/$/, '') + '/novosibirsk/' },
+  redirects: { '/novosibirsk/districts/': BASE.replace(/\/$/, '') + '/novosibirsk/' },
 });

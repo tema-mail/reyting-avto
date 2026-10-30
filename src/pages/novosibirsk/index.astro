@@ -10,6 +10,7 @@ import { md } from '../../lib/md';
 import { u, abs } from '../../lib/url';
 
 import { NICHES_YA_PUB } from '../../lib/ya';
+import { RAYON_LIST } from '../../lib/rayon-stranitsy';
 const BY_RAYON = NICHES_YA_PUB.some((n) => n.byRayon);
 const site = Astro.site;
 const pageUrl = abs(`/${CITY.slug}/`, site);
@@ -25,6 +26,13 @@ const schema = [
       <p class="label">Хаб города · данные на {date(YA_DATE)}</p>
       <h1>Авто-рейтинги {CITY.of}</h1>
       <p class="lead" style="max-width:820px">{TOTALS.ratings} {plural(TOTALS.ratings, ['рейтинг', 'рейтинга', 'рейтингов'])} в {BY_GROUP.length} группах: {num(TOTALS.companies)} {plural(TOTALS.companies, ['компания', 'компании', 'компаний'])}, {num(TOTALS.yaReviews)} отзывов Яндекс Карт в расчёте. Над каждым рейтингом – выбор редакции, ниже места по открытой формуле.</p>
+    </div>
+  </section>
+  <section class="sec sec--flush">
+    <div class="wrap stack">
+      <h2>Каталог и районы</h2>
+      <p><a class="btn btn--sm" href={u(`/${CITY.slug}/companies/`)}>Все компании – поиск по названию и улице</a></p>
+      <p>Рейтинги по районам: {RAYON_LIST.map((r, i) => <>{i > 0 && ' · '}<a href={u(r.url)}>{r.name}</a></>)}</p>
     </div>
   </section>
   <section class="sec">
