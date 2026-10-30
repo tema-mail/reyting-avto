@@ -1,0 +1,59 @@
+---
+// Согласие на cookie и Яндекс Метрика avtoball.ru (счётчик 113920999, заведён 30.10.2026).
+// 152-ФЗ: счётчик грузится только после «Принять» и только на боевом домене; «Только необходимые» – Яндекс ничего не получает.
+// Выбор хранится в localStorage; кнопка с data-cookie-settings (политика, п. 8) открывает панель заново.
+import { NOINDEX_ALL } from '../lib/site';
+import { u } from '../lib/url';
+---
+{!NOINDEX_ALL && (
+  <div class="cc" data-cc hidden role="region" aria-label="Выбор по cookie">
+    <p>Мы используем Яндекс Метрику – статистику посещений, карту кликов и запись действий на страницах (Вебвизор), – чтобы понимать, что на сайте удобно. Она ставит свои cookie, включаем её только с вашего согласия. <a href={u('/politika-konfidentsialnosti/')}>Подробнее</a></p>
+    <div class="cc__btns">
+      <button type="button" class="btn btn--signal" data-cc-yes>Принять</button>
+      <button type="button" class="btn btn--ghost" data-cc-no>Только необходимые</button>
+    </div>
+  </div>
+)}
+
+<script>
+  const ID = 113920999;
+  const KEY = 'ab_consent';
+  const box = document.querySelector<HTMLElement>('[data-cc]');
+  const read = (): { metrika: boolean } | null => {
+    try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch { return null; }
+  };
+  let started = false;
+  const start = () => {
+    if (started || location.hostname !== 'avtoball.ru') return;
+    started = true;
+    const w = window as any;
+    w.ym = w.ym || function (...a: unknown[]) { (w.ym.a = w.ym.a || []).push(a); };
+    w.ym.l = Date.now();
+    const s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://mc.yandex.ru/metrika/tag.js';
+    document.head.appendChild(s);
+    w.ym(ID, 'init', { webvisor: true, clickmap: true, trackLinks: true, accurateTrackBounce: true });
+  };
+  if (box) {
+    const save = (metrika: boolean) => {
+      try { localStorage.setItem(KEY, JSON.stringify({ metrika, at: new Date().toISOString() })); } catch { /* приватный режим */ }
+      box.hidden = true;
+      if (metrika) start();
+    };
+    const c = read();
+    if (c) { if (c.metrika) start(); } else box.hidden = false;
+    box.querySelector('[data-cc-yes]')!.addEventListener('click', () => save(true));
+    box.querySelector('[data-cc-no]')!.addEventListener('click', () => save(false));
+    document.addEventListener('click', (e) => {
+      if ((e.target as HTMLElement).closest('[data-cookie-settings]')) box.hidden = false;
+    });
+  }
+</script>
+
+<style>
+  .cc { position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 60; max-width: 720px; margin: 0 auto; padding: 14px 16px; background: var(--card); border: 1px solid var(--line); border-radius: var(--r); box-shadow: 0 8px 28px rgba(22, 25, 29, 0.18); font-size: 14px; }
+  .cc[hidden] { display: none; }
+  .cc p { margin: 0 0 10px; }
+  .cc__btns { display: flex; flex-wrap: wrap; gap: 8px; }
+</style>
