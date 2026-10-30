@@ -1,0 +1,81 @@
+---
+// Хаб района (каталог 30.10.2026): все рейтинги, в которых есть компании района. Ниша с MIN_V_RAYONE+ компаниями –
+// ссылка на рейтинг в районе, меньше – на городской рейтинг с числом компаний района.
+import Base from '../../../layouts/Base.astro';
+import Crumbs from '../../../components/Crumbs.astro';
+import { RAYON_LIST, nichesIn, MIN_V_RAYONE, type Rayon } from '../../../lib/rayon-stranitsy';
+import { NICHES_YA_PUB } from '../../../lib/ya';
+import { BY_GROUP } from '../../../lib/katalog';
+import { whoN } from '../../../lib/ya-tekst';
+import { CITY, YA_DATE } from '../../../lib/site';
+import { score, num, date } from '../../../lib/format';
+import { u, abs } from '../../../lib/url';
+
+export function getStaticPaths() {
+  return RAYON_LIST.map((r) => ({ params: { rayon: r.slug }, props: { r } }));
+}
+interface Props { r: Rayon }
+const { r } = Astro.props;
+const pages = nichesIn(r.slug);
+const items = NICHES_YA_PUB.map((n) => {
+  const rows = n.rows.filter((x) => x.rayony.includes(r.name));
+  return { n, rows, page: pages.find((p) => p.n.key === n.key) || null };
+}).filter((x) => x.rows.length);
+const groups = BY_GROUP.map((g) => ({ name: g.name, items: items.filter((x) => x.n.group === g.name) })).filter((g) => g.items.length);
+const companies = new Set(items.flatMap((x) => x.rows.map((y) => y.url || y.display))).size;
+const year = YA_DATE.slice(0, 4);
+const h1 = `Автосервисы и автоуслуги ${r.in} Новосибирска – рейтинги ${year}`;
+const title = `Автосервисы ${r.in} Новосибирска – рейтинги ${year}`;
+const desc = `${r.name} район Новосибирска: ${num(companies)} автокомпаний в ${items.length} рейтингах – сервисы, шиномонтаж, мойки, тюнинг. Балл по отзывам Яндекс Карт.`.slice(0, 160);
+const others = RAYON_LIST.filter((x) => x.slug !== r.slug);
+const site = Astro.site;
+const pageUrl = abs(r.url, site);
+const schema = [
+  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: h1, description: desc, inLanguage: 'ru', dateModified: YA_DATE, publisher: { '@id': abs('/', site) + '#org' } },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) },
+      { '@type': 'ListItem', position: 2, name: CITY.name, item: abs(`/${CITY.slug}/`, site) },
+      { '@type': 'ListItem', position: 3, name: `${r.name} район`, item: pageUrl },
+    ],
+  },
+];
+---
+<Base title={title} description={desc} schema={schema}>
+  <Crumbs items={[['Главная', '/'], [CITY.name, `/${CITY.slug}/`], [`${r.name} район`]]} />
+
+  <section class="hero">
+    <div class="wrap stack">
+      <p class="label">Район · данные на {date(YA_DATE)}</p>
+      <h1>{h1}</h1>
+      <p class="short lead"><span class="short__k">Коротко:</span> {r.in.charAt(0).toUpperCase() + r.in.slice(1)} {num(companies)} автокомпаний из наших рейтингов, они есть в {items.length} нишах. Отдельный рейтинг района – там, где в районе не меньше {MIN_V_RAYONE} компаний: таких ниш {pages.length}.</p>
+    </div>
+  </section>
+
+  {groups.map((g) => (
+    <section class="sec">
+      <div class="wrap stack">
+        <h2>{g.name}</h2>
+        <ul class="links">
+          {g.items.map((x) => (
+            <li>
+              {x.page ? <a href={u(x.page.url)}>{x.n.t.crumb} {r.in}</a> : <a href={u(x.n.url)}>{x.n.t.crumb} {CITY.in}</a>}
+              {' '}– {whoN(x.n, x.rows.length)} в районе, выше всех {x.rows[0].url ? <a href={u(x.rows[0].url)}>{x.rows[0].display}</a> : x.rows[0].display} ({score(x.rows[0].score)}/10, {x.rows[0].place}-е место в городе)
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  ))}
+
+  <section class="sec">
+    <div class="wrap stack">
+      <h2>Другие районы</h2>
+      <ul class="links">
+        {others.map((o) => <li><a href={u(o.url)}>{o.name} район</a></li>)}
+        <li><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of} →</a></li>
+      </ul>
+    </div>
+  </section>
+</Base>

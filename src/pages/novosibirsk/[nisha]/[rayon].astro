@@ -1,0 +1,126 @@
+---
+// Рейтинг ниши в районе (каталог 30.10.2026): те же компании и баллы, что в городском рейтинге, только с точкой в районе.
+// Тексты собираются из цифр района – своих данных у страницы ровно столько, сколько компаний в районе.
+import Base from '../../../layouts/Base.astro';
+import Crumbs from '../../../components/Crumbs.astro';
+import Partnery from '../../../components/Partnery.astro';
+import YaTable from '../../../components/ya/YaTable.astro';
+import { NICHE_RAYON, rayonyOf, nichesIn, type NicheRayon } from '../../../lib/rayon-stranitsy';
+import { rt, otz, whoN } from '../../../lib/ya-tekst';
+import { CITY, PUBLISHED } from '../../../lib/site';
+import { score, num, date } from '../../../lib/format';
+import { u, abs } from '../../../lib/url';
+import { statyaOf } from '../../../lib/stati';
+
+export function getStaticPaths() {
+  return NICHE_RAYON.map((x) => ({ params: { nisha: x.n.key, rayon: x.r.slug }, props: { x } }));
+}
+interface Props { x: NicheRayon }
+const { x } = Astro.props;
+const { n, r, rows, sub } = x;
+const t = n.t;
+const year = n.date.slice(0, 4);
+const gid = statyaOf(n.key);
+const h1 = `${t.crumb} ${r.in} Новосибирска – рейтинг ${year}`;
+const titles = [`${t.crumb} ${r.in} Новосибирска – рейтинг ${year}`, `${t.crumb} ${r.in} – рейтинг ${year}`, `${t.crumb}, ${r.name} район – рейтинг ${year}`];
+const title = titles.find((s) => s.length <= 60) || titles[titles.length - 1];
+const [a, b, c] = rows;
+const avg = rows.reduce((s, x) => s + x.rating, 0) / rows.length;
+const allDay = rows.filter((x) => x.allDay).length;
+const reviews = rows.reduce((s, x) => s + x.reviews, 0);
+const kratko = `${r.in.charAt(0).toUpperCase() + r.in.slice(1)} ${whoN(n, rows.length)} из ${n.rows.length} в городском рейтинге. Выше всех по баллу – ${a.display}: ${a.place}-е место в городе, ${score(a.score)}/10, на Яндекс Картах ${rt(a.rating)} и ${otz(a.reviews)}. Следом – ${b.display} и ${c.display}.`;
+const desc = `${t.crumb} ${r.in} Новосибирска: ${whoN(n, rows.length)} по баллу из отзывов Яндекс Карт, средняя оценка ${num(avg, 1)}. Адреса, часы, телефоны на ${date(n.date)}.`.slice(0, 160);
+const others = rayonyOf(n.key).filter((o) => o.r.slug !== r.slug);
+const near = nichesIn(r.slug).filter((o) => o.n.key !== n.key).sort((p, q) => q.rows.length - p.rows.length).slice(0, 8);
+const site = Astro.site;
+const pageUrl = abs(x.url, site);
+const schema = [
+  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: h1, description: desc, inLanguage: 'ru', datePublished: PUBLISHED, dateModified: n.date, publisher: { '@id': abs('/', site) + '#org' }, mainEntity: { '@id': pageUrl + '#list' } },
+  {
+    '@type': 'ItemList',
+    '@id': pageUrl + '#list',
+    name: h1,
+    numberOfItems: rows.length,
+    itemListOrder: 'https://schema.org/ItemListOrderDescending',
+    itemListElement: rows.map((x, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      item: { '@type': n.schema, name: x.display, ...(x.url ? { '@id': abs(x.url, site) + '#company', url: abs(x.url, site) } : {}), address: { '@type': 'PostalAddress', streetAddress: (x.branches.find((br) => br.rayon === r.name) || x.branches[0]).address, addressLocality: CITY.name, addressCountry: 'RU' } },
+    })),
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) },
+      { '@type': 'ListItem', position: 2, name: CITY.name, item: abs(`/${CITY.slug}/`, site) },
+      { '@type': 'ListItem', position: 3, name: t.crumb, item: abs(n.url, site) },
+      { '@type': 'ListItem', position: 4, name: `${r.name} район`, item: pageUrl },
+    ],
+  },
+];
+---
+<Base title={title} description={desc} schema={schema} active={n.key}>
+  <Crumbs items={[['Главная', '/'], [CITY.name, `/${CITY.slug}/`], [t.crumb, n.url], [`${r.name} район`]]} />
+
+  <section class="hero">
+    <div class="wrap stack">
+      <p class="label">Рейтинг в районе · {r.name} · данные на {date(n.date)}</p>
+      <h1>{h1}</h1>
+      <p class="short lead"><span class="short__k">Коротко:</span> {kratko}</p>
+      <ul class="facts">
+        <li>Средняя оценка на Яндекс Картах – {num(avg, 1)}, у всех вместе {otz(reviews)}.</li>
+        {allDay > 0 && <li>Круглосуточно работают: {allDay}.</li>}
+        <li>Места в таблице – городские: балл тот же, что в <a href={u(n.url)}>общем рейтинге «{t.crumb}» {CITY.in}</a>. Сеть попадает в район, если здесь есть хотя бы один её филиал.</li>
+      </ul>
+      <div class="btns">
+        <a class="btn btn--signal" href="#tablitsa">Смотреть список</a>
+        <a class="btn btn--ghost" href={u(n.url)}>Весь город</a>
+        {gid && <a class="btn btn--ghost" href={u(gid.url)}>Как выбрать: гид</a>}
+      </div>
+    </div>
+  </section>
+  <Partnery niche={n.key} />
+
+  <section class="sec" id="tablitsa">
+    <div class="wrap">
+      <div class="sec__head">
+        <h2>{t.crumb} {r.in}: {whoN(n, rows.length)}</h2>
+        <p>Балл от 0 до 10 по одной формуле для всех. <a href={u(`/metodika/#${n.key}`)}>Как считали →</a></p>
+      </div>
+      <YaTable n={sub} />
+    </div>
+  </section>
+
+  {others.length > 0 && (
+    <section class="sec">
+      <div class="wrap stack">
+        <h2>{t.crumb} в других районах</h2>
+        <ul class="links">
+          {others.map((o) => <li><a href={u(o.url)}>{o.r.name} район</a> – {whoN(n, o.rows.length)}, выше всех {o.rows[0].display}</li>)}
+        </ul>
+      </div>
+    </section>
+  )}
+
+  {near.length > 0 && (
+    <section class="sec">
+      <div class="wrap stack">
+        <h2>Ещё {r.in}</h2>
+        <ul class="links">
+          {near.map((o) => <li><a href={u(o.url)}>{o.n.t.crumb}</a> – {whoN(o.n, o.rows.length)}</li>)}
+          <li><a href={u(r.url)}>Все рейтинги {r.in} →</a></li>
+        </ul>
+      </div>
+    </section>
+  )}
+
+  <section class="sec sec--dark">
+    <div class="wrap cta-band">
+      <div class="stack">
+        <h2>Вашей компании нет в списке?</h2>
+        <p>Пришлите название и ссылку на карточку в Яндекс Картах. Проверим профиль и посчитаем балл по той же формуле при следующем съёме. Это бесплатно.</p>
+      </div>
+      <a class="btn btn--signal" href={u('/dobavit-kompaniyu/')}>Добавить или уточнить данные</a>
+    </div>
+  </section>
+</Base>
