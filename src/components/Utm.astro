@@ -1,0 +1,29 @@
+---
+// Скрытые UTM на ссылках к партнёрам (владелец 30.10.2026): в коде и при наведении ссылка чистая,
+// метка дописывается в момент клика (левая, средняя кнопка, Enter) и сразу снимается. Так переходы с Автобалла
+// видны в Метрике партнёра как utm_source=avtoball, а поисковик и посетитель видят обычный адрес.
+// utm_campaign – ниша (первый сегмент после города), utm_content – вся страница.
+import { PARTNERS } from '../data/partnery';
+const hosts = Object.values(PARTNERS).map((p) => new URL(p.site).hostname.replace(/^www\./, ''));
+---
+<script is:inline define:vars={{ hosts }}>
+  (function () {
+    function tag(e) {
+      var a = e.target && e.target.closest && e.target.closest('a[href^="http"]');
+      if (!a) return;
+      var url;
+      try { url = new URL(a.href); } catch (x) { return; }
+      if (hosts.indexOf(url.hostname.replace(/^www\./, '')) < 0 || url.searchParams.has('utm_source')) return;
+      var clean = a.getAttribute('href');
+      var seg = location.pathname.split('/').filter(Boolean);
+      url.searchParams.set('utm_source', 'avtoball');
+      url.searchParams.set('utm_medium', 'referral');
+      url.searchParams.set('utm_campaign', seg[1] || seg[0] || 'main');
+      url.searchParams.set('utm_content', location.pathname);
+      a.href = url.toString();
+      setTimeout(function () { a.setAttribute('href', clean); }, 300);
+    }
+    document.addEventListener('click', tag, true);
+    document.addEventListener('auxclick', tag, true);
+  })();
+</script>

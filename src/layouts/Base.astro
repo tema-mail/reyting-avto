@@ -15,6 +15,7 @@ import '../styles/ya.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Cookie from '../components/Cookie.astro';
+import Utm from '../components/Utm.astro';
 import { SITE_NAME, NOINDEX_ALL } from '../lib/site';
 import { u, abs } from '../lib/url';
 
@@ -67,5 +68,6 @@ const graph = { '@context': 'https://schema.org', '@graph': [org, ...schema] };
     <Footer />
     <slot name="after" />
     <Cookie />
+    <Utm />
   </body>
 </html>
