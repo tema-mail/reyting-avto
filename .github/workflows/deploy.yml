@@ -1,0 +1,44 @@
+name: Beget
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: beget
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+      DEPLOY_KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
+    steps:
+      # Пока секретов нет – выкладка только с мака (deploy/vylozhit.sh), шаги ниже пропускаются.
+      - if: env.DEPLOY_KEY == ''
+        run: echo "::notice::Секрета DEPLOY_KEY нет – выкладка на Бегет пропущена"
+      - if: env.DEPLOY_KEY != ''
+        uses: actions/checkout@v4
+      - if: env.DEPLOY_KEY != ''
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - if: env.DEPLOY_KEY != ''
+        run: npm ci
+      # Боевая сборка: корень домена, индексация открыта. Формы – «Тестовая версия», пока владелец не решил, куда заявки.
+      - if: env.DEPLOY_KEY != ''
+        run: npm run build
+        env:
+          PUBLIC_BASE: /
+          PUBLIC_SITE_URL: https://avtoball.ru
+          PUBLIC_FORM_ENDPOINT: ''
+      - if: env.DEPLOY_KEY != ''
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/deploy && chmod 600 ~/.ssh/deploy
+          printf '%s\n' "$DEPLOY_KNOWN_HOSTS" > ~/.ssh/known_hosts
+          tar -czf - -C dist . | ssh -i ~/.ssh/deploy -o BatchMode=yes avtoball-deploy@45.12.72.227 "deploy ${GITHUB_SHA::12}"
+          code=$(curl -sk -o /dev/null -w '%{http_code}' https://avtoball.45.12.72.227.nip.io/novosibirsk/)
+          echo "проверочный адрес: $code"; [ "$code" = 200 ]
