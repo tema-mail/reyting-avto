@@ -1,6 +1,6 @@
 // Дословные тексты карточки Teyes Sibir из teksty-avto.md (раздел 5). Источники: ustanovka-magnitol-itog.json
 // и сайт teyes-sibir.ru (главная и /services/Installing_car_audio, 25.10.2026).
-// У остальных компаний карточка собирается из данных съёма (src/pages/novosibirsk/kompanii/[slug].astro).
+// У остальных компаний карточка собирается из данных съёма (src/pages/novosibirsk/companies/[slug].astro).
 
 export interface CardTexts {
   title?: string;

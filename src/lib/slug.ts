@@ -5,7 +5,7 @@ const MAP: Record<string, string> = {
   н: 'n', о: 'o', п: 'p', р: 'r', с: 's', т: 't', у: 'u', ф: 'f', х: 'kh', ц: 'ts', ч: 'ch', ш: 'sh', щ: 'shch',
   ъ: '', ы: 'y', ь: '', э: 'e', ю: 'yu', я: 'ya',
 };
-export const RESERVED = ['kompanii', 'ustanovka-magnitol', 'servis-kitayskikh-avtomobiley'];
+export const RESERVED = ['companies', 'districts', 'ustanovka-magnitol', 'servis-kitayskikh-avtomobiley'];
 
 export function slugify(brand: string): string {
   let s = brand

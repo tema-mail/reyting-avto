@@ -14,7 +14,7 @@ import { partnersOf, type Partner } from '../data/partnery';
 export interface Company {
   id: string; // название в съёме
   slug: string;
-  url: string; // /novosibirsk/kompanii/<slug>/
+  url: string; // /novosibirsk/companies/<slug>/
   t: CompanyTexts;
   niche: string;
   place: number;
@@ -71,7 +71,7 @@ function build(): Niche[] {
       return {
         id: c['название'],
         slug,
-        url: `/${CITY.slug}/kompanii/${slug}/`,
+        url: `/${CITY.slug}/companies/${slug}/`,
         t: texts,
         niche: t.slug,
         place: r.place,
@@ -131,7 +131,7 @@ function pinOld(niche: string, companies: Company[], src: any) {
     const g = c ? c['2гис'] : { рейтинг: 0, отзывов: 0, карточки: [] };
     const slug = slugify(p.name);
     const co: Company = {
-      id: p.name, slug, url: `/${CITY.slug}/kompanii/${slug}/`,
+      id: p.name, slug, url: `/${CITY.slug}/companies/${slug}/`,
       t: { name: p.name, brand: p.name, cells: ['независимый', c?.['марки'] || 'электромобили и гибриды', c?.['часы'] || p.ya.hours || 'по записи', c?.['цены_на_сайте'] ? 'на сайте' : 'нет'], pros: p.services, fit: p.about },
       niche, place: 0, score: 0, raw: 0, parts: { rating: 0, reviews: 0, fresh: 0, open: 0, profile: 0 },
       rating: p.ya.rating, reviews: p.ya.reviews + (g['отзывов'] || 0), days: 0, recent: p.ya.recent, status: 0, dealer: false,

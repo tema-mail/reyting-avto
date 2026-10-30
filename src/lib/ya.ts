@@ -300,7 +300,7 @@ function entities(): Entity[] {
     const old = oldSlug ? COMPANIES.find((c) => c.slug === oldSlug)! : null;
     const name = old ? old.t.brand : lead.display;
     const index = g.some((r) => r.prices.length > 0 || r.place <= 5);
-    const e: Entity = { slug, url: `/${CITY.slug}/kompanii/${slug}/`, name, oldSlug, rows: g, branches, label: name, index };
+    const e: Entity = { slug, url: `/${CITY.slug}/companies/${slug}/`, name, oldSlug, rows: g, branches, label: name, index };
     for (const r of g) {
       r.url = e.url;
       r.entity = e;

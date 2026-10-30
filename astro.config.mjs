@@ -14,5 +14,5 @@ export default defineConfig({
   devToolbar: { enabled: false },
   // Страницы-списка компаний нет (карта сайта): адрес ведёт на хаб города.
   // цель с учётом base: Astro сам подпапку к цели редиректа не добавляет
-  redirects: { '/novosibirsk/kompanii/': BASE.replace(/\/$/, '') + '/novosibirsk/' },
+  redirects: { '/novosibirsk/companies/': BASE.replace(/\/$/, '') + '/novosibirsk/' },
 });
