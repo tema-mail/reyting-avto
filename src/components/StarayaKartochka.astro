@@ -107,6 +107,9 @@ const schema = [
           </tbody>
         </table>
       </div>
+      {Number.isNaN(c.score) ? (
+        <p>Компания – выбор редакции в этой нише и стоит первой; в съёме ниши её карточки не было, поэтому балла по формуле нет. Цифры карт выше – с Яндекс Карт и 2ГИС на дату съёма. <a href={u(`/metodika/#${n.slug}`)}>Как составлен рейтинг →</a></p>
+      ) : (
       <div class="cols-2">
         <div class="parts" aria-label="Части балла">
           {parts.map(([name, v, w]) => (
@@ -120,6 +123,7 @@ const schema = [
           <p><a href={u(`/metodika/#${n.slug}`)}>Как считали →</a></p>
         </div>
       </div>
+      )}
     </div>
   </section>
 

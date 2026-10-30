@@ -9,7 +9,8 @@ export function num(n: number, digits = 0): string {
 }
 
 /** Балл до десятых: 8,5 */
-export const score = (n: number) => num(Math.round(n * 10) / 10, 1);
+/** Балл; NaN – у партнёра, которого не было в съёме ниши (закреплён первым без расчёта) – «–». */
+export const score = (n: number) => (Number.isNaN(n) ? '–' : num(Math.round(n * 10) / 10, 1));
 
 /** Оценка с карт как в источнике: 4,94 / 5,0 / 4,8 */
 export function rating(n: number): string {

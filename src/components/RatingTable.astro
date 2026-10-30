@@ -39,7 +39,7 @@ const otz = (k: number) => `${num(k)} отз.`;
     </thead>
     <tbody>
       {n.companies.map((c) => (
-        <tr class={c.place <= 3 ? 'top3' : undefined} data-k={`${c.place}|${c.id}|${c.raw}|${c.y.rating}|${c.g.rating}|${c.reviews}`}>
+        <tr class={c.place <= 3 ? 'top3' : undefined} data-k={`${c.place}|${c.id}|${Number.isNaN(c.raw) ? 99 : c.raw}|${c.y.rating}|${c.g.rating}|${c.reviews}`}>
           <td class="pos">{c.place}</td>
           <td class="co"><a href={u(c.url)}>{c.t.name}</a></td>
           <td class="sc">{c.partner ? <b class="pick">Выбор редакции</b> : <>{score(c.score)}<Gauge value={c.score} signal={c.place <= 3} /></>}</td>

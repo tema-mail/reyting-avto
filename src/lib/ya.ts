@@ -113,7 +113,7 @@ function pinPartners(key: string, rows: YaRow[], day: string) {
     if (i >= 0) return { ...rows.splice(i, 1)[0], partner: true };
     const b: Branch = { id: p.ya.id, name: p.name, address: p.address, rayon: rayon(p.ya.coords), rating: p.ya.rating, ratings: p.ya.ratings, reviews: p.ya.reviews, last: p.ya.last, recent: p.ya.recent, site: p.site, phones: [p.phone], hours: p.ya.hours, allDay: false, rubrics: [], card: p.yandex || '', good: false, owner: false };
     const days = p.ya.last ? Math.round((Date.parse(day) - Date.parse(p.ya.last)) / 864e5) : null;
-    return { niche: key, place: 0, score: 0, raw: 0, parts: { rating: 0, reviews: 0, fresh: 0, open: 0 }, name: p.name, display: p.name, rating: p.ya.rating, ratings: p.ya.ratings, reviews: p.ya.reviews, last: p.ya.last, days, recent: p.ya.recent, site: true, hours: !!p.ya.hours, owner: false, good: false, allDay: false, branches: [b], ids: [p.ya.id], rayony: [b.rayon], url: null, prices: [], priceFrom: null, partner: true };
+    return { niche: key, place: 0, score: NaN, raw: NaN, parts: { rating: 0, reviews: 0, fresh: 0, open: 0 }, name: p.name, display: p.name, rating: p.ya.rating, ratings: p.ya.ratings, reviews: p.ya.reviews, last: p.ya.last, days, recent: p.ya.recent, site: true, hours: !!p.ya.hours, owner: false, good: false, allDay: false, branches: [b], ids: [p.ya.id], rayony: [b.rayon], url: null, prices: [], priceFrom: null, partner: true };
   });
   rows.unshift(...pinned);
   rows.forEach((r, i) => (r.place = i + 1));

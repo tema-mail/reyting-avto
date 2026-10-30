@@ -133,7 +133,8 @@ function pinOld(niche: string, companies: Company[], src: any) {
     const co: Company = {
       id: p.name, slug, url: `/${CITY.slug}/companies/${slug}/`,
       t: { name: p.name, brand: p.name, cells: ['независимый', c?.['марки'] || 'электромобили и гибриды', c?.['часы'] || p.ya.hours || 'по записи', c?.['цены_на_сайте'] ? 'на сайте' : 'нет'], pros: p.services, fit: p.about },
-      niche, place: 0, score: 0, raw: 0, parts: { rating: 0, reviews: 0, fresh: 0, open: 0, profile: 0 },
+      niche, place: 0, score: NaN, raw: NaN, // в съёме ниши компании не было – балла нет, на сайте «–»
+      parts: { rating: 0, reviews: 0, fresh: 0, open: 0, profile: 0 },
       rating: p.ya.rating, reviews: p.ya.reviews + (g['отзывов'] || 0), days: 0, recent: p.ya.recent, status: 0, dealer: false,
       addresses: [p.address], phones: [p.phone], site: p.site, siteWorks: true, hours: c?.['часы'] || p.ya.hours,
       rubrics: c?.['рубрики'] || '', brands: c?.['марки'] || null, officialStatus: null,
