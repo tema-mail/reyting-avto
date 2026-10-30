@@ -5,6 +5,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../Crumbs.astro';
 import Gauge from '../Gauge.astro';
 import YaCeny from './YaCeny.astro';
+import Partnery from '../Partnery.astro';
 import type { Entity } from '../../lib/ya';
 import { nicheYa } from '../../lib/ya';
 import { cardLead, strengthsYa, attentionYa, rt, otz, filials } from '../../lib/ya-tekst';
@@ -164,6 +165,8 @@ const schema = [
       </div>
     </section>
   )}
+
+  {!main.partner && <Partnery niche={main.niche} />}
 
   <section class="sec sec--dark">
     <div class="wrap cta-band">

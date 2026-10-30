@@ -1,6 +1,6 @@
 // Модель ниш «только Яндекс Карты»: съём src/data/source/avto/<ключ>.json + отбор (otbor.mjs) + формула (formula-ya.mjs)
 // + тексты src/data/nishi/<ключ>.ts + цены с сайтов src/data/ceny/<ключ>.json (в балл не входят).
-// Компании из топ-20 получают карточку; одна компания в нескольких нишах –
+// Каждая компания рейтинга получает карточку (каталог 30.10, раньше – только топ-20); одна компания в нескольких нишах –
 // одна карточка (связь по id организаций Яндекса), в том числе со старыми карточками ниш Я+2ГИС.
 import { computeYa, TOP } from './formula-ya.mjs';
 import { NICHES_YA } from './otbor.mjs';
@@ -101,7 +101,7 @@ export interface Entity {
   rows: YaRow[]; // места в нишах Яндекса, лучшее место первым
   branches: Branch[];
   label: string; // имя для title: при совпадении названий – с улицей или нишей
-  index: boolean; // индексировать: есть цены с сайта или топ-5 хотя бы одного рейтинга (иначе noindex, follow)
+  index: boolean; // индексировать: есть отзывы, цены с сайта или топ-5 хотя бы одного рейтинга (иначе noindex, follow)
 }
 
 /** Выбор редакции: партнёры встают первыми, их цифры – настоящие с Яндекс Карт; остальные сдвигаются вниз. */
@@ -286,8 +286,6 @@ function entities(): Entity[] {
   for (const g of groups.values()) {
     g.sort((a, b) => a.place - b.place || b.score - a.score);
     const oldSlug = g.flatMap((r) => r.ids).map((id) => oldById.get(id)).find(Boolean) || null;
-    const inTop = g.some((r) => r.place <= TOP);
-    if (!inTop && !oldSlug) continue;
     const branches = [...new Map(g.flatMap((r) => r.branches).map((b) => [b.id, b])).values()];
     const lead = g[0];
     let slug = oldSlug;
@@ -299,7 +297,8 @@ function entities(): Entity[] {
     used.add(slug);
     const old = oldSlug ? COMPANIES.find((c) => c.slug === oldSlug)! : null;
     const name = old ? old.t.brand : lead.display;
-    const index = g.some((r) => r.prices.length > 0 || r.place <= 5);
+    // каталог 30.10: карточка у каждой компании рейтинга; в индекс – если есть хоть один отзыв, цены или топ-5
+    const index = g.some((r) => r.prices.length > 0 || r.place <= 5 || r.reviews > 0);
     const e: Entity = { slug, url: `/${CITY.slug}/companies/${slug}/`, name, oldSlug, rows: g, branches, label: name, index };
     for (const r of g) {
       r.url = e.url;
