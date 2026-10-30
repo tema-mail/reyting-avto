@@ -1,0 +1,20 @@
+# avtoball.ru на VPS Beget: только статика, без заявок и API. Порты не публикуются – Caddy ходит по сети dzenbot_default.
+name: avtoball
+services:
+  avtoball-web:
+    image: nginxinc/nginx-unprivileged:1.27-alpine
+    container_name: avtoball-web
+    restart: unless-stopped
+    volumes:
+      - /opt/avtoball/releases:/srv:ro
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    read_only: true
+    tmpfs: [/tmp]
+    security_opt: [no-new-privileges:true]
+    cap_drop: [ALL]
+    mem_limit: 64m
+    networks: [proxy]
+networks:
+  proxy:
+    name: dzenbot_default
+    external: true

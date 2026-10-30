@@ -1,0 +1,21 @@
+# >>> avtoball: Автобалл – рейтинги автосервисов Новосибирска; блок ставит deploy/install.sh репозитория reyting-avto
+avtoball.ru {
+	encode gzip zstd
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		-Server
+	}
+	reverse_proxy avtoball-web:8080
+}
+www.avtoball.ru, http://www.avtoball.ru {
+	redir https://avtoball.ru{uri} permanent
+}
+# Проверочный адрес до переключения DNS: свой сертификат Caddy (curl -k), закрыт от поисковиков.
+avtoball.45.12.72.227.nip.io {
+	tls internal
+	header X-Robots-Tag "noindex, nofollow"
+	reverse_proxy avtoball-web:8080
+}
+# <<< avtoball
