@@ -4,6 +4,7 @@ import { NICHES, COMPANIES, indexable } from './reyting';
 import { CITY } from './site';
 import { NICHES_YA_PUB, NEW_CARDS, uniqueTotals } from './ya';
 import { STATI } from './stati';
+import { NICHE_RAYON, RAYON_LIST } from './rayon-stranitsy';
 import { AVTOR } from '../data/avtor';
 import { GROUPS, GROUP_SLUG, OLD_GROUP } from './otbor.mjs';
 
@@ -163,6 +164,8 @@ export function indexableAll(): { path: string; lastmod: string }[] {
     ...ya,
     ...cards,
     ...STATI.map((s) => ({ path: s.url, lastmod: s.fm.updated || s.fm.date })),
+    ...NICHE_RAYON.map((x) => ({ path: x.url, lastmod: x.n.date })),
+    ...RAYON_LIST.map((r) => ({ path: r.url, lastmod: latest })),
     ...(STATI.length ? [{ path: AVTOR.url, lastmod: latest }] : []),
   ];
 }

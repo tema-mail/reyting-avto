@@ -15,6 +15,7 @@ import { score, num, date } from '../../lib/format';
 import { md } from '../../lib/md';
 import { u, abs } from '../../lib/url';
 import { statyaOf } from '../../lib/stati';
+import { rayonyOf } from '../../lib/rayon-stranitsy';
 
 interface Props { n: NicheYa }
 const { n } = Astro.props;
@@ -27,6 +28,7 @@ const title = titles.find((x) => x.length <= 60) || titles[titles.length - 1];
 const desc = description(n);
 const noms = nominations(n);
 const near = neighbours(n.key);
+const poRayonam = rayonyOf(n.key);
 const rejected = Object.entries(n.rejected).filter(([, v]) => v > 0);
 const site = Astro.site;
 const pageUrl = abs(n.url, site);
@@ -108,6 +110,15 @@ const schema = [
       <YaTable n={n} />
     </div>
   </section>
+
+  {poRayonam.length > 0 && (
+    <section class="sec sec--flush">
+      <div class="wrap stack">
+        <h2>{t.crumb} по районам</h2>
+        <ul class="links">{poRayonam.map((x) => <li><a href={u(x.url)}>{x.r.name} район</a> – {whoN(n, x.rows.length)}</li>)}</ul>
+      </div>
+    </section>
+  )}
 
   <section class="sec">
     <div class="wrap">
