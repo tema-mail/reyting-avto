@@ -42,6 +42,7 @@ const graph = { '@context': 'https://schema.org', '@graph': [org, ...schema] };
     {description && <meta name="description" content={description} />}
     <link rel="canonical" href={canonical} />
     {meta && <meta name="robots" content={meta} />}
+    {!NOINDEX_ALL && <meta name="yandex-verification" content="a9bd95b3237aed41" />}
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content={SITE_NAME} />
     <meta property="og:title" content={title} />
