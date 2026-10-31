@@ -9,11 +9,15 @@ DEPLOY_PUB="${DEPLOY_PUB:-$HOME/.config/avtoball/deploy_ed25519.pub}"
 HERE="$(cd "$(dirname "$0")" && pwd)"
 SSH=(ssh -i "$KEY" -o BatchMode=yes "$HOST")
 
-# 1. Пользователь, папки, приёмник, ключ (может только то, что разрешает receive.sh), контейнер
+# 1. Пользователи, папки (заявки – /opt/avtoball/data, только uid 10511), приёмник, ключ (может только то, что разрешает receive.sh), контейнер
 "${SSH[@]}" "id avtoball-deploy >/dev/null 2>&1 || useradd --system --create-home --shell /bin/sh avtoball-deploy
-  mkdir -p /opt/avtoball/releases /home/avtoball-deploy/.ssh
+  id avtoball-api >/dev/null 2>&1 || useradd --system --no-create-home --uid 10511 --shell /usr/sbin/nologin avtoball-api
+  mkdir -p /opt/avtoball/releases /opt/avtoball/server /opt/avtoball/data /opt/avtoball/analytics /home/avtoball-deploy/.ssh
+  chown 10511:10511 /opt/avtoball/data && chmod 700 /opt/avtoball/data
+  [ -f /opt/avtoball/lead.env ] || { install -m 600 /dev/null /opt/avtoball/lead.env; echo 'ORIGIN=https://avtoball.ru,https://admin.avtoball.ru' > /opt/avtoball/lead.env; }
   chown avtoball-deploy:avtoball-deploy /opt/avtoball/releases && chmod 755 /opt/avtoball /opt/avtoball/releases"
 scp -q -i "$KEY" "$HERE/compose.yml" "$HERE/nginx.conf" "$HOST:/opt/avtoball/"
+scp -q -i "$KEY" "$HERE/../server/lead.mjs" "$HOST:/opt/avtoball/server/"
 scp -q -i "$KEY" "$HERE/receive.sh" "$HOST:/usr/local/bin/avtoball-receive"
 "${SSH[@]}" "chmod 755 /usr/local/bin/avtoball-receive
   printf 'command=\"/usr/local/bin/avtoball-receive\",restrict %s\n' \"$(cat "$DEPLOY_PUB")\" > /home/avtoball-deploy/.ssh/authorized_keys

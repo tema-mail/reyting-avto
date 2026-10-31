@@ -1,4 +1,4 @@
-# avtoball.ru на VPS Beget: только статика, без заявок и API. Порты не публикуются – Caddy ходит по сети dzenbot_default.
+# avtoball.ru на VPS Beget: статика + приёмник заявок и свой счётчик (avtoball-api). Порты не публикуются – Caddy ходит по сети dzenbot_default.
 name: avtoball
 services:
   avtoball-web:
@@ -13,6 +13,25 @@ services:
     security_opt: [no-new-privileges:true]
     cap_drop: [ALL]
     mem_limit: 64m
+    networks: [proxy]
+  # Заявки и свой счётчик: /opt/avtoball/data (ПДн – только этот сервис, свой uid 10511), отчёты кабинета – /opt/avtoball/analytics.
+  # Логин и пароль кабинета, токен бота – только в /opt/avtoball/lead.env (600).
+  avtoball-api:
+    image: node:22-alpine
+    container_name: avtoball-api
+    restart: unless-stopped
+    user: "10511:10511"
+    working_dir: /app
+    command: ["node", "lead.mjs"]
+    env_file: [/opt/avtoball/lead.env]
+    volumes:
+      - /opt/avtoball/server:/app:ro
+      - /opt/avtoball/data:/data
+      - /opt/avtoball/analytics:/analytics:ro
+    read_only: true
+    security_opt: [no-new-privileges:true]
+    cap_drop: [ALL]
+    mem_limit: 96m
     networks: [proxy]
 networks:
   proxy:

@@ -7,7 +7,12 @@ avtoball.ru {
 		Referrer-Policy "strict-origin-when-cross-origin"
 		-Server
 	}
-	reverse_proxy avtoball-web:8080
+	handle /api/* {
+		reverse_proxy avtoball-api:8090
+	}
+	handle {
+		reverse_proxy avtoball-web:8080
+	}
 }
 www.avtoball.ru, http://www.avtoball.ru {
 	redir https://avtoball.ru{uri} permanent

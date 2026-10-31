@@ -69,6 +69,7 @@ const graph = { '@context': 'https://schema.org', '@graph': [org, ...schema] };
     <slot name="after" />
     <Cookie />
     <Utm />
+    {!NOINDEX_ALL && <script is:inline>(function(){if(location.hostname!=='avtoball.ru')return;var s=function(e,k){try{navigator.sendBeacon('/api/ev',JSON.stringify({e:e,p:location.pathname,r:document.referrer,k:k||''}))}catch(x){}};var ref='';try{ref=new URL(document.referrer).hostname}catch(x){}if(ref!==location.hostname)s('in');s('pv');document.addEventListener('click',function(ev){var a=ev.target.closest&&ev.target.closest('a[href]');if(!a)return;var h=a.getAttribute('href');if(h.indexOf('tel:')===0)s('phone',h.slice(4));else if(/^https?:\/\/(t\.me|wa\.me|api\.whatsapp\.com|vk\.com|max\.ru)\//.test(h))s('msg',a.hostname);},true);})();</script>}
     <script is:inline>(function(){var d=new Date(),t=('0'+d.getDate()).slice(-2)+'.'+('0'+(d.getMonth()+1)).slice(-2)+'.'+d.getFullYear();document.querySelectorAll('[data-today]').forEach(function(e){e.textContent=t;});})();</script>
   </body>
 </html>

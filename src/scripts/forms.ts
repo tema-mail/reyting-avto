@@ -104,6 +104,9 @@ document.querySelectorAll<HTMLFormElement>('form[data-form]').forEach((form) => 
     try {
       const res = await fetch(endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(data) });
       if (!res.ok) throw new Error(String(res.status));
+      // целевое действие: свой счётчик (без cookie) и цель Метрики, если посетитель её разрешил
+      navigator.sendBeacon?.('/api/ev', JSON.stringify({ e: 'form', p: location.pathname, k: data.form }));
+      (window as any).ym?.(113920999, 'reachGoal', 'lead');
       location.href = form.dataset.thanks || '/';
     } catch {
       msg.className = 'form__msg form__msg--err';

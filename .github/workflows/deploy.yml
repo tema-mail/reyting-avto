@@ -27,13 +27,13 @@ jobs:
           cache: npm
       - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         run: npm ci
-      # Боевая сборка: корень домена, индексация открыта. Формы – «Тестовая версия», пока владелец не решил, куда заявки.
+      # Боевая сборка: корень домена, индексация открыта, формы шлют в свой приёмник /api/lead (server/lead.mjs).
       - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         run: npm run build
         env:
           PUBLIC_BASE: /
           PUBLIC_SITE_URL: https://avtoball.ru
-          PUBLIC_FORM_ENDPOINT: ''
+          PUBLIC_FORM_ENDPOINT: /api/lead
       - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         run: |
           install -m 700 -d ~/.ssh
