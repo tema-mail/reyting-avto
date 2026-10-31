@@ -2,7 +2,7 @@
 /** Каркас кабинета avtoball.ru – перенос кабинета gaz-mag (стандарт Milovini: вкладки и шапка Elite Rose / ALEX KROWN v1),
     адрес сайта справа, «Выйти». Весь кабинет закрыт логином и паролем (scripts/lock-admin.mjs при выкладке), закрыт от поиска.
     Владелец 01.11.2026: «админку по сайту подними полностью: заявки, SEO, страницы по категориям и городам, Метрика по городам;
-    нейросети и платный XMLRiver не надо». Товаров нет (сайт-рейтинг) – вкладки «Товары» нет; Позиции и Рекомендации – под замком. */
+    нейросети и платный XMLRiver не надо». Товаров нет (сайт-рейтинг) – вкладки «Товары» нет; Позиции (без нейросетей) и Рекомендации открыты 01.11.2026. */
 import '../styles/admin.css';
 import { u } from '../lib/url';
 type Tab = 'pages' | 'leads' | 'metrika' | 'seo' | 'positions' | 'recommendations';
@@ -14,8 +14,8 @@ const tabs: [Tab, string, string, string][] = [
   ['leads', '/admin/leads/', 'Заявки', ''],
   ['metrika', '/admin/metrika/', 'Метрика', ''],
   ['seo', '/admin/seo/', 'SEO-аналитика', ''],
-  ['positions', '/admin/positions/', 'Позиции', '🔒'],
-  ['recommendations', '/admin/recommendations/', 'Рекомендации', '🔒'],
+  ['positions', '/admin/positions/', 'Позиции', ''],
+  ['recommendations', '/admin/recommendations/', 'Рекомендации', ''],
 ];
 ---
 <!doctype html>

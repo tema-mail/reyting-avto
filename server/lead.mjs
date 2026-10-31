@@ -3,7 +3,8 @@
 // Копия пишется всегда, даже без Telegram: заявка не теряется (владелец 01.11.2026: «все заявки всегда приходят нам»).
 // POST /api/ev {e, p} – свой счётчик без cookie (вход, просмотр, телефон, мессенджер, форма) для «Цифр страницы» кабинета:
 // без IP и без идентификатора посетителя, только событие, страница, источник и время – /data/ev-YYYY-MM.jsonl.
-// Кабинет: GET /api/leads, PATCH /api/leads/<номер> {stage}, GET /api/admin/report/<раздел>, GET /api/admin/events?m=YYYY-MM –
+// Кабинет: GET /api/leads, PATCH /api/leads/<номер> {stage}, GET /api/admin/report/<раздел>, PATCH /api/admin/recommendations/<id> {status},
+// GET /api/admin/events?m=YYYY-MM –
 // только с логином и паролем кабинета (Basic, тот же вход, что у замка админки).
 // Окружение: TG_TOKEN, TG_CHAT (через запятую), ADMIN_LOGIN, ADMIN_PASS, PORT (8090), ORIGIN (https://avtoball.ru).
 import { createServer } from 'node:http';
@@ -18,7 +19,9 @@ const TG_CHATS = (process.env.TG_CHAT || '').split(',').map((s) => s.trim()).fil
 const ORIGINS = (process.env.ORIGIN || 'https://avtoball.ru,https://admin.avtoball.ru').split(',').map((s) => s.trim());
 const ADMIN = process.env.ADMIN_LOGIN && process.env.ADMIN_PASS ? `${process.env.ADMIN_LOGIN}:${process.env.ADMIN_PASS}` : '';
 const STAGES = ['новая', 'в работе', 'выполнена', 'отказ', 'архив'];
-const REPORTS = ['metrika', 'seo', 'pages'];
+const REPORTS = ['metrika', 'seo', 'pages', 'recommendations'];
+// статусы рекомендаций – как у агента улучшений (~/.claude/skills/uluchsheniya)
+const REC_STATUSES = ['novoe', 'v_rabote', 'sdelano', 'ne_nado'];
 const EVENTS = ['in', 'pv', 'phone', 'msg', 'form'];
 
 const MAX_BODY = 16 * 1024;
@@ -103,7 +106,22 @@ async function adminApi(req, res) {
   if (rep && req.method === 'GET') {
     if (!REPORTS.includes(rep[1])) return send(res, 404, { ok: false });
     const data = await readJson(`${ANALYTICS}/${rep[1]}.json`, null);
-    return data ? send(res, 200, data) : send(res, 404, { ok: false, error: 'not_collected' });
+    if (!data) return send(res, 404, { ok: false, error: 'not_collected' });
+    if (rep[1] === 'recommendations' && Array.isArray(data.items)) {
+      const st = await readJson(`${DATA}/rec-status.json`, {});
+      data.items = data.items.map((i) => (st[i.id] ? { ...i, status: st[i.id].status, status_at: st[i.id].at } : i));
+    }
+    return send(res, 200, data);
+  }
+  const rec = url.pathname.match(/^\/api\/admin\/recommendations\/([\w-]{1,80})$/);
+  if (rec && req.method === 'PATCH') {
+    const status = JSON.parse(await readBody(req, 2000)).status;
+    if (!REC_STATUSES.includes(status)) return send(res, 422, { ok: false });
+    const st = await readJson(`${DATA}/rec-status.json`, {});
+    st[rec[1]] = { status, at: new Date().toISOString() };
+    await writeFile(`${DATA}/rec-status.json.tmp`, JSON.stringify(st));
+    await rename(`${DATA}/rec-status.json.tmp`, `${DATA}/rec-status.json`);
+    return send(res, 200, { ok: true, status });
   }
   if (url.pathname === '/api/admin/events' && req.method === 'GET') {
     const m = url.searchParams.get('m') || '';

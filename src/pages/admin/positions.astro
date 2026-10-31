@@ -1,8 +1,8 @@
 ---
-// Позиции в поиске – закрыт замком, пока владелец не откроет (стандарт кабинетов 17.10.2026; нейросети и XMLRiver не собираем).
+// Кабинет → Позиции: открыты владельцем 01.11.2026 – Яндекс (Вебмастер) и Google (Search Console), без нейросетей.
 import Admin from '../../layouts/Admin.astro';
-import Locked from '../../components/admin/Locked.astro';
+import Positions from '../../islands/admin/Positions';
 ---
 <Admin title="Позиции" active="positions">
-  <Locked title="Позиции в поиске" about="Матрица «запрос × дата» по Яндексу и Google, видимость сайта и динамика мест." items={['Позиции в Яндексе по Новосибирску', 'Позиции в Google', 'Видимость по группам рейтингов', 'Динамика за месяц']} />
+  <Positions client:load />
 </Admin>
