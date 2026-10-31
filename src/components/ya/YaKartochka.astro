@@ -8,10 +8,10 @@ import Gauge from '../Gauge.astro';
 import YaCeny from './YaCeny.astro';
 import Partnery from '../Partnery.astro';
 import type { Entity } from '../../lib/ya';
-import { nicheYa } from '../../lib/ya';
+import { nicheOf } from '../../lib/ya';
 import { cardLead, strengthsYa, attentionYa, rt, otz, filials } from '../../lib/ya-tekst';
 import { W_YA } from '../../lib/formula-ya.mjs';
-import { CITY, PUBLISHED } from '../../lib/site';
+import { PUBLISHED } from '../../lib/site';
 import { score, num, date, telHref } from '../../lib/format';
 import { u, abs } from '../../lib/url';
 import { isPartnerSite } from '../../data/partnery';
@@ -19,7 +19,9 @@ import { isPartnerSite } from '../../data/partnery';
 interface Props { e: Entity }
 const { e } = Astro.props;
 const main = e.rows[0];
-const n = nicheYa(main.niche);
+const CITY = e.city;
+const n = nicheOf(main);
+const rayony = [...new Set(e.branches.map((b) => b.rayon).filter(Boolean))]; // у города без границ районов – пусто
 const lead = cardLead(e);
 const title = `${e.label} – отзывы, адрес, место в рейтинге ${CITY.in}`;
 // description ≤160 знаков (SEO-проверка 28.10): место, балл, цифры карт; длинное – режем по слову
@@ -67,7 +69,7 @@ const schema = [
       <div class="stack">
         <p class="label">Карточка компании · данные на <Today /></p>
         <h1>{e.name}</h1>
-        <p class="sub">{e.branches.length > 1 ? filials(e.branches.length) : e.branches[0].address} · {[...new Set(e.branches.map((b) => b.rayon))].join(', ')}</p>
+        <p class="sub">{e.branches.length > 1 ? filials(e.branches.length) : e.branches[0].address}{rayony.length > 0 ? ` · ${rayony.join(', ')}` : ''}</p>
         <p class="lead">{lead}</p>
         <div class="metrics">
           <div class="metric"><em>Яндекс Карты</em><b>{rt(main.rating)}</b><span>{num(main.ratings)} оценок · {otz(main.reviews)}</span></div>
@@ -98,7 +100,7 @@ const schema = [
         <table class="tbl">
           <thead><tr><th scope="col">Рейтинг</th><th scope="col">Место</th><th scope="col">Балл</th></tr></thead>
           <tbody>
-            {e.rows.map((r) => { const y = nicheYa(r.niche); return <tr><td><a href={u(y.url)}>{y.t.crumb} {CITY.in}</a></td><td class="num">{r.place} из {y.rows.length}</td><td class="num">{score(r.score)}/10</td></tr>; })}
+            {e.rows.map((r) => { const y = nicheOf(r); return <tr><td><a href={u(y.url)}>{y.t.crumb} {CITY.in}</a></td><td class="num">{r.place} из {y.rows.length}</td><td class="num">{score(r.score)}/10</td></tr>; })}
           </tbody>
         </table>
       </div>
@@ -142,7 +144,7 @@ const schema = [
           <div class="co"><div class="co__body">
             {e.branches.length > 1 && main.branches[0].id === b.id && <p class="small"><span class="tag">Главная точка – по ней балл</span></p>}
             <dl class="dl">
-              <div><dt>Адрес</dt><dd>{b.address} · {b.rayon}</dd></div>
+              <div><dt>Адрес</dt><dd>{b.address}{b.rayon ? ` · ${b.rayon}` : ''}</dd></div>
               <div><dt>Часы</dt><dd>{b.allDay ? 'Круглосуточно' : b.hours ? cap(b.hours) : 'не указаны в карточке'}</dd></div>
               <div><dt>Телефон</dt><dd>{b.phones.length ? b.phones.map((p, i) => <>{i > 0 && '; '}<a href={telHref(p)}>{p}</a></>) : 'нет в карточке'}</dd></div>
               <div><dt>Сайт</dt><dd>{b.site && isPartnerSite(b.site) ? <a href={b.site} rel="noopener" target="_blank">{domain(b.site)}</a> : b.site ? 'покажем после подтверждения данных' : 'нет в карточке'}</dd></div>
@@ -167,7 +169,7 @@ const schema = [
     </section>
   )}
 
-  {!main.partner && <Partnery niche={main.niche} />}
+  {!main.partner && <Partnery niche={main.niche} city={e.city.slug} />}
 
   <section class="sec sec--dark">
     <div class="wrap cta-band">
@@ -175,7 +177,7 @@ const schema = [
         <h2>Это ваша компания?</h2>
         <p>Если данные устарели (часы, телефон, сайт), пришлите правку со ссылкой на источник. Мы проверим и обновим карточку при следующем съёме. Место в списке считает формула.</p>
       </div>
-      <a class="btn btn--signal" href={u('/dobavit-kompaniyu/')}>Уточнить данные</a>
+      <a class="btn btn--signal" href={u('/dobavit-kompaniyu/') + (CITY.slug === 'novosibirsk' ? '' : `?city=${encodeURIComponent(CITY.name)}`)}>Уточнить данные</a>
     </div>
   </section>
 </Base>

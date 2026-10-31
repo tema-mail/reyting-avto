@@ -2,8 +2,8 @@
 // «Выбор редакции»: партнёры проекта первыми в нише (data/partnery.ts).
 import { partnersOf } from '../data/partnery';
 
-interface Props { niche: string }
-const list = partnersOf(Astro.props.niche);
+interface Props { niche: string; city: string }
+const list = partnersOf(Astro.props.niche, Astro.props.city);
 const tel = (p: string) => 'tel:' + p.replace(/[^\d+]/g, '');
 const domain = (s: string) => s.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '');
 ---

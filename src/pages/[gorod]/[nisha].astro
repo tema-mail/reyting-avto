@@ -1,0 +1,19 @@
+---
+// Рейтинг «ниша × город». Две ниши на данных Яндекс Карт и 2ГИС (формула v2, только Новосибирск) – StaryyReyting;
+// ниши «только Яндекс Карты» (съём 28.10.2026 и дальше, формула владельца) – YaReyting, во всех готовых городах.
+import StaryyReyting from '../../components/StaryyReyting.astro';
+import YaReyting from '../../components/ya/YaReyting.astro';
+import { NICHES, type Niche } from '../../lib/reyting';
+import { yaGoroda, type NicheYa } from '../../lib/ya';
+import { READY } from '../../lib/goroda';
+
+export function getStaticPaths() {
+  return READY.flatMap((c) => [
+    ...(c.slug === 'novosibirsk' ? NICHES.map((n) => ({ params: { gorod: c.slug, nisha: n.slug }, props: { n, y: null } })) : []),
+    ...yaGoroda(c.slug).pub.map((y) => ({ params: { gorod: c.slug, nisha: y.key }, props: { n: null, y } })),
+  ]);
+}
+interface Props { n: Niche | null; y: NicheYa | null }
+const { n, y } = Astro.props;
+---
+{n ? <StaryyReyting n={n} /> : <YaReyting n={y!} />}

@@ -2,17 +2,29 @@
 import Today from '../../../components/Today.astro';
 // Каталог всех компаний из рейтингов (30.10.2026): поиск по названию и адресу, фильтр по нише и району.
 // Порядок – по числу отзывов на Яндекс Картах; фильтр только скрывает строки (скрипт ниже, без фреймворка).
+// Свой каталог у каждого готового города (01.11.2026); фильтр по району – там, где есть границы районов.
 import Base from '../../../layouts/Base.astro';
 import Crumbs from '../../../components/Crumbs.astro';
-import { ENTITIES } from '../../../lib/ya';
-import { COMPANIES, NICHES } from '../../../lib/reyting';
-import { RATINGS } from '../../../lib/katalog';
-import { RAYON_LIST } from '../../../lib/rayon-stranitsy';
+import { yaGoroda } from '../../../lib/ya';
+import { COMPANIES as OLD_COMPANIES, NICHES } from '../../../lib/reyting';
+import { katalog } from '../../../lib/katalog';
+import { RAYON_LIST as NSK_RAYONY } from '../../../lib/rayon-stranitsy';
 import { rt, otz } from '../../../lib/ya-tekst';
-import { CITY, YA_DATE } from '../../../lib/site';
+import { YA_DATE } from '../../../lib/site';
+import { READY, type Gorod } from '../../../lib/goroda';
 import { num, date } from '../../../lib/format';
 import { u, abs } from '../../../lib/url';
 
+export function getStaticPaths() {
+  return READY.map((c) => ({ params: { gorod: c.slug }, props: { c } }));
+}
+interface Props { c: Gorod }
+const CITY = Astro.props.c;
+const nsk = CITY.slug === 'novosibirsk';
+const ENTITIES = yaGoroda(CITY.slug).entities;
+const COMPANIES = nsk ? OLD_COMPANIES : [];
+const RATINGS = katalog(CITY.slug).ratings;
+const RAYON_LIST = nsk ? NSK_RAYONY : [];
 interface Item { name: string; url: string; niches: string[]; rayony: string[]; address: string; rating: number; reviews: number }
 const crumbOld = (k: string) => NICHES.find((n) => n.slug === k)!.t.crumb;
 const items: Item[] = [
@@ -23,7 +35,7 @@ const items: Item[] = [
       name: e.label,
       url: e.url,
       niches: [...new Set([...e.rows.map((r) => r.niche), ...old])],
-      rayony: [...new Set(e.branches.map((x) => x.rayon))],
+      rayony: [...new Set(e.branches.map((x) => x.rayon).filter(Boolean))],
       address: b.address + (e.branches.length > 1 ? ` и ещё ${e.branches.length - 1}` : ''),
       rating: e.rows[0].rating,
       reviews: Math.max(...e.rows.map((r) => r.reviews)),
@@ -40,10 +52,10 @@ const crumb = (k: string) => RATINGS.find((r) => r.key === k)?.crumb || crumbOld
 const niches = RATINGS.map((r) => [r.key, r.crumb] as const);
 const h1 = `Автосервисы и автоуслуги ${CITY.of}: каталог ${num(list.length)} компаний`;
 const title = `Все автосервисы ${CITY.of} – каталог и рейтинги`;
-const desc = `${num(list.length)} автокомпаний ${CITY.of} из ${RATINGS.length} рейтингов: поиск по названию и адресу, фильтр по услуге и району, оценки Яндекс Карт.`.slice(0, 160);
+const desc = `${num(list.length)} автокомпаний ${CITY.of} из ${RATINGS.length} рейтингов: поиск по названию и адресу, фильтр по услуге${RAYON_LIST.length ? ' и району' : ''}, оценки Яндекс Карт.`.slice(0, 160);
 const pageUrl = abs(`/${CITY.slug}/companies/`, Astro.site);
 const schema = [
-  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: h1, description: desc, inLanguage: 'ru', dateModified: YA_DATE },
+  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: h1, description: desc, inLanguage: 'ru', dateModified: nsk ? YA_DATE : RATINGS.map((r) => r.date).sort().pop() },
   {
     '@type': 'BreadcrumbList',
     itemListElement: [
@@ -61,8 +73,8 @@ const schema = [
     <div class="wrap stack">
       <p class="label">Каталог · данные на <Today /></p>
       <h1>{h1}</h1>
-      <p class="lead">Все компании, которые прошли отбор хотя бы в один наш рейтинг. Найдите сервис по названию, улице, услуге или району – в карточке адрес, часы, телефон и место в рейтингах. Порядок – по числу отзывов на Яндекс Картах.</p>
-      <p class="small"><a href={u(`/${CITY.slug}/`)}>Рейтинги по услугам</a> · Районы: {RAYON_LIST.map((r, i) => <>{i > 0 && ', '}<a href={u(r.url)}>{r.name}</a></>)}</p>
+      <p class="lead">Все компании, которые прошли отбор хотя бы в один наш рейтинг. Найдите сервис по названию, улице, услуге{RAYON_LIST.length > 0 ? ' или району' : ''} – в карточке адрес, часы, телефон и место в рейтингах. Порядок – по числу отзывов на Яндекс Картах.</p>
+      <p class="small"><a href={u(`/${CITY.slug}/`)}>Рейтинги по услугам</a>{RAYON_LIST.length > 0 && <> · Районы: {RAYON_LIST.map((r, i) => <>{i > 0 && ', '}<a href={u(r.url)}>{r.name}</a></>)}</>}</p>
     </div>
   </section>
 
@@ -70,13 +82,13 @@ const schema = [
     <div class="wrap stack">
       <div class="flt" data-kat>
         <div class="kat__row">
-          <label class="flt__sel"><span>Название или улица</span><input type="search" data-q placeholder="Например, Фрунзе или Reaktor" /></label>
+          <label class="flt__sel"><span>Название или улица</span><input type="search" data-q placeholder={nsk ? 'Например, Фрунзе или Reaktor' : (list.length ? `Например, ${list[0].name}` : 'Название или улица')} /></label>
           <label class="flt__sel"><span>Услуга</span>
             <select data-n><option value="">Все услуги</option>{niches.map(([k, c]) => <option value={k}>{c}</option>)}</select>
           </label>
-          <label class="flt__sel"><span>Район</span>
+          {RAYON_LIST.length > 0 ? <label class="flt__sel"><span>Район</span>
             <select data-r><option value="">Все районы</option>{RAYON_LIST.map((r) => <option value={r.name}>{r.name}</option>)}</select>
-          </label>
+          </label> : <select data-r hidden aria-hidden="true"><option value=""></option></select>}
         </div>
         <p class="small muted" aria-live="polite" data-c>Показаны все {num(list.length)}.</p>
       </div>

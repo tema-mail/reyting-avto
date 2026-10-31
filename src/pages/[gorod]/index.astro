@@ -1,30 +1,14 @@
 ---
-// Город, где рейтинг ещё собирается (01.11.2026): честная страница без списков, закрыта от поиска до появления данных.
-import Base from '../../layouts/Base.astro';
-import Crumbs from '../../components/Crumbs.astro';
+// Страница города. Готовый город (ready, рейтинги собраны) – хаб со всеми рейтингами (GorodHub);
+// город без данных – честная страница «рейтинг собирается», закрыта от поиска (GorodSkoro).
+import GorodHub from '../../components/GorodHub.astro';
+import GorodSkoro from '../../components/GorodSkoro.astro';
 import { GORODA, type Gorod } from '../../lib/goroda';
-import { u } from '../../lib/url';
 
 export function getStaticPaths() {
-  return GORODA.filter((x) => !x.ready).map((x) => ({ params: { gorod: x.slug }, props: { c: x } }));
+  return GORODA.map((x) => ({ params: { gorod: x.slug }, props: { c: x } }));
 }
 interface Props { c: Gorod }
 const { c } = Astro.props;
-const ready = GORODA.filter((x) => x.ready);
 ---
-<Base title={`Авто-рейтинги ${c.of} – собираем данные`} description={`Рейтинги автосервисов, шиномонтажа, детейлинга и других авто-ниш ${c.of} по отзывам Яндекс Карт. Рейтинг собирается.`} robots="noindex-follow">
-  <Crumbs items={[['Главная', '/'], [c.name]]} />
-  <section class="hero">
-    <div class="wrap stack">
-      <p class="label">{c.name}</p>
-      <h1>Авто-рейтинги {c.of}</h1>
-      <p class="lead" style="max-width:780px">Рейтинг {c.of} собирается: снимаем карточки автосервисов, шиномонтажа, моек, детейлинга и других авто-ниш с Яндекс Карт и считаем балл по той же открытой формуле, что и в других городах.</p>
-      <p>Ваша компания работает {c.in}? Оставьте заявку – проверим данные и добавим её в рейтинг, когда он откроется.</p>
-      <div class="btns">
-        <a class="btn btn--signal" href={u('/dobavit-kompaniyu/') + `?city=${encodeURIComponent(c.name)}`}>Добавить компанию</a>
-        <a class="btn btn--ghost" href={u('/metodika/')}>Как считаем места</a>
-      </div>
-      {ready.length > 0 && <p class="small">Уже готово: {ready.map((x, i) => <>{i > 0 && ', '}<a href={u(`/${x.slug}/`)}>{x.name}</a></>)}.</p>}
-    </div>
-  </section>
-</Base>
+{c.ready ? <GorodHub c={c} /> : <GorodSkoro c={c} />}

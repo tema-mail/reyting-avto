@@ -1,11 +1,14 @@
 ---
 import Logo from './Logo.astro';
 import { u } from '../lib/url';
-import { BY_GROUP } from '../lib/katalog';
+import { katalog } from '../lib/katalog';
 import Today from './Today.astro';
-import { SITE_NAME, CITY } from '../lib/site';
-import { gorodOf } from '../lib/goroda';
+import { SITE_NAME } from '../lib/site';
+import { gorodOf, gorod } from '../lib/goroda';
 const here = gorodOf(Astro.url.pathname);
+// меню рейтингов – города страницы, если он готов; иначе – Новосибирска
+const CITY = here?.ready ? here : gorod('novosibirsk');
+const BY_GROUP = katalog(CITY.slug).byGroup;
 ---
 <footer class="foot">
   <div class="wrap">
@@ -34,7 +37,7 @@ const here = gorodOf(Astro.url.pathname);
       </div>
     </div>
     <div class="foot__bottom">
-      <p>Источники цифр: Яндекс Карты, 2ГИС и сайты компаний.</p>
+      <p>{CITY.slug === 'novosibirsk' ? 'Источники цифр: Яндекс Карты, 2ГИС и сайты компаний.' : 'Источник цифр: Яндекс Карты.'}</p>
     </div>
   </div>
 </footer>

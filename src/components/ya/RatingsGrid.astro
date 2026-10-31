@@ -2,11 +2,12 @@
 // Все рейтинги по группам с чипами-фильтрами («Все» первым; при выборе видны только рейтинги группы).
 // В плитке: ниша, №1 с баллом, сколько компаний, дата. Адрес с #<группа> сразу выбирает группу.
 import Gauge from '../Gauge.astro';
-import { BY_GROUP } from '../../lib/katalog';
+import { katalog } from '../../lib/katalog';
 import { score, date } from '../../lib/format';
 import { u } from '../../lib/url';
-interface Props { id: string; h: 'h2' | 'h3' }
-const { id, h: H } = Astro.props;
+interface Props { id: string; h: 'h2' | 'h3'; city: string }
+const { id, h: H, city } = Astro.props;
+const BY_GROUP = katalog(city).byGroup;
 const T = H === 'h2' ? 'h3' : 'h4';
 ---
 <div class="rgrid" data-rgrid={id}>

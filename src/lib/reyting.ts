@@ -123,7 +123,7 @@ function build(): Niche[] {
 
 /** Выбор редакции в старых нишах: партнёр первым, цифры карт – из съёма; остальные сдвигаются вниз. */
 function pinOld(niche: string, companies: Company[], src: any) {
-  const pinned = partnersOf(niche).map((p: Partner) => {
+  const pinned = partnersOf(niche, 'novosibirsk').map((p: Partner) => {
     const i = companies.findIndex((c) => c.y.cards.some((h) => h.includes(p.ya.id)));
     if (i >= 0) return { ...companies.splice(i, 1)[0], phones: [p.phone], partner: true };
     const c = src['компании'].find((x: any) => (x['яндекс']['карточки'] || []).some((h: string) => h.includes(p.ya.id)));

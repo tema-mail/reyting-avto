@@ -2,7 +2,7 @@
 // Главная: про проект и методику, без города в title (город – у хаба).
 import Base from '../layouts/Base.astro';
 import RatingsGrid from '../components/ya/RatingsGrid.astro';
-import { TOTALS } from '../lib/katalog';
+import { katalog } from '../lib/katalog';
 import { NICHES_YA_PUB } from '../lib/ya';
 import { W_YA } from '../lib/formula-ya.mjs';
 import { SITE_NAME, CITY } from '../lib/site';
@@ -28,7 +28,7 @@ const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs(
       <div class="sec__head"><p class="label">01 · Города</p><h2>Выберите город</h2></div>
       <ul class="goroda">
         {GORODA.map((g) => (
-          <li><a href={u(`/${g.slug}/`)}><b>{g.name}</b><span class="small muted">{g.ready ? `${TOTALS.ratings} рейтингов` : 'рейтинг собирается'}</span></a></li>
+          <li><a href={u(`/${g.slug}/`)}><b>{g.name}</b><span class="small muted">{g.ready ? `${katalog(g.slug).totals.ratings} рейтингов` : 'рейтинг собирается'}</span></a></li>
         ))}
       </ul>
     </div>
@@ -37,7 +37,7 @@ const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs(
   <section class="sec sec--flush" id="reytingi">
     <div class="wrap">
       <div class="sec__head"><p class="label">02 · Рейтинги</p><h2>Рейтинги {CITY.of}</h2><p>Выберите группу – останутся только её рейтинги.</p></div>
-      <RatingsGrid id="home" h="h3" />
+      <RatingsGrid id="home" h="h3" city={CITY.slug} />
       <p><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of} на одной странице →</a></p>
     </div>
   </section>

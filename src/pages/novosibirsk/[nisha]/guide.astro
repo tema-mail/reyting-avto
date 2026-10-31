@@ -28,7 +28,7 @@ const old = NICHES.find((n) => n.slug === s.key);
 const crumb = ya ? ya.t.crumb : old!.t.crumb;
 const ratingUrl = `/${CITY.slug}/${s.key}/`;
 const toc = s.headings.filter((h) => h.depth === 2);
-const pick = partnersOf(s.key)[0];
+const pick = partnersOf(s.key, 'novosibirsk')[0];
 const tel = (p: string) => 'tel:' + p.replace(/[^\d+]/g, '');
 const minutes = Math.max(1, Math.round(s.words / 180));
 const others = STATI.filter((x) => x.key !== s.key);
@@ -106,7 +106,7 @@ const schema = [
     </article>
   </div>
 
-  <Partnery niche={s.key} />
+  <Partnery niche={s.key} city="novosibirsk" />
   <section class="sec sec--flush"><div class="wrap">{ya ? <YaTable n={ya} /> : <RatingTable n={old!} />}</div></section>
 
   <div class="wrap st st--after">

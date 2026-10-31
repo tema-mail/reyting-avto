@@ -3,6 +3,7 @@
 
 export interface Partner {
   key: string;
+  city: string; // город партнёра: в рейтингах других городов его нет (оба партнёра – Новосибирск)
   name: string;
   about: string;
   address: string;
@@ -17,6 +18,7 @@ export interface Partner {
 export const PARTNERS: Record<string, Partner> = {
   'teyes-sibir': {
     key: 'teyes-sibir',
+    city: 'novosibirsk',
     name: 'Teyes Sibir',
     about: 'Официальный дилер и установочный центр мультимедиа Teyes в Новосибирске: Android-магнитолы, камеры, парктроники, сигнализации и автозапуск.',
     address: 'Сухарная ул., 35, корп. 13',
@@ -28,6 +30,7 @@ export const PARTNERS: Record<string, Partner> = {
   },
   evolution: {
     key: 'evolution',
+    city: 'novosibirsk',
     name: 'Evolution Car Service',
     about: 'Техцентр электромобилей, гибридов и китайских автомобилей в Новосибирске: техническое обслуживание, диагностика, ремонт и русификация.',
     address: 'Сухарная ул., 35, корп. 13',
@@ -58,7 +61,8 @@ export const PARTNER_NICHES: Record<string, string[]> = {
   'servis-avatr': ['evolution'],
 };
 
-export const partnersOf = (niche: string): Partner[] => (PARTNER_NICHES[niche] || []).map((k) => PARTNERS[k]);
+/** Партнёры ниши в городе: в чужом городе блока «Выбор редакции» и закрепления нет. */
+export const partnersOf = (niche: string, city: string): Partner[] => (PARTNER_NICHES[niche] || []).map((k) => PARTNERS[k]).filter((p) => p.city === city);
 
 /** Сайт показываем только у партнёров: остальные получают его после подтверждения данных. */
 const PARTNER_SITES = Object.values(PARTNERS).map((p) => new URL(p.site).hostname.replace(/^www\./, ''));
