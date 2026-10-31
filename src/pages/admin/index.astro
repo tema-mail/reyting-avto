@@ -52,9 +52,15 @@ const total = 1 + GORODA.length + ratings + NICHE_RAYON.length + RAYON_LIST.leng
         </summary>
         <details class="pcat lvl1">
           <summary class="prow lvl1"><span></span><span class="pname"><i class="caret"></i>Районы</span><span class="purl muted">{RAYON_LIST.length} районов</span><span class="pkind">Хабы районов</span></summary>
-    {RAYON_LIST.map((r) => (
-      <div class="prow lvl1"><span></span><div><span class="pname">{r.name} район</span><div class="muted" style="font-size:12px">{NICHE_RAYON.filter((x) => x.r.slug === r.slug).length} рейтингов в районе</div></div><a class="purl" href={u(r.url)} target="_blank">{r.url}</a><span class="pkind">Хаб района</span></div>
-    ))}
+    {RAYON_LIST.map((r) => {
+          const list = NICHE_RAYON.filter((x) => x.r.slug === r.slug);
+          return (
+            <details class="pcat">
+              <summary class="prow lvl1"><span></span><div><span class="pname"><i class="caret"></i>{r.name} район</span><div class="muted" style="font-size:12px">{list.length} рейтингов в районе</div></div><a class="purl" href={u(r.url)} target="_blank" onclick="event.stopPropagation()">{r.url}</a><span class="pkind">Хаб района</span></summary>
+              {list.map((x) => <div class="prow lvl1"><span></span><span class="pname">{x.n.t.crumb} · {x.rows.length}</span><a class="purl" href={u(x.url)} target="_blank">{x.url}</a><span class="pkind">Рейтинг в районе</span></div>)}
+            </details>
+          );
+        })}
     </details>
         {BY_GROUP.map((grp) => (
           <details class="pcat lvl1">
