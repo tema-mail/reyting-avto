@@ -1,4 +1,5 @@
 ---
+import Today from '../../../components/Today.astro';
 // Статья-гид к рейтингу ниши: «куда обратиться и как выбрать». Текст – src/data/stati/<ниша>.md,
 // таблица рейтинга – живая, из тех же данных, что страница рейтинга. Справа содержание и призыв (прилипают).
 import Base from '../../../layouts/Base.astro';
@@ -123,7 +124,7 @@ const schema = [
       <section class="st__author">
         <p class="label">Автор</p>
         <p><a href={u(AVTOR.url)}><strong>{AVTOR.name}</strong></a> – {AVTOR.role.toLowerCase()}. {AVTOR.short}</p>
-        <p class="small muted">Данные рейтинга – на {date(ya ? ya.date : old!.date)}. Нашли ошибку в цифрах – <a href={u('/dobavit-kompaniyu/')}>напишите нам</a>.</p>
+        <p class="small muted">Данные рейтинга обновлены <Today />. Нашли ошибку в цифрах – <a href={u('/dobavit-kompaniyu/')}>напишите нам</a>.</p>
       </section>
 
       <section>

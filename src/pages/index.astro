@@ -5,8 +5,8 @@ import RatingsGrid from '../components/ya/RatingsGrid.astro';
 import { TOTALS } from '../lib/katalog';
 import { NICHES_YA_PUB } from '../lib/ya';
 import { W_YA } from '../lib/formula-ya.mjs';
-import { SITE_NAME, YA_DATE, CITY } from '../lib/site';
-import { num, date, plural } from '../lib/format';
+import { SITE_NAME, CITY } from '../lib/site';
+import { num } from '../lib/format';
 import { u, abs } from '../lib/url';
 
 const site = Astro.site;
@@ -17,13 +17,7 @@ const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs(
     <div class="wrap">
       <p class="label">Авто-рейтинги по открытой формуле</p>
       <h1 style="margin:16px 0 20px;max-width:900px;color:#fff">Рейтинги автосервисов, автошкол и детейлинга – по отзывам с карт</h1>
-      <p class="lead" style="max-width:780px">{SITE_NAME} ранжирует автосервисы, автошколы, детейлинг, шиномонтаж и другие авто-ниши {CITY.of} по открытой формуле: оценка и число отзывов на Яндекс Картах, свежесть отзывов, открытость карточки. Данные обновляем раз в месяц.</p>
-      <div class="stats">
-        <div class="stat"><b>{TOTALS.ratings}</b><span>{plural(TOTALS.ratings, ['рейтинг', 'рейтинга', 'рейтингов'])} {CITY.of}</span></div>
-        <div class="stat"><b>{num(TOTALS.companies)}</b><span>{plural(TOTALS.companies, ['компания', 'компании', 'компаний'])} в рейтингах</span></div>
-        <div class="stat"><b>{num(TOTALS.yaReviews)}</b><span>отзывов Яндекс Карт в расчёте</span></div>
-        <div class="stat"><b>{date(YA_DATE)}</b><span>данные на эту дату</span></div>
-      </div>
+      <p class="lead" style="max-width:780px">{SITE_NAME} ранжирует автосервисы, автошколы, детейлинг, шиномонтаж и другие авто-ниши {CITY.of} по открытой формуле: оценка и число отзывов на Яндекс Картах, свежесть отзывов, открытость карточки.</p>
       <div class="btns" style="margin-top:28px"><a class="btn btn--signal" href="#goroda">Выбрать рейтинг</a></div>
     </div>
   </section>
@@ -54,7 +48,6 @@ const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs(
       <ol class="trust">
         <li>У каждой цифры есть источник и дата: оценка и число отзывов со ссылкой на карточку Яндекс Карт.</li>
         <li>Формулу видно целиком. Вы можете пересчитать балл любой компании сами.</li>
-        <li>Над каждым рейтингом – выбор редакции: компании-партнёры проекта, которые мы рекомендуем. Ниже – все остальные по формуле.</li>
         <li>У каждой компании мы пишем, на что обратить внимание: мало отзывов, давно не было новых, нет сайта или часов в карточке.</li>
       </ol>
     </div>

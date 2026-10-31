@@ -1,4 +1,5 @@
 ---
+import Today from './Today.astro';
 // Карточка компании /novosibirsk/companies/<slug>/ – брендовый запрос («<название> отзывы, адрес»), без «лучший/топ».
 // H2 по SEO-заданию: Место в рейтингах → Услуги и цены → Марки и модели → Сильные стороны → Отзывы → Адрес → Похожие → Это ваша компания?
 import Base from '../layouts/Base.astro';
@@ -31,7 +32,7 @@ const title = k.title || `${brand} – отзывы, цены, адрес ${CITY
 // ≤160 знаков (SEO-проверка 28.10): без хвоста с датой, если не влезает
 const descFull =
   k.description ||
-  `${brand} ${CITY.in}: ${rating(c.y.rating)} на Яндекс Картах (${num(c.y.reviews)} ${plural(c.y.reviews, ['отзыв', 'отзыва', 'отзывов'])}), ${rating(c.g.rating)} в 2ГИС, ${c.place}-е место в рейтинге «${n.t.crumb}».${priceFrom ? ` Цены от ${num(priceFrom)} ₽.` : ''} Данные на ${date(n.date)}.`;
+  `${brand} ${CITY.in}: ${rating(c.y.rating)} на Яндекс Картах (${num(c.y.reviews)} ${plural(c.y.reviews, ['отзыв', 'отзыва', 'отзывов'])}), ${rating(c.g.rating)} в 2ГИС, ${c.place}-е место в рейтинге «${n.t.crumb}».${priceFrom ? ` Цены от ${num(priceFrom)} ₽.` : ''}`;
 const description = descFull.length <= 160 ? descFull : descFull.replace(/ Данные на [\d.]+\.$/, '');
 const similar = n.companies.filter((x) => x.slug !== c.slug).sort((a, b) => Math.abs(a.place - c.place) - Math.abs(b.place - c.place) || a.place - b.place).slice(0, 3).sort((a, b) => a.place - b.place);
 const parts: [string, number, number][] = [
@@ -74,10 +75,10 @@ const schema = [
   <section class="hero">
     <div class="wrap card-head">
       <div class="stack">
-        <p class="label">Карточка компании · данные на {date(n.date)}</p>
+        <p class="label">Карточка компании · данные на <Today /></p>
         <h1>{brand}</h1>
         <p class="sub">{kind} {CITY.in}, {c.addresses.join('; ')}</p>
-        <p class="lead">{brand} – {c.place}-е место в рейтинге «<a href={u(n.url)}>{n.t.crumb}</a>» {CITY.in} ({score(c.score)}/10), {rating(c.y.rating)} на Яндекс Картах по {num(c.y.reviews)} {plural(c.y.reviews, ['отзыву', 'отзывам', 'отзывам'])}, данные на {date(n.date)}.</p>
+        <p class="lead">{brand} – {c.place}-е место в рейтинге «<a href={u(n.url)}>{n.t.crumb}</a>» {CITY.in} ({score(c.score)}/10), {rating(c.y.rating)} на Яндекс Картах по {num(c.y.reviews)} {plural(c.y.reviews, ['отзыву', 'отзывам', 'отзывам'])}.</p>
         {c.t.note && <p class="small" set:html={md(c.t.note)} />}
         {c.t.phoneNote && <p class="small" set:html={md(c.t.phoneNote)} />}
         <Metrics c={c} />
@@ -108,7 +109,7 @@ const schema = [
         </table>
       </div>
       {Number.isNaN(c.score) ? (
-        <p>Компания – выбор редакции в этой нише и стоит первой; в съёме ниши её карточки не было, поэтому балла по формуле нет. Цифры карт выше – с Яндекс Карт и 2ГИС на дату съёма. <a href={u(`/metodika/#${n.slug}`)}>Как составлен рейтинг →</a></p>
+        <p>Цифры карт выше – с Яндекс Карт и 2ГИС. <a href={u(`/metodika/#${n.slug}`)}>Как составлен рейтинг →</a></p>
       ) : (
       <div class="cols-2">
         <div class="parts" aria-label="Части балла">
@@ -145,12 +146,12 @@ const schema = [
         </>
       ) : c.prices.length ? (
         <>
-          <p>Цены с сайта {c.site ? domain(c.site) : ''} на {date(n.date)}:</p>
+          <p>Цены с сайта {c.site ? domain(c.site) : ''}:</p>
           <ul class="pros">{c.prices.map((p) => <li>{p}</li>)}</ul>
           <p class="small muted">Где нашли: {c.pricesNote}. Итог зависит от машины – уточните по телефону.</p>
         </>
       ) : (
-        <p>Цен услуг на сайте мы не нашли ({c.pricesNote}, проверено {date(n.date)}). Стоимость спросите по телефону.</p>
+        <p>Цен услуг на сайте мы не нашли ({c.pricesNote}). Стоимость спросите по телефону.</p>
       )}
       {c.rubrics && <p class="muted">Рубрики на картах: {c.rubrics}.</p>}
     </div>

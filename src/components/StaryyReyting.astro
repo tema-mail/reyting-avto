@@ -1,4 +1,5 @@
 ---
+import Today from './Today.astro';
 // Рейтинг «ниша × город» (Каталог): Коротко → таблица → номинации → компании → помощь → как считали →
 // чек-лист → цены → FAQ → другие рейтинги → «вашей компании нет». Порядок – план блоков и SEO-задание.
 import Base from '../layouts/Base.astro';
@@ -79,7 +80,7 @@ const schema = [
   <section class="hero">
     <div class="wrap hero__grid">
       <div>
-        <p class="label">Рейтинг · {CITY.name} · данные на {date(n.date)}</p>
+        <p class="label">Рейтинг · {CITY.name} · данные на <Today /></p>
         <h1>{t.h1}</h1>
         <p class="short lead"><span class="short__k">Коротко:</span>{partnersOf(n.slug).length > 0 && <Fragment set:html={md(`№1 – **${partnersOf(n.slug).map((p) => p.name).join("**, затем **")}**, выбор редакции. Дальше по цифрам карт: `)} />}<Fragment set:html={mdf(t.short)} /> {t.shortAfter}</p>
         {real(t.disclosure) && <p class="small" style="margin-top:10px" set:html={md(t.disclosure)} />}
@@ -212,7 +213,7 @@ const schema = [
     </div>
   </section>
   <section class="sec sec--flush">
-    <div class="wrap"><p class="small muted">Данные рейтинга на {date(DATA_DATE)}. Обновляем данные раз в месяц.</p></div>
+    <div class="wrap"><p class="small muted">Данные рейтинга обновлены <Today />.</p></div>
   </section>
 
   <div class="sticky" slot="after">

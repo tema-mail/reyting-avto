@@ -56,7 +56,7 @@ export function kratko(n: NicheYa): string {
 }
 
 export function description(n: NicheYa): string {
-  return `${n.t.crumb} ${CITY.in}: ${whoN(n, n.rows.length)} по оценкам и отзывам Яндекс Карт, №1 – ${n.rows[0].display}${n.rows[0].partner ? '' : ` (${score(n.rows[0].score)}/10)`}. Данные на ${date(n.date)}.`;
+  return `${n.t.crumb} ${CITY.in}: ${whoN(n, n.rows.length)} по оценкам и отзывам Яндекс Карт, №1 – ${n.rows[0].display}${n.rows[0].partner ? '' : ` (${score(n.rows[0].score)}/10)`}.`;
 }
 
 export interface Nom { title: string; text: string; rows: YaRow[] }
@@ -80,7 +80,7 @@ export function nominations(n: NicheYa): Nom[] {
   const good = rows.filter((r) => r.good);
   if (good.length) out.push({ title: '«Хорошее место» Яндекса', text: `Отметка есть у ${good.length} из ${rows.length}.`, rows: good.slice(0, 4) });
   const priced = rows.filter((r) => r.prices.length);
-  if (priced.length >= 3) out.push({ title: 'Открытые цены', text: `Цены на услуги опубликованы на сайте у ${priced.length} из ${rows.length} по данным сайтов компаний на ${date(n.priceDate!)}. В балл цены не входят.`, rows: priced.slice(0, 4) });
+  if (priced.length >= 3) out.push({ title: 'Открытые цены', text: `Цены на услуги опубликованы на сайте у ${priced.length} из ${rows.length} по данным сайтов компаний. В балл цены не входят.`, rows: priced.slice(0, 4) });
   return out;
 }
 

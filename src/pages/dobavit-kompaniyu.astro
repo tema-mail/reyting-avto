@@ -45,7 +45,7 @@ const testMsg = 'Тестовая версия: заявки пока не пр�
         </div>
         <div class="prose">
           <h2>Как считаем места</h2>
-          <p>Места в списке считает одна формула для всех компаний ниши, она опубликована на странице «Методика». Над списком – выбор редакции: партнёры проекта.</p>
+          <p>Места в списке считает одна формула для всех компаний ниши, она опубликована на странице «Методика».</p>
           <p><a href={u('/metodika/')}>Методика →</a></p>
         </div>
       </div>
@@ -81,7 +81,7 @@ const testMsg = 'Тестовая версия: заявки пока не пр�
         <input type="text" name="website" tabindex="-1" autocomplete="off" class="sr-only" aria-hidden="true" />
         <label class="agree"><input type="checkbox" name="consent" value="да" /><span>Согласен на <a href={u('/soglasie-na-obrabotku-dannykh/')}>обработку персональных данных</a> по <a href={u('/politika-konfidentsialnosti/')}>политике</a></span></label>
         <div><button class="btn btn--signal" type="submit" disabled>Отправить на проверку</button></div>
-        <p class="small muted" set:html={md('После отправки: заявка на проверке. {?кто ответит и в какой срок?}. Результат увидите в рейтинге после ближайшего обновления.')} />
+        <p class="small muted" set:html={md('После отправки заявка уходит на проверку. Результат увидите в рейтинге после ближайшего обновления.')} />
         <p class="form__msg" role="status" tabindex="-1" hidden></p>
       </form>
     </div>

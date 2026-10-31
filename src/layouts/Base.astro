@@ -69,5 +69,6 @@ const graph = { '@context': 'https://schema.org', '@graph': [org, ...schema] };
     <slot name="after" />
     <Cookie />
     <Utm />
+    <script is:inline>(function(){var d=new Date(),t=('0'+d.getDate()).slice(-2)+'.'+('0'+(d.getMonth()+1)).slice(-2)+'.'+d.getFullYear();document.querySelectorAll('[data-today]').forEach(function(e){e.textContent=t;});})();</script>
   </body>
 </html>

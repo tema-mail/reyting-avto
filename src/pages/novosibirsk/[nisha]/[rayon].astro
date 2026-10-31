@@ -1,4 +1,5 @@
 ---
+import Today from '../../../components/Today.astro';
 // Рейтинг ниши в районе (каталог 30.10.2026): те же компании и баллы, что в городском рейтинге, только с точкой в районе.
 // Тексты собираются из цифр района – своих данных у страницы ровно столько, сколько компаний в районе.
 import Base from '../../../layouts/Base.astro';
@@ -29,7 +30,7 @@ const avg = rows.reduce((s, x) => s + x.rating, 0) / rows.length;
 const allDay = rows.filter((x) => x.allDay).length;
 const reviews = rows.reduce((s, x) => s + x.reviews, 0);
 const kratko = `${r.in.charAt(0).toUpperCase() + r.in.slice(1)} ${whoN(n, rows.length)} из ${n.rows.length} в городском рейтинге. Выше всех по баллу – ${a.display}: ${a.place}-е место в городе, ${score(a.score)}/10, на Яндекс Картах ${rt(a.rating)} и ${otz(a.reviews)}. Следом – ${b.display} и ${c.display}.`;
-const desc = `${t.crumb} ${r.in} Новосибирска: ${whoN(n, rows.length)} по баллу из отзывов Яндекс Карт, средняя оценка ${num(avg, 1)}. Адреса, часы, телефоны на ${date(n.date)}.`.slice(0, 160);
+const desc = `${t.crumb} ${r.in} Новосибирска: ${whoN(n, rows.length)} по баллу из отзывов Яндекс Карт, средняя оценка ${num(avg, 1)}. Адреса, часы, телефоны.`.slice(0, 160);
 const others = rayonyOf(n.key).filter((o) => o.r.slug !== r.slug);
 const near = nichesIn(r.slug).filter((o) => o.n.key !== n.key).sort((p, q) => q.rows.length - p.rows.length).slice(0, 8);
 const site = Astro.site;
@@ -64,7 +65,7 @@ const schema = [
 
   <section class="hero">
     <div class="wrap stack">
-      <p class="label">Рейтинг в районе · {r.name} · данные на {date(n.date)}</p>
+      <p class="label">Рейтинг в районе · {r.name} · данные на <Today /></p>
       <h1>{h1}</h1>
       <p class="short lead"><span class="short__k">Коротко:</span> {kratko}</p>
       <ul class="facts">

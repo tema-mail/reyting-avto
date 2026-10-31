@@ -10,7 +10,7 @@ export function md(s: string, show = false): string {
   if (!show && /^\s*\{\?[\s\S]*\?\}\s*$/.test(s)) return '–';
   return esc(s)
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\s*\{\?(.+?)\?\}/g, (_m, t) => (show ? ` <mark class="confirm">подтвердить: ${t}</mark>` : ''))
+    .replace(/\s*\{\?(.+?)\?\}/g, (_m, t) => '')
     .replace(/\[(.+?)\]\((\/[^)]*)\)/g, (_m, t, href) => `<a href="${u(href)}">${t}</a>`);
 }
 

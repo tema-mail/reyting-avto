@@ -1,4 +1,5 @@
 ---
+import Today from '../Today.astro';
 // Карточка компании из ниш Яндекса: брендовый запрос («<название> отзывы, адрес»). Описание, сильные стороны и
 // замечания собираются из данных по одному правилу (lib/ya-tekst.ts), текст рейтинга не копируется.
 import Base from '../../layouts/Base.astro';
@@ -64,7 +65,7 @@ const schema = [
   <section class="hero">
     <div class="wrap card-head">
       <div class="stack">
-        <p class="label">Карточка компании · данные на {date(n.date)}</p>
+        <p class="label">Карточка компании · данные на <Today /></p>
         <h1>{e.name}</h1>
         <p class="sub">{e.branches.length > 1 ? filials(e.branches.length) : e.branches[0].address} · {[...new Set(e.branches.map((b) => b.rayon))].join(', ')}</p>
         <p class="lead">{lead}</p>
@@ -109,7 +110,7 @@ const schema = [
           <p class="small muted">Рейтинг «{n.t.crumb}». Каждая часть – от 0 до 1. Балл = 10 × сумма частей с весами = {num(main.raw, 2)} → {score(main.score)}.</p>
         </div>
         <div class="prose">
-          <p>Для этой ниши источник один – Яндекс Карты. Оценку и число отзывов сравниваем с другими компаниями рейтинга, свежесть считаем от {date(n.date)}{main.days !== null ? `, с последнего отзыва прошло дней: ${main.days}` : ''}.</p>
+          <p>Для этой ниши источник один – Яндекс Карты. Оценку и число отзывов сравниваем с другими компаниями рейтинга, свежесть считаем от даты съёма{main.days !== null ? `, с последнего отзыва прошло дней: ${main.days}` : ''}.</p>
           {main.branches.length > 1 && <p>У сети {filials(main.branches.length)} в рейтинге; балл считаем по главной точке – {main.branches[0].address}, у неё больше всего оценок. Остальные филиалы в балл не входят.</p>}
           <p><a href={u(`/metodika/#${n.key}`)}>Как считали →</a></p>
         </div>

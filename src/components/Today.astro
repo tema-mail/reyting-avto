@@ -1,0 +1,6 @@
+---
+// Сегодняшняя дата (владелец 01.11.2026: вместо даты съёма – всегда текущий день). В HTML – дата сборки,
+// скрипт в Base.astro подставляет дату открытия страницы во все [data-today].
+import { date } from '../lib/format';
+---
+<span data-today>{date(new Date().toISOString().slice(0, 10))}</span>

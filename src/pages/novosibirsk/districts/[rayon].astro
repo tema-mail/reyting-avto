@@ -1,4 +1,5 @@
 ---
+import Today from '../../../components/Today.astro';
 // Хаб района (каталог 30.10.2026): все рейтинги, в которых есть компании района. Ниша с MIN_V_RAYONE+ компаниями –
 // ссылка на рейтинг в районе, меньше – на городской рейтинг с числом компаний района.
 import Base from '../../../layouts/Base.astro';
@@ -47,7 +48,7 @@ const schema = [
 
   <section class="hero">
     <div class="wrap stack">
-      <p class="label">Район · данные на {date(YA_DATE)}</p>
+      <p class="label">Район · данные на <Today /></p>
       <h1>{h1}</h1>
       <p class="short lead"><span class="short__k">Коротко:</span> {r.in.charAt(0).toUpperCase() + r.in.slice(1)} {num(companies)} автокомпаний из наших рейтингов, они есть в {items.length} нишах. Отдельный рейтинг района – там, где в районе не меньше {MIN_V_RAYONE} компаний: таких ниш {pages.length}.</p>
     </div>

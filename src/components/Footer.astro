@@ -1,17 +1,17 @@
 ---
 import Logo from './Logo.astro';
 import { u } from '../lib/url';
-import { BY_GROUP, TOTALS } from '../lib/katalog';
-import { SITE_NAME, CITY, YA_DATE } from '../lib/site';
-import { date } from '../lib/format';
-import { md } from '../lib/md';
+import { BY_GROUP } from '../lib/katalog';
+import Today from './Today.astro';
+import { SITE_NAME, CITY } from '../lib/site';
+const inCity = Astro.url.pathname.includes(`/${CITY.slug}/`);
 ---
 <footer class="foot">
   <div class="wrap">
     <div class="foot__grid">
       <div class="stack">
         <Logo />
-        <p>{SITE_NAME} – {TOTALS.ratings} авто-рейтингов {CITY.of} по открытой формуле. Данные обновлены {date(YA_DATE)}.</p>
+        <p>{SITE_NAME} – авто-рейтинги {inCity ? CITY.of : 'вашего города'}. Данные обновлены <Today />.</p>
       </div>
       <div>
         <p class="foot__h">Рейтинги · {CITY.name}</p>
@@ -33,8 +33,7 @@ import { md } from '../lib/md';
       </div>
     </div>
     <div class="foot__bottom">
-      <p>Источники цифр: Яндекс Карты (все рейтинги), 2ГИС и сайты компаний (установка магнитол и сервис китайских автомобилей, съём 25.10.2026). Ссылки на компании не рекламные.</p>
-      <p>Рабочее название «{SITE_NAME}» – до решения владельца.</p>
+      <p>Источники цифр: Яндекс Карты, 2ГИС и сайты компаний.</p>
     </div>
   </div>
 </footer>
