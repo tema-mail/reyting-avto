@@ -23,8 +23,9 @@ export const OLD_GROUP = { 'ustanovka-magnitol': 'Установка и тюни
 
 const SALES_FIRST = /^(автосалон|продажа автомобилей|автоаукцион|кредитный брокер|заказ автомобилей из|лизинг)/i;
 const GENERAL = /^автосервис, автотехцентр$/i;
-/** Другие города области и чужие города из выдачи (Ульяновск, Красноярск – найдено 28.10) – не Новосибирск. */
-export const OTHER_CITY = /(^|[\s,])(Бердск|Искитим|Обь|Кольцово|Ульяновск|Красноярск)(,|$)/;
+import { GOROD_DANNYE, GOROD_DEFAULT } from './gorod-dannye.mjs';
+/** Чужие населённые пункты из выдачи – у каждого города свой список (gorod-dannye.mjs). */
+export const OTHER_CITY = GOROD_DANNYE[GOROD_DEFAULT].other;
 
 export const NICHES_YA = {
   avtoshkoly: { group: 'Вокруг авто', schema: 'DrivingSchool', who: ['автошкола', 'автошколы', 'автошкол'], rubric: /автошкол/i, rule: 'рубрика «Автошкола».' },
@@ -132,9 +133,9 @@ export const brandKey = (name) => {
 };
 
 /** Почему компания не прошла отбор (или null – прошла по профилю, статусу и городу). */
-export function rejectReason(c, cfg) {
+export function rejectReason(c, cfg, gorod = GOROD_DEFAULT) {
   if (/closed/i.test(c['статус'] || '')) return 'закрыта';
-  if (OTHER_CITY.test(c['адрес'] || '')) return 'другой город';
+  if (GOROD_DANNYE[gorod].other.test(c['адрес'] || '')) return 'другой город';
   const rubs = c['рубрики'] || [];
   const feats = c['признаки'] || [];
   if (cfg.brand) {

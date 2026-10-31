@@ -6,22 +6,29 @@
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { computeYa, MIN_RATING, MIN_REVIEWS, MIN_PUBLISH } from '../src/lib/formula-ya.mjs';
 import { NICHES_YA, rejectReason } from '../src/lib/otbor.mjs';
+import { GOROD_DANNYE } from '../src/lib/gorod-dannye.mjs';
 
 const root = new URL('..', import.meta.url).pathname;
 const errors = [];
 const err = (m) => errors.push(m);
 let checked = 0;
 
-for (const [key, cfg] of Object.entries(NICHES_YA)) {
-  if (!existsSync(`${root}src/data/source/avto/${key}.json`)) { console.log(`пропуск ${key}: съёма ещё нет`); continue; }
-  const src = JSON.parse(readFileSync(`${root}src/data/source/avto/${key}.json`, 'utf8'));
+// города с рейтингом (gorod-dannye.mjs): у каждого своя папка съёма и свой список чужих населённых пунктов
+for (const [gorod, gd] of Object.entries(GOROD_DANNYE)) {
+const dir = `${root}src/data/source/${gd.dir}`;
+let skipped = 0;
+for (const [key0, cfg] of Object.entries(NICHES_YA)) {
+  const key = gorod === 'novosibirsk' ? key0 : `${gorod}/${key0}`; // в сообщениях
+  if (!existsSync(`${dir}/${key0}.json`)) { skipped++; continue; }
+  const src = JSON.parse(readFileSync(`${dir}/${key0}.json`, 'utf8'));
+  if ((src['город'] || 'novosibirsk') !== gorod) err(`${key}: в съёме город ${src['город']}`);
   const { rows, published } = computeYa(src, cfg);
   if (!published) continue;
   if (rows.length < MIN_PUBLISH) err(`${key}: опубликовано ${rows.length} < ${MIN_PUBLISH}`);
   // независимый пересчёт: сначала сырые величины, потом min-max
   const at = Date.parse(src['дата_съёма'] + 'T00:00:00Z');
   const raw = rows.map((r) => {
-    for (const b of r.branches) if (rejectReason(b, cfg)) err(`${key}: «${b['название']}» не проходит отбор (${rejectReason(b, cfg)})`);
+    for (const b of r.branches) if (rejectReason(b, cfg, gorod)) err(`${key}: «${b['название']}» не проходит отбор (${rejectReason(b, cfg, gorod)})`);
     // главная точка сети – больше всего оценок; все величины балла – только по ней
     const top = Math.max(...r.branches.map((b) => b['оценок'] || 0));
     const m = r.branches[0];
@@ -53,7 +60,7 @@ for (const [key, cfg] of Object.entries(NICHES_YA)) {
     checked++;
   });
   // тексты ниши
-  const txt = readFileSync(`${root}src/data/nishi/${key}.ts`, 'utf8');
+  const txt = readFileSync(`${root}src/data/nishi/${key0}.ts`, 'utf8');
   if (txt.includes('—')) err(`${key}: длинное тире в текстах`);
   const n = (re) => (txt.match(re) || []).length;
   const check = txt.slice(txt.indexOf('check:'), txt.indexOf('faq:'));
@@ -64,8 +71,10 @@ for (const [key, cfg] of Object.entries(NICHES_YA)) {
 }
 
 // у каждого съёма должно быть правило; ниша без съёма (ещё снимается) – пропуск выше
-for (const f of readdirSync(`${root}src/data/source/avto`).filter((f) => f.endsWith('.json'))) {
-  if (!NICHES_YA[f.slice(0, -5)]) err(`съём ${f} без правила в otbor.mjs`);
+for (const f of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
+  if (!NICHES_YA[f.slice(0, -5)]) err(`съём ${gd.dir}/${f} без правила в otbor.mjs`);
+}
+if (skipped) console.log(`${gorod}: ниш без съёма – ${skipped}, пропущены`);
 }
 
 if (errors.length) {
