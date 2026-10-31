@@ -34,7 +34,8 @@ for (const f of html) {
       err(`${rel}: ссылка без base: ${h}`);
       continue;
     }
-    const [path, hash] = h.slice(BASE.length).split('#');
+    const [pathQ, hash] = h.slice(BASE.length).split('#');
+    const path = pathQ.split('?')[0]; // параметры (?city=…) на наличие страницы не влияют
     const target = path.endsWith('/') ? join(DIST, path, 'index.html') : join(DIST, path);
     if (!existsSync(target)) err(`${rel}: битая ссылка ${h}`);
     else if (hash && target.endsWith('.html') && !idsOf(readFileSync(target, 'utf8')).has(hash)) err(`${rel}: якорь ${h} не найден`);

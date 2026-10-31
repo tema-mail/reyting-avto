@@ -4,15 +4,22 @@ import Logo from './Logo.astro';
 import { u } from '../lib/url';
 import { BY_GROUP } from '../lib/katalog';
 import { CITY } from '../lib/site';
+import { GORODA, gorodOf } from '../lib/goroda';
 interface Props { active?: string }
 const { active = '' } = Astro.props;
 const cur = (key: string) => (active === key ? 'page' : undefined);
+const here = gorodOf(Astro.url.pathname);
 ---
 <header class="top">
   <div class="wrap top__in">
     <Logo />
     <nav class="nav" aria-label="Главное меню">
-      <a href={u(`/${CITY.slug}/`)} aria-current={cur('city')}>{CITY.name}</a>
+      <details class="nav__city">
+        <summary>{here ? here.name : 'Город'}</summary>
+        <div class="nav__drop">
+          {GORODA.map((g) => <a href={u(`/${g.slug}/`)} aria-current={here?.slug === g.slug ? 'page' : undefined} style="display:block">{g.name}{!g.ready && <span class="muted"> · скоро</span>}</a>)}
+        </div>
+      </details>
       <details>
         <summary>Рейтинги</summary>
         <div class="nav__drop nav__mega">
@@ -31,6 +38,10 @@ const cur = (key: string) => (active === key ? 'page' : undefined);
     <details class="burger">
       <summary>Меню</summary>
       <nav class="burger__panel" aria-label="Меню на телефоне">
+        <details>
+          <summary>Город: {here ? here.name : 'выбрать'}</summary>
+          {GORODA.map((g) => <a class="burger__sub" href={u(`/${g.slug}/`)}>{g.name}{!g.ready && ' · скоро'}</a>)}
+        </details>
         <a href={u(`/${CITY.slug}/`)}>Все рейтинги: {CITY.name}</a>
         {BY_GROUP.map((g) => <a class="burger__sub" href={u(`/${CITY.slug}/#${g.slug}`)}>{g.name} · {g.items.length}</a>)}
         <a href={u('/metodika/')}>Методика</a>

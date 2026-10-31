@@ -4,14 +4,15 @@ import { u } from '../lib/url';
 import { BY_GROUP } from '../lib/katalog';
 import Today from './Today.astro';
 import { SITE_NAME, CITY } from '../lib/site';
-const inCity = Astro.url.pathname.includes(`/${CITY.slug}/`);
+import { gorodOf } from '../lib/goroda';
+const here = gorodOf(Astro.url.pathname);
 ---
 <footer class="foot">
   <div class="wrap">
     <div class="foot__grid">
       <div class="stack">
         <Logo />
-        <p>{SITE_NAME} – авто-рейтинги {inCity ? CITY.of : 'вашего города'}. Данные обновлены <Today />.</p>
+        <p>{SITE_NAME} – авто-рейтинги {here ? here.of : 'вашего города'}. Данные обновлены <Today />.</p>
       </div>
       <div>
         <p class="foot__h">Рейтинги · {CITY.name}</p>

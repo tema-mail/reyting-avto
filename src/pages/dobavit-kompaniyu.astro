@@ -89,4 +89,8 @@ const testMsg = 'Тестовая версия: заявки пока не пр�
 </Base>
 <script>
   import '../scripts/forms';
+  // город со страницы «рейтинг собирается»: /dobavit-kompaniyu/?city=Казань
+  const city = new URLSearchParams(location.search).get('city');
+  const input = document.getElementById('d-city') as HTMLInputElement | null;
+  if (city && input) input.value = city.slice(0, 60);
 </script>

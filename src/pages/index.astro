@@ -8,23 +8,35 @@ import { W_YA } from '../lib/formula-ya.mjs';
 import { SITE_NAME, CITY } from '../lib/site';
 import { num } from '../lib/format';
 import { u, abs } from '../lib/url';
+import { GORODA } from '../lib/goroda';
 
 const site = Astro.site;
 const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs('/', site), name: SITE_NAME, inLanguage: 'ru', publisher: { '@id': abs('/', site) + '#org' } }];
 ---
-<Base title={`${SITE_NAME} – рейтинги автосервисов, автошкол и детейлинга по отзывам`} description={`${TOTALS.ratings} рейтингов автосервисов, автошкол, детейлинга и других авто-ниш ${CITY.of} по отзывам Яндекс Карт. Открытая формула.`} schema={schema}>
+<Base title={`${SITE_NAME} – рейтинги автосервисов, автошкол и детейлинга по отзывам`} description="Рейтинги автосервисов, шиномонтажа, автошкол, детейлинга и других авто-ниш вашего города по отзывам Яндекс Карт. Открытая формула." schema={schema}>
   <section class="sec sec--dark" style="padding-top:48px">
     <div class="wrap">
       <p class="label">Авто-рейтинги по открытой формуле</p>
       <h1 style="margin:16px 0 20px;max-width:900px;color:#fff">Рейтинги автосервисов, автошкол и детейлинга – по отзывам с карт</h1>
-      <p class="lead" style="max-width:780px">{SITE_NAME} ранжирует автосервисы, автошколы, детейлинг, шиномонтаж и другие авто-ниши {CITY.of} по открытой формуле: оценка и число отзывов на Яндекс Картах, свежесть отзывов, открытость карточки.</p>
-      <div class="btns" style="margin-top:28px"><a class="btn btn--signal" href="#goroda">Выбрать рейтинг</a></div>
+      <p class="lead" style="max-width:780px">{SITE_NAME} ранжирует автосервисы, автошколы, детейлинг, шиномонтаж и другие авто-ниши вашего города по открытой формуле: оценка и число отзывов на Яндекс Картах, свежесть отзывов, открытость карточки.</p>
+      <div class="btns" style="margin-top:28px"><a class="btn btn--signal" href="#goroda">Выбрать город</a></div>
     </div>
   </section>
 
-  <section class="sec sec--flush" id="goroda">
+  <section class="sec" id="goroda">
     <div class="wrap">
-      <div class="sec__head"><p class="label">01 · Рейтинги</p><h2>Рейтинги {CITY.of}</h2><p>Выберите группу – останутся только её рейтинги. Другие города добавим, когда в городе наберётся пять компаний с данными и свой спрос.</p></div>
+      <div class="sec__head"><p class="label">01 · Города</p><h2>Выберите город</h2></div>
+      <ul class="goroda">
+        {GORODA.map((g) => (
+          <li><a href={u(`/${g.slug}/`)}><b>{g.name}</b><span class="small muted">{g.ready ? `${TOTALS.ratings} рейтингов` : 'рейтинг собирается'}</span></a></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="sec sec--flush" id="reytingi">
+    <div class="wrap">
+      <div class="sec__head"><p class="label">02 · Рейтинги</p><h2>Рейтинги {CITY.of}</h2><p>Выберите группу – останутся только её рейтинги.</p></div>
       <RatingsGrid id="home" h="h3" />
       <p><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of} на одной странице →</a></p>
     </div>
@@ -32,7 +44,7 @@ const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs(
 
   <section class="sec">
     <div class="wrap">
-      <div class="sec__head"><p class="label">02 · Формула</p><h2>Как мы считаем места</h2></div>
+      <div class="sec__head"><p class="label">03 · Формула</p><h2>Как мы считаем места</h2></div>
       <div class="prose">
         <p>Балл от 0 до 10. В {NICHES_YA_PUB.length} рейтингах источник один – Яндекс Карты: оценка, число отзывов, их свежесть и открытость карточки (сайт, часы, подтверждение владельцем, «Хорошее место»). Веса одинаковы для всех компаний ниши. Сеть стоит одной строкой, балл – по точке с наибольшим числом оценок. Цены с сайтов компаний показываем рядом, в балл они не входят.</p>
         <p class="formula">балл = 10 × (<b>{num(W_YA.rating, 2)}</b> × оценка + <b>{num(W_YA.reviews, 2)}</b> × отзывы + <b>{num(W_YA.fresh, 2)}</b> × свежесть + <b>{num(W_YA.open, 2)}</b> × открытость)</p>
@@ -44,7 +56,7 @@ const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs(
 
   <section class="sec">
     <div class="wrap">
-      <div class="sec__head"><p class="label">03 · Доверие</p><h2>Почему рейтингу можно верить</h2></div>
+      <div class="sec__head"><p class="label">04 · Доверие</p><h2>Почему рейтингу можно верить</h2></div>
       <ol class="trust">
         <li>У каждой цифры есть источник и дата: оценка и число отзывов со ссылкой на карточку Яндекс Карт.</li>
         <li>Формулу видно целиком. Вы можете пересчитать балл любой компании сами.</li>
@@ -60,3 +72,10 @@ const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs(
     </div>
   </section>
 </Base>
+
+<style>
+  .goroda { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  @media (min-width: 900px) { .goroda { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+  .goroda a { display: grid; gap: 2px; padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--r); background: var(--card); text-decoration: none; }
+  .goroda a:hover { border-color: var(--signal); }
+</style>
