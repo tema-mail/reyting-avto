@@ -89,6 +89,6 @@ const total = 1 + GORODA.length + ratings + NICHE_RAYON.length + RAYON_LIST.leng
     {legal.map((t) => <div class="prow"><span></span><span class="pname">{t.name}</span><a class="purl" href={u(t.path)} target="_blank">{site(t.path)}</a><span class="pkind">Юридическая</span></div>)}
 
     <div class="pgroup">Технические страницы <span>{tech.length}</span></div>
-    {tech.map((t) => <div class="prow"><span></span><span class="pname">{t.name}</span><a class="purl" href={u(t.path)} target="_blank">{site(t.path)}</a><span class="pkind">Техническая</span></div>)}
+    {tech.map((t) => <div class="prow"><span></span><span class="pname">{t.name}</span>{t.path === '/404' ? <span class="purl muted">любой несуществующий адрес</span> : <a class="purl" href={u(t.path)} target="_blank">{site(t.path)}</a>}<span class="pkind">Техническая</span></div>)}
   </div>
 </Admin>
