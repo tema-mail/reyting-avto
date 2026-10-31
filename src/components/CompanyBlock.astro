@@ -23,7 +23,7 @@ const hours = c.hours.replace(/^./, (m) => m.toUpperCase());
   <div class="co__body">
     <div class="stack">
       {real(t.note) && <p class="co__note" set:html={md(t.note)} />}
-      <Metrics c={c} />
+      {!c.partner && <Metrics c={c} />}
       {t.pros && (
         <div class="stack">
           <p><strong>Плюсы по данным:</strong></p>

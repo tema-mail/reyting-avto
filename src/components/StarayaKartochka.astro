@@ -23,6 +23,8 @@ interface Props { c: Company }
 const { c } = Astro.props;
 const n = nicheOf(c);
 const k = CARDS[c.id] || {};
+// партнёр (выбор редакции): только информация о компании – без балла, оценок и отзывов (владелец 01.11.2026)
+const pick = isPartnerSite(c.site);
 const brand = c.t.brand;
 const kind = n.t.kind({ dealer: c.dealer, brands: c.brands });
 const domain = (s: string) => s.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '');
@@ -33,7 +35,7 @@ const title = k.title || `${brand} – отзывы, цены, адрес ${CITY
 const descFull =
   k.description ||
   `${brand} ${CITY.in}: ${rating(c.y.rating)} на Яндекс Картах (${num(c.y.reviews)} ${plural(c.y.reviews, ['отзыв', 'отзыва', 'отзывов'])}), ${rating(c.g.rating)} в 2ГИС, ${c.place}-е место в рейтинге «${n.t.crumb}».${priceFrom ? ` Цены от ${num(priceFrom)} ₽.` : ''}`;
-const description = descFull.length <= 160 ? descFull : descFull.replace(/ Данные на [\d.]+\.$/, '');
+const description = pick ? `${brand} ${CITY.in}: выбор редакции в рейтинге «${n.t.crumb}». Адрес, телефон, часы работы и услуги.` : descFull.length <= 160 ? descFull : descFull.replace(/ Данные на [\d.]+\.$/, '');
 const similar = n.companies.filter((x) => x.slug !== c.slug).sort((a, b) => Math.abs(a.place - c.place) - Math.abs(b.place - c.place) || a.place - b.place).slice(0, 3).sort((a, b) => a.place - b.place);
 const parts: [string, number, number][] = [
   ['Оценка на картах', c.parts.rating, WEIGHTS.rating],
@@ -78,10 +80,10 @@ const schema = [
         <p class="label">Карточка компании · данные на <Today /></p>
         <h1>{brand}</h1>
         <p class="sub">{kind} {CITY.in}, {c.addresses.join('; ')}</p>
-        <p class="lead">{brand} – {c.place}-е место в рейтинге «<a href={u(n.url)}>{n.t.crumb}</a>» {CITY.in} ({score(c.score)}/10), {rating(c.y.rating)} на Яндекс Картах по {num(c.y.reviews)} {plural(c.y.reviews, ['отзыву', 'отзывам', 'отзывам'])}.</p>
+        {pick ? <p class="lead">{brand} – выбор редакции в рейтинге «<a href={u(n.url)}>{n.t.crumb}</a>» {CITY.in}.</p> : <>        <p class="lead">{brand} – {c.place}-е место в рейтинге «<a href={u(n.url)}>{n.t.crumb}</a>» {CITY.in} ({score(c.score)}/10), {rating(c.y.rating)} на Яндекс Картах по {num(c.y.reviews)} {plural(c.y.reviews, ['отзыву', 'отзывам', 'отзывам'])}.</p></>}
         {c.t.note && <p class="small" set:html={md(c.t.note)} />}
         {c.t.phoneNote && <p class="small" set:html={md(c.t.phoneNote)} />}
-        <Metrics c={c} />
+        {!pick && <Metrics c={c} />}
         <MapLinks c={c} more={false} cls="btns" />
       </div>
       <aside class="board" aria-label="Балл">
@@ -89,8 +91,8 @@ const schema = [
         <div class="board__row" style="border-top:0">
           <span class="board__pos">{String(c.place).padStart(2, '0')}</span>
           <span class="board__name">Балл по формуле</span>
-          <span class="board__score">{score(c.score)}<small>/10</small></span>
-          <Gauge value={c.score} signal />
+          {pick ? <span class="board__score">Выбор редакции</span> : <><span class="board__score">{score(c.score)}<small>/10</small></span>
+          <Gauge value={c.score} signal /></>}
         </div>
       </aside>
     </div>
@@ -101,14 +103,14 @@ const schema = [
       <div class="sec__head"><h2>Место в рейтингах</h2></div>
       <div class="tbl-wrap">
         <table class="tbl">
-          <thead><tr><th scope="col">Рейтинг</th><th scope="col">Место</th><th scope="col">Балл</th></tr></thead>
+          <thead><tr><th scope="col">Рейтинг</th><th scope="col">Место</th>{!pick && <th scope="col">Балл</th>}</tr></thead>
           <tbody>
-            <tr><td><a href={u(n.url)}>{n.t.crumb} {CITY.in}</a></td><td class="num">{c.place} из {n.companies.length}</td><td class="num">{score(c.score)}/10</td></tr>
-            {more.map((r) => { const y = nicheOfRow(r); return <tr><td><a href={u(y.url)}>{y.t.crumb} {CITY.in}</a> <span class="small muted">(только Яндекс Карты)</span></td><td class="num">{r.place} из {y.rows.length}</td><td class="num">{score(r.score)}/10</td></tr>; })}
+            <tr><td><a href={u(n.url)}>{n.t.crumb} {CITY.in}</a></td><td class="num">{c.place} из {n.companies.length}</td>{!pick && <td class="num">{score(c.score)}/10</td>}</tr>
+            {more.map((r) => { const y = nicheOfRow(r); return <tr><td><a href={u(y.url)}>{y.t.crumb} {CITY.in}</a> <span class="small muted">(только Яндекс Карты)</span></td><td class="num">{r.place} из {y.rows.length}</td>{!pick && <td class="num">{score(r.score)}/10</td>}</tr>; })}
           </tbody>
         </table>
       </div>
-      {Number.isNaN(c.score) ? (
+      {pick ? null : Number.isNaN(c.score) ? (
         <p>Цифры карт выше – с Яндекс Карт и 2ГИС. <a href={u(`/metodika/#${n.slug}`)}>Как составлен рейтинг →</a></p>
       ) : (
       <div class="cols-2">

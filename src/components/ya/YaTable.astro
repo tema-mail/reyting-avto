@@ -58,8 +58,8 @@ const hasPrices = n.rows.some((r) => r.prices.length);
           <td class="pos">{r.place}</td>
           <td class="co">{r.url ? <a href={u(r.url)}>{r.display}</a> : <span>{r.display}</span>}{(r.allDay || r.good) && <span class="tags">{r.allDay && <span class="tag">24 часа</span>}{r.good && <span class="tag">Хорошее место</span>}</span>}</td>
           <td class="sc">{r.partner ? <b class="pick">Выбор редакции</b> : <>{score(r.score)}<Gauge value={r.score} signal={r.place <= 3} /></>}</td>
-          <td class="x num" data-l="Яндекс Карты"><span>{rt(r.rating)}<span class="cnt"><span class="dot"> · </span>{otz(r.reviews)}</span></span></td>
-          <td class="x num" data-l="Последний отзыв">{r.last ? date(r.last) : <mark class="confirm">нет даты</mark>}</td>
+          <td class="x num" data-l="Яндекс Карты">{r.partner ? <span class="muted">–</span> : <span>{rt(r.rating)}<span class="cnt"><span class="dot"> · </span>{otz(r.reviews)}</span></span>}</td>
+          <td class="x num" data-l="Последний отзыв">{r.partner ? <span class="muted">–</span> : r.last ? date(r.last) : <mark class="confirm">нет даты</mark>}</td>
           <td class="x" data-l="Где"><span>{r.branches[0].address}{r.branches[0].rayon ? ` · ${r.branches[0].rayon}` : ''}{more(r) > 0 && (
             <details class="fil"><summary>{moreLabel(more(r))}</summary><ul>{r.branches.slice(1).map((b) => <li>{b.address}{b.rayon ? ` · ${b.rayon}` : ''}</li>)}</ul></details>
           )}</span></td>

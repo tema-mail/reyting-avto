@@ -26,7 +26,9 @@ const lead = cardLead(e);
 const title = `${e.label} – отзывы, адрес, место в рейтинге ${CITY.in}`;
 // description ≤160 знаков (SEO-проверка 28.10): место, балл, цифры карт; длинное – режем по слову
 const cut = (s: string, max = 160) => (s.length <= max ? s : s.slice(0, s.lastIndexOf(' ', max - 1)).replace(/[,;:–\s]+$/, '') + '…');
-const description = cut(`${e.label}: ${main.place}-е место в рейтинге «${n.t.crumb}» ${CITY.in}, ${score(main.score)}/10. Яндекс Карты: ${rt(main.rating)}, ${otz(main.reviews)}. Адрес и часы.`);
+// партнёр (выбор редакции): только информация о компании – без балла, оценки и отзывов (владелец 01.11.2026)
+const pick = e.rows.some((x) => x.partner);
+const description = cut(pick ? `${e.label} ${CITY.in}: выбор редакции в рейтинге «${n.t.crumb}». Адрес, телефон, часы работы и услуги.` : `${e.label}: ${main.place}-е место в рейтинге «${n.t.crumb}» ${CITY.in}, ${score(main.score)}/10. Яндекс Карты: ${rt(main.rating)}, ${otz(main.reviews)}. Адрес и часы.`);
 const pros = strengthsYa(e);
 const cons = attentionYa(e);
 const domain = (s: string) => s.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '');
@@ -71,10 +73,10 @@ const schema = [
         <h1>{e.name}</h1>
         <p class="sub">{e.branches.length > 1 ? filials(e.branches.length) : e.branches[0].address}{rayony.length > 0 ? ` · ${rayony.join(', ')}` : ''}</p>
         <p class="lead">{lead}</p>
-        <div class="metrics">
+        {!pick && <div class="metrics">
           <div class="metric"><em>Яндекс Карты</em><b>{rt(main.rating)}</b><span>{num(main.ratings)} оценок · {otz(main.reviews)}</span></div>
           <div class="metric"><em>Последний отзыв</em><b>{main.last ? date(main.last) : '–'}</b><span>за 12 месяцев – {main.recent} среди загруженных</span></div>
-        </div>
+        </div>}
         <div class="btns">
           {e.branches[0].phones[0] && <a class="btn btn--sm" href={telHref(e.branches[0].phones[0])}>Позвонить</a>}
           {e.branches.find((b) => b.site && isPartnerSite(b.site)) && <a class="btn btn--sm btn--ghost" href={e.branches.find((b) => b.site)!.site} rel="nofollow noopener" target="_blank">Сайт</a>}
@@ -86,8 +88,8 @@ const schema = [
         <div class="board__row" style="border-top:0">
           <span class="board__pos">{String(main.place).padStart(2, '0')}</span>
           <span class="board__name">Балл по формуле</span>
-          <span class="board__score">{score(main.score)}<small>/10</small></span>
-          <Gauge value={main.score} signal />
+          {pick ? <span class="board__score">Выбор редакции</span> : <><span class="board__score">{score(main.score)}<small>/10</small></span>
+          <Gauge value={main.score} signal /></>}
         </div>
       </aside>
     </div>
@@ -104,7 +106,7 @@ const schema = [
           </tbody>
         </table>
       </div>
-      <div class="cols-2">
+      {!pick && <div class="cols-2">
         <div class="parts" aria-label="Части балла">
           {parts.map(([name, v, w]) => (
             <div class="part"><span>{name} · вес {Math.round(w * 100)}%</span><b>{num(v, 2)}</b><Gauge value={v * 10} /></div>
@@ -116,7 +118,7 @@ const schema = [
           {main.branches.length > 1 && <p>У сети {filials(main.branches.length)} в рейтинге; балл считаем по главной точке – {main.branches[0].address}, у неё больше всего оценок. Остальные филиалы в балл не входят.</p>}
           <p><a href={u(`/metodika/#${n.key}`)}>Как считали →</a></p>
         </div>
-      </div>
+      </div>}
     </div>
   </section>
 

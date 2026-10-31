@@ -96,7 +96,7 @@ const schema = [
         {top.map((c) => (
           <a class="board__row" href={u(c.url)}>
             <span class="board__pos">{String(c.place).padStart(2, '0')}</span>
-            <span class="board__name">{c.t.brand}<br /><span class="small muted mono">Я {rating(c.y.rating)} · 2ГИС {rating(c.g.rating)} · {num(c.reviews)} отз.</span></span>
+            <span class="board__name">{c.t.brand}{!c.partner && <><br /><span class="small muted mono">Я {rating(c.y.rating)} · 2ГИС {rating(c.g.rating)} · {num(c.reviews)} отз.</span></>}</span>
             {c.partner ? <span class="board__score">Выбор редакции</span> : <><span class="board__score">{score(c.score)}</span>
             <Gauge value={c.score} signal /></>}
           </a>
@@ -136,7 +136,7 @@ const schema = [
           <ul class="rest">
             {rest.map((c) => (
               <li>
-                <strong>{c.place}. <a href={u(c.url)}>{c.t.name}</a> – {c.partner ? 'выбор редакции' : score(c.score)}.</strong> Яндекс {rating(c.y.rating)} ({num(c.y.reviews)}), 2ГИС {rating(c.g.rating)} ({num(c.g.reviews)}). <Fragment set:html={mdf(c.t.short || '')} /> {c.addresses.join('; ')} · <a href={telHref(c.phones[0])}>{c.phones[0]}</a> · <a href={c.y.cards[0]} rel="nofollow noopener" target="_blank">Яндекс Карты</a> · <a href={c.g.cards[0]} rel="nofollow noopener" target="_blank">2ГИС</a>
+                <strong>{c.place}. <a href={u(c.url)}>{c.t.name}</a> – {c.partner ? 'выбор редакции' : score(c.score)}.</strong> {!c.partner && <>Яндекс {rating(c.y.rating)} ({num(c.y.reviews)}), 2ГИС {rating(c.g.rating)} ({num(c.g.reviews)}).</>} <Fragment set:html={mdf(c.t.short || '')} /> {c.addresses.join('; ')} · <a href={telHref(c.phones[0])}>{c.phones[0]}</a> · <a href={c.y.cards[0]} rel="nofollow noopener" target="_blank">Яндекс Карты</a> · <a href={c.g.cards[0]} rel="nofollow noopener" target="_blank">2ГИС</a>
               </li>
             ))}
           </ul>
