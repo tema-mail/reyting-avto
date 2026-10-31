@@ -3,7 +3,7 @@
 // – в список попала компания не по правилам (закрыта, не профиль, оценка < 4,0, отзывов < 10);
 // – места не по убыванию балла, балл вне 0–10, опубликована ниша меньше чем с 5 компаниями;
 // – нет текстов ниши, в чек-листе не 5–7 пунктов, в FAQ не 3–5 вопросов, в текстах длинное тире.
-import { readFileSync, readdirSync } from 'node:fs';
+import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { computeYa, MIN_RATING, MIN_REVIEWS, MIN_PUBLISH } from '../src/lib/formula-ya.mjs';
 import { NICHES_YA, rejectReason } from '../src/lib/otbor.mjs';
 
@@ -13,6 +13,7 @@ const err = (m) => errors.push(m);
 let checked = 0;
 
 for (const [key, cfg] of Object.entries(NICHES_YA)) {
+  if (!existsSync(`${root}src/data/source/avto/${key}.json`)) { console.log(`пропуск ${key}: съёма ещё нет`); continue; }
   const src = JSON.parse(readFileSync(`${root}src/data/source/avto/${key}.json`, 'utf8'));
   const { rows, published } = computeYa(src, cfg);
   if (!published) continue;
@@ -62,8 +63,10 @@ for (const [key, cfg] of Object.entries(NICHES_YA)) {
   if (faq < 3 || faq > 5) err(`${key}: в FAQ ${faq} вопросов (нужно 3–5)`);
 }
 
-const files = readdirSync(`${root}src/data/source/avto`).filter((f) => f.endsWith('.json')).length;
-if (files !== Object.keys(NICHES_YA).length) err(`съёмов ${files}, ниш в otbor.mjs ${Object.keys(NICHES_YA).length}`);
+// у каждого съёма должно быть правило; ниша без съёма (ещё снимается) – пропуск выше
+for (const f of readdirSync(`${root}src/data/source/avto`).filter((f) => f.endsWith('.json'))) {
+  if (!NICHES_YA[f.slice(0, -5)]) err(`съём ${f} без правила в otbor.mjs`);
+}
 
 if (errors.length) {
   console.error(`Проверка ниш Яндекса: ошибок ${errors.length}\n` + errors.map((e) => ' – ' + e).join('\n'));

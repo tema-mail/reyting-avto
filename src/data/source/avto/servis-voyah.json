@@ -1,0 +1,1404 @@
+{
+ "ниша": "Сервис Voyah",
+ "ключ": "servis-voyah",
+ "запросы": [
+  "voyah сервис",
+  "voyah ремонт",
+  "voyah техническое обслуживание"
+ ],
+ "найдено_в_яндексе": {
+  "voyah сервис": 1,
+  "voyah ремонт": 1,
+  "voyah техническое обслуживание": 42
+ },
+ "дата_съёма": "2026-11-01",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "1252735200",
+   "название": "Reaktor",
+   "seoname": "reaktor",
+   "адрес": "ул. Писарева, 73",
+   "координаты": [
+    82.925053,
+    55.049581
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1847,
+   "отзывов": 1173,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nsk.reaktor24.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-50-89"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reaktor/1252735200/",
+   "последний_отзыв": "2026-09-27",
+   "отзывов_за_12_мес_из_загруженных": 70,
+   "загружено_дат": 76
+  },
+  {
+   "id": "32655947681",
+   "название": "Катализатор сервис",
+   "seoname": "katalizator_servis",
+   "адрес": "ул. Кирова, 272, корп. 1",
+   "координаты": [
+    82.974033,
+    55.004139
+   ],
+   "рейтинг": 4.7,
+   "оценок": 323,
+   "отзывов": 169,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://katalizator-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-41-30"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "good_place",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "urea",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/katalizator_servis/32655947681/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 82
+  },
+  {
+   "id": "70657940081",
+   "название": "TrueDetailing",
+   "seoname": "truedetailing",
+   "адрес": "Новосибирск, микрорайон Стрижи, 10",
+   "координаты": [
+    82.887057,
+    55.130225
+   ],
+   "рейтинг": 5,
+   "оценок": 375,
+   "отзывов": 131,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://truedetailing.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-41-58",
+    "+7 (383) 230-92-69",
+    "+7 (383) 230-95-70",
+    "+7 (383) 230-26-99",
+    "+7 (383) 230-42-60",
+    "+7 (383) 230-92-45"
+   ],
+   "часы": "пн-пт 08:00–22:00; сб,вс 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "access_by_agreement",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "basic_service",
+    "cafe",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "ceiling_cleaning",
+    "chrome_plating",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disk_maintenance",
+    "engine_endoscopy",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "leather_repair",
+    "ozonation",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "thickness_gauge_checking",
+    "tire_blacking",
+    "tire_fitting",
+    "toilet",
+    "vibrationstand",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/truedetailing/70657940081/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 69
+  },
+  {
+   "id": "55903131933",
+   "название": "Порше Центр",
+   "seoname": "porshe_tsentr",
+   "адрес": "Большевистская ул., 283",
+   "координаты": [
+    83.023676,
+    54.978326
+   ],
+   "рейтинг": 4.7,
+   "оценок": 504,
+   "отзывов": 124,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://porsche-novosibirsk-service.ru/",
+    "https://novosibirsk-porsche.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-41-38"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/porshe_tsentr/55903131933/",
+   "последний_отзыв": "2026-09-16",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 68
+  },
+  {
+   "id": "1065278816",
+   "название": "Большой Авто Ремонтный Сервис",
+   "seoname": "bolshoy_avto_remontny_servis",
+   "адрес": "ул. Фрунзе, 104А",
+   "координаты": [
+    82.938075,
+    55.036953
+   ],
+   "рейтинг": 4.3,
+   "оценок": 235,
+   "отзывов": 104,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://servis-bars.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 367-11-00"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "покраска автомобилей",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "airbrushing",
+    "anti_corrosion_treatment",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "raptor_painting",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bolshoy_avto_remontny_servis/1065278816/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 85
+  },
+  {
+   "id": "96457209832",
+   "название": "Zb-service",
+   "seoname": "zb_service",
+   "адрес": "ул. Богдана Хмельницкого, 1/1",
+   "координаты": [
+    82.933436,
+    55.066442
+   ],
+   "рейтинг": 4.9,
+   "оценок": 145,
+   "отзывов": 100,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автосервис-калининский.рф/",
+    "https://wa.clck.bar/79231183636"
+   ],
+   "телефоны": [
+    "+7 (923) 117-36-36"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zb_service/96457209832/",
+   "последний_отзыв": "2026-10-17",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 61
+  },
+  {
+   "id": "189567905587",
+   "название": "Кэнси Трансмишн",
+   "seoname": "kensi_transmishn",
+   "адрес": "Владимировская ул., 11Г",
+   "координаты": [
+    82.886769,
+    55.0361
+   ],
+   "рейтинг": 4.2,
+   "оценок": 196,
+   "отзывов": 98,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://cansy.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-31-56",
+    "+7 (383) 227-94-86",
+    "+7 (383) 220-68-97"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт АКПП",
+    "автосервис, автотехцентр",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "toilet",
+    "torque_converter_repair",
+    "variator_repair",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kensi_transmishn/189567905587/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 49
+  },
+  {
+   "id": "92181715366",
+   "название": "Авто Премиум",
+   "seoname": "avto_premium",
+   "адрес": "ул. Фрунзе, 104Б",
+   "координаты": [
+    82.938541,
+    55.037223
+   ],
+   "рейтинг": 4.6,
+   "оценок": 229,
+   "отзывов": 98,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avto-premium-ulitsa-frunze.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (383) 239-22-10",
+    "+7 (383) 310-58-08"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "gas_stops",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_premium/92181715366/",
+   "последний_отзыв": "2026-07-31",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 89
+  },
+  {
+   "id": "87030431280",
+   "название": "НСК Авто 54",
+   "seoname": "nsk_avto_54",
+   "адрес": "Воинская ул., 1/1к1",
+   "координаты": [
+    82.959569,
+    55.027919
+   ],
+   "рейтинг": 4.8,
+   "оценок": 119,
+   "отзывов": 78,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nskavto54.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 186-77-76",
+    "+7 (383) 375-95-05"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "call_button",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nsk_avto_54/87030431280/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 91
+  },
+  {
+   "id": "13101734362",
+   "название": "Garage54service",
+   "seoname": "garage54service",
+   "адрес": "ул. Объединения, 100/2к1",
+   "координаты": [
+    82.973576,
+    55.098064
+   ],
+   "рейтинг": 4.9,
+   "оценок": 205,
+   "отзывов": 78,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 870-55-62",
+    "+7 (383) 380-33-30"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garage54service/13101734362/",
+   "последний_отзыв": "2026-05-22",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 51
+  },
+  {
+   "id": "188491197493",
+   "название": "Соллерс СТД",
+   "seoname": "sollers_std",
+   "адрес": "1-е Мочищенское ш., 19А",
+   "координаты": [
+    82.894707,
+    55.093909
+   ],
+   "рейтинг": 4.5,
+   "оценок": 168,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://stdnsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (800) 500-15-27"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "trailer_repair",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sollers_std/188491197493/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 81
+  },
+  {
+   "id": "1051378919",
+   "название": "Кэнси Трансмишн",
+   "seoname": "kensi_transmishn",
+   "адрес": "ул. Николая Островского, 111, корп. 9",
+   "координаты": [
+    82.938616,
+    55.053139
+   ],
+   "рейтинг": 4.3,
+   "оценок": 74,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://cansy.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-31-56",
+    "+7 (383) 227-94-86",
+    "+7 (383) 235-95-94",
+    "+7 (383) 220-62-05",
+    "+7 (383) 201-16-47"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт АКПП",
+    "автосервис, автотехцентр",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "toilet",
+    "torque_converter_repair",
+    "variator_repair",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kensi_transmishn/1051378919/",
+   "последний_отзыв": "2026-06-16",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 38
+  },
+  {
+   "id": "119219124283",
+   "название": "Европейский",
+   "seoname": "yevropeyskiy",
+   "адрес": "Новосибирск, Ленинский район",
+   "координаты": [
+    82.871663,
+    55.008526
+   ],
+   "рейтинг": 4.9,
+   "оценок": 55,
+   "отзывов": 33,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservice-evropejskiy.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (995) 129-33-99",
+    "+7 (909) 529-33-99"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "Установка ГБО"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "carbon_fiber_lamination",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yevropeyskiy/119219124283/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 54
+  },
+  {
+   "id": "1193628126",
+   "название": "АвтоЛёха",
+   "seoname": "avtolyokha",
+   "адрес": "ул. Орджоникидзе, 44/1",
+   "координаты": [
+    82.938093,
+    55.033037
+   ],
+   "рейтинг": 5,
+   "оценок": 61,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.autoleha.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 912-95-34",
+    "+7 (383) 214-95-34"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "chip_tuning",
+    "guarantee",
+    "installation",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtolyokha/1193628126/",
+   "последний_отзыв": "2026-09-26",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 35
+  },
+  {
+   "id": "76683215464",
+   "название": "Родной сервис",
+   "seoname": "rodnoy_servis",
+   "адрес": "Волочаевская ул., 49",
+   "координаты": [
+    83.000838,
+    55.053022
+   ],
+   "рейтинг": 5,
+   "оценок": 31,
+   "отзывов": 28,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://rmsto.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-59-90"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rodnoy_servis/76683215464/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 44
+  },
+  {
+   "id": "65699782080",
+   "название": "Вв-авто54",
+   "seoname": "vv_avto54",
+   "адрес": "ул. Немировича-Данченко, 36, корп. 2",
+   "координаты": [
+    82.87608,
+    54.970918
+   ],
+   "рейтинг": 4.9,
+   "оценок": 35,
+   "отзывов": 27,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://vv-avto54.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (983) 135-25-52"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vv_avto54/65699782080/"
+  },
+  {
+   "id": "134145103387",
+   "название": "Кэнси Трансмишн",
+   "seoname": "kensi_transmishn",
+   "адрес": "ул. Сибиряков-Гвардейцев, 47, корп. 8",
+   "координаты": [
+    82.902554,
+    54.954618
+   ],
+   "рейтинг": 4.2,
+   "оценок": 53,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://cansy.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-31-56",
+    "+7 (383) 227-94-86",
+    "+7 (923) 240-60-50",
+    "+7 (383) 209-64-71"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт АКПП",
+    "автосервис, автотехцентр",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "toilet",
+    "torque_converter_repair",
+    "variator_repair",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kensi_transmishn/134145103387/"
+  },
+  {
+   "id": "129339813988",
+   "название": "НСК Авто 54",
+   "seoname": "nsk_avto_54",
+   "адрес": "ул. Кирова, 113",
+   "координаты": [
+    82.955226,
+    55.013002
+   ],
+   "рейтинг": 4.9,
+   "оценок": 21,
+   "отзывов": 19,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://nskavto54.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 233-41-41",
+    "+7 (383) 375-95-05"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nsk_avto_54/129339813988/"
+  },
+  {
+   "id": "161833595934",
+   "название": "НСК Авто 54",
+   "seoname": "nsk_avto_54",
+   "адрес": "ул. Семьи Шамшиных, 99В",
+   "координаты": [
+    82.926745,
+    55.051102
+   ],
+   "рейтинг": 4.5,
+   "оценок": 19,
+   "отзывов": 18,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://nskavto54.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 733-79-99",
+    "+7 (383) 375-95-05"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nsk_avto_54/161833595934/"
+  },
+  {
+   "id": "215639194272",
+   "название": "Тесла Н",
+   "seoname": "tesla_n",
+   "адрес": "Инская ул., 69",
+   "координаты": [
+    82.937452,
+    55.01019
+   ],
+   "рейтинг": 4.6,
+   "оценок": 38,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://tesla-n.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 375-52-72",
+    "+7 (923) 137-07-09"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tesla_n/215639194272/"
+  },
+  {
+   "id": "129657598766",
+   "название": "Гибрид-Сервис",
+   "seoname": "gibrid_servis",
+   "адрес": "ул. Немировича-Данченко, 120А",
+   "координаты": [
+    82.906546,
+    54.974712
+   ],
+   "рейтинг": 4.5,
+   "оценок": 15,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://hybridtech.bitrix24site.ru/"
+   ],
+   "телефоны": [
+    "+7 (983) 310-59-34",
+    "+7 (383) 239-59-34"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "электромобили, продажа и сервис",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "chip_tuning",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gibrid_servis/129657598766/"
+  },
+  {
+   "id": "32203485332",
+   "название": "WinCar",
+   "seoname": "wincar",
+   "адрес": "Серебренниковская ул., 2А, Новосибирск",
+   "координаты": [
+    82.928627,
+    55.014943
+   ],
+   "рейтинг": 4.4,
+   "оценок": 12,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 766-63-38",
+    "+7 (952) 947-66-48"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "сварочные работы"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "home_visit",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/wincar/32203485332/"
+  },
+  {
+   "id": "161009443026",
+   "название": "Evolution Sibir",
+   "seoname": "evolution_sibir",
+   "адрес": "Сухарная ул., 35, корп. 13",
+   "координаты": [
+    82.873088,
+    55.044562
+   ],
+   "рейтинг": 4.4,
+   "оценок": 9,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://evolutioncarservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (993) 952-18-26",
+    "+7 (995) 437-92-66",
+    "+7 (953) 777-78-91"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "basic_service",
+    "cars_russification",
+    "disable_captions",
+    "guarantee",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/evolution_sibir/161009443026/"
+  },
+  {
+   "id": "109349072455",
+   "название": "Байбак",
+   "seoname": "baybak",
+   "адрес": "ул. Красных Зорь, 1А, Новосибирск",
+   "координаты": [
+    82.966651,
+    55.110778
+   ],
+   "рейтинг": 4.3,
+   "оценок": 5,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 868-11-33",
+    "+7 (913) 918-55-85"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "injector_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/baybak/109349072455/"
+  }
+ ]
+}

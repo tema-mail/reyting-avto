@@ -26,7 +26,9 @@ export interface Rating {
 // Порядок внутри группы – по спросу Вордстата (НСК, сентябрь 2026, docs/nishi-avto-nsk.md в reytingi).
 const ORDER = ['avtoshkoly', 'avtoservisy', 'tonirovka', 'evakuatory', 'tekhosmotr', 'shinomontazh', 'avtomoyki', 'chip-tyuning', 'kuzovnoy-remont', 'avtosignalizatsii', 'ustanovka-magnitol', 'avtoelektriki', 'avtopodbor', 'deteyling', 'remont-dvigateley', 'razval-skhozhdenie', 'avtozvuk', 'polirovka-far', 'remont-rulevykh-reek', 'diagnostika-avto', 'remont-akpp', 'avtostekla', 'ustanovka-gbo', 'khimchistka-salona', 'ustanovka-farkopa', 'remont-diskov', 'peretyazhka-salona', 'udalenie-vmyatin', 'shumoizolyatsiya', 'remont-dizeley', 'remont-podveski', 'remont-turbin', 'servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov', 'rusifikatsiya-avtomobiley',
   // третья волна: спроса по Вордстату ещё нет – порядок по широте запроса
-  'servis-yaponskikh-avtomobiley', 'servis-koreyskikh-avtomobiley', 'servis-nemetskikh-avtomobiley', 'servis-vag', 'remont-avtokonditsionerov', 'remont-tormoznoy-sistemy', 'remont-glushiteley', 'remont-starterov-i-generatorov', 'remont-gruzovikov', 'motoservisy', 'khranenie-shin', 'antikor', 'remont-skolov', 'gruzovoy-shinomontazh', 'okleyka-plenkoy', 'ustanovka-avtozapuska', 'ustanovka-parktronikov', 'avtosvet', 'prokat-avtomobiley', 'vykup-avto', 'avtorazbory', 'avtoekspertiza', 'avtoyuristy'];
+  'servis-yaponskikh-avtomobiley', 'servis-koreyskikh-avtomobiley', 'servis-nemetskikh-avtomobiley', 'servis-vag', 'remont-avtokonditsionerov', 'remont-tormoznoy-sistemy', 'remont-glushiteley', 'remont-starterov-i-generatorov', 'remont-gruzovikov', 'motoservisy', 'khranenie-shin', 'antikor', 'remont-skolov', 'gruzovoy-shinomontazh', 'okleyka-plenkoy', 'ustanovka-avtozapuska', 'ustanovka-parktronikov', 'avtosvet', 'prokat-avtomobiley', 'vykup-avto', 'avtorazbory', 'avtoekspertiza', 'avtoyuristy',
+  // четвёртая волна (01.11.2026): по спросу Вордстата, НСК и область, последние 30 дней (XMLRiver, spros/avto4*.json в reytingi)
+  'osago', 'avtosalony', 'remont-mkpp', 'prigon-avto', 'predpuskovye-podogrevateli', 'gosnomera', 'servis-lada', 'servis-toyota', 'servis-hyundai-kia', 'moyki-samoobsluzhivaniya', 'avtosalony-s-probegom', 'remont-radiatorov', 'vyezdnoy-shinomontazh', 'servis-mercedes', 'remont-toplivnoy-sistemy', 'servis-bmw', 'remont-kardanov', 'otogrev-avto', 'avtoklyuchi', 'servis-lixiang', 'servis-zeekr', 'servis-changan', 'servis-voyah', 'servis-lynk-co', 'servis-byd', 'servis-avatr'];
 
 const plural = (n: number, f: [string, string, string]) => {
   const a = n % 100;
@@ -129,6 +131,32 @@ const RELATED: Record<string, string[]> = {
   'prokat-avtomobiley': ['avtoshkoly', 'evakuatory', 'avtopodbor'],
   avtorazbory: ['vykup-avto', 'avtoservisy', 'kuzovnoy-remont'],
   'vykup-avto': ['avtopodbor', 'avtoekspertiza', 'avtorazbory'],
+  'predpuskovye-podogrevateli': ['ustanovka-avtozapuska', 'otogrev-avto', 'avtoelektriki'],
+  'otogrev-avto': ['evakuatory', 'predpuskovye-podogrevateli', 'avtoelektriki'],
+  'prigon-avto': ['avtopodbor', 'rusifikatsiya-avtomobiley', 'gosnomera', 'servis-yaponskikh-avtomobiley'],
+  'remont-mkpp': ['remont-akpp', 'remont-kardanov', 'diagnostika-avto'],
+  'remont-radiatorov': ['remont-avtokonditsionerov', 'remont-dvigateley', 'diagnostika-avto'],
+  'remont-toplivnoy-sistemy': ['remont-dizeley', 'diagnostika-avto', 'remont-dvigateley'],
+  'remont-kardanov': ['remont-podveski', 'remont-mkpp', 'remont-gruzovikov'],
+  avtoklyuchi: ['avtosignalizatsii', 'avtoelektriki'],
+  avtosalony: ['avtosalony-s-probegom', 'avtopodbor', 'osago', 'gosnomera'],
+  'avtosalony-s-probegom': ['avtopodbor', 'avtoekspertiza', 'vykup-avto', 'avtosalony'],
+  gosnomera: ['osago', 'tekhosmotr', 'avtosalony'],
+  'vyezdnoy-shinomontazh': ['shinomontazh', 'khranenie-shin', 'evakuatory'],
+  'moyki-samoobsluzhivaniya': ['avtomoyki', 'khimchistka-salona', 'deteyling'],
+  osago: ['tekhosmotr', 'avtoyuristy', 'gosnomera'],
+  'servis-toyota': ['servis-yaponskikh-avtomobiley', 'avtoservisy', 'remont-akpp'],
+  'servis-lada': ['avtoservisy', 'remont-dvigateley', 'kuzovnoy-remont'],
+  'servis-hyundai-kia': ['servis-koreyskikh-avtomobiley', 'avtoservisy', 'remont-akpp'],
+  'servis-bmw': ['servis-nemetskikh-avtomobiley', 'chip-tyuning', 'remont-akpp'],
+  'servis-mercedes': ['servis-nemetskikh-avtomobiley', 'remont-akpp', 'diagnostika-avto'],
+  'servis-zeekr': ['servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov', 'rusifikatsiya-avtomobiley'],
+  'servis-lixiang': ['servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov', 'rusifikatsiya-avtomobiley'],
+  'servis-voyah': ['servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov', 'rusifikatsiya-avtomobiley'],
+  'servis-lynk-co': ['servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov', 'rusifikatsiya-avtomobiley'],
+  'servis-changan': ['servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov', 'rusifikatsiya-avtomobiley'],
+  'servis-byd': ['servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov', 'rusifikatsiya-avtomobiley'],
+  'servis-avatr': ['servis-kitayskikh-avtomobiley', 'remont-elektromobiley-i-gibridov', 'rusifikatsiya-avtomobiley'],
 };
 
 /** 3–4 соседних рейтинга: сначала по смыслу (RELATED), затем своя группа. */

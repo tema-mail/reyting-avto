@@ -1,0 +1,940 @@
+{
+ "ниша": "Сервис Mercedes-Benz",
+ "ключ": "servis-mercedes",
+ "запросы": [
+  "ремонт мерседес"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт мерседес": 49
+ },
+ "дата_съёма": "2026-11-01",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "1095851133",
+   "название": "Экспресс-сервис",
+   "seoname": "ekspress_servis",
+   "адрес": "ул. Николая Островского, 101, Новосибирск",
+   "координаты": [
+    82.933339,
+    55.051875
+   ],
+   "рейтинг": 4.3,
+   "оценок": 387,
+   "отзывов": 191,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://express-service.su/"
+   ],
+   "телефоны": [
+    "+7 (383) 310-47-65",
+    "+7 (383) 219-58-56"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekspress_servis/1095851133/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 66
+  },
+  {
+   "id": "1051300050",
+   "название": "Бавария Моторс",
+   "seoname": "bavariya_motors",
+   "адрес": "ул. Ползунова, 1, корп. 2",
+   "координаты": [
+    82.982144,
+    55.060867
+   ],
+   "рейтинг": 4.9,
+   "оценок": 434,
+   "отзывов": 139,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://автоцентр-бавария.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 284-84-85",
+    "+7 (383) 284-84-86",
+    "+7 (903) 931-25-24",
+    "+7 (913) 892-17-67"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_door_closers",
+    "car_noise_insulation",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "coffee_to_go",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bavariya_motors/1051300050/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 66
+  },
+  {
+   "id": "32510202400",
+   "название": "K25 Vag Center",
+   "seoname": "k25_vag_center",
+   "адрес": "Индустриальная ул., 17, Новосибирск",
+   "координаты": [
+    82.966932,
+    55.05699
+   ],
+   "рейтинг": 5,
+   "оценок": 298,
+   "отзывов": 115,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://k25vag.ru/"
+   ],
+   "телефоны": [
+    "+7 (938) 543-10-58",
+    "+7 (383) 213-20-25"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "flywheel_repair",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "guarantee",
+    "has_chat_with_clients",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "torque_converter_repair",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/k25_vag_center/32510202400/",
+   "последний_отзыв": "2026-09-09",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 70
+  },
+  {
+   "id": "134706346612",
+   "название": "Фастар Mercedes-Benz",
+   "seoname": "fastar_mercedes_benz",
+   "адрес": "Большевистская ул., 14/1",
+   "координаты": [
+    82.948117,
+    55.002784
+   ],
+   "рейтинг": 4.5,
+   "оценок": 392,
+   "отзывов": 108,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mercedes.gk-fastar.ru/",
+    "https://gk-fastar.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 373-77-77"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fastar_mercedes_benz/134706346612/",
+   "последний_отзыв": "2026-08-04",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 81
+  },
+  {
+   "id": "64925737119",
+   "название": "Интерсервис-Мерседес",
+   "seoname": "interservis_mersedes",
+   "адрес": "Северная ул., 15",
+   "координаты": [
+    82.905859,
+    55.070533
+   ],
+   "рейтинг": 4.7,
+   "оценок": 211,
+   "отзывов": 93,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 917-25-74",
+    "+7 (383) 299-25-74"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/interservis_mersedes/64925737119/",
+   "последний_отзыв": "2026-07-16",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 58
+  },
+  {
+   "id": "132905024493",
+   "название": "Мерседес-Бенц-Сервис",
+   "seoname": "mersedes_bents_servis",
+   "адрес": "ул. Королёва, 25",
+   "координаты": [
+    82.966549,
+    55.053562
+   ],
+   "рейтинг": 4.8,
+   "оценок": 234,
+   "отзывов": 84,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.mbs-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 311-03-12"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mersedes_bents_servis/132905024493/",
+   "последний_отзыв": "2026-09-16",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 86
+  },
+  {
+   "id": "33891600433",
+   "название": "ДвижокАвто",
+   "seoname": "dvizhokavto",
+   "адрес": "ул. Немировича-Данченко, 120",
+   "координаты": [
+    82.905365,
+    54.973969
+   ],
+   "рейтинг": 4.6,
+   "оценок": 149,
+   "отзывов": 74,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dvs-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (993) 030-00-33",
+    "+7 (951) 383-00-99",
+    "+7 (951) 383-00-33"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "delivery",
+    "generators",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dvizhokavto/33891600433/",
+   "последний_отзыв": "2026-10-19",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 90
+  },
+  {
+   "id": "31806546777",
+   "название": "AutokatService",
+   "seoname": "autokatservice",
+   "адрес": "Сухарная ул., 35к7/4, Новосибирск",
+   "координаты": [
+    82.86972,
+    55.045666
+   ],
+   "рейтинг": 5,
+   "оценок": 69,
+   "отзывов": 57,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtotekhservice911.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 968-11-11"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "chip_tuning",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/autokatservice/31806546777/",
+   "последний_отзыв": "2026-10-10",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 53
+  },
+  {
+   "id": "1771245275",
+   "название": "Стс-сервис",
+   "seoname": "sts_servis",
+   "адрес": "Большевистская ул., 1",
+   "координаты": [
+    82.92742,
+    55.013031
+   ],
+   "рейтинг": 4.2,
+   "оценок": 167,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://sales.mercedes-sts.ru/",
+    "https://sts-avtomobili.ru/"
+   ],
+   "телефоны": [
+    "+7 (968) 225-01-02",
+    "+7 (383) 363-98-70"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sts_servis/1771245275/",
+   "последний_отзыв": "2026-04-14",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 63
+  },
+  {
+   "id": "1266424244",
+   "название": "Ремцех",
+   "seoname": "remtsekh",
+   "адрес": "Большая ул., 255, корп. 1",
+   "координаты": [
+    82.871553,
+    55.008965
+   ],
+   "рейтинг": 4.4,
+   "оценок": 126,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 310-10-66",
+    "+7 (383) 310-10-99",
+    "+7 (983) 510-10-66",
+    "+7 (983) 510-10-99"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remtsekh/1266424244/",
+   "последний_отзыв": "2026-07-19",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 57
+  },
+  {
+   "id": "1037701104",
+   "название": "Мб Трак Сибирь",
+   "seoname": "mb_trak_sibir",
+   "адрес": "Толмачёвская ул., 33/3",
+   "координаты": [
+    82.809504,
+    54.966451
+   ],
+   "рейтинг": 4.4,
+   "оценок": 108,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://mbtsib.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-57-03",
+    "+7 (999) 300-57-19"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "грузовые автомобили, грузовая техника",
+    "ремонт сельскохозяйственной техники"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "freight_car_service",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mb_trak_sibir/1037701104/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 59
+  },
+  {
+   "id": "224403785651",
+   "название": "Оникс",
+   "seoname": "oniks",
+   "адрес": "Троллейная ул., 85/1, корп. 1, Новосибирск",
+   "координаты": [
+    82.855539,
+    54.964223
+   ],
+   "рейтинг": 4.8,
+   "оценок": 66,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://onyx54.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 952-23-44",
+    "+7 (383) 375-91-33",
+    "+7 (903) 947-06-29"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт рулевых реек",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "engine_endoscopy",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oniks/224403785651/",
+   "последний_отзыв": "2026-08-21",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 38
+  },
+  {
+   "id": "52093676656",
+   "название": "Доктор Кузов",
+   "seoname": "doktor_kuzov",
+   "адрес": "ул. Жуковского, 4, Новосибирск",
+   "координаты": [
+    82.89657,
+    55.081004
+   ],
+   "рейтинг": 4.4,
+   "оценок": 48,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kuzovnsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 331-11-41",
+    "+7 (913) 014-69-31",
+    "+7 (913) 722-80-62",
+    "+7 (960) 790-54-89"
+   ],
+   "часы": "пн-сб 11:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "покраска автомобилей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_glass_replacement",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "door_repair",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "raptor_painting",
+    "removing_dents_without_painting",
+    "sandblasting",
+    "scratch_repair",
+    "thickness_gauge_color",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/doktor_kuzov/52093676656/",
+   "последний_отзыв": "2026-09-29",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 27
+  },
+  {
+   "id": "135063526805",
+   "название": "Мерседес Бенц",
+   "seoname": "mersedes_bents",
+   "адрес": "Пролетарская ул., 271П",
+   "координаты": [
+    83.051224,
+    54.994514
+   ],
+   "рейтинг": 4.4,
+   "оценок": 39,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://mercedes-sto.autonovosib.ru/companies/mercedes"
+   ],
+   "телефоны": [
+    "+7 (913) 912-09-19"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "guarantee",
+    "parking_disabled",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mersedes_bents/135063526805/",
+   "последний_отзыв": "2026-07-03",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 29
+  },
+  {
+   "id": "1104920120",
+   "название": "Автоцентр по ремонту Mercedes-Benz",
+   "seoname": "avtotsentr_po_remontu_mercedes_benz",
+   "адрес": "ул. Богдана Хмельницкого, 69/1",
+   "координаты": [
+    82.970165,
+    55.086283
+   ],
+   "рейтинг": 4.7,
+   "оценок": 33,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 214-04-38"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "spare_parts",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_po_remontu_mercedes_benz/1104920120/",
+   "последний_отзыв": "2026-05-04",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 15
+  },
+  {
+   "id": "44312188495",
+   "название": "Мерседес-Бенц",
+   "seoname": "mersedes_bents",
+   "адрес": "ул. Тимирязева, 3/5, посёлок Тулинский",
+   "координаты": [
+    82.845241,
+    54.906254
+   ],
+   "рейтинг": 4.8,
+   "оценок": 38,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "вт-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "body_repair"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mersedes_bents/44312188495/"
+  },
+  {
+   "id": "244581482400",
+   "название": "Mercedes benz",
+   "seoname": "mercedes_benz",
+   "адрес": "Большевистская ул., 125/6",
+   "координаты": [
+    82.956526,
+    55.001467
+   ],
+   "рейтинг": 4.6,
+   "оценок": 14,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 715-75-55"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mercedes_benz/244581482400/"
+  },
+  {
+   "id": "109349072455",
+   "название": "Байбак",
+   "seoname": "baybak",
+   "адрес": "ул. Красных Зорь, 1А, Новосибирск",
+   "координаты": [
+    82.966651,
+    55.110778
+   ],
+   "рейтинг": 4.3,
+   "оценок": 5,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 868-11-33",
+    "+7 (913) 918-55-85"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "injector_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/baybak/109349072455/"
+  }
+ ]
+}

@@ -161,9 +161,9 @@ function pricesOf(ceny: any, ids: string[]): Price[] {
 }
 
 function build(): NicheYa[] {
-  return Object.entries(NICHES_YA).map(([key, cfg]: [string, any]) => {
+  // ниша без съёма (ещё снимается) пропускается: правило и тексты могут лечь раньше данных
+  return Object.entries(NICHES_YA).filter(([key]) => SRC[`../data/source/avto/${key}.json`]).map(([key, cfg]: [string, any]) => {
     const src = SRC[`../data/source/avto/${key}.json`];
-    if (!src) throw new Error(`Нет съёма ниши ${key}`);
     const t = TXT[`../data/nishi/${key}.ts`];
     if (!t) throw new Error(`Нет текстов ниши ${key}`);
     if (t.key !== key) throw new Error(`Тексты ${key}: key = ${t.key}`);
@@ -237,6 +237,7 @@ function dedupe(all: NicheYa[]): NicheYa[] {
   });
   for (const n of all.slice(from)) {
     if (!n.published) continue;
+    if ((NICHES_YA as any)[n.key]?.own) continue; // узкий запрос со своим спросом (otbor.mjs)
     const ids = new Set(n.rows.flatMap((r) => r.ids));
     for (const o of pub) {
       const oIds = new Set(o.rows.flatMap((r) => r.ids));

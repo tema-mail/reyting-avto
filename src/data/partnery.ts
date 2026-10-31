@@ -48,6 +48,14 @@ export const PARTNER_NICHES: Record<string, string[]> = {
   'rusifikatsiya-avtomobiley': ['evolution', 'teyes-sibir'],
   'servis-kitayskikh-avtomobiley': ['evolution'],
   'remont-elektromobiley-i-gibridov': ['evolution'],
+  // китайские марки (владелец 01.11.2026): Evolution первым во всех
+  'servis-zeekr': ['evolution'],
+  'servis-lixiang': ['evolution'],
+  'servis-voyah': ['evolution'],
+  'servis-lynk-co': ['evolution'],
+  'servis-changan': ['evolution'],
+  'servis-byd': ['evolution'],
+  'servis-avatr': ['evolution'],
 };
 
 export const partnersOf = (niche: string): Partner[] => (PARTNER_NICHES[niche] || []).map((k) => PARTNERS[k]);
