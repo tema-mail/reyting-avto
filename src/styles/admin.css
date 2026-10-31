@@ -44,7 +44,10 @@ details.pcat>summary{list-style:none;cursor:pointer}
 details.pcat>summary::-webkit-details-marker{display:none}
 details.pcat[open]>summary{background:#fbf8f2}
 .caret{display:inline-block;width:0;height:0;margin-right:8px;border-left:6px solid #55605d;border-top:5px solid transparent;border-bottom:5px solid transparent;transition:transform .15s}
-details.pcat[open] .caret{transform:rotate(90deg)}
+details.pcat[open]>summary .caret,details.pgrp[open]>summary .caret{transform:rotate(90deg)}
+/* группа списка страниц сворачивается целиком (владелец 01.11.2026: «всё должно сворачиваться») */
+details.pgrp>summary{list-style:none;cursor:pointer;display:block}
+details.pgrp>summary::-webkit-details-marker{display:none}
 .lvl1 .pname{padding-left:22px}
 @media(max-width:900px){.phead,.prow{grid-template-columns:52px minmax(0,1fr)}.phead>:nth-child(n+3),.prow>:nth-child(n+3){display:none}}
 /* Товары */

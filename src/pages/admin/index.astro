@@ -35,10 +35,13 @@ const total = 1 + GORODA.length + ratings + NICHE_RAYON.length + RAYON_LIST.leng
   <div class="pages">
     <div class="phead"><span></span><span>Страница</span><span>Адрес</span><span style="text-align:right">Сущность</span></div>
 
-    <div class="pgroup">Главная <span>1</span></div>
+    <details class="pgrp">
+      <summary class="pgroup"><i class="caret"></i>Главная <span>1</span></summary>
     <div class="prow"><span></span><span class="pname">Главная – хаб городов</span><a class="purl" href={u('/')} target="_blank">{site('/')}</a><span class="pkind">Главная</span></div>
+    </details>
 
-    <div class="pgroup">Города <span>{GORODA.length} · готов {GORODA.filter((g) => g.ready).length}</span></div>
+    <details class="pgrp" open>
+      <summary class="pgroup"><i class="caret"></i>Города <span>{GORODA.length} · готов {GORODA.filter((g) => g.ready).length}</span></summary>
     {GORODA.map((g) => g.slug === CITY.slug ? (
       <details class="pcat" open>
         <summary class="prow">
@@ -47,6 +50,12 @@ const total = 1 + GORODA.length + ratings + NICHE_RAYON.length + RAYON_LIST.leng
           <a class="purl" href={u(`/${g.slug}/`)} target="_blank" onclick="event.stopPropagation()">{site(`/${g.slug}/`)}</a>
           <span class="pkind">Хаб города</span>
         </summary>
+        <details class="pcat lvl1">
+          <summary class="prow lvl1"><span></span><span class="pname"><i class="caret"></i>Районы</span><span class="purl muted">{RAYON_LIST.length} районов</span><span class="pkind">Хабы районов</span></summary>
+    {RAYON_LIST.map((r) => (
+      <div class="prow lvl1"><span></span><div><span class="pname">{r.name} район</span><div class="muted" style="font-size:12px">{NICHE_RAYON.filter((x) => x.r.slug === r.slug).length} рейтингов в районе</div></div><a class="purl" href={u(r.url)} target="_blank">{r.url}</a><span class="pkind">Хаб района</span></div>
+    ))}
+    </details>
         {BY_GROUP.map((grp) => (
           <details class="pcat lvl1">
             <summary class="prow lvl1"><span></span><span class="pname"><i class="caret"></i>{grp.name}</span><span class="purl muted">{grp.items.length} рейтингов</span><span class="pkind">Группа</span></summary>
@@ -67,28 +76,35 @@ const total = 1 + GORODA.length + ratings + NICHE_RAYON.length + RAYON_LIST.leng
     ) : (
       <div class="prow"><span></span><div><span class="pname">{g.name}</span><div class="muted" style="font-size:12px">рейтинг собирается · закрыта от поиска</div></div><a class="purl" href={u(`/${g.slug}/`)} target="_blank">{site(`/${g.slug}/`)}</a><span class="pkind">Город</span></div>
     ))}
+    </details>
 
-    <div class="pgroup">Районы {CITY.of} <span>{RAYON_LIST.length}</span></div>
-    {RAYON_LIST.map((r) => (
-      <div class="prow"><span></span><div><span class="pname">{r.name} район</span><div class="muted" style="font-size:12px">{NICHE_RAYON.filter((x) => x.r.slug === r.slug).length} рейтингов в районе</div></div><a class="purl" href={u(r.url)} target="_blank">{r.url}</a><span class="pkind">Хаб района</span></div>
-    ))}
 
-    <div class="pgroup">Каталог компаний <span>{companies.length.toLocaleString('ru-RU')} карточек</span></div>
+    <details class="pgrp">
+      <summary class="pgroup"><i class="caret"></i>Каталог компаний <span>{companies.length.toLocaleString('ru-RU')} карточек</span></summary>
     <details class="pcat">
       <summary class="prow"><span></span><div><span class="pname"><i class="caret"></i>Все компании {CITY.of}</span><div class="muted" style="font-size:12px">поиск и фильтр по услуге и району</div></div><a class="purl" href={u(`/${CITY.slug}/companies/`)} target="_blank" onclick="event.stopPropagation()">{site(`/${CITY.slug}/companies/`)}</a><span class="pkind">Каталог</span></summary>
       {companies.map((c) => <div class="prow lvl1"><span></span><span class="pname">{c.name}</span><a class="purl" href={u(c.url)} target="_blank">{c.url}</a><span class="pkind">Карточка компании</span></div>)}
     </details>
+    </details>
 
-    <div class="pgroup">Блог: гиды <span>{STATI.length}</span></div>
+    <details class="pgrp">
+      <summary class="pgroup"><i class="caret"></i>Блог: гиды <span>{STATI.length}</span></summary>
     {STATI.map((s) => <div class="prow"><span></span><span class="pname">{s.fm.h1 || s.fm.title}</span><a class="purl" href={u(s.url)} target="_blank">{s.url}</a><span class="pkind">Статья</span></div>)}
+    </details>
 
-    <div class="pgroup">Внутренние страницы <span>{inner.length}</span></div>
+    <details class="pgrp">
+      <summary class="pgroup"><i class="caret"></i>Внутренние страницы <span>{inner.length}</span></summary>
     {inner.map((t) => <div class="prow"><span></span><span class="pname">{t.name}</span><a class="purl" href={u(t.path)} target="_blank">{site(t.path)}</a><span class="pkind">Страница</span></div>)}
+    </details>
 
-    <div class="pgroup">Юридические страницы <span>{legal.length}</span></div>
+    <details class="pgrp">
+      <summary class="pgroup"><i class="caret"></i>Юридические страницы <span>{legal.length}</span></summary>
     {legal.map((t) => <div class="prow"><span></span><span class="pname">{t.name}</span><a class="purl" href={u(t.path)} target="_blank">{site(t.path)}</a><span class="pkind">Юридическая</span></div>)}
+    </details>
 
-    <div class="pgroup">Технические страницы <span>{tech.length}</span></div>
+    <details class="pgrp">
+      <summary class="pgroup"><i class="caret"></i>Технические страницы <span>{tech.length}</span></summary>
     {tech.map((t) => <div class="prow"><span></span><span class="pname">{t.name}</span>{t.path === '/404' ? <span class="purl muted">любой несуществующий адрес</span> : <a class="purl" href={u(t.path)} target="_blank">{site(t.path)}</a>}<span class="pkind">Техническая</span></div>)}
+    </details>
   </div>
 </Admin>
