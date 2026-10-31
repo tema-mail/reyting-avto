@@ -4,6 +4,14 @@
 import Base from '../../layouts/Base.astro';
 import Partnery from '../../components/Partnery.astro';
 import { u } from '../../lib/url';
+import { computeYa } from '../../lib/formula-ya.mjs';
+import { NICHES_YA } from '../../lib/otbor.mjs';
+import src from '../../data/source/avto/avtosignalizatsii.json';
+// рейтинг по формуле без закрепления: партнёр стоит на своём месте по цифрам (так требует рекламный вид блока)
+const r = computeYa(src as any, (NICHES_YA as any)['avtosignalizatsii']);
+const rows = r.rows.slice(0, 12);
+const mine = r.rows.findIndex((x: any) => /teyes sibir/i.test(x.display));
+const num = (n: number, d = 1) => n.toLocaleString('ru-RU', { minimumFractionDigits: d, maximumFractionDigits: d });
 const ad = {
   'teyes-sibir': { who: 'Teyes Sibir, ИНН рекламодателя', erid: '2VtzqwPRN1X (пример)' },
   evolution: { who: 'ИП Галимов А. Р., ИНН 143305742226', erid: '2VtzqxKJbQ7 (пример)' },
@@ -17,6 +25,17 @@ const ad = {
   </div></section>
   <p class="wrap label" style="margin-top:24px">Рейтинг «Установка сигнализаций» – <a href={u('/novosibirsk/avtosignalizatsii/')}>как сейчас</a></p>
   <Partnery niche="avtosignalizatsii" city="novosibirsk" ad={ad} />
+  <section class="sec"><div class="wrap">
+    <h2>А так ниже – сам рейтинг</h2>
+    <p>Места считает формула, партнёр стоит там, куда его ставят цифры Яндекс Карт, и подсвечен меткой «Партнёр». Сейчас Teyes Sibir по формуле – {mine >= 0 ? `${mine + 1}-е место из ${r.rows.length}` : 'вне отбора'}.</p>
+    <div style="overflow-x:auto"><table style="width:100%;border-collapse:collapse;font-size:15px">
+      <thead><tr style="text-align:left;border-bottom:2px solid var(--line)"><th style="padding:8px">Место</th><th>Компания</th><th>Балл</th><th>Яндекс</th><th>Отзывов</th></tr></thead>
+      <tbody>{rows.map((x: any) => {
+        const me = /teyes sibir/i.test(x.display);
+        return <tr style={`border-bottom:1px solid var(--line-2);${me ? 'background:var(--signal-soft);font-weight:600' : ''}`}><td style="padding:8px">{x.place}</td><td>{x.display}{me && <span style="margin-left:8px;padding:2px 8px;border-radius:999px;background:var(--signal);font-size:12px">Партнёр</span>}</td><td>{num(x.score)}</td><td>{num(x.rating)}</td><td>{x.reviews}</td></tr>;
+      })}</tbody>
+    </table></div>
+  </div></section>
   <p class="wrap label" style="margin-top:24px">Рейтинг «Русификация автомобилей» – два партнёра, <a href={u('/novosibirsk/rusifikatsiya-avtomobiley/')}>как сейчас</a></p>
   <Partnery niche="rusifikatsiya-avtomobiley" city="novosibirsk" ad={ad} />
 </Base>
