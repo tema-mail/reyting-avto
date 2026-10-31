@@ -156,12 +156,29 @@ createServer(async (req, res) => {
         await rename(`${DATA}/stages.json.tmp`, `${DATA}/stages.json`);
         return send(res, 200, { ok: true, stage: cur.stage, history: cur.history }, origin);
       }
+      if (req.method === 'DELETE') {
+        // удаление насовсем (окно в кабинете предлагает сначала архив): строка заявки и её этапы
+        const id = decodeURIComponent(path.slice('/api/leads/'.length));
+        if (!/^AB-[\w-]{6,30}$/.test(id)) return send(res, 422, { ok: false }, origin);
+        let text = '';
+        try { text = await readFile(`${DATA}/leads.jsonl`, 'utf8'); } catch {}
+        const lines = text.split('\n').filter(Boolean);
+        const keep = lines.filter((l) => { try { return JSON.parse(l).id !== id; } catch { return true; } });
+        if (keep.length === lines.length) return send(res, 404, { ok: false }, origin);
+        await writeFile(`${DATA}/leads.jsonl.tmp`, keep.map((l) => l + '\n').join(''));
+        await rename(`${DATA}/leads.jsonl.tmp`, `${DATA}/leads.jsonl`);
+        const all = await readJson(`${DATA}/stages.json`, {});
+        delete all[id];
+        await writeFile(`${DATA}/stages.json.tmp`, JSON.stringify(all));
+        await rename(`${DATA}/stages.json.tmp`, `${DATA}/stages.json`);
+        return send(res, 200, { ok: true }, origin);
+      }
       return send(res, 405, { ok: false }, origin);
     } catch (e) { return send(res, e.code === 413 ? 413 : 500, { ok: false }, origin); }
   }
 
   if (req.method === 'OPTIONS') {
-    res.writeHead(204, { 'Access-Control-Allow-Origin': ORIGINS.includes(origin) ? origin : ORIGINS[0], 'Access-Control-Allow-Methods': 'GET, POST, PATCH', 'Access-Control-Allow-Headers': 'Content-Type, Authorization', 'Access-Control-Max-Age': '600' });
+    res.writeHead(204, { 'Access-Control-Allow-Origin': ORIGINS.includes(origin) ? origin : ORIGINS[0], 'Access-Control-Allow-Methods': 'GET, POST, PATCH, DELETE', 'Access-Control-Allow-Headers': 'Content-Type, Authorization', 'Access-Control-Max-Age': '600' });
     return res.end();
   }
   if (req.method !== 'POST' || (path !== '/api/lead' && path !== '/api/ev')) return send(res, 404, { ok: false });

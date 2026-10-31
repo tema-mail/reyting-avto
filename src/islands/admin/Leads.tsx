@@ -38,14 +38,15 @@ const auth = adminAuth;
 
 const leadsCsv = (rows: Lead[], cat: (s: string) => string) => {
   const q = (v: unknown) => `"${String(v ?? '').replace(/"/g, '""')}"`;
-  const head = ['номер', 'дата', 'имя', 'телефон', 'почта', 'форма', 'детали', 'категория', 'сумма', 'страница', 'этап', 'источник', 'комментарий'];
-  const body = rows.map((l) => [l.id, dt(l.createdAt), l.name, l.phone, l.email ?? '', l.form, (l.extra || []).map((x) => x.join(': ')).join('; '), cat(l.category), sum(l) || '', l.page, STAGE_TITLE[l.stage], l.source, l.message ?? ''].map(q).join(';'));
+  const head = ['номер', 'дата', 'имя', 'телефон', 'почта', 'форма', 'детали', 'категория', 'сумма', 'страница', 'этап', 'источник', 'комментарий', 'в архиве'];
+  const body = rows.map((l) => [l.id, dt(l.createdAt), l.name, l.phone, l.email ?? '', l.form, (l.extra || []).map((x) => x.join(': ')).join('; '), cat(l.category), sum(l) || '', l.page, STAGE_TITLE[l.stage], l.source, l.message ?? '', l.stage === 'архив' ? 'да' : ''].map(q).join(';'));
   return 'data:text/csv;charset=utf-8,' + encodeURIComponent('﻿' + [head.join(';'), ...body].join('\r\n'));
 };
 
-function LeadsView({ leads, example, cats: catNames, onStage }: {
-  leads: Lead[]; example: boolean; cats: Record<string, string>; onStage: (id: string, stage: Lead['stage']) => Promise<boolean>;
+function LeadsView({ leads, example, cats: catNames, onStage, onDelete }: {
+  leads: Lead[]; example: boolean; cats: Record<string, string>; onStage: (id: string, stage: Lead['stage']) => Promise<boolean>; onDelete: (id: string) => Promise<boolean>;
 }) {
+  const [ask, setAsk] = useState(false);
   const [list, setList] = useState(leads);
   const [q, setQ] = useState('');
   const [src, setSrc] = useState('');
@@ -132,6 +133,31 @@ function LeadsView({ leads, example, cats: catNames, onStage }: {
                 {(open.history || []).length > 0 && <tr><th>История</th><td>{open.history!.map((h) => <div class="muted" style="font-size:12px">{dt(h.at)}: {h.from} → {h.to}</div>)}</td></tr>}
               </tbody></table>
             </div>
+            {/* удаление – внутри заявки, через окно с архивом первым (правило кабинетов 27.10.2026, образец rozalii / EV) */}
+            <footer class="ed__foot">
+              {list.find((x) => x.id === open.id)?.stage === 'архив'
+                ? <button class="btn" onClick={() => { move(open.id, 'новая'); setOpen(null); }}>Вернуть из архива</button>
+                : <button class="btn ghost" style="color:#b0333f" onClick={() => setAsk(true)}>Удалить заявку</button>}
+            </footer>
+          </div>
+        </div>
+      )}
+      {open && ask && (
+        <div class="ed" role="dialog" aria-modal="true" aria-label="Удалить заявку" style="z-index:60">
+          <div class="ed__bg" onClick={() => setAsk(false)} />
+          <div class="ed__ask">
+            <h2>Удалить заявку № {open.id}?</h2>
+            <p class="muted">Удаление – насовсем: заявка и история этапов пропадут, отката нет. Из архива заявку можно вернуть, и она остаётся в статистике.</p>
+            <div>
+              <button class="btn primary" onClick={() => { move(open.id, 'архив'); setAsk(false); setOpen(null); }}>Перенести в архив</button>
+              <button class="btn ghost" style="color:#b0333f;border:1px solid #b0333f" onClick={async () => {
+                const id = open.id;
+                setAsk(false); setOpen(null);
+                if (example || (await onDelete(id))) setList((cur) => cur.filter((x) => x.id !== id));
+                else setErr('Заявка не удалилась – проверьте связь и попробуйте ещё раз');
+              }}>Удалить навсегда</button>
+              <button class="btn ghost" onClick={() => setAsk(false)}>Отмена</button>
+            </div>
           </div>
         </div>
       )}
@@ -162,6 +188,9 @@ export default function Leads({ sample, cats }: { sample: Lead[]; cats: Record<s
       return r.ok;
     } catch { return false; }
   };
+  const onDelete = async (id: string) => {
+    try { return (await fetch(`/api/leads/${encodeURIComponent(id)}`, { method: 'DELETE', headers: { Authorization: auth() } })).ok; } catch { return false; }
+  };
   if (state.kind === 'loading') return <p class="muted" style="padding:28px">Загружаем заявки…</p>;
   const empty = !state.leads.length;
   return (
@@ -175,7 +204,7 @@ export default function Leads({ sample, cats }: { sample: Lead[]; cats: Record<s
           <button class="btn" style="margin-left:auto" onClick={() => setExample(!example)}>{example ? 'Скрыть пример' : 'Показать пример'}</button>
         </p>
       )}
-      <LeadsView key={String(example)} leads={example ? sample : state.leads} example={example} cats={cats} onStage={onStage} />
+      <LeadsView key={String(example)} leads={example ? sample : state.leads} example={example} cats={cats} onStage={onStage} onDelete={onDelete} />
     </div>
   );
 }
