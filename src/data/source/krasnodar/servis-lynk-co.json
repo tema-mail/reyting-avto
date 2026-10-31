@@ -1,0 +1,198 @@
+{
+ "ниша": "Сервис Lynk & Co",
+ "ключ": "servis-lynk-co",
+ "запросы": [
+  "lynk co сервис",
+  "lynk co ремонт",
+  "lynk co техническое обслуживание"
+ ],
+ "найдено_в_яндексе": {
+  "lynk co сервис": 1,
+  "lynk co ремонт": 1,
+  "lynk co техническое обслуживание": 2
+ },
+ "дата_съёма": "2026-11-01",
+ "источник": "Яндекс Карты, поиск по Краснодару (регион 35)",
+ "город": "krasnodar",
+ "компании": [
+  {
+   "id": "1110053186",
+   "название": "Автотехцентр",
+   "seoname": "avtotekhtsentr",
+   "адрес": "ул. имени Калинина, 100/3",
+   "координаты": [
+    38.908955,
+    45.05381
+   ],
+   "рейтинг": 4.3,
+   "оценок": 450,
+   "отзывов": 196,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avtotehtsentr-ulitsa-imeni-kalinina.clients.site/",
+    "https://emex.ru/"
+   ],
+   "телефоны": [
+    "+7 (964) 911-16-58",
+    "+7 (964) 911-16-53",
+    "8 (800) 600-76-63",
+    "+7 (964) 911-16-51",
+    "+7 (965) 470-88-71",
+    "8 (800) 600-76-63",
+    "+7 (861) 202-50-90"
+   ],
+   "часы": "ежедневно, 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "запчасти для грузовых автомобилей"
+   ],
+   "признаки": [
+    "autocosmetics_autochemicals",
+    "basic_service",
+    "car_park",
+    "delivery",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "hinged_equipment",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotekhtsentr/1110053186/",
+   "последний_отзыв": "2026-04-13",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 87
+  },
+  {
+   "id": "156891036949",
+   "название": "Бункер",
+   "seoname": "bunker",
+   "адрес": "Базовская ул., 5А, микрорайон Центральный",
+   "координаты": [
+    38.983029,
+    45.022864
+   ],
+   "рейтинг": 5,
+   "оценок": 44,
+   "отзывов": 43,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://bynser.ru/"
+   ],
+   "телефоны": [
+    "+7 (962) 876-76-14"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_refrigerated_trucks",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bunker/156891036949/",
+   "последний_отзыв": "2026-09-11",
+   "отзывов_за_12_мес_из_загруженных": 45,
+   "загружено_дат": 45
+  },
+  {
+   "id": "61075462520",
+   "название": "Станция техобслуживания",
+   "seoname": "stantsiya_tekhobsluzhivaniya",
+   "адрес": "Промышленная ул., 108/86, микрорайон Центральный, Центральный внутригородской округ",
+   "координаты": [
+    38.998407,
+    45.039163
+   ],
+   "рейтинг": 4.7,
+   "оценок": 59,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (960) 483-55-55",
+    "+7 (861) 274-62-67"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "delivery",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "tire_chains",
+    "toilet",
+    "urea",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stantsiya_tekhobsluzhivaniya/61075462520/",
+   "последний_отзыв": "2026-10-07",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 46
+  }
+ ]
+}

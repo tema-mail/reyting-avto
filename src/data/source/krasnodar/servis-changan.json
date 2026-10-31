@@ -1,0 +1,1702 @@
+{
+ "ниша": "Сервис Changan",
+ "ключ": "servis-changan",
+ "запросы": [
+  "changan сервис",
+  "changan ремонт",
+  "changan техническое обслуживание"
+ ],
+ "найдено_в_яндексе": {
+  "changan сервис": 33,
+  "changan ремонт": 48,
+  "changan техническое обслуживание": 60
+ },
+ "дата_съёма": "2026-11-01",
+ "источник": "Яндекс Карты, поиск по Краснодару (регион 35)",
+ "город": "krasnodar",
+ "компании": [
+  {
+   "id": "1675308091",
+   "название": "Темп Авто, Kia",
+   "seoname": "temp_avto_kia",
+   "адрес": "Ростовское ш., 12/6",
+   "координаты": [
+    38.986452,
+    45.067186
+   ],
+   "рейтинг": 4.7,
+   "оценок": 2833,
+   "отзывов": 856,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://kia-tempavto.ru/",
+    "https://tempavto-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (861) 212-88-12",
+    "+7 (861) 212-71-00",
+    "+7 (861) 212-99-12",
+    "+7 (861) 205-56-29",
+    "+7 (861) 206-04-31",
+    "+7 (861) 258-80-93"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/temp_avto_kia/1675308091/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 96
+  },
+  {
+   "id": "71705358527",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "Северная ул., 299",
+   "координаты": [
+    38.979311,
+    45.039865
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1260,
+   "отзывов": 761,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://krasnodar.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 259-63-12"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "vibrationstand",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/71705358527/",
+   "последний_отзыв": "2026-10-10",
+   "отзывов_за_12_мес_из_загруженных": 46,
+   "загружено_дат": 86
+  },
+  {
+   "id": "168737074399",
+   "название": "Авто для Вас Chery",
+   "seoname": "avto_dlya_vas_chery",
+   "адрес": "Горячеключевская ул., 2, корп. 1",
+   "координаты": [
+    39.110972,
+    45.004582
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1409,
+   "отзывов": 566,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://chery-adv.ru/",
+    "https://chery-adv-krd.ru/"
+   ],
+   "телефоны": [
+    "+7 (861) 207-11-82"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_dlya_vas_chery/168737074399/",
+   "последний_отзыв": "2026-07-17",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 85
+  },
+  {
+   "id": "81846463304",
+   "название": "Чанган центр Оптима",
+   "seoname": "changan_tsentr_optima",
+   "адрес": "ул. имени Дзержинского, 229/5",
+   "координаты": [
+    38.983581,
+    45.110136
+   ],
+   "рейтинг": 5,
+   "оценок": 1002,
+   "отзывов": 526,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://optima-changanauto.ru/",
+    "https://optima-changankrd.ru/"
+   ],
+   "телефоны": [
+    "+7 (980) 978-46-85",
+    "+7 (861) 207-19-53"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_optima/81846463304/",
+   "последний_отзыв": "2026-09-09",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 65
+  },
+  {
+   "id": "165110418832",
+   "название": "Changan Expocar",
+   "seoname": "changan_expocar",
+   "адрес": "ул. Тургеневское Шоссе, 31, п. г. т. Яблоновский",
+   "координаты": [
+    38.932403,
+    45.008824
+   ],
+   "рейтинг": 5,
+   "оценок": 740,
+   "отзывов": 443,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://changan-krd.ru/",
+    "https://cars.krasnodar-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (861) 218-19-18"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_expocar/165110418832/",
+   "последний_отзыв": "2026-10-08",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 86
+  },
+  {
+   "id": "101778782759",
+   "название": "Gt service",
+   "seoname": "gt_service",
+   "адрес": "Алма-Атинская ул., 2/15, Краснодар",
+   "координаты": [
+    38.91588,
+    45.038515
+   ],
+   "рейтинг": 5,
+   "оценок": 558,
+   "отзывов": 389,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gt-motors.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (938) 424-42-24"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "matryoshka_head",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gt_service/101778782759/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 50,
+   "загружено_дат": 83
+  },
+  {
+   "id": "163574266564",
+   "название": "Чанган центр Темп Авто",
+   "seoname": "changan_tsentr_temp_avto",
+   "адрес": "Ростовское ш., 12/6",
+   "координаты": [
+    38.98643,
+    45.067578
+   ],
+   "рейтинг": 5,
+   "оценок": 674,
+   "отзывов": 365,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://tempavto-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (861) 258-81-07",
+    "+7 (861) 206-04-95"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_temp_avto/163574266564/",
+   "последний_отзыв": "2026-10-14",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 89
+  },
+  {
+   "id": "60923971722",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "Алма-Атинская ул., 2/16",
+   "координаты": [
+    38.915386,
+    45.038375
+   ],
+   "рейтинг": 5,
+   "оценок": 383,
+   "отзывов": 329,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://krasnodar.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 259-63-12"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/60923971722/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 55,
+   "загружено_дат": 83
+  },
+  {
+   "id": "119505424668",
+   "название": "Чанган Центр Юг-Авто",
+   "seoname": "changan_tsentr_yug_avto",
+   "адрес": "Краснодарская ул., 3/2, аул Тахтамукай",
+   "координаты": [
+    38.94414,
+    44.973331
+   ],
+   "рейтинг": 5,
+   "оценок": 443,
+   "отзывов": 308,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://yugavto-changanauto.ru/",
+    "https://uni-yugavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (861) 203-27-73"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автодиагностика",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "delivery",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_yug_avto/119505424668/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 44,
+   "загружено_дат": 81
+  },
+  {
+   "id": "144778034479",
+   "название": "FesService",
+   "seoname": "fesservice",
+   "адрес": "Российская ул., 263",
+   "координаты": [
+    39.013406,
+    45.091314
+   ],
+   "рейтинг": 4.7,
+   "оценок": 559,
+   "отзывов": 288,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://fesservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (861) 258-82-89"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "cars_russification",
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fesservice/144778034479/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 72
+  },
+  {
+   "id": "1066615299",
+   "название": "Автокрд",
+   "seoname": "avtokrd",
+   "адрес": "Новороссийская ул., 3/14, Краснодар",
+   "координаты": [
+    39.016018,
+    45.029248
+   ],
+   "рейтинг": 4.9,
+   "оценок": 389,
+   "отзывов": 235,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autokrd.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (918) 014-14-35"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokrd/1066615299/",
+   "последний_отзыв": "2026-10-04",
+   "отзывов_за_12_мес_из_загруженных": 24,
+   "загружено_дат": 78
+  },
+  {
+   "id": "1153941761",
+   "название": "Ремонт французов",
+   "seoname": "remont_frantsuzov",
+   "адрес": "ул. Дежнёва, 29/2, микрорайон Камвольно-суконный Комбинат, Карасунский внутригородской округ, Краснодар",
+   "координаты": [
+    39.073337,
+    45.032297
+   ],
+   "рейтинг": 4.5,
+   "оценок": 331,
+   "отзывов": 168,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://ремонт-французов.рф/"
+   ],
+   "телефоны": [
+    "+7 (989) 234-02-34",
+    "+7 (861) 207-07-77"
+   ],
+   "часы": "пн-пт 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remont_frantsuzov/1153941761/",
+   "последний_отзыв": "2026-09-15",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 54
+  },
+  {
+   "id": "98951839375",
+   "название": "Мой автосервис",
+   "seoname": "moy_avtoservis",
+   "адрес": "Заповедная ул., 19, посёлок Знаменский",
+   "координаты": [
+    39.149419,
+    45.050788
+   ],
+   "рейтинг": 5,
+   "оценок": 281,
+   "отзывов": 157,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://мойсервис23.рф/"
+   ],
+   "телефоны": [
+    "+7 (965) 457-52-85"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "tire_fitting",
+    "torque_converter_repair",
+    "trailer_repair",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moy_avtoservis/98951839375/",
+   "последний_отзыв": "2026-09-11",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 87
+  },
+  {
+   "id": "79429967944",
+   "название": "Чанган центр Арконт",
+   "seoname": "changan_tsentr_arkont",
+   "адрес": "Аэропортовская ул., 4",
+   "координаты": [
+    39.1312,
+    45.028909
+   ],
+   "рейтинг": 5,
+   "оценок": 132,
+   "отзывов": 116,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://promo.arkont23-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (861) 205-45-62",
+    "+7 (861) 205-45-47"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "termobudki",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "vibrationstand",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_arkont/79429967944/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 52,
+   "загружено_дат": 55
+  },
+  {
+   "id": "37445309491",
+   "название": "ТрастКар",
+   "seoname": "trastkar",
+   "адрес": "ул. Коммунаров, 268литГ39, микрорайон Центральный",
+   "координаты": [
+    38.9868,
+    45.047882
+   ],
+   "рейтинг": 4.7,
+   "оценок": 223,
+   "отзывов": 112,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://trustcar.ru/"
+   ],
+   "телефоны": [
+    "+7 (965) 457-29-53",
+    "+7 (986) 777-08-88"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 10:00–20:00; вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "покраска автомобилей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_glass_replacement",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "door_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "thickness_gauge_color",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/trastkar/37445309491/",
+   "последний_отзыв": "2026-10-25",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 81
+  },
+  {
+   "id": "157271136619",
+   "название": "Койот Моторс",
+   "seoname": "koyot_motors",
+   "адрес": "ул. имени Чехова, 12, микрорайон Дубинка, Центральный внутригородской округ",
+   "координаты": [
+    38.989061,
+    45.013522
+   ],
+   "рейтинг": 4.7,
+   "оценок": 258,
+   "отзывов": 109,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (988) 954-80-80",
+    "+7 (962) 870-81-88"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koyot_motors/157271136619/"
+  },
+  {
+   "id": "194005421616",
+   "название": "Кар Сити Сервис",
+   "seoname": "kar_siti_servis",
+   "адрес": "ул. Александра Покрышкина, 11, стр. 1",
+   "координаты": [
+    38.96456,
+    45.105638
+   ],
+   "рейтинг": 5,
+   "оценок": 101,
+   "отзывов": 83,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kar-siti-servis.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (861) 206-23-22"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kar_siti_servis/194005421616/"
+  },
+  {
+   "id": "1300546382",
+   "название": "Ria-service",
+   "seoname": "ria_service",
+   "адрес": "ул. Красных Партизан, 2/1, Краснодар",
+   "координаты": [
+    38.904334,
+    45.06713
+   ],
+   "рейтинг": 5,
+   "оценок": 143,
+   "отзывов": 62,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (928) 411-96-12",
+    "+7 (961) 850-55-46"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ria_service/1300546382/"
+  },
+  {
+   "id": "1018891466",
+   "название": "Авто клиника",
+   "seoname": "avto_klinika",
+   "адрес": "ул. Леваневского, 197, микрорайон Центральный",
+   "координаты": [
+    38.988656,
+    45.043393
+   ],
+   "рейтинг": 4.4,
+   "оценок": 149,
+   "отзывов": 62,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avto-klinika.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (999) 637-95-40",
+    "+7 (918) 380-69-11",
+    "+7 (967) 310-00-62",
+    "+7 (928) 418-14-90"
+   ],
+   "часы": "пн-сб 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "эвакуация автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "freight_car_service",
+    "gift_certificate",
+    "injectors_repair",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_klinika/1018891466/"
+  },
+  {
+   "id": "44503942664",
+   "название": "Пневмоподвеска № 1",
+   "seoname": "pnevmopodveska_1",
+   "адрес": "ул. Фадеева, 124, жилой массив Пашковский, Краснодар",
+   "координаты": [
+    39.095311,
+    45.016311
+   ],
+   "рейтинг": 5,
+   "оценок": 115,
+   "отзывов": 60,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pnevmopodveska1.ru/?rs=%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81_%D1%81%D1%82%D0%BE-%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B0_%D1%84%D0%BE%D0%B3%D0%B5%D0%BB%D1%8C",
+    "https://fogel.com.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 041-65-01",
+    "+7 (938) 426-95-31",
+    "+7 (928) 257-90-74"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pnevmopodveska_1/44503942664/"
+  },
+  {
+   "id": "235661082815",
+   "название": "Промотор",
+   "seoname": "promotor",
+   "адрес": "ул. Кирилла Россинского, 65, Краснодар",
+   "координаты": [
+    39.038837,
+    45.088803
+   ],
+   "рейтинг": 5,
+   "оценок": 63,
+   "отзывов": 56,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://neuro-1359858.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (928) 271-10-04"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/promotor/235661082815/"
+  },
+  {
+   "id": "171862330132",
+   "название": "Станция технического обслуживания",
+   "seoname": "stantsiya_tekhnicheskogo_obsluzhivaniya",
+   "адрес": "Совхозный пер., 2, аул Новая Адыгея",
+   "координаты": [
+    38.934336,
+    45.025651
+   ],
+   "рейтинг": 5,
+   "оценок": 100,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (918) 462-40-35"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stantsiya_tekhnicheskogo_obsluzhivaniya/171862330132/"
+  },
+  {
+   "id": "36486899499",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Индустриальная ул., 1В, микрорайон Центральный",
+   "координаты": [
+    38.95979,
+    44.999675
+   ],
+   "рейтинг": 5,
+   "оценок": 61,
+   "отзывов": 49,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtomaster-brat.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (928) 840-34-20",
+    "+7 (964) 916-53-34"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "diesel_service",
+    "disable_photopoi",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/36486899499/"
+  },
+  {
+   "id": "38796188827",
+   "название": "Элит Авто Сервис",
+   "seoname": "elit_avto_servis",
+   "адрес": "ул. Леонида Лаврова, 14/1, жилой массив Пашковский, Краснодар",
+   "координаты": [
+    39.110512,
+    45.005902
+   ],
+   "рейтинг": 5,
+   "оценок": 50,
+   "отзывов": 45,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://elite-auto-service.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (918) 029-99-91"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "injector_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/elit_avto_servis/38796188827/"
+  },
+  {
+   "id": "34879876026",
+   "название": "СТО Краснодар",
+   "seoname": "sto_krasnodar",
+   "адрес": "Адыгейская наб., 104, микрорайон Дубинка, Краснодар",
+   "координаты": [
+    38.998642,
+    45.015186
+   ],
+   "рейтинг": 5,
+   "оценок": 41,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://stokrasnodar.ru/"
+   ],
+   "телефоны": [
+    "+7 (989) 292-06-02"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sto_krasnodar/34879876026/"
+  },
+  {
+   "id": "59283490567",
+   "название": "Сто23",
+   "seoname": "sto23",
+   "адрес": "Пашковская ул., 2А, жилой массив ТЭЦ, Карасунский внутригородской округ, Краснодар",
+   "координаты": [
+    39.071727,
+    45.021635
+   ],
+   "рейтинг": 4.9,
+   "оценок": 30,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sto23krd.ru/"
+   ],
+   "телефоны": [
+    "+7 (965) 457-50-35"
+   ],
+   "часы": "ежедневно, 08:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "kaspi_red",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sto23/59283490567/"
+  },
+  {
+   "id": "178033165649",
+   "название": "Старт-Моторс",
+   "seoname": "start_motors",
+   "адрес": "Индустриальная ул., 18, п. г. т. Яблоновский",
+   "координаты": [
+    38.979617,
+    44.98623
+   ],
+   "рейтинг": 4.8,
+   "оценок": 26,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://start-1752689149.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (918) 375-40-44"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/start_motors/178033165649/"
+  },
+  {
+   "id": "167347315892",
+   "название": "Gb Auto",
+   "seoname": "gb_auto",
+   "адрес": "Бирюзовая ул., 1А, микрорайон Горхутор, Прикубанский внутригородской округ, Краснодар",
+   "координаты": [
+    38.985589,
+    45.113817
+   ],
+   "рейтинг": 5,
+   "оценок": 31,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://grun-brothers.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (918) 678-39-78"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gb_auto/167347315892/"
+  },
+  {
+   "id": "69276803536",
+   "название": "RemZona",
+   "seoname": "remzona",
+   "адрес": "Российская ул., 284, Краснодар",
+   "координаты": [
+    39.016177,
+    45.072235
+   ],
+   "рейтинг": 4.6,
+   "оценок": 17,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (918) 199-54-60"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "home_visit",
+    "installing_the_towbar",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remzona/69276803536/"
+  },
+  {
+   "id": "50049275917",
+   "название": "Da-car",
+   "seoname": "da_car",
+   "адрес": "Майкопская ул., 56/1, п. г. т. Яблоновский",
+   "координаты": [
+    38.94074,
+    44.997273
+   ],
+   "рейтинг": 4.5,
+   "оценок": 12,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://da-car-1786960851776.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (918) 361-33-99"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "preliminary_registration",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/da_car/50049275917/"
+  },
+  {
+   "id": "82191105651",
+   "название": "Акпп82",
+   "seoname": "akpp82",
+   "адрес": "ул. Пашковский Перекат, 102, Краснодар",
+   "координаты": [
+    39.097704,
+    45.002792
+   ],
+   "рейтинг": 4.2,
+   "оценок": 5,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (918) 443-28-99"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akpp82/82191105651/"
+  }
+ ]
+}
