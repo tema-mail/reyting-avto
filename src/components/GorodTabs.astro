@@ -1,0 +1,17 @@
+---
+// Вкладки города: «Каталог» (/<город>/) и «Рейтинги» (/<город>/ratings/) – владелец 01.11.2026.
+import { u } from '../lib/url';
+import type { Gorod } from '../lib/goroda';
+interface Props { c: Gorod; active: 'katalog' | 'ratings' }
+const { c, active } = Astro.props;
+const tabs: [string, string, string][] = [['katalog', 'Каталог', `/${c.slug}/`], ['ratings', 'Рейтинги', `/${c.slug}/ratings/`]];
+---
+<nav class="gtabs" aria-label={`Разделы: ${c.name}`}>
+  {tabs.map(([k, name, href]) => <a href={u(href)} aria-current={k === active ? 'page' : undefined}>{name}</a>)}
+</nav>
+<style>
+  .gtabs { display: flex; gap: 4px; border-bottom: 2px solid var(--line); margin-top: 8px; }
+  .gtabs a { padding: 10px 18px; font-weight: 600; text-decoration: none; color: inherit; border: 1px solid transparent; border-bottom: 0; border-radius: var(--r) var(--r) 0 0; margin-bottom: -2px; }
+  .gtabs a[aria-current='page'] { background: var(--card); border-color: var(--line); border-bottom: 2px solid var(--signal); }
+  .gtabs a:not([aria-current]):hover { text-decoration: underline; }
+</style>

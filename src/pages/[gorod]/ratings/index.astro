@@ -1,0 +1,11 @@
+---
+// Рейтинги города (с 01.11.2026 – отдельная вкладка и страница; каталог компаний – на /<город>/).
+import GorodHub from '../../../components/GorodHub.astro';
+import { READY, type Gorod } from '../../../lib/goroda';
+
+export function getStaticPaths() {
+  return READY.map((x) => ({ params: { gorod: x.slug }, props: { c: x } }));
+}
+interface Props { c: Gorod }
+---
+<GorodHub c={Astro.props.c} />

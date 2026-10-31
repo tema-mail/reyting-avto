@@ -65,7 +65,8 @@ const schema = [
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) },
       { '@type': 'ListItem', position: 2, name: CITY.name, item: abs(`/${CITY.slug}/`, site) },
-      { '@type': 'ListItem', position: 3, name: t.crumb, item: pageUrl },
+      { '@type': 'ListItem', position: 3, name: 'Рейтинги', item: abs(`/${CITY.slug}/ratings/`, site) },
+      { '@type': 'ListItem', position: 4, name: t.crumb, item: pageUrl },
     ],
   },
   {
@@ -75,7 +76,7 @@ const schema = [
 ];
 ---
 <Base title={t.title} description={t.description} schema={schema} active={n.slug} sticky>
-  <Crumbs items={[['Главная', '/'], [CITY.name, `/${CITY.slug}/`], [t.crumb]]} />
+  <Crumbs items={[['Главная', '/'], [CITY.name, `/${CITY.slug}/`], ['Рейтинги', `/${CITY.slug}/ratings/`], [t.crumb]]} />
 
   <section class="hero">
     <div class="wrap hero__grid">
@@ -198,7 +199,7 @@ const schema = [
       <div class="sec__head"><p class="label">08 · Ещё рейтинги</p><h2>Рядом с этим рейтингом</h2></div>
       <ul class="links">
         {others.map((o) => <li><a href={u(o.url)}>{o.crumb} {CITY.in}</a> – {o.who}, №1 {o.top.name} ({score(o.top.score)}/10)</li>)}
-        <li><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of} →</a></li>
+        <li><a href={u(`/${CITY.slug}/ratings/`)}>Все рейтинги {CITY.of} →</a></li>
       </ul>
     </div>
   </section>

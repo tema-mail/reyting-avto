@@ -1,9 +1,10 @@
 ---
 import Today from './Today.astro';
-// Хаб города: навигационный, все рейтинги по 5 группам с чипами. Индексируется с третьего рейтинга (HUB_INDEX).
-// Подключается из src/pages/[gorod]/index.astro для готовых городов; районы – только где есть их границы.
+// Рейтинги города /<город>/ratings/ (с 01.11.2026; раньше – хаб /<город>/, теперь там каталог): все рейтинги по 5 группам
+// с чипами. Индексируется с третьего рейтинга (HUB_INDEX). Районы – только где есть их границы.
 import Base from '../layouts/Base.astro';
 import Crumbs from './Crumbs.astro';
+import GorodTabs from './GorodTabs.astro';
 import RatingsGrid from './ya/RatingsGrid.astro';
 import { katalog } from '../lib/katalog';
 import { YA_DATE } from '../lib/site';
@@ -22,25 +23,26 @@ const NICHES_YA_PUB = yaGoroda(CITY.slug).pub;
 const RAYON_LIST = nsk ? NSK_RAYONY : [];
 const BY_RAYON = NICHES_YA_PUB.some((n) => n.byRayon);
 const site = Astro.site;
-const pageUrl = abs(`/${CITY.slug}/`, site);
+const pageUrl = abs(`/${CITY.slug}/ratings/`, site);
 const schema = [
-  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: `Авто-рейтинги ${CITY.of}`, inLanguage: 'ru', dateModified: nsk ? YA_DATE : RATINGS.map((r) => r.date).sort().pop(), publisher: { '@id': abs('/', site) + '#org' }, mainEntity: { '@type': 'ItemList', itemListElement: RATINGS.map((r, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'WebPage', '@id': abs(r.url, site), name: `${r.crumb} ${CITY.in}`, url: abs(r.url, site) } })) } },
-  { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) }, { '@type': 'ListItem', position: 2, name: CITY.name, item: pageUrl }] },
+  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: `Рейтинги автосервисов ${CITY.of}`, inLanguage: 'ru', dateModified: nsk ? YA_DATE : RATINGS.map((r) => r.date).sort().pop(), publisher: { '@id': abs('/', site) + '#org' }, mainEntity: { '@type': 'ItemList', itemListElement: RATINGS.map((r, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'WebPage', '@id': abs(r.url, site), name: `${r.crumb} ${CITY.in}`, url: abs(r.url, site) } })) } },
+  { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) }, { '@type': 'ListItem', position: 2, name: CITY.name, item: abs(`/${CITY.slug}/`, site) }, { '@type': 'ListItem', position: 3, name: 'Рейтинги', item: pageUrl }] },
 ];
 ---
-<Base title={`Авто-рейтинги ${CITY.of}: ${TOTALS.ratings} ${plural(TOTALS.ratings, ['ниша', 'ниши', 'ниш'])} по отзывам`} description={`${TOTALS.ratings} рейтингов ${CITY.of}: автосервисы, автошколы, шиномонтаж, детейлинг, тонировка, техосмотр и другие. ${num(TOTALS.companies)} компаний, данные Яндекс Карт.`} robots={HUB_INDEX_ALL ? 'index' : 'noindex-follow'} schema={schema} active="city">
-  <Crumbs items={[['Главная', '/'], [CITY.name]]} />
+<Base title={`Рейтинги автосервисов ${CITY.of}: ${TOTALS.ratings} ${plural(TOTALS.ratings, ['ниша', 'ниши', 'ниш'])} по отзывам`} description={`${TOTALS.ratings} рейтингов ${CITY.of}: автосервисы, автошколы, шиномонтаж, детейлинг, тонировка, техосмотр и другие. ${num(TOTALS.companies)} компаний, данные Яндекс Карт.`} robots={HUB_INDEX_ALL ? 'index' : 'noindex-follow'} schema={schema} active="city">
+  <Crumbs items={[['Главная', '/'], [CITY.name, `/${CITY.slug}/`], ['Рейтинги']]} />
   <section class="hero">
     <div class="wrap stack">
-      <p class="label">Хаб города · данные на <Today /></p>
-      <h1>Авто-рейтинги {CITY.of}</h1>
+      <p class="label">Рейтинги · данные на <Today /></p>
+      <h1>Рейтинги автосервисов {CITY.of}</h1>
       <p class="lead" style="max-width:820px">{TOTALS.ratings} {plural(TOTALS.ratings, ['рейтинг', 'рейтинга', 'рейтингов'])} в {BY_GROUP.length} группах: {num(TOTALS.companies)} {plural(TOTALS.companies, ['компания', 'компании', 'компаний'])}, {num(TOTALS.yaReviews)} отзывов Яндекс Карт в расчёте. Места – по открытой формуле.</p>
+      <GorodTabs c={CITY} active="ratings" />
     </div>
   </section>
   <section class="sec sec--flush">
     <div class="wrap stack">
       <h2>{RAYON_LIST.length > 0 ? 'Каталог и районы' : 'Каталог компаний'}</h2>
-      <p><a class="btn btn--sm" href={u(`/${CITY.slug}/companies/`)}>Все компании – поиск по названию и улице</a></p>
+      <p><a class="btn btn--sm" href={u(`/${CITY.slug}/`)}>Каталог всех компаний – поиск по названию и улице</a></p>
       {RAYON_LIST.length > 0 && <p>Рейтинги по районам: {RAYON_LIST.map((r, i) => <>{i > 0 && ' · '}<a href={u(r.url)}>{r.name}</a></>)}</p>}
     </div>
   </section>

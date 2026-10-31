@@ -1,24 +1,24 @@
 ---
-// Главная: про проект и методику, без города в title (город – у хаба).
+// Главная (владелец 01.11.2026): каталог компаний автониши, первым блоком – выбор города; ниже коротко – рейтинги и формула.
 import Base from '../layouts/Base.astro';
-import RatingsGrid from '../components/ya/RatingsGrid.astro';
 import { katalog } from '../lib/katalog';
 import { NICHES_YA_PUB } from '../lib/ya';
 import { W_YA } from '../lib/formula-ya.mjs';
-import { SITE_NAME, CITY } from '../lib/site';
+import { SITE_NAME } from '../lib/site';
+import { polnyy } from '../lib/katalog-polnyy';
 import { num } from '../lib/format';
 import { u, abs } from '../lib/url';
-import { GORODA } from '../lib/goroda';
+import { GORODA, READY } from '../lib/goroda';
 
 const site = Astro.site;
 const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs('/', site), name: SITE_NAME, inLanguage: 'ru', publisher: { '@id': abs('/', site) + '#org' } }];
 ---
-<Base title={`${SITE_NAME} – рейтинги автосервисов, автошкол и детейлинга по отзывам`} description="Рейтинги автосервисов, шиномонтажа, автошкол, детейлинга и других авто-ниш вашего города по отзывам Яндекс Карт. Открытая формула." schema={schema}>
+<Base title={`${SITE_NAME} – каталог автосервисов и автоуслуг с рейтингами по отзывам`} description="Каталог автосервисов, шиномонтажа, моек, детейлинга и других автоуслуг вашего города: адреса, оценки Яндекс Карт и рейтинги по открытой формуле." schema={schema}>
   <section class="sec sec--dark" style="padding-top:48px">
     <div class="wrap">
-      <p class="label">Авто-рейтинги по открытой формуле</p>
-      <h1 style="margin:16px 0 20px;max-width:900px;color:#fff">Рейтинги автосервисов, автошкол и детейлинга – по отзывам с карт</h1>
-      <p class="lead" style="max-width:780px">{SITE_NAME} ранжирует автосервисы, автошколы, детейлинг, шиномонтаж и другие авто-ниши вашего города по открытой формуле: оценка и число отзывов на Яндекс Картах, свежесть отзывов, открытость карточки.</p>
+      <p class="label">Каталог автоуслуг с рейтингами</p>
+      <h1 style="margin:16px 0 20px;max-width:900px;color:#fff">Автосервисы и автоуслуги вашего города – каталог с рейтингами по отзывам</h1>
+      <p class="lead" style="max-width:780px">Ремонт и ТО, шиномонтаж, мойки, детейлинг, тонировка, автошколы и другие автоуслуги: все компании города с Яндекс Карт – с адресом, услугами и оценкой. Лучшие по отзывам собраны в рейтинги по открытой формуле.</p>
       <div class="btns" style="margin-top:28px"><a class="btn btn--signal" href="#goroda">Выбрать город</a></div>
     </div>
   </section>
@@ -28,7 +28,7 @@ const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs(
       <div class="sec__head"><p class="label">01 · Города</p><h2>Выберите город</h2></div>
       <ul class="goroda">
         {GORODA.map((g) => (
-          <li><a href={u(`/${g.slug}/`)}><b>{g.name}</b><span class="small muted">{g.ready ? `${katalog(g.slug).totals.ratings} рейтингов` : 'рейтинг собирается'}</span></a></li>
+          <li><a href={u(`/${g.slug}/`)}><b>{g.name}</b><span class="small muted">{g.ready ? `${num(polnyy(g.slug).stats.all)} компаний · ${katalog(g.slug).totals.ratings} рейтингов` : 'каталог собирается'}</span></a></li>
         ))}
       </ul>
     </div>
@@ -36,9 +36,11 @@ const schema = [{ '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs(
 
   <section class="sec sec--flush" id="reytingi">
     <div class="wrap">
-      <div class="sec__head"><p class="label">02 · Рейтинги</p><h2>Рейтинги {CITY.of}</h2><p>Выберите группу – останутся только её рейтинги.</p></div>
-      <RatingsGrid id="home" h="h3" city={CITY.slug} />
-      <p><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of} на одной странице →</a></p>
+      <div class="sec__head"><p class="label">02 · Рейтинги</p><h2>Рейтинги по услугам</h2></div>
+      <div class="prose">
+        <p>В каждом городе рядом с каталогом – отдельная вкладка рейтингов: по каждой услуге берём профильные компании с оценкой от 4,0 и минимум 10 отзывами и ставим места по баллу.</p>
+        <ul>{READY.map((g) => <li><a href={u(`/${g.slug}/ratings/`)}>Рейтинги {g.of}</a> – {katalog(g.slug).totals.ratings} рейтингов, {num(polnyy(g.slug).stats.rated)} компаний</li>)}</ul>
+      </div>
     </div>
   </section>
 

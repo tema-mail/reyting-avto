@@ -1,20 +1,23 @@
 ---
 // Карточка компании /<город>/companies/<slug>/. Компании двух старых ниш (Я+2ГИС, Новосибирск) – StarayaKartochka
 // (места в нишах Яндекса добавлены строками); компании из ниш Яндекса – YaKartochka. Одна компания в двух городах –
-// две разные карточки.
+// две разные карточки. С 01.11.2026 – и организации каталога вне рейтинга (KartochkaVne, lib/katalog-polnyy.ts).
 import StarayaKartochka from '../../../components/StarayaKartochka.astro';
 import YaKartochka from '../../../components/ya/YaKartochka.astro';
+import KartochkaVne from '../../../components/KartochkaVne.astro';
 import { COMPANIES, type Company } from '../../../lib/reyting';
 import { yaGoroda, type Entity } from '../../../lib/ya';
+import { polnyy, type OffCard } from '../../../lib/katalog-polnyy';
 import { READY } from '../../../lib/goroda';
 
 export function getStaticPaths() {
   return READY.flatMap((g) => [
-    ...(g.slug === 'novosibirsk' ? COMPANIES.map((c) => ({ params: { gorod: g.slug, slug: c.slug }, props: { c, e: null } })) : []),
-    ...yaGoroda(g.slug).newCards.map((e) => ({ params: { gorod: g.slug, slug: e.slug }, props: { c: null, e } })),
+    ...(g.slug === 'novosibirsk' ? COMPANIES.map((c) => ({ params: { gorod: g.slug, slug: c.slug }, props: { c, e: null, o: null } })) : []),
+    ...yaGoroda(g.slug).newCards.map((e) => ({ params: { gorod: g.slug, slug: e.slug }, props: { c: null, e, o: null } })),
+    ...polnyy(g.slug).cards.map((o) => ({ params: { gorod: g.slug, slug: o.slug }, props: { c: null, e: null, o } })),
   ]);
 }
-interface Props { c: Company | null; e: Entity | null }
-const { c, e } = Astro.props;
+interface Props { c: Company | null; e: Entity | null; o: OffCard | null }
+const { c, e, o } = Astro.props;
 ---
-{c ? <StarayaKartochka c={c} /> : <YaKartochka e={e!} />}
+{c ? <StarayaKartochka c={c} /> : e ? <YaKartochka e={e} /> : <KartochkaVne o={o!} />}

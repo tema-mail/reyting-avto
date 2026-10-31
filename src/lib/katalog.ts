@@ -9,6 +9,7 @@ import { NICHE_RAYON, RAYON_LIST } from './rayon-stranitsy';
 import { AVTOR } from '../data/avtor';
 import { GROUPS, GROUP_SLUG, OLD_GROUP } from './otbor.mjs';
 import { ORDER, RELATED } from './katalog-poryadok';
+import { polnyy } from './katalog-polnyy';
 
 export interface Rating {
   key: string;
@@ -114,9 +115,10 @@ export function indexableAll(): { path: string; lastmod: string }[] {
     const ya = yaGoroda(c.slug);
     if (!k.ratings.length) continue;
     const latest = k.ratings.map((r) => r.date).sort().pop()!;
-    const hub = k.hubIndexAll ? [{ path: `/${c.slug}/`, lastmod: latest }] : [];
+    // /<город>/ – каталог компаний (01.11.2026), рейтинги города – /<город>/ratings/
+    const hub = [{ path: `/${c.slug}/`, lastmod: latest }, ...(k.hubIndexAll ? [{ path: `/${c.slug}/ratings/`, lastmod: latest }] : [])];
     const yaPages = ya.pub.map((n) => ({ path: n.url, lastmod: n.date }));
-    const cards = ya.newCards.filter((e) => e.index).map((e) => ({ path: e.url, lastmod: latest }));
+    const cards = [...ya.newCards.filter((e) => e.index), ...polnyy(c.slug).cards.filter((e) => e.index)].map((e) => ({ path: e.url, lastmod: latest }));
     if (c.slug !== 'novosibirsk') {
       out.push(...hub, ...yaPages, ...cards);
       continue;

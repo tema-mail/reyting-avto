@@ -1,0 +1,134 @@
+---
+import Today from './Today.astro';
+// Каталог компаний города /<город>/ (владелец 01.11.2026: «в городе – сначала каталог; рейтинг – отдельной вкладкой»).
+// Все организации автониши из съёма Яндекс Карт (lib/katalog-polnyy.ts), а не только прошедшие в рейтинг.
+// Первые 60 строк – в HTML, остальные подгружаются из /<город>/catalog.json; поиск и фильтры работают по всем.
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import GorodTabs from './GorodTabs.astro';
+import { polnyy, toD } from '../lib/katalog-polnyy';
+import { katalog } from '../lib/katalog';
+import { rowHtml } from '../scripts/katalog-row';
+import { RAYON_LIST as NSK_RAYONY } from '../lib/rayon-stranitsy';
+import { YA_DATE } from '../lib/site';
+import { num, plural } from '../lib/format';
+import { u, abs } from '../lib/url';
+import type { Gorod } from '../lib/goroda';
+
+interface Props { c: Gorod }
+const CITY = Astro.props.c;
+const nsk = CITY.slug === 'novosibirsk';
+const P = polnyy(CITY.slug);
+const D = toD(CITY.slug);
+const K = katalog(CITY.slug);
+const RAYON_LIST = nsk ? NSK_RAYONY : [];
+const FIRST = 60;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const all = P.stats.all;
+const h1 = `Автосервисы и автоуслуги ${CITY.of} – каталог компаний`;
+const title = `Автосервисы ${CITY.of}: каталог ${num(all)} компаний с отзывами`;
+const desc = `${num(all)} автосервисов, шиномонтажей, моек, детейлинга и других автоуслуг ${CITY.of}: адреса, услуги, оценки Яндекс Карт и места в ${K.totals.ratings} рейтингах.`.slice(0, 160);
+const pageUrl = abs(`/${CITY.slug}/`, Astro.site);
+const schema = [
+  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: h1, description: desc, inLanguage: 'ru', dateModified: nsk ? YA_DATE : K.ratings.map((r) => r.date).sort().pop(), publisher: { '@id': abs('/', Astro.site) + '#org' } },
+  { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', Astro.site) }, { '@type': 'ListItem', position: 2, name: CITY.name, item: pageUrl }] },
+];
+---
+<Base title={title} description={desc} schema={schema} active="city">
+  <Crumbs items={[['Главная', '/'], [CITY.name]]} />
+  <section class="hero">
+    <div class="wrap stack">
+      <p class="label">Каталог · данные на <Today /></p>
+      <h1>{h1}</h1>
+      <p class="lead" style="max-width:820px">{num(all)} {plural(all, ['компания', 'компании', 'компаний'])} автониши {CITY.of} с Яндекс Карт: автосервисы, шиномонтаж, мойки, детейлинг и другие услуги. {num(P.stats.rated)} из них – в наших {K.totals.ratings} рейтингах; у остальных пишем, почему пока нет: мало отзывов, оценка ниже 4,0 или не тот профиль.</p>
+      <GorodTabs c={CITY} active="katalog" />
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap stack">
+      <div class="flt" data-kat data-src={u(`/${CITY.slug}/catalog.json`)} data-base={base}>
+        <div class="kat__row">
+          <label class="flt__sel"><span>Название или улица</span><input type="search" data-q placeholder={nsk ? 'Например, Фрунзе или Reaktor' : `Например, ${D.rows[0]?.[0] || 'Красная'}`} /></label>
+          <label class="flt__sel"><span>Услуга</span>
+            <select data-n><option value="">Все услуги</option>{D.crumbs.map((c, i) => [c, i] as const).sort((a, b) => a[0].localeCompare(b[0], 'ru')).map(([c, i]) => <option value={i}>{c}</option>)}</select>
+          </label>
+          {RAYON_LIST.length > 0 ? <label class="flt__sel"><span>Район</span>
+            <select data-r><option value="">Все районы</option>{D.rayony.map((r, i) => <option value={i}>{r}</option>)}</select>
+          </label> : <select data-r hidden aria-hidden="true"><option value=""></option></select>}
+          <label class="flt__sel"><span>Рейтинг</span>
+            <select data-t><option value="">Все компании</option><option value="in">В рейтинге</option><option value="out">Пока не в рейтинге</option></select>
+          </label>
+        </div>
+        <p class="small muted" aria-live="polite" data-c>Всего {num(all)}, показаны первые {Math.min(FIRST, all)}.</p>
+      </div>
+      <ul class="kat" data-list>
+        {D.rows.slice(0, FIRST).map((r) => <Fragment set:html={rowHtml(r, D, base)} />)}
+      </ul>
+      <p class="small muted" data-none hidden>Ничего не нашли. Попробуйте другое слово или сбросьте фильтр.</p>
+      <p><button type="button" class="btn btn--sm btn--ghost" data-more hidden={all <= FIRST}>Показать ещё</button></p>
+      <p class="small muted">Порядок – по числу отзывов на Яндекс Картах. Оценку и отзывы партнёров (выбор редакции) не показываем. Сайты компаний появятся после подтверждения данных. {RAYON_LIST.length > 0 && <>Рейтинги по районам: {RAYON_LIST.map((r, i) => <>{i > 0 && ', '}<a href={u(r.url)}>{r.name}</a></>)}.</>}</p>
+      <p><a href={u(`/${CITY.slug}/ratings/`)}>Все рейтинги {CITY.of} →</a> · <a href={u('/metodika/')}>Как отбираем в рейтинг →</a></p>
+    </div>
+  </section>
+</Base>
+
+<script>
+  import { rowHtml, type D } from '../scripts/katalog-row';
+  const box = document.querySelector<HTMLElement>('[data-kat]');
+  if (box) {
+    const STEP = 60;
+    const q = box.querySelector<HTMLInputElement>('[data-q]')!;
+    const n = box.querySelector<HTMLSelectElement>('[data-n]')!;
+    const r = box.querySelector<HTMLSelectElement>('[data-r]')!;
+    const t = box.querySelector<HTMLSelectElement>('[data-t]')!;
+    const c = box.querySelector<HTMLElement>('[data-c]')!;
+    const list = document.querySelector<HTMLElement>('[data-list]')!;
+    const none = document.querySelector<HTMLElement>('[data-none]')!;
+    const more = document.querySelector<HTMLButtonElement>('[data-more]')!;
+    const base = box.dataset.base || '';
+    let d: D | null = null;
+    let found: D['rows'] = [];
+    let shown = 0;
+    const load = fetch(box.dataset.src!).then((x) => x.json()).then((j: D) => (d = j));
+    const low = (s: string) => s.toLowerCase().replace(/ё/g, 'е');
+    const fmt = (k: number) => k.toLocaleString('ru-RU');
+    const draw = (from: number) => {
+      const add = found.slice(from, from + STEP).map((x) => rowHtml(x, d!, base)).join('');
+      if (from === 0) list.innerHTML = add;
+      else list.insertAdjacentHTML('beforeend', add);
+      shown = Math.min(found.length, from + STEP);
+      more.hidden = shown >= found.length;
+      const any = q.value.trim() || n.value || r.value || t.value;
+      c.textContent = any ? `Найдено: ${fmt(found.length)} из ${fmt(d!.rows.length)}, показаны ${fmt(shown)}.` : `Всего ${fmt(d!.rows.length)}, показаны ${fmt(shown)}.`;
+      none.hidden = found.length > 0;
+    };
+    const run = async () => {
+      await load;
+      const s = low(q.value.trim());
+      const ni = n.value === '' ? -1 : +n.value;
+      const ri = r.value === '' ? -1 : +r.value;
+      found = d!.rows.filter((x) => (!s || low(`${x[0]} ${x[2]}`).includes(s)) && (ni < 0 || x[5].includes(ni)) && (ri < 0 || x[4].includes(ri)) && (!t.value || (t.value === 'in') === Array.isArray(x[9])));
+      draw(0);
+    };
+    [q, n, r, t].forEach((el) => el.addEventListener('input', run));
+    more.addEventListener('click', async () => {
+      await load;
+      draw(shown);
+    });
+    load.then(() => {
+      found = d!.rows;
+      shown = Math.min(STEP, found.length);
+    });
+  }
+</script>
+
+<style>
+  .kat__row { display: grid; gap: 12px; }
+  @media (min-width: 900px) { .kat__row { grid-template-columns: minmax(0, 1fr) 240px 200px 200px; align-items: end; } }
+  .kat__row input { width: 100%; font-size: 16px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg, #fff); color: inherit; }
+  .kat { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+  @media (min-width: 900px) { .kat { grid-template-columns: 1fr 1fr; } }
+  .kat :global(li) { display: grid; gap: 2px; padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--r, 10px); background: var(--card, transparent); min-width: 0; overflow-wrap: anywhere; }
+  .kat :global(.kat__in) { font-weight: 500; }
+</style>

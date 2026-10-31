@@ -1,5 +1,6 @@
 ---
-// Шапка: «Рейтинги» – раскрывающийся список по 5 группам (на телефоне – группы ссылками на хаб).
+// Шапка: «Рейтинги» – раскрывающийся список по 5 группам (на телефоне – группы ссылками на /<город>/ratings/),
+// «Каталог» – каталог компаний города /<город>/ (01.11.2026).
 import Logo from './Logo.astro';
 import { u } from '../lib/url';
 import { katalog } from '../lib/katalog';
@@ -31,9 +32,10 @@ const BY_GROUP = katalog(CITY.slug).byGroup;
               {g.items.map((r) => <a href={u(r.url)} aria-current={cur(r.key)} style="display:block">{r.crumb}</a>)}
             </div>
           ))}
-          <a class="nav__all" href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of} →</a>
+          <a class="nav__all" href={u(`/${CITY.slug}/ratings/`)}>Все рейтинги {CITY.of} →</a>
         </div>
       </details>
+      <a href={u(`/${CITY.slug}/`)}>Каталог</a>
       <a href={u('/metodika/')} aria-current={cur('metodika')}>Методика</a>
       <a class="btn btn--top" href={u('/dobavit-kompaniyu/')}>Добавить компанию</a>
     </nav>
@@ -44,8 +46,9 @@ const BY_GROUP = katalog(CITY.slug).byGroup;
           <summary>Город: {here ? here.name : 'выбрать'}</summary>
           {GORODA.map((g) => <a class="burger__sub" href={u(`/${g.slug}/`)}>{g.name}{!g.ready && ' · скоро'}</a>)}
         </details>
-        <a href={u(`/${CITY.slug}/`)}>Все рейтинги: {CITY.name}</a>
-        {BY_GROUP.map((g) => <a class="burger__sub" href={u(`/${CITY.slug}/#${g.slug}`)}>{g.name} · {g.items.length}</a>)}
+        <a href={u(`/${CITY.slug}/`)}>Каталог компаний: {CITY.name}</a>
+        <a href={u(`/${CITY.slug}/ratings/`)}>Все рейтинги: {CITY.name}</a>
+        {BY_GROUP.map((g) => <a class="burger__sub" href={u(`/${CITY.slug}/ratings/#${g.slug}`)}>{g.name} · {g.items.length}</a>)}
         <a href={u('/metodika/')}>Методика</a>
         <a href={u('/o-proekte/')}>О проекте</a>
         <a class="btn btn--signal" href={u('/dobavit-kompaniyu/')}>Добавить компанию</a>

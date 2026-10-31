@@ -20,8 +20,9 @@ const BY_GROUP = katalog(CITY.slug).byGroup;
       <div>
         <p class="foot__h">Рейтинги · {CITY.name}</p>
         <ul>
-          {BY_GROUP.map((g) => <li><a href={u(`/${CITY.slug}/#${g.slug}`)}>{g.name}</a> <span class="muted">· {g.items.length}</span></li>)}
-          <li><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of}</a></li>
+          {BY_GROUP.map((g) => <li><a href={u(`/${CITY.slug}/ratings/#${g.slug}`)}>{g.name}</a> <span class="muted">· {g.items.length}</span></li>)}
+          <li><a href={u(`/${CITY.slug}/ratings/`)}>Все рейтинги {CITY.of}</a></li>
+          <li><a href={u(`/${CITY.slug}/`)}>Каталог компаний {CITY.of}</a></li>
         </ul>
       </div>
       <div>

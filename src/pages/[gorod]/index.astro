@@ -1,7 +1,7 @@
 ---
-// Страница города. Готовый город (ready, рейтинги собраны) – хаб со всеми рейтингами (GorodHub);
-// город без данных – честная страница «рейтинг собирается», закрыта от поиска (GorodSkoro).
-import GorodHub from '../../components/GorodHub.astro';
+// Страница города. Готовый город – каталог всех организаций автониши (владелец 01.11.2026: «в городе – сначала каталог»),
+// рейтинги – вкладкой /<город>/ratings/; город без данных – честная страница «рейтинг собирается» (noindex).
+import GorodKatalog from '../../components/GorodKatalog.astro';
 import GorodSkoro from '../../components/GorodSkoro.astro';
 import { GORODA, type Gorod } from '../../lib/goroda';
 
@@ -11,4 +11,4 @@ export function getStaticPaths() {
 interface Props { c: Gorod }
 const { c } = Astro.props;
 ---
-{c.ready ? <GorodHub c={c} /> : <GorodSkoro c={c} />}
+{c.ready ? <GorodKatalog c={c} /> : <GorodSkoro c={c} />}

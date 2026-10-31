@@ -1,0 +1,112 @@
+---
+// Карточка организации каталога вне рейтинга (01.11.2026): только данные карточки Яндекс Карт – адрес, часы, телефон,
+// оценка и число отзывов – и причина, почему компании пока нет в рейтинге. Без балла и места; сайт не показываем.
+// noindex, если отзывов меньше 10 (lib/katalog-polnyy.ts: CARD_INDEX_REVIEWS) – тонкие страницы в поиск не отдаём.
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import type { OffCard } from '../lib/katalog-polnyy';
+import { yaGoroda } from '../lib/ya';
+import { rt, otz, filials } from '../lib/ya-tekst';
+import { num, date, telHref } from '../lib/format';
+import { u, abs } from '../lib/url';
+
+interface Props { o: OffCard }
+const { o } = Astro.props;
+const CITY = o.city;
+const b = o.branches[0];
+const ya = yaGoroda(CITY.slug);
+const found = o.niches.map((k) => ya.all.find((n) => n.key === k)!).filter(Boolean);
+const pub = found.filter((n) => n.published);
+const day = found.map((n) => n.date).sort().pop() || '';
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+const services = found.map((n) => n.t.crumb.toLowerCase());
+const WHY_TEXT: Record<string, string> = {
+  'меньше 10 отзывов': 'в рейтинг берём компании минимум с 10 отзывами на Яндекс Картах, у этой пока меньше',
+  'оценка ниже 4,0': 'в рейтинг берём компании с оценкой на Яндекс Картах от 4,0, у этой оценка ниже',
+  'рейтинг по услуге ещё не опубликован': 'по услугам, где Яндекс показал компанию, отдельный рейтинг не опубликован: прошедших отбор меньше пяти или состав повторяет другой рейтинг',
+  'не профиль ниш рейтинга': 'рубрики компании в Яндекс Картах не совпали с правилами отбора наших рейтингов',
+};
+const rubric = b.rubrics[0] ? cap(b.rubrics[0]) : 'Компания';
+const title = `${o.name} – адрес, телефон, отзывы ${CITY.in}`;
+const description = `${o.name}: ${b.address}${b.phones[0] ? `, ${b.phones[0]}` : ''}. ${rubric}. Яндекс Карты: ${rt(b.rating)}, ${otz(b.reviews)}.`.slice(0, 160);
+const site = Astro.site;
+const pageUrl = abs(o.url, site);
+const schema = [
+  { '@type': 'WebPage', '@id': pageUrl + '#page', url: pageUrl, name: title, description, inLanguage: 'ru', dateModified: day, publisher: { '@id': abs('/', site) + '#org' }, about: { '@id': pageUrl + '#company' } },
+  {
+    '@type': 'AutomotiveBusiness',
+    '@id': pageUrl + '#company',
+    name: b.name,
+    address: o.branches.map((x) => ({ '@type': 'PostalAddress', streetAddress: x.address, addressLocality: CITY.name, addressCountry: 'RU' })),
+    telephone: [...new Set(o.branches.flatMap((x) => x.phones))],
+    sameAs: o.branches.map((x) => x.card),
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) },
+      { '@type': 'ListItem', position: 2, name: CITY.name, item: abs(`/${CITY.slug}/`, site) },
+      { '@type': 'ListItem', position: 3, name: b.name, item: pageUrl },
+    ],
+  },
+];
+---
+<Base title={title} description={description} schema={schema} robots={o.index ? 'index' : 'noindex-follow'}>
+  <Crumbs items={[['Главная', '/'], [CITY.name, `/${CITY.slug}/`], [b.name]]} />
+
+  <section class="hero">
+    <div class="wrap stack">
+      <p class="label">Каталог · {CITY.name} · данные Яндекс Карт на {date(day)}</p>
+      <h1>{b.name}</h1>
+      <p class="sub">{o.branches.length > 1 ? filials(o.branches.length) : b.address}{b.rayon ? ` · ${b.rayon}` : ''}</p>
+      <p class="lead">{rubric} {CITY.in}. Яндекс Карты показывают компанию по запросам: {services.join(', ')}. В рейтингах сайта её пока нет – причина ниже.</p>
+      <div class="metrics">
+        <div class="metric"><em>Яндекс Карты</em><b>{rt(b.rating)}</b><span>{num(b.ratings)} оценок · {otz(b.reviews)}</span></div>
+        <div class="metric"><em>Последний отзыв</em><b>{b.last ? date(b.last) : '–'}</b><span>за 12 месяцев – {b.recent} среди загруженных</span></div>
+      </div>
+      <div class="btns">
+        {b.phones[0] && <a class="btn btn--sm" href={telHref(b.phones[0])}>Позвонить</a>}
+        <a class="btn btn--sm btn--ghost" href={b.card} rel="nofollow noopener" target="_blank">Яндекс Карты</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap prose">
+      <h2>Почему компании нет в рейтинге</h2>
+      <p>{cap(WHY_TEXT[o.why])}. Отбор одинаковый для всех компаний и пересчитывается при каждом съёме: когда условия выполнятся, компания попадёт в рейтинг и получит балл по формуле.</p>
+      {pub.length > 0 && <p>Рейтинги по этим услугам {CITY.in}: {pub.map((n, i) => <>{i > 0 && ', '}<a href={u(n.url)}>{n.t.crumb}</a></>)}.</p>}
+      <p><a href={u('/metodika/')}>Правила отбора и формула →</a> · <a href={u(`/${CITY.slug}/`)}>Каталог компаний {CITY.of} →</a></p>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap stack">
+      <h2>{o.branches.length > 1 ? 'Адреса и часы работы' : 'Адрес и часы работы'}</h2>
+      <div class="co-list">
+        {o.branches.map((x) => (
+          <div class="co"><div class="co__body">
+            <dl class="dl">
+              <div><dt>Адрес</dt><dd>{x.address}{x.rayon ? ` · ${x.rayon}` : ''}</dd></div>
+              <div><dt>Часы</dt><dd>{x.allDay ? 'Круглосуточно' : x.hours ? cap(x.hours) : 'не указаны в карточке'}</dd></div>
+              <div><dt>Телефон</dt><dd>{x.phones.length ? x.phones.map((p, i) => <>{i > 0 && '; '}<a href={telHref(p)}>{p}</a></>) : 'нет в карточке'}</dd></div>
+              {x.site && <div><dt>Сайт</dt><dd>покажем после подтверждения данных</dd></div>}
+              <div><dt>Яндекс Карты</dt><dd>{rt(x.rating)}, {otz(x.reviews)} · <a href={x.card} rel="nofollow noopener" target="_blank">все отзывы →</a></dd></div>
+              {x.rubrics.length > 0 && <div><dt>Рубрики</dt><dd>{x.rubrics.join(', ')}</dd></div>}
+            </dl>
+          </div></div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="sec sec--dark">
+    <div class="wrap cta-band">
+      <div class="stack">
+        <h2>Это ваша компания?</h2>
+        <p>Если данные устарели (часы, телефон, сайт), пришлите правку со ссылкой на источник. Мы проверим и обновим карточку при следующем съёме.</p>
+      </div>
+      <a class="btn btn--signal" href={u('/dobavit-kompaniyu/') + (CITY.slug === 'novosibirsk' ? '' : `?city=${encodeURIComponent(CITY.name)}`)}>Уточнить данные</a>
+    </div>
+  </section>
+</Base>

@@ -75,7 +75,7 @@ const schema = [
       <h2>Другие районы</h2>
       <ul class="links">
         {others.map((o) => <li><a href={u(o.url)}>{o.name} район</a></li>)}
-        <li><a href={u(`/${CITY.slug}/`)}>Все рейтинги {CITY.of} →</a></li>
+        <li><a href={u(`/${CITY.slug}/ratings/`)}>Все рейтинги {CITY.of} →</a></li>
       </ul>
     </div>
   </section>

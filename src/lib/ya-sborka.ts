@@ -16,8 +16,8 @@ const SRC = import.meta.glob('../data/source/*/*.json', { eager: true, import: '
 const CENY = import.meta.glob('../data/ceny/*.json', { eager: true, import: 'default' }) as Record<string, any>;
 const TXT = import.meta.glob(['../data/nishi/*.ts', '!../data/nishi/tip.ts'], { eager: true, import: 'default' }) as Record<string, NicheTextYa>;
 
-type GD = { dir: string; suffix: RegExp; rayony: boolean; old: boolean };
-const gdOf = (c: Gorod): GD => (GOROD_DANNYE as Record<string, GD>)[c.slug];
+export type GD = { dir: string; suffix: RegExp; rayony: boolean; old: boolean };
+export const gdOf = (c: Gorod): GD => (GOROD_DANNYE as Record<string, GD>)[c.slug];
 
 /** Выбор редакции: партнёры встают первыми, их цифры – настоящие с Яндекс Карт; остальные сдвигаются вниз. */
 function pinPartners(c: Gorod, key: string, rows: YaRow[], day: string) {
@@ -34,7 +34,7 @@ function pinPartners(c: Gorod, key: string, rows: YaRow[], day: string) {
   rows.forEach((r, i) => (r.place = i + 1));
 }
 
-const branchOf = (gd: GD) => (c: any): Branch => ({
+export const branchOf = (gd: GD) => (c: any): Branch => ({
   id: c.id,
   name: c['название'],
   address: c['адрес'].replace(gd.suffix, ''),
