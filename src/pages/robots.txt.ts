@@ -7,6 +7,6 @@ import { abs } from '../lib/url';
 export const GET: APIRoute = ({ site }) => {
   const body = NOINDEX_ALL
     ? 'User-agent: *\nDisallow: /\n'
-    : `User-agent: *\nDisallow: /spasibo/\nClean-param: rayon&sort\n\nSitemap: ${abs('/sitemap.xml', site)}\n`;
+    : `User-agent: *\nDisallow: /spasibo/\nDisallow: /admin/\nDisallow: /api/\nClean-param: rayon&sort\nClean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term\n\nSitemap: ${abs('/sitemap.xml', site)}\n`;
   return new Response(body, { headers: { 'Content-Type': 'text/plain; charset=utf-8' } });
 };

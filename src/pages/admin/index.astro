@@ -1,0 +1,94 @@
+---
+// Страницы сайта по сущностям – перенос с кабинета gaz-mag (стандарт Milovini, эталон Elite Rose; разделы сворачиваются, как у EV).
+// Владелец 01.11.2026: «страницы по категориям и по городам». Город → группы рейтингов → рейтинг (внутри – его районы и гид);
+// районы; каталог компаний; внутренние, юридические и технические. Сайт собирается из съёма Яндекс Карт – правка рейтингов здесь не делается.
+import Admin from '../../layouts/Admin.astro';
+import { BY_GROUP } from '../../lib/katalog';
+import { GORODA } from '../../lib/goroda';
+import { NICHE_RAYON, RAYON_LIST, rayonyOf } from '../../lib/rayon-stranitsy';
+import { STATI, statyaOf } from '../../lib/stati';
+import { ENTITIES } from '../../lib/ya';
+import { COMPANIES } from '../../lib/reyting';
+import { CITY } from '../../lib/site';
+import { u } from '../../lib/url';
+
+const site = (p: string) => new URL(u(p), Astro.site).href;
+const companies = [
+  ...ENTITIES.map((e) => ({ name: e.label, url: e.url })),
+  ...COMPANIES.filter((c) => !ENTITIES.some((e) => e.oldSlug === c.slug)).map((c) => ({ name: c.t.brand, url: c.url })),
+].filter((c, i, a) => a.findIndex((x) => x.url === c.url) === i).sort((a, b) => a.name.localeCompare(b.name, 'ru'));
+const ratings = BY_GROUP.reduce((s, g) => s + g.items.length, 0);
+const inner = [
+  { name: 'Методика', path: '/metodika/' }, { name: 'О проекте', path: '/o-proekte/' },
+  { name: 'Добавить компанию', path: '/dobavit-kompaniyu/' }, { name: 'Автор: Артём Галимов', path: '/avtory/artem-galimov/' },
+];
+const legal = [{ name: 'Политика конфиденциальности', path: '/politika-konfidentsialnosti/' }, { name: 'Согласие на обработку данных', path: '/soglasie-na-obrabotku-dannykh/' }];
+const tech = [{ name: 'Карта сайта', path: '/karta-sayta/' }, { name: 'Спасибо', path: '/spasibo/' }, { name: 'Страница не найдена', path: '/404' }];
+const total = 1 + GORODA.length + ratings + NICHE_RAYON.length + RAYON_LIST.length + 1 + companies.length + STATI.length + inner.length + legal.length + tech.length;
+---
+<Admin title="Страницы сайта" active="pages">
+  <div class="tools">
+    <h1>Страницы сайта</h1>
+    <span class="muted">{total.toLocaleString('ru-RU')} страниц · {ratings} рейтингов, {NICHE_RAYON.length} рейтингов в районах, {companies.length.toLocaleString('ru-RU')} карточек компаний</span>
+    <a class="btn" href={u('/')} target="_blank">Открыть сайт ↗</a>
+  </div>
+  <div class="pages">
+    <div class="phead"><span></span><span>Страница</span><span>Адрес</span><span style="text-align:right">Сущность</span></div>
+
+    <div class="pgroup">Главная <span>1</span></div>
+    <div class="prow"><span></span><span class="pname">Главная – хаб городов</span><a class="purl" href={u('/')} target="_blank">{site('/')}</a><span class="pkind">Главная</span></div>
+
+    <div class="pgroup">Города <span>{GORODA.length} · готов {GORODA.filter((g) => g.ready).length}</span></div>
+    {GORODA.map((g) => g.slug === CITY.slug ? (
+      <details class="pcat" open>
+        <summary class="prow">
+          <span></span>
+          <div><span class="pname"><i class="caret"></i>{g.name}</span><div class="muted" style="font-size:12px">{ratings} рейтингов в {BY_GROUP.length} группах</div></div>
+          <a class="purl" href={u(`/${g.slug}/`)} target="_blank" onclick="event.stopPropagation()">{site(`/${g.slug}/`)}</a>
+          <span class="pkind">Хаб города</span>
+        </summary>
+        {BY_GROUP.map((grp) => (
+          <details class="pcat lvl1">
+            <summary class="prow lvl1"><span></span><span class="pname"><i class="caret"></i>{grp.name}</span><span class="purl muted">{grp.items.length} рейтингов</span><span class="pkind">Группа</span></summary>
+            {grp.items.map((r) => {
+              const rn = rayonyOf(r.key);
+              const gid = statyaOf(r.key);
+              return (
+                <details class="pcat">
+                  <summary class="prow lvl1"><span></span><div><span class="pname"><i class="caret"></i>{r.crumb}</span><div class="muted" style="font-size:12px">{rn.length ? `${rn.length} районов` : 'без районов'}{gid ? ' · гид' : ''}</div></div><a class="purl" href={u(r.url)} target="_blank" onclick="event.stopPropagation()">{r.url}</a><span class="pkind">Рейтинг</span></summary>
+                  {gid && <div class="prow lvl1"><span></span><span class="pname">Гид: {gid.fm.h1 || gid.fm.title}</span><a class="purl" href={u(gid.url)} target="_blank">{gid.url}</a><span class="pkind">Статья</span></div>}
+                  {rn.map((x) => <div class="prow lvl1"><span></span><span class="pname">{r.crumb} {x.r.in} · {x.rows.length}</span><a class="purl" href={u(x.url)} target="_blank">{x.url}</a><span class="pkind">Рейтинг в районе</span></div>)}
+                </details>
+              );
+            })}
+          </details>
+        ))}
+      </details>
+    ) : (
+      <div class="prow"><span></span><div><span class="pname">{g.name}</span><div class="muted" style="font-size:12px">рейтинг собирается · закрыта от поиска</div></div><a class="purl" href={u(`/${g.slug}/`)} target="_blank">{site(`/${g.slug}/`)}</a><span class="pkind">Город</span></div>
+    ))}
+
+    <div class="pgroup">Районы {CITY.of} <span>{RAYON_LIST.length}</span></div>
+    {RAYON_LIST.map((r) => (
+      <div class="prow"><span></span><div><span class="pname">{r.name} район</span><div class="muted" style="font-size:12px">{NICHE_RAYON.filter((x) => x.r.slug === r.slug).length} рейтингов в районе</div></div><a class="purl" href={u(r.url)} target="_blank">{r.url}</a><span class="pkind">Хаб района</span></div>
+    ))}
+
+    <div class="pgroup">Каталог компаний <span>{companies.length.toLocaleString('ru-RU')} карточек</span></div>
+    <details class="pcat">
+      <summary class="prow"><span></span><div><span class="pname"><i class="caret"></i>Все компании {CITY.of}</span><div class="muted" style="font-size:12px">поиск и фильтр по услуге и району</div></div><a class="purl" href={u(`/${CITY.slug}/companies/`)} target="_blank" onclick="event.stopPropagation()">{site(`/${CITY.slug}/companies/`)}</a><span class="pkind">Каталог</span></summary>
+      {companies.map((c) => <div class="prow lvl1"><span></span><span class="pname">{c.name}</span><a class="purl" href={u(c.url)} target="_blank">{c.url}</a><span class="pkind">Карточка компании</span></div>)}
+    </details>
+
+    <div class="pgroup">Блог: гиды <span>{STATI.length}</span></div>
+    {STATI.map((s) => <div class="prow"><span></span><span class="pname">{s.fm.h1 || s.fm.title}</span><a class="purl" href={u(s.url)} target="_blank">{s.url}</a><span class="pkind">Статья</span></div>)}
+
+    <div class="pgroup">Внутренние страницы <span>{inner.length}</span></div>
+    {inner.map((t) => <div class="prow"><span></span><span class="pname">{t.name}</span><a class="purl" href={u(t.path)} target="_blank">{site(t.path)}</a><span class="pkind">Страница</span></div>)}
+
+    <div class="pgroup">Юридические страницы <span>{legal.length}</span></div>
+    {legal.map((t) => <div class="prow"><span></span><span class="pname">{t.name}</span><a class="purl" href={u(t.path)} target="_blank">{site(t.path)}</a><span class="pkind">Юридическая</span></div>)}
+
+    <div class="pgroup">Технические страницы <span>{tech.length}</span></div>
+    {tech.map((t) => <div class="prow"><span></span><span class="pname">{t.name}</span><a class="purl" href={u(t.path)} target="_blank">{site(t.path)}</a><span class="pkind">Техническая</span></div>)}
+  </div>
+</Admin>

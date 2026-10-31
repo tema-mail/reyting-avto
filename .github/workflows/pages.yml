@@ -28,7 +28,8 @@ jobs:
           PUBLIC_SITE_URL: https://tema-mail.github.io/reyting-avto
           PUBLIC_NOINDEX: '1'
           PUBLIC_FORM_ENDPOINT: ''
-      - run: touch dist/.nojekyll
+      # кабинет на тестовую копию не публикуем: он только на avtoball.ru за паролем
+      - run: rm -rf dist/admin && touch dist/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

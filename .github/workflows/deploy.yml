@@ -35,6 +35,11 @@ jobs:
           PUBLIC_SITE_URL: https://avtoball.ru
           PUBLIC_FORM_ENDPOINT: /api/lead
       - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
+        run: node scripts/lock-admin.mjs
+        env:
+          ADMIN_LOGIN: ${{ secrets.ADMIN_LOGIN }}
+          ADMIN_PASS: ${{ secrets.ADMIN_PASS }}
+      - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         run: |
           install -m 700 -d ~/.ssh
           printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/deploy && chmod 600 ~/.ssh/deploy

@@ -1,0 +1,17 @@
+---
+/** Кабинет → Заявки (перенос gaz-mag). Живые заявки – приёмник avtoball.ru (server/lead.mjs, GET /api/leads по паролю кабинета).
+    Пока заявок нет – пример с меткой «Пример:» на двух настоящих формах сайта: «Помочь выбрать» и «Добавить компанию». */
+import Admin from '../../layouts/Admin.astro';
+import Leads, { type Lead } from '../../islands/admin/Leads';
+import { RATINGS } from '../../lib/katalog';
+const at = (d: number, h: number) => new Date(Date.UTC(2026, 9, d, h)).toISOString();
+const sample: Lead[] = [
+  { id: 'AB-261030-1012', createdAt: at(30, 3), name: 'Пример: Сергей', phone: '+7 900 000-00-31', form: 'Помочь выбрать', page: '/novosibirsk/servis-kitayskikh-avtomobiley/', stage: 'новая', source: 'сайт', items: [], category: 'servis-kitayskikh-avtomobiley', extra: [['Машина', 'Lixiang L7, 2023'], ['Задача', 'ТО, диагностика'], ['Район', 'Ленинский']] },
+  { id: 'AB-261029-1540', createdAt: at(29, 8), name: 'Пример: Наталья', phone: '@natalia_nsk', form: 'Помочь выбрать', page: '/novosibirsk/ustanovka-magnitol/', stage: 'в работе', source: 'сайт', items: [], category: 'ustanovka-magnitol', extra: [['Машина', 'Toyota Prado 150'], ['Задача', 'Установка магнитолы, камера']] },
+  { id: 'AB-261028-1105', createdAt: at(28, 4), name: 'Пример: Андрей', phone: '+7 900 000-00-33', email: 'servis@example.ru', form: 'Добавить компанию', page: '/dobavit-kompaniyu/', stage: 'выполнена', source: 'сайт', items: [], category: 'Шиномонтаж', extra: [['Компания', 'Пример: Шиномонтаж на Ленина'], ['Город', 'Новосибирск'], ['Ниша', 'Шиномонтаж'], ['Яндекс Карты', 'https://yandex.ru/maps/org/…']] },
+];
+const cats: Record<string, string> = Object.fromEntries(RATINGS.flatMap((r) => [[r.key, r.crumb], [r.crumb, r.crumb]]));
+---
+<Admin title="Заявки" active="leads">
+  <Leads client:load sample={sample} cats={cats} />
+</Admin>

@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import preact from '@astrojs/preact';
 
 // Адрес сайта для canonical и sitemap. Боевой домен не выбран (docs/resheniya.md),
 // на время показа – GitHub Pages: PUBLIC_SITE_URL и PUBLIC_BASE задаёт workflow.
@@ -12,6 +13,8 @@ export default defineConfig({
   trailingSlash: 'always',
   build: { format: 'directory', inlineStylesheets: 'auto' },
   devToolbar: { enabled: false },
+  // острова Preact – только в кабинете /admin/ (перенос кабинета gaz-mag), на публичных страницах их нет
+  integrations: [preact()],
   // Списка районов нет: /novosibirsk/districts/ ведёт на хаб города (районы – там). Каталог компаний – своя страница.
   // цель с учётом base: Astro сам подпапку к цели редиректа не добавляет
   redirects: { '/novosibirsk/districts/': BASE.replace(/\/$/, '') + '/novosibirsk/' },

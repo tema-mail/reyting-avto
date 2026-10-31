@@ -1,0 +1,12 @@
+---
+/** Кабинет → Метрика (вид – gaz-mag / TEYES). Цифр в сборке нет: отчёт Метрики и события своего счётчика приходят с сервера после входа.
+    Стили привязаны к обёртке .mx: замок кабинета подменяет содержимое body. */
+import Admin from '../../layouts/Admin.astro';
+import Metrika from '../../islands/admin/Metrika';
+import { GORODA } from '../../lib/goroda';
+import '../../styles/metrika.css';
+const cities = GORODA.map((g) => ({ slug: g.slug, name: g.name }));
+---
+<Admin title="Метрика" active="metrika">
+  <div class="mx"><div class="mx-main"><Metrika client:load cities={cities} /></div></div>
+</Admin>
