@@ -2,7 +2,9 @@
 // «Выбор редакции»: партнёры проекта первыми в нише (data/partnery.ts).
 import { partnersOf } from '../data/partnery';
 
-interface Props { niche: string }
+// ad – рекламный вид блока (демо 01.11.2026, 38-ФЗ ст. 18.1): «Партнёр», пометка «Реклама», рекламодатель и токен erid у каждой карточки
+interface Props { niche: string; ad?: Record<string, { who: string; erid: string }> }
+const { ad } = Astro.props;
 const list = partnersOf(Astro.props.niche);
 const tel = (p: string) => 'tel:' + p.replace(/[^\d+]/g, '');
 const domain = (s: string) => s.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '');
@@ -10,10 +12,11 @@ const domain = (s: string) => s.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$
 {list.length > 0 && (
   <section class="partnery" id="vybor-redaktsii">
     <div class="wrap">
-      <h2>Выбор редакции</h2>
+      <h2>{ad ? 'Партнёр' : 'Выбор редакции'}</h2>
       <ol class="partnery__list">
         {list.map((p, i) => (
           <li class="partnery__card">
+            {ad?.[p.key] && <p class="partnery__ad">Реклама · {ad[p.key].who} · erid: {ad[p.key].erid}</p>}
             <span class="partnery__place">№{i + 1}</span>
             <div class="partnery__body">
               <h3><a href={p.site} target="_blank" rel="noopener">{p.name}</a></h3>
@@ -37,7 +40,8 @@ const domain = (s: string) => s.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$
   .partnery { padding: 28px 0 8px; }
   .partnery h2 { margin: 0 0 14px; }
   .partnery__list { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
-  .partnery__card { display: flex; gap: 16px; padding: 18px; border: 2px solid var(--signal, currentColor); border-radius: 12px; background: var(--card, transparent); }
+  .partnery__ad { position: absolute; top: 8px; right: 12px; margin: 0; font-size: 11px; color: var(--steel, #59626c); }
+  .partnery__card { position: relative; padding-top: 30px !important; display: flex; gap: 16px; padding: 18px; border: 2px solid var(--signal, currentColor); border-radius: 12px; background: var(--card, transparent); }
   .partnery__place { flex: none; font-size: 28px; font-weight: 800; line-height: 1; }
   .partnery__body { min-width: 0; }
   .partnery__body h3 { margin: 0 0 6px; font-size: 22px; }

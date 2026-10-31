@@ -1,0 +1,22 @@
+---
+// Демо для владельца (01.11.2026): как выглядит блок партнёра в рекламном виде по 38-ФЗ – «Партнёр», «Реклама»,
+// рекламодатель, токен erid. Закрыта от поиска, в карте сайта нет. Токены – пример: настоящий выдаёт оператор рекламных данных.
+import Base from '../../layouts/Base.astro';
+import Partnery from '../../components/Partnery.astro';
+import { u } from '../../lib/url';
+const ad = {
+  'teyes-sibir': { who: 'Teyes Sibir, ИНН рекламодателя', erid: '2VtzqwPRN1X (пример)' },
+  evolution: { who: 'ИП Галимов А. Р., ИНН 143305742226', erid: '2VtzqxKJbQ7 (пример)' },
+};
+---
+<Base title="Демо: блок партнёра с пометкой «Реклама»" robots="noindex">
+  <section class="hero"><div class="wrap stack">
+    <p class="label">Демо · закрыто от поиска</p>
+    <h1>Как выглядит блок партнёра по закону о рекламе</h1>
+    <p class="lead">Ниже – тот же блок, что сейчас стоит над рейтингами, только в рекламном виде: заголовок «Партнёр», в углу карточки пометка «Реклама», рекламодатель и токен erid. Рейтинг под блоком считается формулой, как сейчас.</p>
+  </div></section>
+  <p class="wrap label" style="margin-top:24px">Рейтинг «Установка сигнализаций» – <a href={u('/novosibirsk/avtosignalizatsii/')}>как сейчас</a></p>
+  <Partnery niche="avtosignalizatsii" ad={ad} />
+  <p class="wrap label" style="margin-top:24px">Рейтинг «Русификация автомобилей» – два партнёра, <a href={u('/novosibirsk/rusifikatsiya-avtomobiley/')}>как сейчас</a></p>
+  <Partnery niche="rusifikatsiya-avtomobiley" ad={ad} />
+</Base>
