@@ -1,0 +1,20 @@
+---
+// Карточка компании /<город>/companies/<slug>/. Компании двух старых ниш (Я+2ГИС, Новосибирск) – StarayaKartochka
+// (места в нишах Яндекса добавлены строками); компании из ниш Яндекса – YaKartochka. Одна компания в двух городах –
+// две разные карточки.
+import StarayaKartochka from '../../../components/StarayaKartochka.astro';
+import YaKartochka from '../../../components/ya/YaKartochka.astro';
+import { COMPANIES, type Company } from '../../../lib/reyting';
+import { yaGoroda, type Entity } from '../../../lib/ya';
+import { READY } from '../../../lib/goroda';
+
+export function getStaticPaths() {
+  return READY.flatMap((g) => [
+    ...(g.slug === 'novosibirsk' ? COMPANIES.map((c) => ({ params: { gorod: g.slug, slug: c.slug }, props: { c, e: null } })) : []),
+    ...yaGoroda(g.slug).newCards.map((e) => ({ params: { gorod: g.slug, slug: e.slug }, props: { c: null, e } })),
+  ]);
+}
+interface Props { c: Company | null; e: Entity | null }
+const { c, e } = Astro.props;
+---
+{c ? <StarayaKartochka c={c} /> : <YaKartochka e={e!} />}

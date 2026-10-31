@@ -2,13 +2,15 @@
 // Шапка: «Рейтинги» – раскрывающийся список по 5 группам (на телефоне – группы ссылками на хаб).
 import Logo from './Logo.astro';
 import { u } from '../lib/url';
-import { BY_GROUP } from '../lib/katalog';
-import { CITY } from '../lib/site';
-import { GORODA, gorodOf } from '../lib/goroda';
+import { katalog } from '../lib/katalog';
+import { GORODA, gorodOf, gorod } from '../lib/goroda';
 interface Props { active?: string }
 const { active = '' } = Astro.props;
 const cur = (key: string) => (active === key ? 'page' : undefined);
 const here = gorodOf(Astro.url.pathname);
+// меню рейтингов – города страницы, если он готов; иначе – Новосибирска
+const CITY = here?.ready ? here : gorod('novosibirsk');
+const BY_GROUP = katalog(CITY.slug).byGroup;
 ---
 <header class="top">
   <div class="wrap top__in">

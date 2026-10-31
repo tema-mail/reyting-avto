@@ -10,6 +10,7 @@
 // балл и пороги – по главной точке (больше всего оценок), остальные филиалы – списком адресов.
 
 import { rejectReason, brandKey, GENERIC } from './otbor.mjs';
+import { GOROD_DANNYE, gorodOfSrc } from './gorod-dannye.mjs';
 
 export const W_YA = { rating: 0.35, reviews: 0.35, fresh: 0.15, open: 0.15 };
 export const MIN_RATING = 4.0;
@@ -18,7 +19,7 @@ export const MIN_PUBLISH = 5;
 export const TOP = 20;
 
 const DAY = 86400000;
-const street = (addr) => addr.split(',').slice(0, 2).join(',').replace(/, Новосибирск$/, '').trim();
+const street = (addr, suffix) => addr.split(',').slice(0, 2).join(',').replace(suffix, '').trim();
 
 /** Свежесть по дате последнего отзыва и числу отзывов за 12 месяцев. */
 export function freshness(last, recent, at) {
@@ -63,13 +64,14 @@ function merge(all) {
  */
 export function computeYa(src, cfg) {
   const at = new Date(src['дата_съёма'] + 'T00:00:00Z').getTime();
+  const gorod = gorodOfSrc(src);
   const rejected = { 'закрыта': 0, 'другой город': 0, 'не профиль': 0, 'оценка ниже 4,0': 0, 'меньше 10 отзывов': 0 };
   const seen = new Set();
   const groups = new Map();
   for (const c of src['компании']) {
     if (seen.has(c.id)) continue;
     seen.add(c.id);
-    const why = rejectReason(c, cfg);
+    const why = rejectReason(c, cfg, gorod);
     if (why) {
       rejected[why]++;
       continue;
@@ -84,7 +86,7 @@ export function computeYa(src, cfg) {
     const m = merge(branches);
     m.key = key;
     m.generic = key.includes('|');
-    m.display = m.generic ? `${m.name} (${street(branches[0]['адрес'])})` : m.name;
+    m.display = m.generic ? `${m.name} (${street(branches[0]['адрес'], GOROD_DANNYE[gorod].suffix)})` : m.name;
     if (m.rating < MIN_RATING) {
       rejected['оценка ниже 4,0'] += branches.length;
       continue;

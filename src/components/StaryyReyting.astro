@@ -82,7 +82,7 @@ const schema = [
       <div>
         <p class="label">Рейтинг · {CITY.name} · данные на <Today /></p>
         <h1>{t.h1}</h1>
-        <p class="short lead"><span class="short__k">Коротко:</span>{partnersOf(n.slug).length > 0 && <Fragment set:html={md(`№1 – **${partnersOf(n.slug).map((p) => p.name).join("**, затем **")}**, выбор редакции. Дальше по цифрам карт: `)} />}<Fragment set:html={mdf(t.short)} /> {t.shortAfter}</p>
+        <p class="short lead"><span class="short__k">Коротко:</span>{partnersOf(n.slug, 'novosibirsk').length > 0 && <Fragment set:html={md(`№1 – **${partnersOf(n.slug, 'novosibirsk').map((p) => p.name).join("**, затем **")}**, выбор редакции. Дальше по цифрам карт: `)} />}<Fragment set:html={mdf(t.short)} /> {t.shortAfter}</p>
         {real(t.disclosure) && <p class="small" style="margin-top:10px" set:html={md(t.disclosure)} />}
         <ul class="facts">{t.bullets.map((b) => <li>{b}</li>)}</ul>
         <div class="btns">
@@ -104,7 +104,7 @@ const schema = [
       </aside>
     </div>
   </section>
-  <Partnery niche={n.slug} />
+  <Partnery niche={n.slug} city="novosibirsk" />
 
   <section class="sec" id="tablitsa">
     <div class="wrap">

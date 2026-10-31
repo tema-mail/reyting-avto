@@ -1,9 +1,8 @@
 // Тексты из данных для ниш Яндекса: «Кратко», номинации, описание страницы, сильные стороны и замечания карточки.
 // Одно правило для всех ниш и компаний – никаких цифр руками.
 import type { NicheYa, YaRow, Entity } from './ya';
-import { nicheYa, NICHES_YA_PUB } from './ya';
+import { nicheOf, yaGoroda } from './ya';
 import { num, date, plural, score } from './format';
-import { CITY } from './site';
 
 /** Оценка: 4,9 / 5,0, у сетей – до сотых (4,94). */
 export function rt(r: number): string {
@@ -37,7 +36,7 @@ const SEE: Record<string, string[]> = {
   'remont-skolov': ['avtostekla'],
 };
 export function seeAlso(n: NicheYa): string {
-  const to = (SEE[n.key] || []).map((k) => NICHES_YA_PUB.find((x) => x.key === k)).filter(Boolean) as NicheYa[];
+  const to = (SEE[n.key] || []).map((k) => yaGoroda(n.city.slug).pub.find((x) => x.key === k)).filter(Boolean) as NicheYa[];
   if (!to.length) return '';
   const lnk = to.map((x) => `[${x.t.crumb.toLowerCase()}](${x.url})`).join(', ');
   return ` Отдельные рейтинги: ${lnk}.`;
@@ -56,7 +55,7 @@ export function kratko(n: NicheYa): string {
 }
 
 export function description(n: NicheYa): string {
-  return `${n.t.crumb} ${CITY.in}: ${whoN(n, n.rows.length)} по оценкам и отзывам Яндекс Карт, №1 – ${n.rows[0].display}${n.rows[0].partner ? '' : ` (${score(n.rows[0].score)}/10)`}.`;
+  return `${n.t.crumb} ${n.city.in}: ${whoN(n, n.rows.length)} по оценкам и отзывам Яндекс Карт, №1 – ${n.rows[0].display}${n.rows[0].partner ? '' : ` (${score(n.rows[0].score)}/10)`}.`;
 }
 
 export interface Nom { title: string; text: string; rows: YaRow[] }
@@ -114,8 +113,8 @@ export function cardLead(e: Entity): string {
   const b = e.branches;
   const m = e.rows[0].branches[0];
   const rubrics = [...new Set(b.flatMap((x) => x.rubrics))].slice(0, 2).map(lower).join(', ');
-  const where = b.length > 1 ? `${filials(b.length)} ${CITY.in}, главная точка – ${m.address}` : `${CITY.in}, ${m.address}`;
-  const places = e.rows.map((r) => `${r.place}-е место в рейтинге «${nicheYa(r.niche).t.crumb}»`).join(', ');
+  const where = b.length > 1 ? `${filials(b.length)} ${e.city.in}, главная точка – ${m.address}` : `${e.city.in}, ${m.address}`;
+  const places = e.rows.map((r) => `${r.place}-е место в рейтинге «${nicheOf(r).t.crumb}»`).join(', ');
   const net = b.length > 1 ? ' (главная точка)' : '';
   return `${e.name} – ${rubrics} ${where}. На Яндекс Картах${net} ${rt(m.rating)} по ${num(m.ratings)} ${plural(m.ratings, ['оценке', 'оценкам', 'оценкам'])} и ${otz(m.reviews)}; ${places}.`;
 }
@@ -123,7 +122,7 @@ export function cardLead(e: Entity): string {
 export function strengthsYa(e: Entity): string[] {
   const out: string[] = [];
   const r = e.rows[0];
-  const n = nicheYa(r.niche);
+  const n = nicheOf(r);
   if (r.rating >= 4.9) out.push(`${rt(r.rating)} на Яндекс Картах по ${num(r.ratings)} ${plural(r.ratings, ['оценке', 'оценкам', 'оценкам'])}.`);
   if (r.reviews === Math.max(...n.rows.map((x) => x.reviews))) out.push(`Больше всего отзывов в рейтинге «${n.t.crumb}» – ${num(r.reviews)}.`);
   if (r.days !== null && r.days <= 30) out.push(`Свежий отзыв: последний – ${date(r.last!)}.`);
@@ -141,7 +140,7 @@ export function attentionYa(e: Entity): string[] {
   const out: string[] = [];
   const r = e.rows[0];
   if (r.partner) return []; // партнёр: полная карточка без замечаний
-  const n = nicheYa(r.niche);
+  const n = nicheOf(r);
   const top = n.rows.find((x) => !x.partner)!;
   if (r !== top && r.reviews < top.reviews / 3) out.push(`${otz(r.reviews)} – в ${Math.round(top.reviews / Math.max(1, r.reviews))} раз меньше, чем у первого места (${num(top.reviews)}).`);
   if (r.days === null) out.push('Дату последнего отзыва Яндекс не показал – свежесть в балле 0.');

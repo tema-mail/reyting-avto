@@ -1,22 +1,30 @@
 ---
-import Today from '../../components/Today.astro';
+import Today from './Today.astro';
 // Хаб города: навигационный, все рейтинги по 5 группам с чипами. Индексируется с третьего рейтинга (HUB_INDEX).
-import Base from '../../layouts/Base.astro';
-import Crumbs from '../../components/Crumbs.astro';
-import RatingsGrid from '../../components/ya/RatingsGrid.astro';
-import { RATINGS, BY_GROUP, TOTALS, HUB_INDEX_ALL } from '../../lib/katalog';
-import { CITY, YA_DATE } from '../../lib/site';
-import { num, date, plural } from '../../lib/format';
-import { md } from '../../lib/md';
-import { u, abs } from '../../lib/url';
+// Подключается из src/pages/[gorod]/index.astro для готовых городов; районы – только где есть их границы.
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import RatingsGrid from './ya/RatingsGrid.astro';
+import { katalog } from '../lib/katalog';
+import { YA_DATE } from '../lib/site';
+import { num, date, plural } from '../lib/format';
+import { md } from '../lib/md';
+import { u, abs } from '../lib/url';
+import type { Gorod } from '../lib/goroda';
 
-import { NICHES_YA_PUB } from '../../lib/ya';
-import { RAYON_LIST } from '../../lib/rayon-stranitsy';
+import { yaGoroda } from '../lib/ya';
+import { RAYON_LIST as NSK_RAYONY } from '../lib/rayon-stranitsy';
+interface Props { c: Gorod }
+const CITY = Astro.props.c;
+const nsk = CITY.slug === 'novosibirsk';
+const { ratings: RATINGS, byGroup: BY_GROUP, totals: TOTALS, hubIndexAll: HUB_INDEX_ALL } = katalog(CITY.slug);
+const NICHES_YA_PUB = yaGoroda(CITY.slug).pub;
+const RAYON_LIST = nsk ? NSK_RAYONY : [];
 const BY_RAYON = NICHES_YA_PUB.some((n) => n.byRayon);
 const site = Astro.site;
 const pageUrl = abs(`/${CITY.slug}/`, site);
 const schema = [
-  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: `Авто-рейтинги ${CITY.of}`, inLanguage: 'ru', dateModified: YA_DATE, publisher: { '@id': abs('/', site) + '#org' }, mainEntity: { '@type': 'ItemList', itemListElement: RATINGS.map((r, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'WebPage', '@id': abs(r.url, site), name: `${r.crumb} ${CITY.in}`, url: abs(r.url, site) } })) } },
+  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: `Авто-рейтинги ${CITY.of}`, inLanguage: 'ru', dateModified: nsk ? YA_DATE : RATINGS.map((r) => r.date).sort().pop(), publisher: { '@id': abs('/', site) + '#org' }, mainEntity: { '@type': 'ItemList', itemListElement: RATINGS.map((r, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'WebPage', '@id': abs(r.url, site), name: `${r.crumb} ${CITY.in}`, url: abs(r.url, site) } })) } },
   { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Главная', item: abs('/', site) }, { '@type': 'ListItem', position: 2, name: CITY.name, item: pageUrl }] },
 ];
 ---
@@ -31,15 +39,15 @@ const schema = [
   </section>
   <section class="sec sec--flush">
     <div class="wrap stack">
-      <h2>Каталог и районы</h2>
+      <h2>{RAYON_LIST.length > 0 ? 'Каталог и районы' : 'Каталог компаний'}</h2>
       <p><a class="btn btn--sm" href={u(`/${CITY.slug}/companies/`)}>Все компании – поиск по названию и улице</a></p>
-      <p>Рейтинги по районам: {RAYON_LIST.map((r, i) => <>{i > 0 && ' · '}<a href={u(r.url)}>{r.name}</a></>)}</p>
+      {RAYON_LIST.length > 0 && <p>Рейтинги по районам: {RAYON_LIST.map((r, i) => <>{i > 0 && ' · '}<a href={u(r.url)}>{r.name}</a></>)}</p>}
     </div>
   </section>
   <section class="sec">
     <div class="wrap">
       <div class="sec__head"><h2>Рейтинги по группам</h2></div>
-      <RatingsGrid id="hub" h="h2" />
+      <RatingsGrid id="hub" h="h2" city={CITY.slug} />
     </div>
   </section>
   <section class="sec">
@@ -51,7 +59,7 @@ const schema = [
   <section class="sec">
     <div class="wrap prose">
       <h2>Как мы составляем рейтинги</h2>
-      <p>Берём компании, которые Яндекс Карты показывают по запросу ниши {CITY.in}{BY_RAYON ? ' – по всему городу и отдельно по каждому из 10 районов' : ''}, оставляем профильные по рубрикам, с оценкой от 4,0 и минимум 10 отзывами. Балл складывается из оценки, числа и свежести отзывов и открытости карточки; у сети – по главной точке. Цены с сайтов компаний показываем справкой, в балл они не входят. Данные снимаем раз в месяц, формула открыта.</p>
+      <p>Берём компании, которые Яндекс Карты показывают по запросу ниши {CITY.in}{BY_RAYON ? ` – по всему городу и отдельно по ${nsk ? 'каждому из 10 районов' : 'каждому району'}` : ''}, оставляем профильные по рубрикам, с оценкой от 4,0 и минимум 10 отзывами. Балл складывается из оценки, числа и свежести отзывов и открытости карточки; у сети – по главной точке. Цены с сайтов компаний показываем справкой, в балл они не входят. Данные снимаем раз в месяц, формула открыта.</p>
       <p><a href={u('/metodika/')}>Методика →</a></p>
     </div>
   </section>

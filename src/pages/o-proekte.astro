@@ -1,8 +1,9 @@
 ---
 import Base from '../layouts/Base.astro';
 import Crumbs from '../components/Crumbs.astro';
-import { TOTALS } from '../lib/katalog';
-import { SITE_NAME, CITY } from '../lib/site';
+import { katalog } from '../lib/katalog';
+import { READY } from '../lib/goroda';
+import { SITE_NAME } from '../lib/site';
 import { num, plural } from '../lib/format';
 import { md } from '../lib/md';
 import { u, abs } from '../lib/url';
@@ -17,7 +18,7 @@ const schema = [
   <section class="hero">
     <div class="wrap stack">
       <h1>О проекте {SITE_NAME}</h1>
-      <p class="lead" style="max-width:800px">{SITE_NAME} составляет рейтинги авто-ниш по открытым данным: Яндекс Карты, а для двух первых ниш ещё 2ГИС и сайты компаний. Сейчас в проекте {TOTALS.ratings} {plural(TOTALS.ratings, ['рейтинг', 'рейтинга', 'рейтингов'])} {CITY.of}, {num(TOTALS.companies)} {plural(TOTALS.companies, ['компания', 'компании', 'компаний'])}.</p>
+      <p class="lead" style="max-width:800px">{SITE_NAME} составляет рейтинги авто-ниш по открытым данным: Яндекс Карты, а для двух первых ниш ещё 2ГИС и сайты компаний. Сейчас в проекте {READY.map((c) => { const t = katalog(c.slug).totals; return `${t.ratings} ${plural(t.ratings, ['рейтинг', 'рейтинга', 'рейтингов'])} ${c.of} (${num(t.companies)} ${plural(t.companies, ['компания', 'компании', 'компаний'])})`; }).join(' и ')}.</p>
     </div>
   </section>
   <section class="sec">

@@ -10,4 +10,4 @@ export const NOINDEX_ALL = import.meta.env.PUBLIC_NOINDEX === '1';
 /** Куда уходят заявки. Пусто – формы честно говорят, что заявки пока не принимаются. */
 export const FORM_ENDPOINT: string = import.meta.env.PUBLIC_FORM_ENDPOINT || '';
 
-export const CITY = { slug: 'novosibirsk', name: 'Новосибирск', in: 'в Новосибирске', of: 'Новосибирска' };
+export const CITY = { slug: 'novosibirsk', name: 'Новосибирск', in: 'в Новосибирске', of: 'Новосибирска', dat: 'Новосибирску' }; // старые ниши, гиды и районы – только Новосибирск; другие города – goroda.ts

@@ -3,9 +3,9 @@
 import { partnersOf } from '../data/partnery';
 
 // ad – рекламный вид блока (демо 01.11.2026, 38-ФЗ ст. 18.1): «Партнёр», пометка «Реклама», рекламодатель и токен erid у каждой карточки
-interface Props { niche: string; ad?: Record<string, { who: string; erid: string }> }
+interface Props { niche: string; city: string; ad?: Record<string, { who: string; erid: string }> }
 const { ad } = Astro.props;
-const list = partnersOf(Astro.props.niche);
+const list = partnersOf(Astro.props.niche, Astro.props.city);
 const tel = (p: string) => 'tel:' + p.replace(/[^\d+]/g, '');
 const domain = (s: string) => s.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '');
 ---

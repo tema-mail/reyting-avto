@@ -1,4 +1,4 @@
-// Каталог 30.10.2026: рейтинг ниши в районе /novosibirsk/<ниша>/<район>/ и хаб района /novosibirsk/districts/<район>/.
+// Только Новосибирск (у Краснодара надёжных границ округов нет, 01.11.2026). Каталог 30.10.2026: рейтинг ниши в районе /novosibirsk/<ниша>/<район>/ и хаб района /novosibirsk/districts/<район>/.
 // Страница «ниша × район» есть, только если в районе не меньше MIN_V_RAYONE компаний рейтинга – иначе это пустой
 // дубль городского рейтинга (правило «не дорвеи»). Места в таблице – городские, порядок тот же.
 import { NICHES_YA_PUB, type NicheYa, type YaRow } from './ya';
@@ -39,5 +39,6 @@ export const NICHE_RAYON: NicheRayon[] = NICHES_YA_PUB.flatMap((n) =>
   }).filter((x) => x.rows.length >= MIN_V_RAYONE),
 );
 
-export const rayonyOf = (key: string) => NICHE_RAYON.filter((x) => x.n.key === key);
+/** Районы ниши: границы районов есть только у Новосибирска (gorod-dannye.mjs), у других городов – пусто. */
+export const rayonyOf = (key: string, city = 'novosibirsk') => (city === 'novosibirsk' ? NICHE_RAYON.filter((x) => x.n.key === key) : []);
 export const nichesIn = (slug: string) => NICHE_RAYON.filter((x) => x.r.slug === slug);

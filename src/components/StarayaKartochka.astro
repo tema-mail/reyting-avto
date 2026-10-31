@@ -9,7 +9,7 @@ import MapLinks from './MapLinks.astro';
 import Gauge from './Gauge.astro';
 import YaCeny from './ya/YaCeny.astro';
 import { nicheOf, type Company } from '../lib/reyting';
-import { placesOfOld, nicheYa } from '../lib/ya';
+import { placesOfOld, nicheOf as nicheOfRow } from '../lib/ya';
 import { CARDS } from '../data/kartochki';
 import { strengths, attention } from '../lib/fakty';
 import { WEIGHTS } from '../lib/formula.mjs';
@@ -104,7 +104,7 @@ const schema = [
           <thead><tr><th scope="col">Рейтинг</th><th scope="col">Место</th><th scope="col">Балл</th></tr></thead>
           <tbody>
             <tr><td><a href={u(n.url)}>{n.t.crumb} {CITY.in}</a></td><td class="num">{c.place} из {n.companies.length}</td><td class="num">{score(c.score)}/10</td></tr>
-            {more.map((r) => { const y = nicheYa(r.niche); return <tr><td><a href={u(y.url)}>{y.t.crumb} {CITY.in}</a> <span class="small muted">(только Яндекс Карты)</span></td><td class="num">{r.place} из {y.rows.length}</td><td class="num">{score(r.score)}/10</td></tr>; })}
+            {more.map((r) => { const y = nicheOfRow(r); return <tr><td><a href={u(y.url)}>{y.t.crumb} {CITY.in}</a> <span class="small muted">(только Яндекс Карты)</span></td><td class="num">{r.place} из {y.rows.length}</td><td class="num">{score(r.score)}/10</td></tr>; })}
           </tbody>
         </table>
       </div>
