@@ -175,7 +175,7 @@ const schema = [
     <div class="wrap">
       <div class="sec__head"><p class="label">06 · Рядом</p><h2>Рядом с этим рейтингом</h2></div>
       <ul class="links">
-        {near.map((o) => <li><a href={u(o.url)}>{o.crumb} {CITY.in}</a> – {o.who}, №1 {o.top.name} ({score(o.top.score)}/10)</li>)}
+        {near.map((o) => <li><a href={u(o.url)}>{o.crumb} {CITY.in}</a> – {o.who}, {o.top.partner ? <>первым – {o.top.name}, выбор редакции</> : <>№1 {o.top.name} ({score(o.top.score)}/10)</>}</li>)}
         <li><a href={u(`/${CITY.slug}/ratings/`)}>Все рейтинги {CITY.of} →</a></li>
       </ul>
     </div>

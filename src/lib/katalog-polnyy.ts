@@ -237,7 +237,8 @@ function make(slug: string): Polnyy {
     }
     rows.push({ name, url, address: b.address, more: branches.length - 1, rayony: [...new Set(branches.map((x) => x.rayon).filter(Boolean))], niches, rating: b.rating, reviews: b.reviews, partner: false, place: null, why });
   }
-  rows.sort((a, b) => b.reviews - a.reviews || a.name.localeCompare(b.name, 'ru'));
+  // наши компании (Evolution, Teyes Sibir) – всегда первыми, и при фильтре тоже (владелец 01.11.2026)
+  rows.sort((a, b) => +b.partner - +a.partner || b.reviews - a.reviews || a.name.localeCompare(b.name, 'ru'));
   return { rows, cards, crumbs, stats: { all: rows.length, rated: rated0, cards: cards.length, noindex: cards.filter((c) => !c.index).length } };
 }
 

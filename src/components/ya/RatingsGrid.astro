@@ -7,7 +7,8 @@ import { score, date } from '../../lib/format';
 import { u } from '../../lib/url';
 interface Props { id: string; h: 'h2' | 'h3'; city: string }
 const { id, h: H, city } = Astro.props;
-const BY_GROUP = katalog(city).byGroup;
+// рейтинги, где первой стоит наша компания (выбор редакции), – первыми в группе (владелец 01.11.2026)
+const BY_GROUP = katalog(city).byGroup.map((g) => ({ ...g, items: [...g.items].sort((a, b) => +!!b.top.partner - +!!a.top.partner) }));
 const T = H === 'h2' ? 'h3' : 'h4';
 ---
 <div class="rgrid" data-rgrid={id}>

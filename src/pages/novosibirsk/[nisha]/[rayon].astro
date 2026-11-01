@@ -26,10 +26,14 @@ const h1 = `${t.crumb} ${r.in} Новосибирска – рейтинг ${yea
 const titles = [`${t.crumb} ${r.in} Новосибирска – рейтинг ${year}`, `${t.crumb} ${r.in} – рейтинг ${year}`, `${t.crumb}, ${r.name} район – рейтинг ${year}`];
 const title = titles.find((s) => s.length <= 60) || titles[titles.length - 1];
 const [a, b, c] = rows;
-const avg = rows.reduce((s, x) => s + x.rating, 0) / rows.length;
+const own = rows.filter((x) => !x.partner); // средние – без наших компаний: их цифры не показываем
+const avg = own.reduce((s, x) => s + x.rating, 0) / own.length;
 const allDay = rows.filter((x) => x.allDay).length;
-const reviews = rows.reduce((s, x) => s + x.reviews, 0);
-const kratko = `${r.in.charAt(0).toUpperCase() + r.in.slice(1)} ${whoN(n, rows.length)} из ${n.rows.length} в городском рейтинге. Выше всех по баллу – ${a.display}: ${a.place}-е место в городе, ${score(a.score)}/10, на Яндекс Картах ${rt(a.rating)} и ${otz(a.reviews)}. Следом – ${b.display} и ${c.display}.`;
+const reviews = own.reduce((s, x) => s + x.reviews, 0);
+const top = a.partner ? b : a;
+const [n2, n3] = a.partner ? [c, rows[3]] : [b, c];
+// наша компания (выбор редакции) – первой и в коротком ответе, без балла и цифр Яндекса (владелец 01.11.2026)
+const kratko = `${r.in.charAt(0).toUpperCase() + r.in.slice(1)} ${whoN(n, rows.length)} из ${n.rows.length} в городском рейтинге.${a.partner ? ` Первым – ${a.display}, выбор редакции.` : ''} Выше всех по баллу – ${top.display}: ${top.place}-е место в городе, ${score(top.score)}/10, на Яндекс Картах ${rt(top.rating)} и ${otz(top.reviews)}.${n2 ? ` Следом – ${n2.display}${n3 ? ` и ${n3.display}` : ''}.` : ''}`;
 const desc = `${t.crumb} ${r.in} Новосибирска: ${whoN(n, rows.length)} по баллу из отзывов Яндекс Карт, средняя оценка ${num(avg, 1)}. Адреса, часы, телефоны.`.slice(0, 160);
 const others = rayonyOf(n.key).filter((o) => o.r.slug !== r.slug);
 const near = nichesIn(r.slug).filter((o) => o.n.key !== n.key).sort((p, q) => q.rows.length - p.rows.length).slice(0, 8);

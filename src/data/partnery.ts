@@ -48,6 +48,10 @@ export const PARTNER_NICHES: Record<string, string[]> = {
   avtosignalizatsii: ['teyes-sibir'],
   'ustanovka-avtozapuska': ['teyes-sibir'],
   avtozvuk: ['teyes-sibir'],
+  // «везде, где можно» (владелец 01.11.2026): ниши, где компания есть на Яндекс Картах или в её услугах
+  shumoizolyatsiya: ['teyes-sibir'],
+  'ustanovka-parktronikov': ['teyes-sibir'],
+  'diagnostika-avto': ['evolution'],
   'rusifikatsiya-avtomobiley': ['evolution', 'teyes-sibir'],
   'servis-kitayskikh-avtomobiley': ['evolution'],
   'remont-elektromobiley-i-gibridov': ['evolution'],

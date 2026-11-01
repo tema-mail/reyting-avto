@@ -36,7 +36,9 @@ const descFull =
   k.description ||
   `${brand} ${CITY.in}: ${rating(c.y.rating)} на Яндекс Картах (${num(c.y.reviews)} ${plural(c.y.reviews, ['отзыв', 'отзыва', 'отзывов'])}), ${rating(c.g.rating)} в 2ГИС, ${c.place}-е место в рейтинге «${n.t.crumb}».${priceFrom ? ` Цены от ${num(priceFrom)} ₽.` : ''}`;
 const description = pick ? `${brand} ${CITY.in}: выбор редакции в рейтинге «${n.t.crumb}». Адрес, телефон, часы работы и услуги.` : descFull.length <= 160 ? descFull : descFull.replace(/ Данные на [\d.]+\.$/, '');
-const similar = n.companies.filter((x) => x.slug !== c.slug).sort((a, b) => Math.abs(a.place - c.place) - Math.abs(b.place - c.place) || a.place - b.place).slice(0, 3).sort((a, b) => a.place - b.place);
+// наши компании (выбор редакции) – первыми и в «похожих» (владелец 01.11.2026)
+const pinned = n.companies.filter((x) => x.slug !== c.slug && x.partner);
+const similar = [...pinned, ...n.companies.filter((x) => x.slug !== c.slug && !x.partner).sort((a, b) => Math.abs(a.place - c.place) - Math.abs(b.place - c.place) || a.place - b.place).slice(0, 3 - pinned.length).sort((a, b) => a.place - b.place)];
 const parts: [string, number, number][] = [
   ['Оценка на картах', c.parts.rating, WEIGHTS.rating],
   ['Число отзывов', c.parts.reviews, WEIGHTS.reviews],
@@ -211,7 +213,7 @@ const schema = [
     <div class="wrap stack">
       <h2>Похожие компании {CITY.in}</h2>
       <ul class="links">
-        {similar.map((s) => <li><a href={u(s.url)}>{s.t.brand}</a> – {s.place}-е место, {score(s.score)}/10, {num(s.reviews)} {plural(s.reviews, ['отзыв', 'отзыва', 'отзывов'])}</li>)}
+        {similar.map((s) => <li><a href={u(s.url)}>{s.t.brand}</a> – {s.partner ? 'выбор редакции' : <>{s.place}-е место, {score(s.score)}/10, {num(s.reviews)} {plural(s.reviews, ['отзыв', 'отзыва', 'отзывов'])}</>}</li>)}
       </ul>
       <p><a href={u(n.url)}>Весь рейтинг «{n.t.crumb}» →</a></p>
     </div>

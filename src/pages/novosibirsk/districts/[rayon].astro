@@ -22,7 +22,11 @@ const items = NICHES_YA_PUB.map((n) => {
   const rows = n.rows.filter((x) => x.rayony.includes(r.name));
   return { n, rows, page: pages.find((p) => p.n.key === n.key) || null };
 }).filter((x) => x.rows.length);
-const groups = BY_GROUP.map((g) => ({ name: g.name, items: items.filter((x) => x.n.group === g.name) })).filter((g) => g.items.length);
+// ниши, где первой стоит наша компания (выбор редакции), – первыми в группе, такие группы – выше (владелец 01.11.2026)
+const led = (x: (typeof items)[number]) => +!!x.rows[0].partner;
+const groups = BY_GROUP.map((g) => ({ name: g.name, items: items.filter((x) => x.n.group === g.name).sort((a, b) => led(b) - led(a)) }))
+  .filter((g) => g.items.length)
+  .sort((a, b) => led(b.items[0]) - led(a.items[0]));
 const companies = new Set(items.flatMap((x) => x.rows.map((y) => y.url || y.display))).size;
 const year = YA_DATE.slice(0, 4);
 const h1 = `Автосервисы и автоуслуги ${r.in} Новосибирска – рейтинги ${year}`;
@@ -62,7 +66,7 @@ const schema = [
           {g.items.map((x) => (
             <li>
               {x.page ? <a href={u(x.page.url)}>{x.n.t.crumb} {r.in}</a> : <a href={u(x.n.url)}>{x.n.t.crumb} {CITY.in}</a>}
-              {' '}– {whoN(x.n, x.rows.length)} в районе, выше всех {x.rows[0].url ? <a href={u(x.rows[0].url)}>{x.rows[0].display}</a> : x.rows[0].display} ({score(x.rows[0].score)}/10, {x.rows[0].place}-е место в городе)
+              {' '}– {whoN(x.n, x.rows.length)} в районе, {x.rows[0].partner ? 'первым –' : 'выше всех'} {x.rows[0].url ? <a href={u(x.rows[0].url)}>{x.rows[0].display}</a> : x.rows[0].display} {x.rows[0].partner ? '(выбор редакции)' : `(${score(x.rows[0].score)}/10, ${x.rows[0].place}-е место в городе)`}
             </li>
           ))}
         </ul>
