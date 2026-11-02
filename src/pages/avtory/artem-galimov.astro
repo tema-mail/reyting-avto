@@ -5,7 +5,7 @@ import { AVTOR } from '../../data/avtor';
 import { STATI } from '../../lib/stati';
 import { u } from '../../lib/url';
 ---
-<Doc title={`${AVTOR.name} – ${AVTOR.role.toLowerCase()}`} h1={AVTOR.name}>
+<Doc title={`${AVTOR.name} – ${AVTOR.role.toLowerCase()}`} h1={AVTOR.name} description={`${AVTOR.name} – ${AVTOR.role.toLowerCase()}. Кто собирает рейтинги автосервисов и пишет гиды Автобалла, что сделано и какие статьи вышли.`}>
   <p class="lead"><strong>{AVTOR.role}.</strong> {AVTOR.short}</p>
   <h2>Что сделано для рейтинга</h2>
   <ul>{AVTOR.did.map((d) => <li>{d}</li>)}</ul>
