@@ -1,4 +1,4 @@
-# avtoball.ru на VPS Beget: статика + приёмник заявок и свой счётчик (avtoball-api). Порты не публикуются – Caddy ходит по сети dzenbot_default.
+# avtoball.ru на VPS FirstVDS: статика + приёмник заявок и свой счётчик (avtoball-api). Порты не публикуются – Caddy ходит по сети caddy (общий Caddy в /opt/caddy).
 name: avtoball
 services:
   avtoball-web:
@@ -35,5 +35,5 @@ services:
     networks: [proxy]
 networks:
   proxy:
-    name: dzenbot_default
+    name: caddy
     external: true

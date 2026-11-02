@@ -3,7 +3,7 @@
 # ./deploy/vylozhit.sh – выложить текущий коммит (рабочая копия должна быть чистой); ./deploy/vylozhit.sh rollback – откат.
 set -euo pipefail
 cd "$(dirname "$0")/.."
-SSH=(ssh -i "$HOME/.config/avtoball/deploy_ed25519" -o BatchMode=yes avtoball-deploy@45.12.72.227)
+SSH=(ssh -i "$HOME/.config/avtoball/deploy_ed25519" -o BatchMode=yes avtoball-deploy@168.113.179.49)
 if [[ "${1:-}" == rollback ]]; then "${SSH[@]}" rollback; exit; fi
 [[ -z "$(git status --porcelain)" ]] || { echo "есть незакоммиченные правки – сначала коммит" >&2; exit 1; }
 export PATH="$HOME/.local/node/bin:$PATH"
@@ -12,5 +12,5 @@ grep -E "page\(s\)|Проверено" /tmp/avtoball-build.log
 # кабинет /admin/ – весь за логином и паролем (вход – ~/.config/avtoball/admin-login, admin-pass)
 node scripts/lock-admin.mjs
 COPYFILE_DISABLE=1 tar --no-xattrs -czf - -C dist . | "${SSH[@]}" "deploy $(git rev-parse --short=12 HEAD)"
-code=$(curl -sk -o /dev/null -w '%{http_code}' https://avtoball.45.12.72.227.nip.io/novosibirsk/)
+code=$(curl -sk -o /dev/null -w '%{http_code}' https://avtoball.168.113.179.49.nip.io/novosibirsk/)
 echo "проверочный адрес: $code"; [[ "$code" == 200 ]]

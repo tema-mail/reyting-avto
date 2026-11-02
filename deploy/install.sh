@@ -1,10 +1,10 @@
 #!/bin/zsh
-# Установка avtoball.ru на VPS Beget (повторный запуск безопасен): пользователь выкладки с ограниченным ключом,
+# Установка avtoball.ru на VPS FirstVDS (Москва, с 02.11.2026 вместо Beget) (повторный запуск безопасен): пользователь выкладки с ограниченным ключом,
 # папка выкладок, контейнер статики, блок в общем Caddy (с проверкой и откатом).
 # Сами выкладки делает GitHub Actions (.github/workflows/deploy.yml): tar dist | ssh avtoball-deploy "deploy <sha>".
 set -euo pipefail
-HOST="root@45.12.72.227"
-KEY="$HOME/.ssh/seo_factory_tunnel_ed25519"
+HOST="root@168.113.179.49"
+KEY="$HOME/.ssh/firstvds_msk_ed25519"
 DEPLOY_PUB="${DEPLOY_PUB:-$HOME/.config/avtoball/deploy_ed25519.pub}"
 HERE="$(cd "$(dirname "$0")" && pwd)"
 SSH=(ssh -i "$KEY" -o BatchMode=yes "$HOST")
@@ -27,18 +27,18 @@ scp -q -i "$KEY" "$HERE/receive.sh" "$HOST:/usr/local/bin/avtoball-receive"
 # 2. Блок в общем Caddy: только при парных метках, с проверкой конфигурации и откатом при неудачной перезагрузке
 cat "$HERE/avtoball.caddy" | "${SSH[@]}" '
   set -e
-  F=/opt/dzenbot/Caddyfile
-  BAK=/opt/dzenbot/Caddyfile.bak-avtoball-$(date +%Y%m%d%H%M%S)
+  F=/opt/caddy/Caddyfile
+  BAK=/opt/caddy/Caddyfile.bak-avtoball-$(date +%Y%m%d%H%M%S)
   cp "$F" "$BAK"
   [ "$(grep -c "^# >>> avtoball" "$F")" = "$(grep -c "^# <<< avtoball" "$F")" ] || { echo "Caddy: метки без пары, файл не изменён" >&2; exit 1; }
   awk "/^# >>> avtoball/{skip=1} !skip{print} /^# <<< avtoball/{skip=0}" "$F" > /tmp/Caddyfile.avtoball
   cat >> /tmp/Caddyfile.avtoball
-  if docker exec -i dzenbot-caddy-1 caddy validate --adapter caddyfile --config /dev/stdin < /tmp/Caddyfile.avtoball >/tmp/caddy-validate-avtoball.log 2>&1; then
+  if docker exec -i caddy caddy validate --adapter caddyfile --config /dev/stdin < /tmp/Caddyfile.avtoball >/tmp/caddy-validate-avtoball.log 2>&1; then
     cat /tmp/Caddyfile.avtoball > "$F"
-    if docker exec dzenbot-caddy-1 caddy reload --config /etc/caddy/Caddyfile --adapter caddyfile; then
+    if docker exec caddy caddy reload --config /etc/caddy/Caddyfile --adapter caddyfile; then
       echo "Caddy: блок avtoball применён"
     else
-      cat "$BAK" > "$F"; docker exec dzenbot-caddy-1 caddy reload --config /etc/caddy/Caddyfile --adapter caddyfile || true
+      cat "$BAK" > "$F"; docker exec caddy caddy reload --config /etc/caddy/Caddyfile --adapter caddyfile || true
       echo "Caddy: перезагрузка не прошла, прежний файл возвращён" >&2; exit 1
     fi
   else

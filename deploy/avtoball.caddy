@@ -18,7 +18,7 @@ www.avtoball.ru, http://www.avtoball.ru {
 	redir https://avtoball.ru{uri} permanent
 }
 # Проверочный адрес до переключения DNS: свой сертификат Caddy (curl -k), закрыт от поисковиков.
-avtoball.45.12.72.227.nip.io {
+avtoball.168.113.179.49.nip.io {
 	tls internal
 	header X-Robots-Tag "noindex, nofollow"
 	reverse_proxy avtoball-web:8080
