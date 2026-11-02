@@ -1,0 +1,651 @@
+{
+ "ниша": "Сервис BMW",
+ "ключ": "servis-bmw",
+ "запросы": [
+  "ремонт бмв"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт бмв": 28
+ },
+ "дата_съёма": "2026-11-03",
+ "источник": "Яндекс Карты, поиск по Красноярску (регион 62)",
+ "город": "krasnoyarsk",
+ "компании": [
+  {
+   "id": "119303090385",
+   "название": "Бош Сервис Автомастер",
+   "seoname": "bosh_servis_avtomaster",
+   "адрес": "Северное ш., 17Р, Красноярск",
+   "координаты": [
+    92.921048,
+    56.074691
+   ],
+   "рейтинг": 4.7,
+   "оценок": 720,
+   "отзывов": 398,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://бошсервис24.рф/"
+   ],
+   "телефоны": [
+    "+7 (391) 256-13-12",
+    "+7 (391) 200-10-58",
+    "+7 (391) 986-01-02"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт турбин"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "kaspi_red",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "sandblasting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bosh_servis_avtomaster/119303090385/",
+   "последний_отзыв": "2026-09-29",
+   "отзывов_за_12_мес_из_загруженных": 48,
+   "загружено_дат": 86
+  },
+  {
+   "id": "154820966834",
+   "название": "Mobil 1 центр",
+   "seoname": "mobil_1_tsentr",
+   "адрес": "Ястынская ул., 25, стр. 1",
+   "координаты": [
+    92.960362,
+    56.069726
+   ],
+   "рейтинг": 5,
+   "оценок": 390,
+   "отзывов": 238,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mobil1center-krasnoyarsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 988-90-14"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mobil_1_tsentr/154820966834/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 56,
+   "загружено_дат": 69
+  },
+  {
+   "id": "1755284437",
+   "название": "Кардан24.рф",
+   "seoname": "kardan24_rf",
+   "адрес": "ул. Маерчака, 103, стр. 1, Красноярск",
+   "координаты": [
+    92.835369,
+    56.043546
+   ],
+   "рейтинг": 5,
+   "оценок": 356,
+   "отзывов": 183,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://кардан24.рф/"
+   ],
+   "телефоны": [
+    "+7 (391) 286-75-40",
+    "+7 (953) 855-96-40"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт карданных валов",
+    "металлообработка"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "freight_car_service",
+    "guarantee",
+    "machining_process",
+    "milling",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kardan24_rf/1755284437/",
+   "последний_отзыв": "2026-09-14",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 82
+  },
+  {
+   "id": "1139467075",
+   "название": "АвтоУют",
+   "seoname": "avtouyut",
+   "адрес": "ул. Маерчака, 109М",
+   "координаты": [
+    92.826879,
+    56.046752
+   ],
+   "рейтинг": 4.5,
+   "оценок": 367,
+   "отзывов": 158,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ay-24.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 216-95-06"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "моторные масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtouyut/1139467075/",
+   "последний_отзыв": "2026-10-18",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 65
+  },
+  {
+   "id": "1102868808",
+   "название": "ЭлитАвто",
+   "seoname": "elitavto",
+   "адрес": "ул. Алексеева, 52",
+   "координаты": [
+    92.897308,
+    56.044408
+   ],
+   "рейтинг": 4.8,
+   "оценок": 651,
+   "отзывов": 152,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bmw-elitavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 989-13-30"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "мотосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_wash",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/elitavto/1102868808/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 94
+  },
+  {
+   "id": "1009998491",
+   "название": "Ампирус mobile",
+   "seoname": "ampirus_mobile",
+   "адрес": "Брянская ул., 132А",
+   "координаты": [
+    92.845097,
+    56.024308
+   ],
+   "рейтинг": 4.9,
+   "оценок": 136,
+   "отзывов": 97,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ampirus-mobile.ru/"
+   ],
+   "телефоны": [
+    "+7 (960) 769-10-66",
+    "+7 (391) 286-40-40"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "металлообработка",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "car_park",
+    "freight_car_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ampirus_mobile/1009998491/",
+   "последний_отзыв": "2026-09-21",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 84
+  },
+  {
+   "id": "151430750562",
+   "название": "Вагклуб24",
+   "seoname": "vagklub24",
+   "адрес": "Северное ш., 25, стр. 2",
+   "координаты": [
+    92.91194,
+    56.070061
+   ],
+   "рейтинг": 4.7,
+   "оценок": 173,
+   "отзывов": 80,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.vagclub24.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 448-57-35"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vagklub24/151430750562/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 63
+  },
+  {
+   "id": "1317497953",
+   "название": "Motorhaus",
+   "seoname": "motorhaus",
+   "адрес": "2-я Брянская ул., 12, стр. 4",
+   "координаты": [
+    92.845378,
+    56.038992
+   ],
+   "рейтинг": 4.5,
+   "оценок": 142,
+   "отзывов": 58,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://моторхаус.рф/",
+    "http://ауди.моторхаус.рф/",
+    "http://мерседес.моторхаус.рф/"
+   ],
+   "телефоны": [
+    "+7 (391) 254-90-90",
+    "+7 (391) 989-12-43",
+    "+7 (391) 989-13-90"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "torque_converter_repair",
+    "turbine repair",
+    "variator_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motorhaus/1317497953/",
+   "последний_отзыв": "2026-03-10",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 50
+  },
+  {
+   "id": "127490140352",
+   "название": "Авто Нова",
+   "seoname": "avto_nova",
+   "адрес": "ул. 3 Августа, 2",
+   "координаты": [
+    92.946394,
+    56.040183
+   ],
+   "рейтинг": 4.8,
+   "оценок": 36,
+   "отзывов": 30,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://newauto-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (960) 773-15-78"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "good_place",
+    "painting_car_rims",
+    "raptor_painting",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_nova/127490140352/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 42
+  },
+  {
+   "id": "152754958695",
+   "название": "Gs-AuTo",
+   "seoname": "gs_auto",
+   "адрес": "Северное ш., 9/2, Красноярск",
+   "координаты": [
+    92.939094,
+    56.078629
+   ],
+   "рейтинг": 5,
+   "оценок": 29,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gs-detail.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (963) 191-12-36",
+    "+7 (923) 367-67-67"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "basic_service",
+    "bike_parking",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "ceiling_cleaning",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "glass_polishing",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "ozonation",
+    "parking_disabled",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gs_auto/152754958695/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 35
+  },
+  {
+   "id": "1301977369",
+   "название": "Великая стена",
+   "seoname": "velikaya_stena",
+   "адрес": "ул. Авиаторов, 1, стр. 2, Красноярск",
+   "координаты": [
+    92.925228,
+    56.041186
+   ],
+   "рейтинг": 4,
+   "оценок": 27,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (996) 053-39-50"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "body_repair",
+    "car_park",
+    "guarantee",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/velikaya_stena/1301977369/",
+   "последний_отзыв": "2025-10-25",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 8
+  },
+  {
+   "id": "116911472681",
+   "название": "BMW Master",
+   "seoname": "bmw_master",
+   "адрес": "ул. 40 лет Победы, 2, стр. 1",
+   "координаты": [
+    92.93815,
+    56.114299
+   ],
+   "рейтинг": 4.5,
+   "оценок": 9,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://bmw-master.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (923) 291-97-99"
+   ],
+   "часы": "пн-пт 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bmw_master/116911472681/",
+   "последний_отзыв": "2026-01-30",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 6
+  }
+ ]
+}

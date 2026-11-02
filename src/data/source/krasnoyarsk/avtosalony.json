@@ -1,0 +1,1278 @@
+{
+ "ниша": "Автосалоны",
+ "ключ": "avtosalony",
+ "запросы": [
+  "автосалон"
+ ],
+ "найдено_в_яндексе": {
+  "автосалон": 51
+ },
+ "дата_съёма": "2026-11-03",
+ "источник": "Яндекс Карты, поиск по Красноярску (регион 62)",
+ "город": "krasnoyarsk",
+ "компании": [
+  {
+   "id": "1579079559",
+   "название": "АвтоЛиния",
+   "seoname": "avtoliniya",
+   "адрес": "ул. Мичурина, 28",
+   "координаты": [
+    92.971776,
+    55.997268
+   ],
+   "рейтинг": 4.6,
+   "оценок": 790,
+   "отзывов": 415,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoline.one/"
+   ],
+   "телефоны": [
+    "+7 (923) 286-67-81",
+    "+7 (923) 355-00-00"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–19:00; вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoliniya/1579079559/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 54
+  },
+  {
+   "id": "234625902797",
+   "название": "АвтоИмперия",
+   "seoname": "avtoimperiya",
+   "адрес": "просп. Котельникова, 9, стр. 1, посёлок Солонцы",
+   "координаты": [
+    92.836204,
+    56.054513
+   ],
+   "рейтинг": 4.7,
+   "оценок": 720,
+   "отзывов": 408,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://автоимперия24.рф/"
+   ],
+   "телефоны": [
+    "+7 (391) 250-53-33"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "disable_captions",
+    "disable_photopoi",
+    "loan_processing",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoimperiya/234625902797/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 47,
+   "загружено_дат": 72
+  },
+  {
+   "id": "106874680994",
+   "название": "Тойота центр",
+   "seoname": "toyota_tsentr",
+   "адрес": "Караульная ул., 37",
+   "координаты": [
+    92.87465,
+    56.044808
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1171,
+   "отзывов": 360,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://toyota-medved.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 290-29-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr/106874680994/",
+   "последний_отзыв": "2026-09-25",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 88
+  },
+  {
+   "id": "1015797601",
+   "название": "Бугач-Авто, Lada",
+   "seoname": "bugach_avto_lada",
+   "адрес": "ул. Калинина, 84А",
+   "координаты": [
+    92.779103,
+    56.045059
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1038,
+   "отзывов": 323,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bugach-auto.lada.ru/",
+    "https://restart.auto/dealers/bugach-auto"
+   ],
+   "телефоны": [
+    "+7 (391) 226-93-91",
+    "+7 (391) 268-25-80"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "gift_certificate",
+    "good_place",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bugach_avto_lada/1015797601/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 93
+  },
+  {
+   "id": "1681565588",
+   "название": "Хёндэ-центр Красноярск",
+   "seoname": "khyonde_tsentr_krasnoyarsk",
+   "адрес": "Караульная ул., 33",
+   "координаты": [
+    92.870407,
+    56.04404
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1145,
+   "отзывов": 323,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.hyundai-krsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 223-25-10",
+    "+7 (391) 222-22-23"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_wash",
+    "diesel_service",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/khyonde_tsentr_krasnoyarsk/1681565588/",
+   "последний_отзыв": "2026-09-17",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 94
+  },
+  {
+   "id": "1110602821",
+   "название": "Киа-центр Красноярск, официальный дилер Kia",
+   "seoname": "kia_tsentr_krasnoyarsk_ofitsialny_diler_kia",
+   "адрес": "ул. Маерчака, 105Г, Красноярск",
+   "координаты": [
+    92.835419,
+    56.045453
+   ],
+   "рейтинг": 4.5,
+   "оценок": 1028,
+   "отзывов": 298,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kia124.ru/",
+    "https://kia-center-krasnoyarsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (39198) 9-94-85",
+    "+7 (391) 257-78-87",
+    "+7 (391) 257-78-86"
+   ],
+   "часы": "пн 08:20–19:00; вт-сб 08:20–20:00; вс 08:20–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repair_of_refrigerated_trucks",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_tsentr_krasnoyarsk_ofitsialny_diler_kia/1110602821/",
+   "последний_отзыв": "2026-05-20",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 80
+  },
+  {
+   "id": "39239774912",
+   "название": "Медведь Лада",
+   "seoname": "medved_lada",
+   "адрес": "просп. Металлургов, 2М, Красноярск",
+   "координаты": [
+    92.969369,
+    56.061195
+   ],
+   "рейтинг": 4.7,
+   "оценок": 816,
+   "отзывов": 285,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://medved.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 290-27-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/medved_lada/39239774912/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 83
+  },
+  {
+   "id": "142363253454",
+   "название": "Авторум",
+   "seoname": "avtorum",
+   "адрес": "ул. Шахтёров, 51",
+   "координаты": [
+    92.891186,
+    56.039391
+   ],
+   "рейтинг": 5,
+   "оценок": 438,
+   "отзывов": 275,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://авторум24.рф/"
+   ],
+   "телефоны": [
+    "+7 (391) 250-95-55",
+    "+7 (391) 250-95-55"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtorum/142363253454/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 49
+  },
+  {
+   "id": "37291632017",
+   "название": "Кировский",
+   "seoname": "kirovskiy",
+   "адрес": "просп. имени Газеты Красноярский Рабочий, 160А, Красноярск",
+   "координаты": [
+    92.908914,
+    55.998524
+   ],
+   "рейтинг": 5,
+   "оценок": 283,
+   "отзывов": 242,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://авто-кировский.рф/"
+   ],
+   "телефоны": [
+    "+7 (391) 988-92-87"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "loan_processing",
+    "parking_disabled",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kirovskiy/37291632017/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 50,
+   "загружено_дат": 62
+  },
+  {
+   "id": "1106207841",
+   "название": "Лада центр Сильвер",
+   "seoname": "lada_tsentr_silver",
+   "адрес": "ул. Партизана Железняка, 25, Красноярск",
+   "координаты": [
+    92.925975,
+    56.034137
+   ],
+   "рейтинг": 4.4,
+   "оценок": 681,
+   "отзывов": 235,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ladacentr24.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 986-95-41",
+    "+7 (499) 112-26-16"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada_tsentr_silver/1106207841/",
+   "последний_отзыв": "2026-09-08",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 84
+  },
+  {
+   "id": "1127823238",
+   "название": "Skoda, Медведь-Восток",
+   "seoname": "skoda_medved_vostok",
+   "адрес": "ул. 9 Мая, 72",
+   "координаты": [
+    92.898363,
+    56.051498
+   ],
+   "рейтинг": 4.8,
+   "оценок": 561,
+   "отзывов": 171,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://skoda.medved-vostok.ru/",
+    "https://medved-chery.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 212-87-28",
+    "+7 (391) 291-12-91"
+   ],
+   "часы": "пн-сб 09:00–21:00; вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skoda_medved_vostok/1127823238/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 84
+  },
+  {
+   "id": "40925963928",
+   "название": "АвтоПрайс",
+   "seoname": "avtoprays",
+   "адрес": "Комсомольский просп., 1П",
+   "координаты": [
+    92.937715,
+    56.057579
+   ],
+   "рейтинг": 4.5,
+   "оценок": 401,
+   "отзывов": 163,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://24автопрайс.рф/"
+   ],
+   "телефоны": [
+    "+7 (902) 943-19-36"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "гидроциклы",
+    "вездеходы, квадроциклы"
+   ],
+   "признаки": [
+    "car_park",
+    "delivery",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprays/40925963928/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 73
+  },
+  {
+   "id": "194432180472",
+   "название": "Alex Avto",
+   "seoname": "alex_avto",
+   "адрес": "ул. Ладо Кецховели, 22А",
+   "координаты": [
+    92.814369,
+    56.009529
+   ],
+   "рейтинг": 5,
+   "оценок": 151,
+   "отзывов": 146,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://alex-avto24.ru/"
+   ],
+   "телефоны": [
+    "+7 (960) 769-13-79",
+    "+7 (391) 208-99-55"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alex_avto/194432180472/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 41,
+   "загружено_дат": 45
+  },
+  {
+   "id": "98919107164",
+   "название": "Geely Медведь Альянс",
+   "seoname": "geely_medved_alyans",
+   "адрес": "Караульная ул., 33",
+   "координаты": [
+    92.870336,
+    56.043768
+   ],
+   "рейтинг": 4.9,
+   "оценок": 358,
+   "отзывов": 132,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-medved.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 256-12-62",
+    "+7 (391) 986-60-21"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_medved_alyans/98919107164/",
+   "последний_отзыв": "2026-08-24",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 91
+  },
+  {
+   "id": "90948766429",
+   "название": "Автодом",
+   "seoname": "avtodom",
+   "адрес": "просп. Котельникова, 13А, посёлок Солонцы",
+   "координаты": [
+    92.837486,
+    56.049774
+   ],
+   "рейтинг": 4.9,
+   "оценок": 178,
+   "отзывов": 107,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://автодом24.com/",
+    "https://auto.drom.ru/autodom_krk/"
+   ],
+   "телефоны": [
+    "+7 (391) 256-13-17",
+    "+7 (950) 430-73-83"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "prayer_room",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodom/90948766429/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 52,
+   "загружено_дат": 62
+  },
+  {
+   "id": "68712787116",
+   "название": "Автореспублика",
+   "seoname": "avtorespublika",
+   "адрес": "Енисейский тракт, 16",
+   "координаты": [
+    92.936927,
+    56.088422
+   ],
+   "рейтинг": 4.6,
+   "оценок": 178,
+   "отзывов": 88,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://автореспублика.рф/"
+   ],
+   "телефоны": [
+    "+7 (391) 288-42-88",
+    "+7 (953) 588-42-88"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtorespublika/68712787116/"
+  },
+  {
+   "id": "45729712787",
+   "название": "Чанган Центр Медведь Север",
+   "seoname": "changan_tsentr_medved_sever",
+   "адрес": "Северное ш., 19Д, Красноярск",
+   "координаты": [
+    92.918665,
+    56.072936
+   ],
+   "рейтинг": 5,
+   "оценок": 162,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sales.medved-changanauto.ru/",
+    "https://medved-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 228-75-96"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_medved_sever/45729712787/"
+  },
+  {
+   "id": "235789314901",
+   "название": "Omoda Медведь Альянс",
+   "seoname": "omoda_medved_alyans",
+   "адрес": "Караульная ул., 33",
+   "координаты": [
+    92.870075,
+    56.043996
+   ],
+   "рейтинг": 4.9,
+   "оценок": 158,
+   "отзывов": 55,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://omoda-medved.ru/",
+    "https://cars.omoda-medved.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 986-97-24"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_medved_alyans/235789314901/"
+  },
+  {
+   "id": "147073017288",
+   "название": "АвтоЛидер",
+   "seoname": "avtolider",
+   "адрес": "Караульная ул., 41",
+   "координаты": [
+    92.877888,
+    56.045209
+   ],
+   "рейтинг": 4.1,
+   "оценок": 87,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (963) 191-88-44",
+    "+7 (391) 271-88-44",
+    "+7 (963) 191-66-99"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "авторынок",
+    "страхование автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "pickup",
+    "street_entrance",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtolider/147073017288/"
+  },
+  {
+   "id": "172425219005",
+   "название": "Jaecoo Медведь Альянс",
+   "seoname": "jaecoo_medved_alyans",
+   "адрес": "Караульная ул., 33",
+   "координаты": [
+    92.870807,
+    56.043935
+   ],
+   "рейтинг": 4.9,
+   "оценок": 65,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.jaecoo-medved.ru/",
+    "https://cars.omoda-medved.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 988-95-81"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jaecoo_medved_alyans/172425219005/"
+  },
+  {
+   "id": "7767566344",
+   "название": "Медведь АТЦ, Москвич",
+   "seoname": "medved_atts_moskvich",
+   "адрес": "ул. Копылова, 57, Красноярск",
+   "координаты": [
+    92.812893,
+    56.012184
+   ],
+   "рейтинг": 4.9,
+   "оценок": 89,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://moskvich-medved.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 290-21-01"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "страхование автомобилей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/medved_atts_moskvich/7767566344/"
+  },
+  {
+   "id": "211851402390",
+   "название": "Азия Экспресс Авто",
+   "seoname": "aziya_ekspress_avto",
+   "адрес": "ул. Партизана Железняка, 35А",
+   "координаты": [
+    92.93048,
+    56.035371
+   ],
+   "рейтинг": 5,
+   "оценок": 30,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://asiaexpressauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 838-45-55"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aziya_ekspress_avto/211851402390/"
+  },
+  {
+   "id": "122573621550",
+   "название": "Медведь-Восток, Tenet",
+   "seoname": "medved_vostok_tenet",
+   "адрес": "ул. 9 Мая, 72",
+   "координаты": [
+    92.897694,
+    56.051441
+   ],
+   "рейтинг": 4.9,
+   "оценок": 29,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://medved-tenet.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 269-79-07",
+    "+7 (391) 988-95-41"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "electric car charging station",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/medved_vostok_tenet/122573621550/"
+  },
+  {
+   "id": "100353049959",
+   "название": "Чанган Центр на Копылова",
+   "seoname": "changan_tsentr_na_kopylova",
+   "адрес": "ул. Копылова, 57",
+   "координаты": [
+    92.812812,
+    56.012219
+   ],
+   "рейтинг": 4.7,
+   "оценок": 29,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://medved-changanauto.ru/",
+    "https://sales.medved-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 988-64-96"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_na_kopylova/100353049959/"
+  },
+  {
+   "id": "219751094698",
+   "название": "Покровский",
+   "seoname": "pokrovskiy",
+   "адрес": "просп. Металлургов, 2Д, стр. 150",
+   "координаты": [
+    92.985221,
+    56.070146
+   ],
+   "рейтинг": 3.8,
+   "оценок": 228,
+   "отзывов": 60,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://autopokrov.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 277-76-00",
+    "+7 (913) 532-61-11",
+    "+7 (391) 250-61-11"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "brokencars",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pokrovskiy/219751094698/"
+  }
+ ]
+}

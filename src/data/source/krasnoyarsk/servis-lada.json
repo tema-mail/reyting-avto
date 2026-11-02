@@ -1,0 +1,1650 @@
+{
+ "ниша": "Сервис Lada",
+ "ключ": "servis-lada",
+ "запросы": [
+  "ремонт лада",
+  "ремонт ваз"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт лада": 46,
+  "ремонт ваз": 62
+ },
+ "дата_съёма": "2026-11-03",
+ "источник": "Яндекс Карты, поиск по Красноярску (регион 62)",
+ "город": "krasnoyarsk",
+ "компании": [
+  {
+   "id": "1015797601",
+   "название": "Бугач-Авто, Lada",
+   "seoname": "bugach_avto_lada",
+   "адрес": "ул. Калинина, 84А",
+   "координаты": [
+    92.779103,
+    56.045059
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1038,
+   "отзывов": 323,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bugach-auto.lada.ru/",
+    "https://restart.auto/dealers/bugach-auto"
+   ],
+   "телефоны": [
+    "+7 (391) 226-93-91",
+    "+7 (391) 268-25-80"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "gift_certificate",
+    "good_place",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bugach_avto_lada/1015797601/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 93
+  },
+  {
+   "id": "39239774912",
+   "название": "Медведь Лада",
+   "seoname": "medved_lada",
+   "адрес": "просп. Металлургов, 2М, Красноярск",
+   "координаты": [
+    92.969369,
+    56.061195
+   ],
+   "рейтинг": 4.7,
+   "оценок": 816,
+   "отзывов": 285,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://medved.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 290-27-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/medved_lada/39239774912/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 83
+  },
+  {
+   "id": "1141786291",
+   "название": "Реставрация",
+   "seoname": "restavratsiya",
+   "адрес": "Семафорная ул., 201В",
+   "координаты": [
+    92.872102,
+    55.984146
+   ],
+   "рейтинг": 4.4,
+   "оценок": 692,
+   "отзывов": 284,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://updateauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 217-88-88",
+    "+7 (962) 080-57-57",
+    "+7 (908) 024-57-57",
+    "+7 (923) 320-57-57",
+    "+7 (983) 599-88-88"
+   ],
+   "часы": "ежедневно, 09:00–20:08",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "disable_photopoi",
+    "gift_certificate",
+    "guarantee",
+    "hydraulic_cylinders",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/restavratsiya/1141786291/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 73
+  },
+  {
+   "id": "154820966834",
+   "название": "Mobil 1 центр",
+   "seoname": "mobil_1_tsentr",
+   "адрес": "Ястынская ул., 25, стр. 1, Красноярск",
+   "координаты": [
+    92.960362,
+    56.069726
+   ],
+   "рейтинг": 5,
+   "оценок": 390,
+   "отзывов": 238,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mobil1center-krasnoyarsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 988-90-14"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mobil_1_tsentr/154820966834/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 56,
+   "загружено_дат": 69
+  },
+  {
+   "id": "1106207841",
+   "название": "Лада центр Сильвер",
+   "seoname": "lada_tsentr_silver",
+   "адрес": "ул. Партизана Железняка, 25, Красноярск",
+   "координаты": [
+    92.925975,
+    56.034137
+   ],
+   "рейтинг": 4.4,
+   "оценок": 681,
+   "отзывов": 235,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ladacentr24.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 986-95-41",
+    "+7 (499) 112-26-16"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada_tsentr_silver/1106207841/",
+   "последний_отзыв": "2026-09-08",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 84
+  },
+  {
+   "id": "1317684219",
+   "название": "ЕвфратАвто",
+   "seoname": "yevfratavto",
+   "адрес": "Короткий пер., 3А, Красноярск",
+   "координаты": [
+    92.863705,
+    56.01759
+   ],
+   "рейтинг": 5,
+   "оценок": 349,
+   "отзывов": 196,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://evfratavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 271-44-11",
+    "+7 (908) 201-31-11",
+    "+7 (965) 915-09-21"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yevfratavto/1317684219/",
+   "последний_отзыв": "2026-09-29",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 77
+  },
+  {
+   "id": "139103007068",
+   "название": "АвтоПочини",
+   "seoname": "avtopochini",
+   "адрес": "просп. имени Газеты Красноярский Рабочий, 30А, стр. 60",
+   "координаты": [
+    92.996691,
+    56.020643
+   ],
+   "рейтинг": 4.9,
+   "оценок": 289,
+   "отзывов": 195,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtopochini.clients.site/"
+   ],
+   "телефоны": [
+    "8 (800) 101-81-35",
+    "+7 (391) 241-84-24",
+    "+7 (902) 975-77-96",
+    "+7 (908) 201-29-88",
+    "+7 (901) 111-99-15"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtopochini/139103007068/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 81
+  },
+  {
+   "id": "73018728566",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Калинина, 88М",
+   "координаты": [
+    92.772577,
+    56.047459
+   ],
+   "рейтинг": 4.4,
+   "оценок": 362,
+   "отзывов": 175,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://krasnoyarsk.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 976-62-14"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/73018728566/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 96
+  },
+  {
+   "id": "42474264166",
+   "название": "Motul",
+   "seoname": "motul",
+   "адрес": "Телевизорная ул., 5И",
+   "координаты": [
+    92.79404,
+    56.026921
+   ],
+   "рейтинг": 5,
+   "оценок": 211,
+   "отзывов": 147,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://auto-motul.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 924-59-43"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cylinder_blocks_boring",
+    "field_service",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motul/42474264166/",
+   "последний_отзыв": "2026-08-28",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 90
+  },
+  {
+   "id": "25910244755",
+   "название": "Траектория",
+   "seoname": "trayektoriya",
+   "адрес": "ул. Мате Залки, 3, микрорайон Северный",
+   "координаты": [
+    92.946422,
+    56.067069
+   ],
+   "рейтинг": 4.7,
+   "оценок": 308,
+   "отзывов": 136,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://traektoria24.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 269-97-92"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосигнализация",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hydroblock_repair",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "torque_converter_repair",
+    "urea",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/trayektoriya/25910244755/",
+   "последний_отзыв": "2026-06-25",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 70
+  },
+  {
+   "id": "153736413278",
+   "название": "Прайм Авто",
+   "seoname": "praym_avto",
+   "адрес": "Семафорная ул., 80, стр. 1",
+   "координаты": [
+    92.855233,
+    55.981786
+   ],
+   "рейтинг": 5,
+   "оценок": 188,
+   "отзывов": 130,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://24prim.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 229-81-33",
+    "+7 (391) 229-81-41"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/praym_avto/153736413278/",
+   "последний_отзыв": "2026-10-25",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 52
+  },
+  {
+   "id": "1009998491",
+   "название": "Ампирус mobile",
+   "seoname": "ampirus_mobile",
+   "адрес": "Брянская ул., 132А",
+   "координаты": [
+    92.845097,
+    56.024308
+   ],
+   "рейтинг": 4.9,
+   "оценок": 136,
+   "отзывов": 97,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ampirus-mobile.ru/"
+   ],
+   "телефоны": [
+    "+7 (960) 769-10-66",
+    "+7 (391) 286-40-40"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "металлообработка",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "car_park",
+    "freight_car_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ampirus_mobile/1009998491/",
+   "последний_отзыв": "2026-09-21",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 84
+  },
+  {
+   "id": "1174591688",
+   "название": "KrasGir",
+   "seoname": "krasgir",
+   "адрес": "Озёрная ул., 30Б",
+   "координаты": [
+    92.840267,
+    56.025911
+   ],
+   "рейтинг": 4.7,
+   "оценок": 124,
+   "отзывов": 94,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://krasgir.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 208-80-22",
+    "+7 (391) 251-54-51",
+    "+7 (391) 232-47-17"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "freight_car_service",
+    "guarantee",
+    "injectors_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "repair_of_refrigerated_trucks",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/krasgir/1174591688/",
+   "последний_отзыв": "2026-02-21",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 81
+  },
+  {
+   "id": "43552619027",
+   "название": "Карпарк",
+   "seoname": "karpark",
+   "адрес": "Комсомольский просп., 1К, Красноярск",
+   "координаты": [
+    92.937725,
+    56.058694
+   ],
+   "рейтинг": 4.6,
+   "оценок": 177,
+   "отзывов": 88,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://krasnoyarsk.re.parts/service"
+   ],
+   "телефоны": [
+    "+7 (391) 241-56-14",
+    "+7 (391) 205-45-04"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт мототехники",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/karpark/43552619027/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 63
+  },
+  {
+   "id": "102472275924",
+   "название": "УАЗ центр",
+   "seoname": "uaz_tsentr",
+   "адрес": "ул. Калинина, 159",
+   "координаты": [
+    92.75417,
+    56.05122
+   ],
+   "рейтинг": 4.5,
+   "оценок": 202,
+   "отзывов": 85,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://krasuaz24.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 047-30-60",
+    "+7 (391) 202-12-02"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "смазочные материалы",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automotive_products",
+    "car_park",
+    "chip_tuning",
+    "gift_certificate",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/uaz_tsentr/102472275924/",
+   "последний_отзыв": "2026-07-27",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 61
+  },
+  {
+   "id": "69737836787",
+   "название": "Сибирский",
+   "seoname": "sibirskiy",
+   "адрес": "Караульная ул., 27/1, Красноярск",
+   "координаты": [
+    92.86529,
+    56.043
+   ],
+   "рейтинг": 4.4,
+   "оценок": 159,
+   "отзывов": 74,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://auto-servis24.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 209-99-88",
+    "+7 (962) 083-63-02",
+    "+7 (391) 231-83-83",
+    "+7 (391) 271-29-96",
+    "+7 (963) 191-29-96",
+    "+7 (391) 251-99-88"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "kaspi_red",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "termobudki",
+    "thickness_gauge_checking",
+    "toilet",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sibirskiy/69737836787/"
+  },
+  {
+   "id": "221727609017",
+   "название": "АвтоЛегион",
+   "seoname": "avtolegion",
+   "адрес": "4-я Шинная ул., 20Г, стр. 2",
+   "координаты": [
+    93.042089,
+    56.000811
+   ],
+   "рейтинг": 4.7,
+   "оценок": 190,
+   "отзывов": 70,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://autolegion24.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 242-11-34",
+    "+7 (902) 990-11-34"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtolegion/221727609017/"
+  },
+  {
+   "id": "45361212265",
+   "название": "Точка сервиса",
+   "seoname": "tochka_servisa",
+   "адрес": "2-я Брянская ул., 47А, стр. 4",
+   "координаты": [
+    92.854545,
+    56.04165
+   ],
+   "рейтинг": 4.9,
+   "оценок": 123,
+   "отзывов": 70,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://точкасервиса.рф/"
+   ],
+   "телефоны": [
+    "+7 (913) 507-01-20"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_servisa/45361212265/"
+  },
+  {
+   "id": "73476750411",
+   "название": "С. Т. О. друзей",
+   "seoname": "s_t_o_druzey",
+   "адрес": "Семафорная ул., 76Б, Красноярск",
+   "координаты": [
+    92.847458,
+    55.98154
+   ],
+   "рейтинг": 4.8,
+   "оценок": 120,
+   "отзывов": 64,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://stodruz.ru/"
+   ],
+   "телефоны": [
+    "+7 (960) 769-11-82"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_wash",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/s_t_o_druzey/73476750411/"
+  },
+  {
+   "id": "1088845300",
+   "название": "Все Авто",
+   "seoname": "vse_avto",
+   "адрес": "Дудинская ул., 1, стр. 1",
+   "координаты": [
+    92.901876,
+    56.026193
+   ],
+   "рейтинг": 4.6,
+   "оценок": 100,
+   "отзывов": 52,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (391) 272-59-53",
+    "+7 (391) 271-82-71"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт двигателей",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vse_avto/1088845300/"
+  },
+  {
+   "id": "72436561237",
+   "название": "Лада",
+   "seoname": "lada",
+   "адрес": "4-я Шинная ул., 20",
+   "координаты": [
+    93.044543,
+    56.000943
+   ],
+   "рейтинг": 4.2,
+   "оценок": 145,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://kraslada.su/"
+   ],
+   "телефоны": [
+    "+7 (391) 266-98-99"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "disable_captions",
+    "disable_photopoi",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada/72436561237/"
+  },
+  {
+   "id": "1082197590",
+   "название": "Красмоторс",
+   "seoname": "krasmotors",
+   "адрес": "ул. Мечникова, 54, стр. 6",
+   "координаты": [
+    92.801267,
+    56.025936
+   ],
+   "рейтинг": 4.9,
+   "оценок": 90,
+   "отзывов": 32,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://2546154.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 539-61-54",
+    "+7 (913) 923-01-39"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "disable_photopoi",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/krasmotors/1082197590/"
+  },
+  {
+   "id": "238247894306",
+   "название": "Кузовной ремонт Бугач-Авто",
+   "seoname": "kuzovnoy_remont_bugach_avto",
+   "адрес": "ул. Калинина, 84А",
+   "координаты": [
+    92.779591,
+    56.045374
+   ],
+   "рейтинг": 4.6,
+   "оценок": 116,
+   "отзывов": 31,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://bugach-auto.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 269-75-31"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт"
+   ],
+   "признаки": [
+    "authorized_service",
+    "good_place",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kuzovnoy_remont_bugach_avto/238247894306/"
+  },
+  {
+   "id": "127490140352",
+   "название": "Авто Нова",
+   "seoname": "avto_nova",
+   "адрес": "ул. 3 Августа, 2, Красноярск",
+   "координаты": [
+    92.946394,
+    56.040183
+   ],
+   "рейтинг": 4.8,
+   "оценок": 36,
+   "отзывов": 30,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://newauto-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (960) 773-15-78"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "good_place",
+    "painting_car_rims",
+    "raptor_painting",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_nova/127490140352/"
+  },
+  {
+   "id": "152754958695",
+   "название": "Gs-AuTo",
+   "seoname": "gs_auto",
+   "адрес": "Северное ш., 9/2, Красноярск",
+   "координаты": [
+    92.939094,
+    56.078629
+   ],
+   "рейтинг": 5,
+   "оценок": 29,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gs-detail.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (963) 191-12-36",
+    "+7 (923) 367-67-67"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "basic_service",
+    "bike_parking",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "ceiling_cleaning",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "glass_polishing",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "ozonation",
+    "parking_disabled",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gs_auto/152754958695/"
+  },
+  {
+   "id": "119578074919",
+   "название": "Икс Драйв",
+   "seoname": "iks_drayv",
+   "адрес": "ул. Сурикова, 54Е, Красноярск",
+   "координаты": [
+    92.876693,
+    56.017242
+   ],
+   "рейтинг": 4.7,
+   "оценок": 75,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://x-drive.org/"
+   ],
+   "телефоны": [
+    "+7 (913) 033-43-33"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт стартеров и генераторов",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/iks_drayv/119578074919/"
+  },
+  {
+   "id": "29769897085",
+   "название": "Vag- центр",
+   "seoname": "vag_tsentr",
+   "адрес": "Брянская ул., 65, Красноярск",
+   "координаты": [
+    92.859659,
+    56.019505
+   ],
+   "рейтинг": 4.7,
+   "оценок": 22,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://вагцентр.рф/"
+   ],
+   "телефоны": [
+    "+7 (950) 438-77-33"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vag_tsentr/29769897085/"
+  },
+  {
+   "id": "223456519178",
+   "название": "Кузовной цех 24",
+   "seoname": "kuzovnoy_tsekh_24",
+   "адрес": "ул. Гайдашовка, 3/1, Красноярск",
+   "координаты": [
+    92.951728,
+    56.066736
+   ],
+   "рейтинг": 4.8,
+   "оценок": 19,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kuzovnoi24.ru/"
+   ],
+   "телефоны": [
+    "+7 (391) 988-67-64"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "детейлинг"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "bike_parking",
+    "bumper_repair",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "glass_polishing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "street_entrance",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kuzovnoy_tsekh_24/223456519178/"
+  },
+  {
+   "id": "1285443416",
+   "название": "101",
+   "seoname": "101",
+   "адрес": "ул. Мечникова, 57А/1",
+   "координаты": [
+    92.805016,
+    56.025144
+   ],
+   "рейтинг": 4.3,
+   "оценок": 23,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (950) 989-95-95"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/101/1285443416/"
+  },
+  {
+   "id": "103150303960",
+   "название": "Автосервис 505",
+   "seoname": "avtoservis_505",
+   "адрес": "Грунтовая ул., 17М, Красноярск",
+   "координаты": [
+    92.973603,
+    55.986512
+   ],
+   "рейтинг": 4.2,
+   "оценок": 4,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-505.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (908) 019-99-59",
+    "+7 (950) 976-49-44"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "field_service",
+    "guarantee",
+    "home_visit",
+    "hybrid_car_repair",
+    "injector_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_505/103150303960/"
+  },
+  {
+   "id": "176063536236",
+   "название": "Стандарт",
+   "seoname": "standart",
+   "адрес": "ул. Лесников, 6Г, Красноярск",
+   "координаты": [
+    92.813863,
+    55.977642
+   ],
+   "рейтинг": 4.1,
+   "оценок": 3,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://stdauto24.ru/"
+   ],
+   "телефоны": [
+    "+7 (960) 769-11-48"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/standart/176063536236/"
+  }
+ ]
+}
