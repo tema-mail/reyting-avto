@@ -13,7 +13,7 @@ const HOST = 'https:avtoball.ru:443';
 const TOKEN = (process.env.YANDEX_TOKEN || readFileSync(`${homedir()}/.config/yandex/token`, 'utf8')).trim();
 const H = { Authorization: `OAuth ${TOKEN}` };
 const PERIODS = { week: 7, month: 30, quarter: 90, year: 365 };
-const CITY_SLUGS = ['moskva', 'sankt-peterburg', 'novosibirsk', 'ekaterinburg', 'kazan', 'krasnoyarsk', 'nizhniy-novgorod', 'chelyabinsk', 'ufa', 'krasnodar', 'samara', 'rostov-na-donu', 'omsk', 'voronezh', 'perm', 'volgograd'];
+const CITY_SLUGS = ['moskva', 'sankt-peterburg', 'novosibirsk', 'ekaterinburg', 'kazan', 'krasnoyarsk', 'nizhniy-novgorod', 'chelyabinsk', 'ufa', 'krasnodar', 'samara', 'rostov-na-donu', 'omsk', 'barnaul', 'voronezh', 'perm', 'volgograd'];
 
 async function get(url) {
   for (let i = 0; i < 3; i++) {

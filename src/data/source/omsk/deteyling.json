@@ -1,0 +1,1675 @@
+{
+ "ниша": "Детейлинг",
+ "ключ": "deteyling",
+ "запросы": [
+  "детейлинг",
+  "полировка кузова керамика"
+ ],
+ "найдено_в_яндексе": {
+  "детейлинг": 45,
+  "полировка кузова керамика": 63
+ },
+ "дата_съёма": "2026-11-03",
+ "источник": "Яндекс Карты, поиск по Омску (регион 66)",
+ "город": "omsk",
+ "компании": [
+  {
+   "id": "1581605321",
+   "название": "Аквабан",
+   "seoname": "akvaban",
+   "адрес": "ул. Конева, 18",
+   "координаты": [
+    73.317666,
+    54.979403
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1727,
+   "отзывов": 814,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://аквабан.рф/"
+   ],
+   "телефоны": [
+    "+7 (3812) 95-50-55"
+   ],
+   "часы": "пн,вт 03:00–02:00, перерывы 09:40–10:00, 21:40–22:00; ср 03:00–01:00, перерывы 09:40–10:00, 21:40–22:00; чт-вс 03:00–02:00, перерывы 09:40–10:00, 21:40–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akvaban/1581605321/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 44,
+   "загружено_дат": 57
+  },
+  {
+   "id": "112960876750",
+   "название": "Вмята",
+   "seoname": "vmyata",
+   "адрес": "Красноярский тракт, 53",
+   "координаты": [
+    73.340995,
+    55.034342
+   ],
+   "рейтинг": 5,
+   "оценок": 286,
+   "отзывов": 255,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://vmyataomsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (900) 679-15-02"
+   ],
+   "часы": "ежедневно, 09:00–18:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vmyata/112960876750/",
+   "последний_отзыв": "2026-10-31",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 59
+  },
+  {
+   "id": "197608061568",
+   "название": "ВмятинОфф",
+   "seoname": "vmyatinoff",
+   "адрес": "ул. Авиагородок, 9, корп. 3",
+   "координаты": [
+    73.319991,
+    54.951989
+   ],
+   "рейтинг": 5,
+   "оценок": 209,
+   "отзывов": 142,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://vmyatin.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 767-77-74"
+   ],
+   "часы": "пн-пт 08:00–17:00, перерыв 11:30–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг"
+   ],
+   "признаки": [
+    "good_place",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vmyatinoff/197608061568/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 73
+  },
+  {
+   "id": "169661984470",
+   "название": "Блеск",
+   "seoname": "blesk",
+   "адрес": "5-я Северная ул., 106",
+   "координаты": [
+    73.369739,
+    55.006988
+   ],
+   "рейтинг": 4.7,
+   "оценок": 223,
+   "отзывов": 114,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://detaill.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (950) 794-37-11",
+    "+7 (3812) 48-58-87"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автохимчистка",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "access_by_agreement",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/blesk/169661984470/",
+   "последний_отзыв": "2026-06-02",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 83
+  },
+  {
+   "id": "39742133522",
+   "название": "АвтоШум",
+   "seoname": "avtoshum",
+   "адрес": "просп. Комарова, 13Б",
+   "координаты": [
+    73.298185,
+    54.988087
+   ],
+   "рейтинг": 5,
+   "оценок": 135,
+   "отзывов": 105,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://автошум.рф/"
+   ],
+   "телефоны": [
+    "+7 (939) 113-61-73"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Студия тюнинга",
+    "детейлинг",
+    "изоляционные работы"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "autovinil",
+    "call_button",
+    "car_armoring",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoshum/39742133522/",
+   "последний_отзыв": "2026-09-29",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 67
+  },
+  {
+   "id": "1105701768",
+   "название": "ЭстетикАвто",
+   "seoname": "estetikavto",
+   "адрес": "Барабинская ул., 44, корп. 4",
+   "координаты": [
+    73.513371,
+    54.941611
+   ],
+   "рейтинг": 4.9,
+   "оценок": 140,
+   "отзывов": 103,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (905) 099-99-09",
+    "+7 (3812) 59-44-36",
+    "+7 (951) 412-39-08"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "call_button",
+    "car_park",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/estetikavto/1105701768/",
+   "последний_отзыв": "2026-09-17",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 69
+  },
+  {
+   "id": "70842338750",
+   "название": "MG Style",
+   "seoname": "mg_style",
+   "адрес": "ул. Дмитриева, 20, корп. 3",
+   "координаты": [
+    73.299575,
+    54.977734
+   ],
+   "рейтинг": 4.7,
+   "оценок": 235,
+   "отзывов": 102,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://mgstyle.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 105-44-03",
+    "+7 (950) 781-86-46"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автосвет",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "armoring_headlights",
+    "bike_parking",
+    "call_button",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mg_style/70842338750/",
+   "последний_отзыв": "2026-08-11",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 70
+  },
+  {
+   "id": "240651315735",
+   "название": "Ssv Detailing",
+   "seoname": "ssv_detailing",
+   "адрес": "2-я Барнаульская ул., 97, посёлок Амурский",
+   "координаты": [
+    73.426031,
+    55.024558
+   ],
+   "рейтинг": 5,
+   "оценок": 110,
+   "отзывов": 91,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://detailingomsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 951-99-66"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "оклейка машин"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "bike_parking",
+    "car_armoring",
+    "car_park",
+    "car_valeting",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ssv_detailing/240651315735/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 86
+  },
+  {
+   "id": "50388713713",
+   "название": "Taurus",
+   "seoname": "taurus",
+   "адрес": "Учебная ул., 77",
+   "координаты": [
+    73.390969,
+    54.977893
+   ],
+   "рейтинг": 4.5,
+   "оценок": 242,
+   "отзывов": 81,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.taurus-center.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 28-81-11",
+    "+7 (913) 623-60-50",
+    "+7 (3812) 28-81-88",
+    "+7 (913) 628-81-88"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "химчистка",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "gift_certificate",
+    "glass_polishing",
+    "leather_repair",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/taurus/50388713713/",
+   "последний_отзыв": "2026-06-09",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 50
+  },
+  {
+   "id": "1060141167",
+   "название": "Вмятин нет 55",
+   "seoname": "vmyatin_net_55",
+   "адрес": "4-я ул. Челюскинцев, 1, посёлок Амурский",
+   "координаты": [
+    73.418421,
+    55.010434
+   ],
+   "рейтинг": 5,
+   "оценок": 89,
+   "отзывов": 69,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vmyatinnet55.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 685-32-81"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг",
+    "оклейка машин"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "good_place",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vmyatin_net_55/1060141167/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 43,
+   "загружено_дат": 80
+  },
+  {
+   "id": "92997709420",
+   "название": "АСК Авто",
+   "seoname": "ask_avto",
+   "адрес": "4-я Дачная ул., 17/2",
+   "координаты": [
+    73.348611,
+    55.012998
+   ],
+   "рейтинг": 4.7,
+   "оценок": 147,
+   "отзывов": 67,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://askauto55.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 29-92-42",
+    "+7 (950) 215-51-52"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ask_avto/92997709420/",
+   "последний_отзыв": "2026-09-23",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 57
+  },
+  {
+   "id": "109964252325",
+   "название": "55 Тонер",
+   "seoname": "55_toner",
+   "адрес": "Краснофлотская ул., 24",
+   "координаты": [
+    73.378165,
+    54.989429
+   ],
+   "рейтинг": 4.8,
+   "оценок": 138,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 826-00-92"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг"
+   ],
+   "признаки": [
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/55_toner/109964252325/",
+   "последний_отзыв": "2026-09-19",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 52
+  },
+  {
+   "id": "48087489262",
+   "название": "Аларм-Сервис",
+   "seoname": "alarm_servis",
+   "адрес": "ул. Маршала Жукова, 111",
+   "координаты": [
+    73.393154,
+    54.965187
+   ],
+   "рейтинг": 4.9,
+   "оценок": 187,
+   "отзывов": 57,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://alarmomsk.ru/",
+    "https://alarm-detailing.ru/",
+    "https://alarm-complex.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 617-00-00"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "студия тюнинга",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "autovinil",
+    "cafe",
+    "car_armoring",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alarm_servis/48087489262/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 89
+  },
+  {
+   "id": "202638437481",
+   "название": "Вип кузов 55",
+   "seoname": "vip_kuzov_55",
+   "адрес": "Заводская ул., 34А, Омск",
+   "координаты": [
+    73.285342,
+    55.055656
+   ],
+   "рейтинг": 5,
+   "оценок": 52,
+   "отзывов": 50,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (929) 360-46-17"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "call_button",
+    "disable_captions",
+    "parking_disabled",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vip_kuzov_55/202638437481/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 58,
+   "загружено_дат": 58
+  },
+  {
+   "id": "72814942005",
+   "название": "Борта",
+   "seoname": "borta",
+   "адрес": "ул. 22-го Партсъезда, 98",
+   "координаты": [
+    73.434599,
+    55.018318
+   ],
+   "рейтинг": 5,
+   "оценок": 61,
+   "отзывов": 49,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://alborta.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 633-86-97"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Студия тюнинга",
+    "детейлинг",
+    "автоателье"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "aquaprint",
+    "autovinil",
+    "gift_certificate",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/borta/72814942005/",
+   "последний_отзыв": "2026-11-01",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 49
+  },
+  {
+   "id": "196947382585",
+   "название": "Бронецентр",
+   "seoname": "bronetsentr",
+   "адрес": "просп. Комарова, 13Б",
+   "координаты": [
+    73.298231,
+    54.988009
+   ],
+   "рейтинг": 5,
+   "оценок": 51,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://броне-центр.рф/"
+   ],
+   "телефоны": [
+    "+7 (930) 035-45-30"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Студия тюнинга",
+    "детейлинг",
+    "оклейка машин"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "autovinil",
+    "car_armoring",
+    "car_interior_wallpapering",
+    "car_park",
+    "car_polishing",
+    "chrome_plating",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "taxi_car_wrapping",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bronetsentr/196947382585/"
+  },
+  {
+   "id": "1674475348",
+   "название": "Detailing center F11",
+   "seoname": "detailing_center_f11",
+   "адрес": "просп. Карла Маркса, 18/6А",
+   "координаты": [
+    73.382259,
+    54.967771
+   ],
+   "рейтинг": 4.8,
+   "оценок": 144,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://f11-omsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 966-01-71",
+    "+7 (3812) 39-50-03"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автохимчистка",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "bike_parking",
+    "cafe",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/detailing_center_f11/1674475348/"
+  },
+  {
+   "id": "40419797543",
+   "название": "Шубняк Авто",
+   "seoname": "shubnyak_avto",
+   "адрес": "3-я Енисейская ул., 14",
+   "координаты": [
+    73.337137,
+    54.982623
+   ],
+   "рейтинг": 4.6,
+   "оценок": 78,
+   "отзывов": 44,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (3812) 90-77-11",
+    "+7 (913) 149-77-11"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "кузовной ремонт",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "armoring_headlights",
+    "authorized_service",
+    "bike_parking",
+    "bumper_repair",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "gift_certificate",
+    "good_place",
+    "parking_disabled",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shubnyak_avto/40419797543/"
+  },
+  {
+   "id": "30199076626",
+   "название": "Карлайн",
+   "seoname": "karlayn",
+   "адрес": "ул. Лермонтова, 179А/3",
+   "координаты": [
+    73.433236,
+    54.985328
+   ],
+   "рейтинг": 4.7,
+   "оценок": 66,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://carline55.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 149-70-10",
+    "+7 (3812) 90-70-10"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг"
+   ],
+   "признаки": [
+    "car_park",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/karlayn/30199076626/"
+  },
+  {
+   "id": "35119361957",
+   "название": "Detail Link",
+   "seoname": "detail_link",
+   "адрес": "Омск, Кировский округ",
+   "координаты": [
+    73.341559,
+    54.974897
+   ],
+   "рейтинг": 5,
+   "оценок": 82,
+   "отзывов": 28,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://detaillink.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 329-39-10",
+    "+7 (3812) 29-39-10"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автокосметика, автохимия",
+    "детейлинг",
+    "автомоечное оборудование"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "car_park",
+    "car_wash_repair",
+    "delivery",
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/detail_link/35119361957/"
+  },
+  {
+   "id": "50966272735",
+   "название": "RichtenMaster",
+   "seoname": "richtenmaster",
+   "адрес": "просп. Мира, 5, корп. 1",
+   "координаты": [
+    73.298027,
+    55.023022
+   ],
+   "рейтинг": 4.7,
+   "оценок": 46,
+   "отзывов": 28,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://rm55.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 50-81-99",
+    "+7 (908) 119-13-83"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "call_button",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "disable_captions",
+    "disable_photopoi",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/richtenmaster/50966272735/"
+  },
+  {
+   "id": "41902840559",
+   "название": "Garage Detailing",
+   "seoname": "garage_detailing",
+   "адрес": "ул. Масленникова, 26/2",
+   "координаты": [
+    73.386161,
+    54.972192
+   ],
+   "рейтинг": 4.8,
+   "оценок": 38,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://garagedetailing.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 658-49-71"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "химчистка",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "car_park",
+    "car_valeting",
+    "gift_certificate",
+    "glass_polishing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garage_detailing/41902840559/"
+  },
+  {
+   "id": "52629838710",
+   "название": "БезЦарапин",
+   "seoname": "beztsarapin",
+   "адрес": "1-я Заводская ул., 25/2",
+   "координаты": [
+    73.263894,
+    55.058158
+   ],
+   "рейтинг": 4.9,
+   "оценок": 21,
+   "отзывов": 22,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (933) 184-10-00"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "стекольная мастерская",
+    "автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "car_polishing",
+    "glass_polishing",
+    "good_place",
+    "parking_disabled",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/beztsarapin/52629838710/"
+  },
+  {
+   "id": "75782458232",
+   "название": "Титан",
+   "seoname": "titan",
+   "адрес": "ул. Фрунзе, 40, корп. 6",
+   "координаты": [
+    73.363624,
+    54.993586
+   ],
+   "рейтинг": 4.8,
+   "оценок": 20,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://titan-carspa.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 101-00-40"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "кузовной ремонт",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "cafe",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "ceiling_cleaning",
+    "disable_captions",
+    "doubloons_loyalty_card",
+    "gift_certificate",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/titan/75782458232/"
+  },
+  {
+   "id": "90178295038",
+   "название": "Black Diamond",
+   "seoname": "black_diamond",
+   "адрес": "ул. Перелёта, 14А",
+   "координаты": [
+    73.292196,
+    54.997462
+   ],
+   "рейтинг": 4.6,
+   "оценок": 16,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (999) 453-51-71"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автохимчистка",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "call_button",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "ceiling_cleaning",
+    "chrome_plating",
+    "gift_certificate",
+    "glass_polishing",
+    "leather_repair",
+    "ozonation",
+    "parking_disabled",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/black_diamond/90178295038/"
+  },
+  {
+   "id": "147977692524",
+   "название": "CarLove",
+   "seoname": "carlove",
+   "адрес": "ул. Фрунзе, 1, корп. 4",
+   "координаты": [
+    73.355697,
+    54.993342
+   ],
+   "рейтинг": 4.4,
+   "оценок": 13,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://carlove55.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 625-17-17"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "access_by_agreement",
+    "anti_gravity_film",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "ceiling_cleaning",
+    "disable_captions",
+    "disk_maintenance",
+    "gift_certificate",
+    "keep_tires",
+    "leather_repair",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "starting_the_car",
+    "tire_blacking",
+    "toilet",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carlove/147977692524/"
+  },
+  {
+   "id": "201722014386",
+   "название": "Vosk",
+   "seoname": "vosk",
+   "адрес": "ул. Панфилова, 3А",
+   "координаты": [
+    73.398805,
+    54.961133
+   ],
+   "рейтинг": 4.7,
+   "оценок": 41,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://vosk-car.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 620-61-05",
+    "+7 (996) 399-57-52"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "тонирование автостёкол",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "access_by_agreement",
+    "anti_gravity_film",
+    "armoring_headlights",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vosk/201722014386/"
+  },
+  {
+   "id": "104322528084",
+   "название": "АкваТаун",
+   "seoname": "akvataun",
+   "адрес": "Кемеровская ул., 49",
+   "координаты": [
+    73.360702,
+    55.00215
+   ],
+   "рейтинг": 4.5,
+   "оценок": 10,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://aquatown.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (904) 325-81-85",
+    "+7 (3812) 50-59-87"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автомойка",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "ceiling_cleaning",
+    "disk_maintenance",
+    "gift_certificate",
+    "guarantee",
+    "keep_tires",
+    "mobile_tire_service",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "tire_blacking",
+    "toilet",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akvataun/104322528084/"
+  },
+  {
+   "id": "55188668721",
+   "название": "Престиж Детейлинг",
+   "seoname": "prestizh_deteyling",
+   "адрес": "7-я Северная ул., 36, корп. 1",
+   "координаты": [
+    73.353412,
+    55.007951
+   ],
+   "рейтинг": 4.8,
+   "оценок": 26,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 107-56-87",
+    "+7 (3812) 48-90-83",
+    "+7 (908) 796-85-26"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автосервис, автотехцентр",
+    "автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prestizh_deteyling/55188668721/"
+  },
+  {
+   "id": "63322308485",
+   "название": "Auto space",
+   "seoname": "auto_space",
+   "адрес": "4-я Северная ул., 9А",
+   "координаты": [
+    73.350449,
+    55.005246
+   ],
+   "рейтинг": 4.3,
+   "оценок": 14,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (999) 470-66-30"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/auto_space/63322308485/"
+  },
+  {
+   "id": "46587146725",
+   "название": "Генерал",
+   "seoname": "general",
+   "адрес": "4-я Северная ул., 41",
+   "координаты": [
+    73.358501,
+    55.006936
+   ],
+   "рейтинг": 4.5,
+   "оценок": 12,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (933) 301-88-66"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "студия тюнинга",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "cafe",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "scratch_repair",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/general/46587146725/"
+  },
+  {
+   "id": "159749413775",
+   "название": "Mstyle",
+   "seoname": "mstyle",
+   "адрес": "ул. Олега Кошевого, 46/2",
+   "координаты": [
+    73.323388,
+    54.935214
+   ],
+   "рейтинг": 4.6,
+   "оценок": 20,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (933) 443-71-00",
+    "+7 (3812) 37-81-00"
+   ],
+   "часы": "пн-пт 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "оклейка машин"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "antichrome",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "gift_certificate",
+    "leather_repair",
+    "ozonation",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mstyle/159749413775/"
+  },
+  {
+   "id": "119069140048",
+   "название": "Art Regard",
+   "seoname": "art_regard",
+   "адрес": "ул. 5-й Армии, 12",
+   "координаты": [
+    73.359642,
+    55.00327
+   ],
+   "рейтинг": 4.3,
+   "оценок": 8,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 677-32-18"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "ceiling_cleaning",
+    "gift_certificate",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/art_regard/119069140048/"
+  },
+  {
+   "id": "224582731097",
+   "название": "Лаборатория блеска",
+   "seoname": "laboratoriya_bleska",
+   "адрес": "Индустриальная ул., 5Б",
+   "координаты": [
+    73.437386,
+    54.966495
+   ],
+   "рейтинг": 4.3,
+   "оценок": 10,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://blesklab.ru/"
+   ],
+   "телефоны": [
+    "+7 (962) 055-58-58"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автоэмали, автомобильные краски"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_armoring",
+    "car_park",
+    "disable_captions",
+    "parking_disabled",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/laboratoriya_bleska/224582731097/"
+  },
+  {
+   "id": "199357054359",
+   "название": "Фреш кар",
+   "seoname": "fresh_kar",
+   "адрес": "ул. Красный Путь, 89, корп. 2, Омск",
+   "координаты": [
+    73.349392,
+    55.001762
+   ],
+   "рейтинг": 3.9,
+   "оценок": 7,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://fresh-kar-ulitsa-krasnyj-put.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (926) 638-86-36",
+    "+7 (3812) 34-02-33",
+    "+7 (900) 674-66-58"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг",
+    "автохимчистка"
+   ],
+   "признаки": [
+    "access_by_agreement",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "ceiling_cleaning",
+    "disk_maintenance",
+    "gift_certificate",
+    "glass_polishing",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fresh_kar/199357054359/"
+  }
+ ]
+}

@@ -1,0 +1,1210 @@
+{
+ "ниша": "Автосалоны",
+ "ключ": "avtosalony",
+ "запросы": [
+  "автосалон"
+ ],
+ "найдено_в_яндексе": {
+  "автосалон": 43
+ },
+ "дата_съёма": "2026-11-03",
+ "источник": "Яндекс Карты, поиск по Омску (регион 66)",
+ "город": "omsk",
+ "компании": [
+  {
+   "id": "220125003864",
+   "название": "Crystal Motors",
+   "seoname": "crystal_motors",
+   "адрес": "Енисейская ул., 18/1, Омск",
+   "координаты": [
+    73.33804,
+    54.976638
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1131,
+   "отзывов": 848,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omsk.crystal-motors.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 69-96-23"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "авторынок"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "disable_captions",
+    "gift_certificate",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/crystal_motors/220125003864/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 54,
+   "загружено_дат": 54
+  },
+  {
+   "id": "1119714106",
+   "название": "Лада центр Омск",
+   "seoname": "lada_tsentr_omsk",
+   "адрес": "4-я Кордная ул., 42, корп. 1, посёлок Кордный",
+   "координаты": [
+    73.442373,
+    54.962874
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1335,
+   "отзывов": 699,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omsk.ladacenter.lada.ru/",
+    "https://ladacenter55.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 91-91-90"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada_tsentr_omsk/1119714106/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 70,
+   "загружено_дат": 74
+  },
+  {
+   "id": "1101772420",
+   "название": "Омск-Лада, Lada",
+   "seoname": "omsk_lada_lada",
+   "адрес": "Новороссийская ул., 2",
+   "координаты": [
+    73.279343,
+    54.981334
+   ],
+   "рейтинг": 4.4,
+   "оценок": 1491,
+   "отзывов": 676,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omsk.center.lada.ru/",
+    "https://restart.auto/dealers/omsk-lada"
+   ],
+   "телефоны": [
+    "+7 (3812) 99-25-91"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omsk_lada_lada/1101772420/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 63,
+   "загружено_дат": 89
+  },
+  {
+   "id": "1685675120",
+   "название": "Автобан",
+   "seoname": "avtoban",
+   "адрес": "Коммунальная ул., 2, корп. 1, микрорайон Заозёрный",
+   "координаты": [
+    73.302809,
+    55.053845
+   ],
+   "рейтинг": 4.9,
+   "оценок": 878,
+   "отзывов": 545,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtoban55.ru/",
+    "http://autoban55.ru/"
+   ],
+   "телефоны": [
+    "+7 (933) 441-38-00",
+    "+7 (3812) 21-38-00"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "loan_processing",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoban/1685675120/",
+   "последний_отзыв": "2026-07-04",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 82
+  },
+  {
+   "id": "51605348083",
+   "название": "Форвард-Авто, ГАЗ",
+   "seoname": "forvard_avto_gaz",
+   "адрес": "ул. Суворова, 95",
+   "координаты": [
+    73.349508,
+    54.953864
+   ],
+   "рейтинг": 4.8,
+   "оценок": 948,
+   "отзывов": 501,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gaz155.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 25-96-92"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forvard_avto_gaz/51605348083/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 88
+  },
+  {
+   "id": "1268440531",
+   "название": "Барс, Kia",
+   "seoname": "bars_kia",
+   "адрес": "Волгоградская ул., 61/1",
+   "координаты": [
+    73.237196,
+    54.988158
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1191,
+   "отзывов": 427,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kia-bars.ru/",
+    "https://auto-bars.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 90-65-09"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "guarantee",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "truck_tire_service",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bars_kia/1268440531/",
+   "последний_отзыв": "2026-07-04",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 94
+  },
+  {
+   "id": "190381200937",
+   "название": "Fresh",
+   "seoname": "fresh",
+   "адрес": "2-я Кольцевая ул., 34",
+   "координаты": [
+    73.347776,
+    55.013267
+   ],
+   "рейтинг": 5,
+   "оценок": 438,
+   "отзывов": 395,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://55.freshauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 21-85-90"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "payment_by_credit_card",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fresh/190381200937/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 46,
+   "загружено_дат": 90
+  },
+  {
+   "id": "30407435389",
+   "название": "Chery Барс",
+   "seoname": "chery_bars",
+   "адрес": "Волгоградская ул., 61/1",
+   "координаты": [
+    73.236783,
+    54.988181
+   ],
+   "рейтинг": 5,
+   "оценок": 693,
+   "отзывов": 383,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://chery-bars.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 58-92-55"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_bars/30407435389/",
+   "последний_отзыв": "2026-06-04",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 80
+  },
+  {
+   "id": "153180072665",
+   "название": "Япония Экспорт",
+   "seoname": "yaponiya_eksport",
+   "адрес": "Красноярский тракт, 53",
+   "координаты": [
+    73.34084,
+    55.034461
+   ],
+   "рейтинг": 5,
+   "оценок": 411,
+   "отзывов": 378,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://japanexport55.ru/"
+   ],
+   "телефоны": [
+    "+7 (995) 354-57-25"
+   ],
+   "часы": "вт-пт 11:00–19:00; сб 11:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "japanese_car_auctions",
+    "loan_processing",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yaponiya_eksport/153180072665/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 67,
+   "загружено_дат": 71
+  },
+  {
+   "id": "1019828528",
+   "название": "Тойота центр",
+   "seoname": "toyota_tsentr",
+   "адрес": "бул. Архитекторов, 26",
+   "координаты": [
+    73.277481,
+    54.97095
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1152,
+   "отзывов": 350,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://toyota55.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 40-93-23"
+   ],
+   "часы": "ежедневно, 08:30–20:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "diesel_service",
+    "field_service",
+    "guarantee",
+    "loan_processing",
+    "official_dealer",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "spare_parts",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr/1019828528/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 41,
+   "загружено_дат": 81
+  },
+  {
+   "id": "1238179957",
+   "название": "Азия Импорт",
+   "seoname": "aziya_import",
+   "адрес": "ул. Орджоникидзе, 282",
+   "координаты": [
+    73.365667,
+    55.029573
+   ],
+   "рейтинг": 5,
+   "оценок": 543,
+   "отзывов": 285,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.asia-import55.ru/",
+    "https://azija-import.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (3812) 63-81-18"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aziya_import/1238179957/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 67
+  },
+  {
+   "id": "92709815831",
+   "название": "Альянс, официальный дилер Jetour",
+   "seoname": "alyans_ofitsialny_diler_jetour",
+   "адрес": "Волгоградская ул., 38/2",
+   "координаты": [
+    73.243238,
+    54.989357
+   ],
+   "рейтинг": 5,
+   "оценок": 324,
+   "отзывов": 257,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://jetour-alliance.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 66-66-06"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alyans_ofitsialny_diler_jetour/92709815831/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 85
+  },
+  {
+   "id": "15698290434",
+   "название": "Барс, Haval",
+   "seoname": "bars_haval",
+   "адрес": "бул. Архитекторов, 20/1",
+   "координаты": [
+    73.284362,
+    54.975669
+   ],
+   "рейтинг": 5,
+   "оценок": 251,
+   "отзывов": 220,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bars-havalpro.ru/",
+    "https://bars-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 78-00-91",
+    "+7 (3812) 67-80-18",
+    "+7 (3812) 67-80-24"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "self_car_service",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bars_haval/15698290434/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 56,
+   "загружено_дат": 58
+  },
+  {
+   "id": "43855520958",
+   "название": "Lada Барс",
+   "seoname": "lada_bars",
+   "адрес": "ул. 10 лет Октября, 182/1",
+   "координаты": [
+    73.461982,
+    54.989431
+   ],
+   "рейтинг": 5,
+   "оценок": 245,
+   "отзывов": 119,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bars.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 78-02-27",
+    "+7 (3812) 21-88-00"
+   ],
+   "часы": "ежедневно, 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada_bars/43855520958/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 80
+  },
+  {
+   "id": "238132242006",
+   "название": "Автоомск55",
+   "seoname": "avtoomsk55",
+   "адрес": "Волгоградская ул., 72, Омск",
+   "координаты": [
+    73.228842,
+    54.992405
+   ],
+   "рейтинг": 4.1,
+   "оценок": 206,
+   "отзывов": 109,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtoomsk55.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 63-92-63",
+    "+7 (951) 427-89-02"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "авторынок"
+   ],
+   "признаки": [
+    "loan_processing",
+    "street_entrance",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoomsk55/238132242006/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 62
+  },
+  {
+   "id": "184774348737",
+   "название": "Ривьера Авто",
+   "seoname": "rivyera_avto",
+   "адрес": "ул. 60 лет Победы, 14, Омск",
+   "координаты": [
+    73.343216,
+    54.955552
+   ],
+   "рейтинг": 5,
+   "оценок": 124,
+   "отзывов": 104,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://riviera-cars.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 795-04-44",
+    "+7 (3812) 34-67-50",
+    "+7 (3812) 49-98-88"
+   ],
+   "часы": "вт-сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автоаукцион"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "japanese_car_auctions",
+    "leasing_registration",
+    "loan_processing",
+    "motorcycle_auction",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rivyera_avto/184774348737/"
+  },
+  {
+   "id": "1381769159",
+   "название": "Мотор-Омск",
+   "seoname": "motor_omsk",
+   "адрес": "просп. Карла Маркса, 39",
+   "координаты": [
+    73.387407,
+    54.962706
+   ],
+   "рейтинг": 5,
+   "оценок": 96,
+   "отзывов": 70,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://motor-omsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 621-55-66",
+    "+7 (913) 628-84-10"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион",
+    "авторынок"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motor_omsk/1381769159/"
+  },
+  {
+   "id": "233159821359",
+   "название": "Geely Антикор Сервис",
+   "seoname": "geely_antikor_servis",
+   "адрес": "Волгоградская ул., 63, Омск",
+   "координаты": [
+    73.23439,
+    54.988422
+   ],
+   "рейтинг": 5,
+   "оценок": 56,
+   "отзывов": 43,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://antikorservis-geely.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 99-28-95"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_antikor_servis/233159821359/"
+  },
+  {
+   "id": "1153950266",
+   "название": "Звезда Сибири",
+   "seoname": "zvezda_sibiri",
+   "адрес": "3-я Островская ул., 2, корп. 1",
+   "координаты": [
+    73.362601,
+    54.972407
+   ],
+   "рейтинг": 4.3,
+   "оценок": 107,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://zvezdasibiri.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 055-36-09"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_wash",
+    "cars_for_order",
+    "loan_processing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zvezda_sibiri/1153950266/"
+  },
+  {
+   "id": "84331464780",
+   "название": "Автобан",
+   "seoname": "avtoban",
+   "адрес": "ул. 70 лет Октября, 26",
+   "координаты": [
+    73.323529,
+    54.981302
+   ],
+   "рейтинг": 4.9,
+   "оценок": 36,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoban.org/",
+    "https://vk.link/avtoban_japan"
+   ],
+   "телефоны": [
+    "+7 (800) 222-52-30"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автоаукцион"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "japanese_car_auctions",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoban/84331464780/"
+  },
+  {
+   "id": "136458753868",
+   "название": "Клик авто",
+   "seoname": "klik_avto",
+   "адрес": "Волочаевская ул., 21, Омск",
+   "координаты": [
+    73.351991,
+    54.99887
+   ],
+   "рейтинг": 4.4,
+   "оценок": 29,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://clickauto55.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 90-57-27",
+    "+7 (999) 127-77-70"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автоподбор"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klik_avto/136458753868/"
+  },
+  {
+   "id": "13775926605",
+   "название": "Changan Альянс",
+   "seoname": "changan_alyans",
+   "адрес": "Волгоградская ул., 38/2, Омск",
+   "координаты": [
+    73.243574,
+    54.989343
+   ],
+   "рейтинг": 4.7,
+   "оценок": 25,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://alliance-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 78-30-21"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_alyans/13775926605/"
+  },
+  {
+   "id": "110901947233",
+   "название": "Азия Экспресс Авто",
+   "seoname": "aziya_ekspress_avto",
+   "адрес": "ул. 20-я Линия, 108А",
+   "координаты": [
+    73.424473,
+    54.984832
+   ],
+   "рейтинг": 4.7,
+   "оценок": 18,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://asiaexpressauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 148-45-55",
+    "+7 (914) 047-88-55"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион",
+    "автоподбор"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "japanese_car_auctions",
+    "motorcycle_auction",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aziya_ekspress_avto/110901947233/"
+  },
+  {
+   "id": "153843175976",
+   "название": "Барс, Esteo",
+   "seoname": "bars_esteo",
+   "адрес": "ул. Герцена, 60",
+   "координаты": [
+    73.374267,
+    55.00454
+   ],
+   "рейтинг": 4.4,
+   "оценок": 7,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bars-esteo.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 29-76-16",
+    "+7 (3812) 67-89-96"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bars_esteo/153843175976/"
+  }
+ ]
+}

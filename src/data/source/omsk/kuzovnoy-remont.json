@@ -1,0 +1,1743 @@
+{
+ "ниша": "Кузовной ремонт и покраска",
+ "ключ": "kuzovnoy-remont",
+ "запросы": [
+  "кузовной ремонт",
+  "покраска автомобиля"
+ ],
+ "найдено_в_яндексе": {
+  "кузовной ремонт": 109,
+  "покраска автомобиля": 87
+ },
+ "дата_съёма": "2026-11-03",
+ "источник": "Яндекс Карты, поиск по Омску (регион 66)",
+ "город": "omsk",
+ "компании": [
+  {
+   "id": "1023145792",
+   "название": "Reaktor",
+   "seoname": "reaktor",
+   "адрес": "13-я Северная ул., 157А",
+   "координаты": [
+    73.377282,
+    55.014805
+   ],
+   "рейтинг": 4.6,
+   "оценок": 2961,
+   "отзывов": 1435,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://reaktor24.ru/",
+    "https://omsk.reaktor24.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 44-66-89",
+    "+7 (901) 108-30-30",
+    "+7 (3812) 44-66-88",
+    "+7 (913) 144-66-88"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "coffee_to_go",
+    "door_repair",
+    "electric car charging station",
+    "engine_endoscopy",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "thickness_gauge_color",
+    "toilet",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reaktor/1023145792/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 62,
+   "загружено_дат": 77
+  },
+  {
+   "id": "124010297410",
+   "название": "Виадук",
+   "seoname": "viaduk",
+   "адрес": "Волгоградская ул., 2/1",
+   "координаты": [
+    73.276697,
+    54.981873
+   ],
+   "рейтинг": 4.7,
+   "оценок": 562,
+   "отзывов": 309,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.stoviaduk.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 21-60-01",
+    "+7 (3812) 90-04-04",
+    "+7 (3812) 78-02-22"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/viaduk/124010297410/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 76
+  },
+  {
+   "id": "112960876750",
+   "название": "Вмята",
+   "seoname": "vmyata",
+   "адрес": "Красноярский тракт, 53",
+   "координаты": [
+    73.340995,
+    55.034342
+   ],
+   "рейтинг": 5,
+   "оценок": 286,
+   "отзывов": 255,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://vmyataomsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (900) 679-15-02"
+   ],
+   "часы": "ежедневно, 09:00–18:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vmyata/112960876750/",
+   "последний_отзыв": "2026-10-31",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 59
+  },
+  {
+   "id": "15698290434",
+   "название": "Барс, Haval",
+   "seoname": "bars_haval",
+   "адрес": "бул. Архитекторов, 20/1",
+   "координаты": [
+    73.284362,
+    54.975669
+   ],
+   "рейтинг": 5,
+   "оценок": 251,
+   "отзывов": 220,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bars-havalpro.ru/",
+    "https://bars-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 78-00-91",
+    "+7 (3812) 67-80-18",
+    "+7 (3812) 67-80-24"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "self_car_service",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bars_haval/15698290434/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 56,
+   "загружено_дат": 58
+  },
+  {
+   "id": "50073969454",
+   "название": "Синдикат Сервис",
+   "seoname": "sindikat_servis",
+   "адрес": "ул. 10 лет Октября, 180/10",
+   "координаты": [
+    73.443778,
+    54.985615
+   ],
+   "рейтинг": 4.5,
+   "оценок": 392,
+   "отзывов": 202,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.syndicate-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 48-00-09"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_blacking",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sindikat_servis/50073969454/",
+   "последний_отзыв": "2026-06-14",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 48
+  },
+  {
+   "id": "5745296398",
+   "название": "Автостоп",
+   "seoname": "avtostop",
+   "адрес": "ул. 20 лет РККА, 143",
+   "координаты": [
+    73.431944,
+    54.97774
+   ],
+   "рейтинг": 4.6,
+   "оценок": 479,
+   "отзывов": 200,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://автостоп55.рф/"
+   ],
+   "телефоны": [
+    "+7 (962) 057-27-07",
+    "+7 (961) 883-38-93"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "disable_captions",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtostop/5745296398/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 71
+  },
+  {
+   "id": "126724847920",
+   "название": "Виадук",
+   "seoname": "viaduk",
+   "адрес": "ул. 10 лет Октября, 195А, Омск",
+   "координаты": [
+    73.446188,
+    54.990143
+   ],
+   "рейтинг": 4.6,
+   "оценок": 387,
+   "отзывов": 162,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://stoviaduk.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 66-10-01",
+    "+7 (3812) 33-88-80",
+    "+7 (3812) 58-59-79",
+    "+7 (913) 963-30-97",
+    "+7 (3812) 78-01-11"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "adblue",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "flywheel_repair",
+    "freight_car_service",
+    "generators",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "torque_converter_repair",
+    "trailer_repair",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/viaduk/126724847920/",
+   "последний_отзыв": "2026-09-01",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 78
+  },
+  {
+   "id": "197608061568",
+   "название": "ВмятинОфф",
+   "seoname": "vmyatinoff",
+   "адрес": "ул. Авиагородок, 9, корп. 3",
+   "координаты": [
+    73.319991,
+    54.951989
+   ],
+   "рейтинг": 5,
+   "оценок": 209,
+   "отзывов": 142,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://vmyatin.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 767-77-74"
+   ],
+   "часы": "пн-пт 08:00–17:00, перерыв 11:30–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг"
+   ],
+   "признаки": [
+    "good_place",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vmyatinoff/197608061568/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 73
+  },
+  {
+   "id": "145485068152",
+   "название": "Токио",
+   "seoname": "tokio",
+   "адрес": "5-я Северная ул., 196Б",
+   "координаты": [
+    73.383574,
+    55.006024
+   ],
+   "рейтинг": 5,
+   "оценок": 304,
+   "отзывов": 132,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tokio55.ru/"
+   ],
+   "телефоны": [
+    "+7 (909) 537-44-99"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "авторазбор",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "coffee_to_go",
+    "contract_engines",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tokio/145485068152/",
+   "последний_отзыв": "2026-09-04",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 64
+  },
+  {
+   "id": "1105701768",
+   "название": "ЭстетикАвто",
+   "seoname": "estetikavto",
+   "адрес": "Барабинская ул., 44, корп. 4",
+   "координаты": [
+    73.513371,
+    54.941611
+   ],
+   "рейтинг": 4.9,
+   "оценок": 140,
+   "отзывов": 103,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (905) 099-99-09",
+    "+7 (3812) 59-44-36",
+    "+7 (951) 412-39-08"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "call_button",
+    "car_park",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/estetikavto/1105701768/",
+   "последний_отзыв": "2026-09-17",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 69
+  },
+  {
+   "id": "1754639343",
+   "название": "Машинный двор",
+   "seoname": "mashinny_dvor",
+   "адрес": "Коммунальная ул., 2, корп. 1, микрорайон Заозёрный",
+   "координаты": [
+    73.302511,
+    55.054198
+   ],
+   "рейтинг": 4.5,
+   "оценок": 230,
+   "отзывов": 97,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (3812) 40-48-00",
+    "+7 (903) 927-28-21"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mashinny_dvor/1754639343/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 61
+  },
+  {
+   "id": "25875205144",
+   "название": "ГидроСервис",
+   "seoname": "gidroservis",
+   "адрес": "36-я Северная ул., 1/3",
+   "координаты": [
+    73.382679,
+    55.033433
+   ],
+   "рейтинг": 4.7,
+   "оценок": 130,
+   "отзывов": 71,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://гидросервис55.рф/"
+   ],
+   "телефоны": [
+    "+7 (965) 871-25-42"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомобильные радиаторы",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "delivery",
+    "field_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gidroservis/25875205144/",
+   "последний_отзыв": "2026-08-29",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 57
+  },
+  {
+   "id": "1096693661",
+   "название": "Забава",
+   "seoname": "zabava",
+   "адрес": "Барнаульская ул., 7/1, Омск",
+   "координаты": [
+    73.403466,
+    55.005722
+   ],
+   "рейтинг": 4.4,
+   "оценок": 192,
+   "отзывов": 71,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://zabava-sto.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 927-33-34",
+    "+7 (3812) 38-33-34"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "generators",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "spare_parts",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zabava/1096693661/",
+   "последний_отзыв": "2026-08-17",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 77
+  },
+  {
+   "id": "1060141167",
+   "название": "Вмятин нет 55",
+   "seoname": "vmyatin_net_55",
+   "адрес": "4-я ул. Челюскинцев, 1, посёлок Амурский",
+   "координаты": [
+    73.418421,
+    55.010434
+   ],
+   "рейтинг": 5,
+   "оценок": 89,
+   "отзывов": 69,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vmyatinnet55.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 685-32-81"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "оклейка машин",
+    "детейлинг"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "good_place",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vmyatin_net_55/1060141167/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 43,
+   "загружено_дат": 80
+  },
+  {
+   "id": "92997709420",
+   "название": "АСК Авто",
+   "seoname": "ask_avto",
+   "адрес": "4-я Дачная ул., 17/2",
+   "координаты": [
+    73.348611,
+    55.012998
+   ],
+   "рейтинг": 4.7,
+   "оценок": 147,
+   "отзывов": 67,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://askauto55.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 29-92-42",
+    "+7 (950) 215-51-52"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ask_avto/92997709420/",
+   "последний_отзыв": "2026-09-23",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 57
+  },
+  {
+   "id": "1036017088",
+   "название": "Карме",
+   "seoname": "karme",
+   "адрес": "ул. 10 лет Октября, 209Б, Омск",
+   "координаты": [
+    73.474783,
+    54.992231
+   ],
+   "рейтинг": 4.6,
+   "оценок": 133,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://карме.рф/"
+   ],
+   "телефоны": [
+    "8 (800) 301-92-81"
+   ],
+   "часы": "ежедневно, 09:00–21:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "injectors_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/karme/1036017088/"
+  },
+  {
+   "id": "51919462489",
+   "название": "Антикор Pro сервис",
+   "seoname": "antikor_pro_servis",
+   "адрес": "4-я ул. Челюскинцев, 4А, посёлок Амурский, Омск",
+   "координаты": [
+    73.420955,
+    55.010569
+   ],
+   "рейтинг": 5,
+   "оценок": 59,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://antikorpro-omsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 658-57-89"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Нанесение покрытий",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "vacuum_coating",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/antikor_pro_servis/51919462489/"
+  },
+  {
+   "id": "7956388696",
+   "название": "Авто-Color",
+   "seoname": "avto_color",
+   "адрес": "1-я Военная ул., 5",
+   "координаты": [
+    73.408434,
+    54.950064
+   ],
+   "рейтинг": 4.2,
+   "оценок": 63,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avto-color55.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 971-02-47",
+    "+7 (3812) 50-41-22"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 11:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_color/7956388696/"
+  },
+  {
+   "id": "50966272735",
+   "название": "RichtenMaster",
+   "seoname": "richtenmaster",
+   "адрес": "просп. Мира, 5, корп. 1",
+   "координаты": [
+    73.298027,
+    55.023022
+   ],
+   "рейтинг": 4.7,
+   "оценок": 46,
+   "отзывов": 28,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://rm55.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 50-81-99",
+    "+7 (908) 119-13-83"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "call_button",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "disable_captions",
+    "disable_photopoi",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/richtenmaster/50966272735/"
+  },
+  {
+   "id": "45540300651",
+   "название": "Феникс-Авто",
+   "seoname": "feniks_avto",
+   "адрес": "ул. 10 лет Октября, 182/3",
+   "координаты": [
+    73.46199,
+    54.988386
+   ],
+   "рейтинг": 4.4,
+   "оценок": 55,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (3812) 92-50-41",
+    "+7 (983) 563-03-62"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "bumper_repair",
+    "disable_photopoi",
+    "parking_disabled",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/feniks_avto/45540300651/"
+  },
+  {
+   "id": "75151432030",
+   "название": "Омская Вмятина",
+   "seoname": "omskaya_vmyatina",
+   "адрес": "ул. Орджоникидзе, 201",
+   "координаты": [
+    73.364628,
+    55.01834
+   ],
+   "рейтинг": 4.9,
+   "оценок": 38,
+   "отзывов": 26,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 619-19-92"
+   ],
+   "часы": "ежедневно, 10:00–18:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "authorized_service",
+    "body_repair",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "commercial_vehicles_repair",
+    "field_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omskaya_vmyatina/75151432030/"
+  },
+  {
+   "id": "9620667895",
+   "название": "Кузовной",
+   "seoname": "kuzovnoy",
+   "адрес": "ул. Мостоотряд, 63, корп. 7",
+   "координаты": [
+    73.28927,
+    55.011308
+   ],
+   "рейтинг": 4.8,
+   "оценок": 57,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (962) 030-60-06"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kuzovnoy/9620667895/"
+  },
+  {
+   "id": "18259996860",
+   "название": "Кузов Про",
+   "seoname": "kuzov_pro",
+   "адрес": "ул. Завертяева, 5, корп. 6",
+   "координаты": [
+    73.438317,
+    55.037242
+   ],
+   "рейтинг": 4.8,
+   "оценок": 17,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autokuzov-omsk.orgs.biz/"
+   ],
+   "телефоны": [
+    "+7 (908) 313-07-50"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_glass_replacement",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "delivery",
+    "door_repair",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "home_visit",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "self_car_service",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "thickness_gauge_color",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kuzov_pro/18259996860/"
+  },
+  {
+   "id": "151084924276",
+   "название": "Фреш кузов",
+   "seoname": "fresh_kuzov",
+   "адрес": "Заводская ул., 23",
+   "координаты": [
+    73.293095,
+    55.058275
+   ],
+   "рейтинг": 4.9,
+   "оценок": 33,
+   "отзывов": 18,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (950) 780-81-96"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bumper_repair",
+    "good_place",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fresh_kuzov/151084924276/"
+  },
+  {
+   "id": "26822130629",
+   "название": "ЭстетикАвто",
+   "seoname": "estetikavto",
+   "адрес": "19-я Рабочая ул., 36",
+   "координаты": [
+    73.430171,
+    54.938239
+   ],
+   "рейтинг": 4.4,
+   "оценок": 25,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://estetic-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 099-99-09"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "call_button",
+    "car_park",
+    "car_valeting",
+    "glass_polishing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/estetikavto/26822130629/"
+  },
+  {
+   "id": "137554743675",
+   "название": "Porog55",
+   "seoname": "porog55",
+   "адрес": "ул. 2-я Линия, 177, корп. 5",
+   "координаты": [
+    73.403383,
+    54.96104
+   ],
+   "рейтинг": 4.1,
+   "оценок": 41,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (909) 535-47-47",
+    "+7 (951) 422-22-24"
+   ],
+   "часы": "пн-пт 08:00–17:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "металлообработка",
+    "сварочные работы"
+   ],
+   "признаки": [
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/porog55/137554743675/"
+  },
+  {
+   "id": "118200885961",
+   "название": "Империя-Д",
+   "seoname": "imperiya_d",
+   "адрес": "Учебная ул., 199Б, Омск",
+   "координаты": [
+    73.397786,
+    54.959662
+   ],
+   "рейтинг": 4.4,
+   "оценок": 37,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (932) 712-10-68"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/imperiya_d/118200885961/"
+  },
+  {
+   "id": "221210130896",
+   "название": "Жесть и Лак",
+   "seoname": "zhest_i_lak",
+   "адрес": "3-я Островская ул., 2А, корп. 5",
+   "координаты": [
+    73.364327,
+    54.973514
+   ],
+   "рейтинг": 4.5,
+   "оценок": 11,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.tinandvarnish.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 791-52-20",
+    "+7 (913) 610-47-78"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "автоэмали, автомобильные краски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "bumper_repair",
+    "parking_disabled",
+    "preliminary_registration",
+    "raptor_painting",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zhest_i_lak/221210130896/"
+  },
+  {
+   "id": "89569568291",
+   "название": "Сапфир Сервис",
+   "seoname": "sapfir_servis",
+   "адрес": "Енисейская ул., 1М",
+   "координаты": [
+    73.343201,
+    54.975844
+   ],
+   "рейтинг": 4.4,
+   "оценок": 17,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.gmr55.ru/"
+   ],
+   "телефоны": [
+    "+7 (3812) 29-78-91"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "авторазбор",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "bumper_repair",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sapfir_servis/89569568291/"
+  },
+  {
+   "id": "162118386900",
+   "название": "Автоград",
+   "seoname": "avtograd",
+   "адрес": "ул. СибНИИСХоз, 40",
+   "координаты": [
+    73.339783,
+    55.029166
+   ],
+   "рейтинг": 4.6,
+   "оценок": 17,
+   "отзывов": 10,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtograd-55.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (999) 459-90-00"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "студия тюнинга",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_noise_insulation",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "service_maintenance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtograd/162118386900/"
+  },
+  {
+   "id": "233082794359",
+   "название": "Мастер СТО",
+   "seoname": "master_sto",
+   "адрес": "5-я Северная ул., 192А, корп. 1",
+   "координаты": [
+    73.380436,
+    55.005851
+   ],
+   "рейтинг": 4.2,
+   "оценок": 21,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 316-88-88"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master_sto/233082794359/"
+  },
+  {
+   "id": "72886560957",
+   "название": "Центр кузовного ремонта",
+   "seoname": "tsentr_kuzovnogo_remonta",
+   "адрес": "Новороссийская ул., 2",
+   "координаты": [
+    73.279715,
+    54.98165
+   ],
+   "рейтинг": 4.3,
+   "оценок": 10,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://center-kuz-rem.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (905) 940-44-07"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "сварочные работы"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "bumper_repair",
+    "payment_by_credit_card",
+    "service_maintenance",
+    "street_entrance",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_kuzovnogo_remonta/72886560957/"
+  },
+  {
+   "id": "200631503474",
+   "название": "MakCar",
+   "seoname": "makcar",
+   "адрес": "Омск, Центральный округ",
+   "координаты": [
+    73.384975,
+    54.977446
+   ],
+   "рейтинг": 4.2,
+   "оценок": 9,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (962) 038-85-95"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/makcar/200631503474/"
+  },
+  {
+   "id": "139526624231",
+   "название": "Masuboni auto",
+   "seoname": "masuboni_auto",
+   "адрес": "9-я Ленинская ул., 55/5",
+   "координаты": [
+    73.360657,
+    54.934583
+   ],
+   "рейтинг": 4.2,
+   "оценок": 4,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://masuboni-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 652-48-46",
+    "+7 (965) 971-04-44"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbrushing",
+    "anti_corrosion_treatment",
+    "body_repair",
+    "door_repair",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/masuboni_auto/139526624231/"
+  },
+  {
+   "id": "237146460509",
+   "название": "Cto Cupper",
+   "seoname": "cto_cupper",
+   "адрес": "22-я Северная ул., 43",
+   "координаты": [
+    73.359826,
+    55.022242
+   ],
+   "рейтинг": 3.7,
+   "оценок": 6,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 420-13-12"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cto_cupper/237146460509/"
+  }
+ ]
+}
