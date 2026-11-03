@@ -6,6 +6,7 @@
 // Токен: YANDEX_TOKEN или ~/.config/yandex/token. Только чтение.
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { homedir } from 'node:os';
+import { createSign } from 'node:crypto';
 
 const OUT = process.argv[2] || '/tmp/avtoball-otchety';
 const COUNTER = 113920999;
@@ -62,6 +63,31 @@ async function metrika() {
   return out;
 }
 
+// Google Search Console – сервисный ключ ~/.config/gsc/teyes-sa.json (03.11.2026). Ресурс sc-domain:avtoball.ru или https://avtoball.ru/;
+// нет доступа – статус с ответом Google, не ноль.
+async function gsc() {
+  let k;
+  try { k = JSON.parse(readFileSync(`${homedir()}/.config/gsc/teyes-sa.json`, 'utf8')); } catch { return { status: 'unavailable', error: 'нет ключа ~/.config/gsc/teyes-sa.json' }; }
+  const b = (o) => Buffer.from(JSON.stringify(o)).toString('base64url');
+  const now = Math.floor(Date.now() / 1000);
+  const un = b({ alg: 'RS256', typ: 'JWT' }) + '.' + b({ iss: k.client_email, scope: 'https://www.googleapis.com/auth/webmasters.readonly', aud: k.token_uri, iat: now, exp: now + 3600 });
+  const jwt = un + '.' + createSign('RSA-SHA256').update(un).sign(k.private_key, 'base64url');
+  const t = await fetch(k.token_uri, { method: 'POST', body: new URLSearchParams({ grant_type: 'urn:ietf:params:oauth:grant-type:jwt-bearer', assertion: jwt }) }).then((r) => r.json()).catch(() => ({}));
+  if (!t.access_token) return { status: 'unavailable', error: 'Google не выдал токен сервисному ключу' };
+  const GH = { Authorization: `Bearer ${t.access_token}`, 'Content-Type': 'application/json' };
+  const sites = await fetch('https://www.googleapis.com/webmasters/v3/sites', { headers: GH }).then((r) => r.json()).catch(() => ({}));
+  const site = (sites.siteEntry || []).map((x) => x.siteUrl).find((u) => u === 'sc-domain:avtoball.ru' || u === 'https://avtoball.ru/');
+  if (!site) return { status: 'unavailable', error: `Search Console: у ключа ${k.client_email} нет доступа к avtoball.ru – добавить его пользователем ресурса` };
+  const q = async (dimensions) => {
+    const r = await fetch(`https://www.googleapis.com/webmasters/v3/sites/${encodeURIComponent(site)}/searchAnalytics/query`, { method: 'POST', headers: GH, body: JSON.stringify({ startDate: day(28), endDate: day(1), dimensions, rowLimit: 100 }) });
+    const j = await r.json().catch(() => ({}));
+    return r.ok ? (j.rows || []).map((x) => ({ key: (x.keys || []).join(' · '), clicks: x.clicks, impressions: x.impressions, ctr: x.ctr, position: x.position })) : { code: r.status, error: j.error?.message };
+  };
+  const queries = await q(['query']);
+  if (!Array.isArray(queries)) return { status: 'unavailable', site, ...queries };
+  return { status: 'measured', site, from: day(28), to: day(1), queries, pages: await q(['page']) };
+}
+
 async function seo() {
   const out = { source: 'Яндекс Вебмастер', host: HOST, at: new Date().toISOString() };
   const user = await get('https://api.webmaster.yandex.net/v4/user');
@@ -78,7 +104,7 @@ async function seo() {
   out.indexing = ind.data ? { status: 'measured', ...ind.data } : { status: 'not_collected', code: ind.code, error: ind.error };
   const sm = await get(`${base}/user-added-sitemaps`);
   out.sitemaps = sm.data ? { status: 'measured', ...sm.data } : { status: 'not_collected', code: sm.code };
-  out.google = { status: 'unavailable', error: 'Search Console: ресурс avtoball.ru не подключён (нужно подтверждение владельцем)' };
+  out.google = await gsc();
   out.cities = CITY_SLUGS;
   return out;
 }
@@ -90,3 +116,4 @@ const s = await seo();
 writeFileSync(`${OUT}/seo.json`, JSON.stringify(s));
 console.log('Метрика:', m.counter_status, '| визитов за год:', m.periods.year.totals.totals?.[0] ?? m.periods.year.totals.status);
 console.log('Вебмастер:', s.host_status || s.error, '| сводка:', s.summary?.status, '| запросы:', s.queries?.status, s.queries?.rows?.length ?? '');
+console.log('Search Console:', s.google.status, s.google.site || s.google.error, s.google.queries?.length ?? '');
