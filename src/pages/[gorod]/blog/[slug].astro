@@ -1,0 +1,11 @@
+---
+// Статья блога города: /<город>/blog/<slug>/ (статьи с gorod в src/data/blog).
+import BlogStatya from '../../../components/BlogStatya.astro';
+import { BLOG } from '../../../lib/blog';
+
+export function getStaticPaths() {
+  return BLOG.filter((p) => p.fm.gorod).map((p) => ({ params: { gorod: p.fm.gorod!, slug: p.slug }, props: { p } }));
+}
+const { p } = Astro.props;
+---
+<BlogStatya p={p} />

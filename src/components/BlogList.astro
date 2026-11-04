@@ -1,0 +1,79 @@
+---
+// Лента блога – общего (/blog/) и города (/<город>/blog/): рубрики чипами («Все» первым, показываем только выбранную),
+// карточки статей. В блоге города – ещё его гиды «куда обратиться» (пока только Новосибирск) и ссылка на общий блог.
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import { RUBRIKI, BLOG_OBSHCHIY, BLOG_GORODA, type BlogPost } from '../lib/blog';
+import { STATI } from '../lib/stati';
+import { GORODA } from '../lib/goroda';
+import { date } from '../lib/format';
+import { u, abs } from '../lib/url';
+
+interface Props { posts: BlogPost[]; city?: { slug: string; name: string; of: string; in: string } }
+const { posts, city } = Astro.props;
+const guides = city?.slug === 'novosibirsk' ? STATI : [];
+const items = [
+  ...posts.map((p) => ({ url: p.url, h: p.fm.h1, lead: p.fm.description, rub: p.fm.rubrika as string, date: p.fm.date })),
+  ...guides.map((s) => ({ url: s.url, h: s.fm.h1, lead: s.fm.description, rub: 'Гиды', date: s.fm.updated || s.fm.date })),
+];
+const rubs = [...RUBRIKI, 'Гиды'].filter((r) => items.some((x) => x.rub === r));
+const title = city ? `Блог Автобалла ${city.in}: советы автовладельцам` : 'Блог Автобалла: как выбрать автосервис, цены, законы';
+const h1 = city ? `Блог ${city.of}` : 'Блог Автобалла';
+const description = city
+  ? `Статьи для автовладельцев ${city.of}: где пройти техосмотр, как выбрать мастерскую, сезонные работы и цены – по данным рейтингов Автобалла.`
+  : 'Как выбрать автосервис и не переплатить, сезон, законы и цены, исследования по городам – статьи по данным рейтингов Автобалла.';
+const cityBlogs = GORODA.filter((g) => BLOG_GORODA.includes(g.slug) && g.slug !== city?.slug);
+const pageUrl = abs(city ? `/${city.slug}/blog/` : '/blog/', Astro.site);
+const schema = [{ '@type': 'Blog', '@id': pageUrl + '#blog', name: h1, url: pageUrl, inLanguage: 'ru', blogPost: posts.map((p) => ({ '@type': 'BlogPosting', headline: p.fm.h1, url: abs(p.url, Astro.site), datePublished: p.fm.date })) }];
+---
+<Base title={title} description={description} schema={schema} active="blog">
+  <Crumbs items={city ? [['Главная', '/'], [city.name, `/${city.slug}/`], ['Блог']] : [['Главная', '/'], ['Блог']]} />
+  <section class="hero">
+    <div class="wrap">
+      <h1>{h1}</h1>
+      <p class="lead">{description}</p>
+    </div>
+  </section>
+  <section class="sec">
+    <div class="wrap">
+      {rubs.length > 1 && (
+        <div class="gchips" role="group" aria-label="Рубрики">
+          <button type="button" aria-pressed="true" data-rub="">Все</button>
+          {rubs.map((r) => <button type="button" aria-pressed="false" data-rub={r}>{r}</button>)}
+        </div>
+      )}
+      <div class="rtiles bl">
+        {items.map((x) => (
+          <a class="rtile" href={u(x.url)} data-rub={x.rub}>
+            <span class="bl__rub">{x.rub} · {date(x.date)}</span>
+            <span class="rtile__t">{x.h}</span>
+            <span class="bl__lead">{x.lead}</span>
+          </a>
+        ))}
+      </div>
+      <p class="muted small bl__more">
+        {city ? <>Общие статьи для всех городов – в <a href={u('/blog/')}>блоге Автобалла</a>.</> : BLOG_OBSHCHIY.length === 0 && 'Статьи скоро появятся.'}
+        {cityBlogs.length > 0 && <> Блоги городов: {cityBlogs.map((g, i) => <>{i > 0 && ', '}<a href={u(`/${g.slug}/blog/`)}>{g.name}</a></>)}.</>}
+      </p>
+    </div>
+  </section>
+</Base>
+
+<script is:inline>
+  (function () {
+    var chips = document.querySelectorAll('.gchips [data-rub]');
+    chips.forEach(function (b) {
+      b.addEventListener('click', function () {
+        var r = b.getAttribute('data-rub');
+        chips.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+        document.querySelectorAll('.bl .rtile').forEach(function (t) { t.hidden = !!r && t.getAttribute('data-rub') !== r; });
+      });
+    });
+  })();
+</script>
+
+<style>
+  .bl__rub { font: 500 12px/1.3 var(--f-mono); color: var(--steel); }
+  .bl__lead { font-size: 15px; color: var(--steel); }
+  .bl__more { margin-top: 20px; }
+</style>
