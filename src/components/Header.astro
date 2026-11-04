@@ -5,6 +5,7 @@ import Logo from './Logo.astro';
 import { u } from '../lib/url';
 import { katalog } from '../lib/katalog';
 import { GORODA, gorodOf, gorod } from '../lib/goroda';
+import { BLOG_GORODA } from '../lib/blog';
 interface Props { active?: string }
 const { active = '' } = Astro.props;
 const cur = (key: string) => (active === key ? 'page' : undefined);
@@ -12,6 +13,8 @@ const here = gorodOf(Astro.url.pathname);
 // меню рейтингов – города страницы, если он готов; иначе – Новосибирска
 const CITY = here?.ready ? here : gorod('novosibirsk');
 const BY_GROUP = katalog(CITY.slug).byGroup;
+// блог – города страницы, если у него есть статьи; иначе общий
+const BLOG_URL = BLOG_GORODA.includes(CITY.slug) ? `/${CITY.slug}/blog/` : '/blog/';
 ---
 <header class="top">
   <div class="wrap top__in">
@@ -36,6 +39,7 @@ const BY_GROUP = katalog(CITY.slug).byGroup;
         </div>
       </details>
       <a href={u(`/${CITY.slug}/`)}>Каталог</a>
+      <a href={u(BLOG_URL)} aria-current={cur('blog')}>Блог</a>
       <a href={u('/metodika/')} aria-current={cur('metodika')}>Методика</a>
       <a class="btn btn--top" href={u('/dobavit-kompaniyu/')}>Добавить компанию</a>
     </nav>
@@ -49,6 +53,7 @@ const BY_GROUP = katalog(CITY.slug).byGroup;
         <a href={u(`/${CITY.slug}/`)}>Каталог компаний: {CITY.name}</a>
         <a href={u(`/${CITY.slug}/ratings/`)}>Все рейтинги: {CITY.name}</a>
         {BY_GROUP.map((g) => <a class="burger__sub" href={u(`/${CITY.slug}/ratings/#${g.slug}`)}>{g.name} · {g.items.length}</a>)}
+        <a href={u(BLOG_URL)}>Блог</a>
         <a href={u('/metodika/')}>Методика</a>
         <a href={u('/o-proekte/')}>О проекте</a>
         <a class="btn btn--signal" href={u('/dobavit-kompaniyu/')}>Добавить компанию</a>

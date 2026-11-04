@@ -1,0 +1,12 @@
+---
+// Блог города: /<город>/blog/ – только у городов, где есть хотя бы одна статья (пустую ленту не публикуем).
+import BlogList from '../../../components/BlogList.astro';
+import { BLOG_GORODA, blogOf } from '../../../lib/blog';
+import { gorod } from '../../../lib/goroda';
+
+export function getStaticPaths() {
+  return BLOG_GORODA.map((g) => ({ params: { gorod: g }, props: { city: gorod(g) } }));
+}
+const { city } = Astro.props;
+---
+<BlogList posts={blogOf(city.slug)} city={city} />

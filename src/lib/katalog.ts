@@ -1,6 +1,7 @@
 // Все опубликованные рейтинги города одним списком: меню, главная, хаб, карта сайта, соседние ниши.
 // Старые ниши (Я+2ГИС, reyting.ts – только Новосибирск) и ниши Яндекса (ya.ts) приводятся к одному виду.
 // С 01.11.2026 городов несколько: katalog(<город>); прежние имена (RATINGS, BY_GROUP, …) – Новосибирск.
+import { BLOG, BLOG_OBSHCHIY, BLOG_GORODA, blogOf } from './blog';
 import { NICHES, COMPANIES, indexable } from './reyting';
 import { yaGoroda, uniqueTotals } from './ya';
 import { READY } from './goroda';
@@ -137,5 +138,10 @@ export function indexableAll(): { path: string; lastmod: string }[] {
       ...(STATI.length ? [{ path: AVTOR.url, lastmod: latest }] : []),
     );
   }
+  // блог (04.11.2026): лента общего блога, ленты городов со статьями и сами статьи
+  const last = (ps: typeof BLOG) => ps.map((p) => p.fm.updated || p.fm.date).sort().pop()!;
+  if (BLOG_OBSHCHIY.length) out.push({ path: '/blog/', lastmod: last(BLOG_OBSHCHIY) });
+  out.push(...BLOG_GORODA.map((g) => ({ path: `/${g}/blog/`, lastmod: last(blogOf(g)) })));
+  out.push(...BLOG.map((p) => ({ path: p.url, lastmod: p.fm.updated || p.fm.date })));
   return out;
 }
