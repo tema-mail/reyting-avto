@@ -1,0 +1,11 @@
+---
+// Статья общего блога: /blog/<slug>/ (статьи без города в src/data/blog).
+import BlogStatya from '../../components/BlogStatya.astro';
+import { BLOG_OBSHCHIY } from '../../lib/blog';
+
+export function getStaticPaths() {
+  return BLOG_OBSHCHIY.map((p) => ({ params: { slug: p.slug }, props: { p } }));
+}
+const { p } = Astro.props;
+---
+<BlogStatya p={p} />
