@@ -75,9 +75,12 @@ function send(res, code, body, origin) {
   res.end(JSON.stringify(body));
 }
 
+// С российского сервера api.telegram.org закрыт: в compose имя ведётся на ssh-туннель до claude-vps (порт 8443).
+const TG_API = process.env.TG_API_BASE || 'https://api.telegram.org';
+
 async function telegram(text) {
   if (!TG_TOKEN || !TG_CHATS.length) return 'не настроен';
-  const res = await Promise.all(TG_CHATS.map((chat) => fetch(`https://api.telegram.org/bot${TG_TOKEN}/sendMessage`, {
+  const res = await Promise.all(TG_CHATS.map((chat) => fetch(`${TG_API}/bot${TG_TOKEN}/sendMessage`, {
     method: 'POST', headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ chat_id: chat, text, parse_mode: 'HTML', disable_web_page_preview: true }),
     signal: AbortSignal.timeout(10000),

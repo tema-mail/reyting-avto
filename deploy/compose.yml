@@ -24,6 +24,12 @@ services:
     working_dir: /app
     command: ["node", "lead.mjs"]
     env_file: [/opt/avtoball/lead.env]
+    # Telegram: api.telegram.org с этого сервера закрыт. Имя ведём на шлюз сети caddy, где слушает
+    # ssh-туннель до claude-vps (сервис ev-telegram-tunnel на хосте, общий с EV Sibir), порт 8443.
+    environment:
+      TG_API_BASE: https://api.telegram.org:8443
+    extra_hosts:
+      - "api.telegram.org:172.18.0.1"
     volumes:
       - /opt/avtoball/server:/app:ro
       - /opt/avtoball/data:/data
