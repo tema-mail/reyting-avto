@@ -1,0 +1,947 @@
+{
+ "ниша": "Перетяжка салона",
+ "ключ": "peretyazhka-salona",
+ "запросы": [
+  "перетяжка салона автомобиля"
+ ],
+ "найдено_в_яндексе": {
+  "перетяжка салона автомобиля": 42
+ },
+ "дата_съёма": "2026-11-05",
+ "источник": "Яндекс Карты, поиск по Перми (регион 50)",
+ "город": "perm",
+ "компании": [
+  {
+   "id": "167932538488",
+   "название": "Vienn",
+   "seoname": "vienn",
+   "адрес": "ул. Ленина, 34Б",
+   "координаты": [
+    56.24778,
+    58.013405
+   ],
+   "рейтинг": 5,
+   "оценок": 165,
+   "отзывов": 110,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.vienn.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 240-46-26",
+    "+7 (342) 240-46-26"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автоателье",
+    "оклейка машин"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "autovinil",
+    "bike_parking",
+    "call_button",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "ceiling_cleaning",
+    "chrome_plating",
+    "disk_maintenance",
+    "gift_certificate",
+    "glass_polishing",
+    "leather_repair",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "street_entrance",
+    "taxi_car_wrapping",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vienn/167932538488/",
+   "последний_отзыв": "2026-10-13",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 59
+  },
+  {
+   "id": "226138683122",
+   "название": "EliteGarage",
+   "seoname": "elitegarage",
+   "адрес": "ул. Татьяны Барамзиной, 42/3с1",
+   "координаты": [
+    56.178875,
+    58.002161
+   ],
+   "рейтинг": 5,
+   "оценок": 197,
+   "отзывов": 100,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://elitegarage.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 247-70-90",
+    "+7 (342) 279-80-20"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб,вс 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "оклейка машин",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "access_by_agreement",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "autovinil",
+    "bike_parking",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "ceiling_cleaning",
+    "disk_maintenance",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "leather_repair",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "taxi_car_wrapping",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/elitegarage/226138683122/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 53
+  },
+  {
+   "id": "225974713842",
+   "название": "Автоискусство",
+   "seoname": "avtoiskusstvo",
+   "адрес": "бул. Гагарина, 80А, корп. 1",
+   "координаты": [
+    56.288143,
+    57.992465
+   ],
+   "рейтинг": 5,
+   "оценок": 120,
+   "отзывов": 75,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 271-45-31",
+    "+7 (905) 860-00-10"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автохимчистка",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "bike_parking",
+    "call_button",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoiskusstvo/225974713842/",
+   "последний_отзыв": "2026-04-24",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 66
+  },
+  {
+   "id": "162832120331",
+   "название": "FaraCar",
+   "seoname": "faracar",
+   "адрес": "ул. Николая Быстрых, 14Г",
+   "координаты": [
+    56.300293,
+    58.019594
+   ],
+   "рейтинг": 4.4,
+   "оценок": 67,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 202-82-52",
+    "+7 (908) 254-10-22"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "студия тюнинга",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "aquaprint",
+    "autovinil",
+    "car_armoring",
+    "car_door_closers",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "gift_certificate",
+    "glass_polishing",
+    "glass_tinting",
+    "leather_repair",
+    "ozonation",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tuning_of_motor_vehicles"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/faracar/162832120331/",
+   "последний_отзыв": "2026-08-29",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 46
+  },
+  {
+   "id": "74810189375",
+   "название": "Пермь-рулит",
+   "seoname": "perm_rulit",
+   "адрес": "ул. Льва Шатрова, 26",
+   "координаты": [
+    56.271628,
+    57.987399
+   ],
+   "рейтинг": 5,
+   "оценок": 70,
+   "отзывов": 41,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://пермь-рулит.рф/"
+   ],
+   "телефоны": [
+    "+7 (952) 664-07-40"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоателье",
+    "детейлинг",
+    "кожевенная мастерская"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/perm_rulit/74810189375/",
+   "последний_отзыв": "2026-06-09",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 68
+  },
+  {
+   "id": "210375468184",
+   "название": "Лава",
+   "seoname": "lava",
+   "адрес": "ул. Василия Васильева, 3Л",
+   "координаты": [
+    56.218116,
+    57.958122
+   ],
+   "рейтинг": 5,
+   "оценок": 61,
+   "отзывов": 36,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://lavadetailing.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 257-87-91"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Оклейка машин",
+    "автоателье",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "autovinil",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "ceiling_cleaning",
+    "gift_certificate",
+    "good_place",
+    "leather_repair",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lava/210375468184/",
+   "последний_отзыв": "2026-08-08",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 46
+  },
+  {
+   "id": "155023346324",
+   "название": "Drd",
+   "seoname": "drd",
+   "адрес": "Ижевская ул., 27, корп. 6, Пермь",
+   "координаты": [
+    56.277099,
+    57.983921
+   ],
+   "рейтинг": 5,
+   "оценок": 44,
+   "отзывов": 35,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://drddetailing159.ru/"
+   ],
+   "телефоны": [
+    "+7 (992) 237-26-73"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автохимчистка",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "arches_noise_insulation",
+    "car_noise_insulation",
+    "car_park",
+    "car_valeting",
+    "ceiling_cleaning",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "ozonation",
+    "pre_sale_preparation",
+    "preliminary_registration"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/drd/155023346324/",
+   "последний_отзыв": "2026-08-29",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 33
+  },
+  {
+   "id": "72803771109",
+   "название": "Tf Technology",
+   "seoname": "tf_technology",
+   "адрес": "Кронштадтская ул., 59",
+   "координаты": [
+    56.200473,
+    58.00117
+   ],
+   "рейтинг": 5,
+   "оценок": 44,
+   "отзывов": 34,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://tftechnologyperm.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (993) 196-71-81",
+    "+7 (922) 309-22-01"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автоателье",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "bike_parking",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "gift_certificate",
+    "glass_polishing",
+    "parking_disabled",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tf_technology/72803771109/",
+   "последний_отзыв": "2026-09-23",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 32
+  },
+  {
+   "id": "157659938303",
+   "название": "Авто-ателье",
+   "seoname": "avto_atelye",
+   "адрес": "Уральская ул., 81А, Пермь",
+   "координаты": [
+    56.296485,
+    58.027353
+   ],
+   "рейтинг": 5,
+   "оценок": 46,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (982) 243-14-00"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоателье"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_atelye/157659938303/",
+   "последний_отзыв": "2025-09-24",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 48
+  },
+  {
+   "id": "146074149529",
+   "название": "S22",
+   "seoname": "s22",
+   "адрес": "ул. Седова, 22",
+   "координаты": [
+    56.24201,
+    57.994644
+   ],
+   "рейтинг": 4.8,
+   "оценок": 72,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://s22detailing.pro/"
+   ],
+   "телефоны": [
+    "+7 (982) 257-02-15",
+    "+7 (342) 207-02-15"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "студия тюнинга",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "autovinil",
+    "bike_parking",
+    "car_armoring",
+    "car_door_closers",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "chip_tuning",
+    "disable_captions",
+    "gift_certificate",
+    "glass_polishing",
+    "installation_of_exhaust_systems",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "tuning_of_motor_vehicles",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/s22/146074149529/",
+   "последний_отзыв": "2026-05-31",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 38
+  },
+  {
+   "id": "187112527204",
+   "название": "АвтоЛера",
+   "seoname": "avtolera",
+   "адрес": "ул. Крупской, 5",
+   "координаты": [
+    56.273075,
+    58.023883
+   ],
+   "рейтинг": 4.7,
+   "оценок": 33,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://taplink.cc/autolera"
+   ],
+   "телефоны": [
+    "+7 (901) 201-00-22",
+    "+7 (908) 277-75-61"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоателье",
+    "автохимчистка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_gravity_film",
+    "bike_parking",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "chrome_plating",
+    "gift_certificate",
+    "glass_polishing",
+    "leather_repair",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtolera/187112527204/",
+   "последний_отзыв": "2026-08-23",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 26
+  },
+  {
+   "id": "209185466594",
+   "название": "Трианон-Авто",
+   "seoname": "trianon_avto",
+   "адрес": "Пермь, микрорайон Центр",
+   "координаты": [
+    56.212828,
+    58.010851
+   ],
+   "рейтинг": 4.9,
+   "оценок": 41,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 279-30-05",
+    "+7 (963) 883-97-25"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "оклейка машин",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "autovinil",
+    "car_armoring",
+    "car_body_film",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "ceiling_cleaning",
+    "disk_maintenance",
+    "gift_certificate",
+    "glass_polishing",
+    "leather_repair",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tuning_of_motor_vehicles",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/trianon_avto/209185466594/",
+   "последний_отзыв": "2026-09-16",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 22
+  },
+  {
+   "id": "17353602877",
+   "название": "Airbag service",
+   "seoname": "airbag_service",
+   "адрес": "ул. Героев Хасана, 55А",
+   "координаты": [
+    56.261107,
+    57.978232
+   ],
+   "рейтинг": 4.7,
+   "оценок": 33,
+   "отзывов": 15,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.airbagservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (909) 727-04-44"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автоателье"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/airbag_service/17353602877/",
+   "последний_отзыв": "2026-03-03",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 18
+  },
+  {
+   "id": "1262624794",
+   "название": "Автоателье К59",
+   "seoname": "avtoatelye_k59",
+   "адрес": "ул. Кирова, 24, д. Кондратово",
+   "координаты": [
+    56.093977,
+    57.979015
+   ],
+   "рейтинг": 4.6,
+   "оценок": 32,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 264-76-87",
+    "+7 (902) 807-74-32"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоателье",
+    "автокресла"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoatelye_k59/1262624794/",
+   "последний_отзыв": "2026-05-24",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 15
+  },
+  {
+   "id": "158885910196",
+   "название": "J-Style",
+   "seoname": "j_style",
+   "адрес": "ул. Чкалова, 7А",
+   "координаты": [
+    56.267906,
+    57.984204
+   ],
+   "рейтинг": 4.7,
+   "оценок": 44,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (961) 755-44-22",
+    "+7 (908) 272-28-80"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 11:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоателье",
+    "тонирование автостёкол",
+    "автосигнализация",
+    "автостёкла"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/j_style/158885910196/",
+   "последний_отзыв": "2025-12-28",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 11
+  },
+  {
+   "id": "1724829340",
+   "название": "ПеретяжкаПрофи",
+   "seoname": "peretyazhkaprofi",
+   "адрес": "ул. Архитектора Свиязева, 43Б",
+   "координаты": [
+    56.157953,
+    57.962141
+   ],
+   "рейтинг": 4.3,
+   "оценок": 18,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://peretyazhka59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 211-15-83"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоателье"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/peretyazhkaprofi/1724829340/"
+  },
+  {
+   "id": "215919874287",
+   "название": "Comfort Relax",
+   "seoname": "comfort_relax",
+   "адрес": "Самаркандская ул., 135",
+   "координаты": [
+    56.298287,
+    57.987629
+   ],
+   "рейтинг": 4.1,
+   "оценок": 9,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.comfortrelax.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 282-43-53"
+   ],
+   "часы": "пн-пт 09:00–17:00; сб 10:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоателье"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/comfort_relax/215919874287/"
+  },
+  {
+   "id": "51537218236",
+   "название": "59 Restyle",
+   "seoname": "59_restyle",
+   "адрес": "бул. Гагарина, 50А",
+   "координаты": [
+    56.283024,
+    58.004781
+   ],
+   "рейтинг": 4.4,
+   "оценок": 7,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 849-00-32"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Покраска автомобилей",
+    "автосервис, автотехцентр",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "body_repair",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "ceiling_cleaning",
+    "guarantee",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "raptor_painting",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/59_restyle/51537218236/"
+  },
+  {
+   "id": "120136981534",
+   "название": "Рекомендация",
+   "seoname": "rekomendatsiya",
+   "адрес": "ул. Маршала Жукова, 67",
+   "координаты": [
+    56.208351,
+    58.038708
+   ],
+   "рейтинг": 4.1,
+   "оценок": 3,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (902) 802-60-10"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоателье"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rekomendatsiya/120136981534/"
+  }
+ ]
+}
