@@ -1,3 +1,5 @@
+import { leadFields } from '../lib/attribution';
+
 // Формы «Помочь выбрать» и «Добавить компанию»: маска +7, проверка полей, пустая галочка согласия
 // держит кнопку неактивной. Отправка – на PUBLIC_FORM_ENDPOINT (data-endpoint). Адреса нет – честное
 // сообщение тестовой версии, без «Спасибо» (куда идут заявки, владелец не решил: ~/Sites/reytingi/docs/sayty/resheniya-avto.md (закрытый репо)).
@@ -96,7 +98,8 @@ document.querySelectorAll<HTMLFormElement>('form[data-form]').forEach((form) => 
       msg.focus();
       return;
     }
-    const data: Record<string, string> = { form: form.dataset.form || '', page: location.pathname };
+    const { 'Страница заявки': _page, ...origin } = leadFields();
+    const data: Record<string, string> = { form: form.dataset.form || '', page: location.pathname, ...origin };
     new FormData(form).forEach((v, k) => {
       if (k !== 'website') data[k] = data[k] ? data[k] + ', ' + String(v) : String(v);
     });

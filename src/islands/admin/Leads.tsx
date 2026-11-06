@@ -29,7 +29,7 @@ function fromServer(r: any): Lead {
   const f = r.fields || {};
   return {
     id: r.id || r.at, createdAt: r.at, name: f.name || f.company || '–', phone: f.phone || f.telegram || '', email: f.email, form: r.form, page: r.page || f.page || '',
-    message: f.fix, stage: r.stage || 'новая', source: r.source || 'сайт', items: [], category: f.niche || (r.page || f.page || '').split('/').filter(Boolean).slice(-1)[0] || '',
+    message: f.fix, stage: r.stage || 'новая', source: r.source || f['Источник'] || 'сайт', items: [], category: f.niche || (r.page || f.page || '').split('/').filter(Boolean).slice(-1)[0] || '',
     history: r.history, extra: Object.entries(f).filter(([k, v]) => !STD.has(k) && v).map(([k, v]) => [LABELS[k] || k, String(v)]) as [string, string][],
   };
 }
