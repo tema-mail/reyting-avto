@@ -17,6 +17,7 @@ import Footer from '../components/Footer.astro';
 import Cookie from '../components/Cookie.astro';
 import Utm from '../components/Utm.astro';
 import { SITE_NAME, NOINDEX_ALL } from '../lib/site';
+import { SKRYTY } from '../lib/gorod-dannye.mjs';
 import { u, abs } from '../lib/url';
 
 interface Props {
@@ -31,7 +32,9 @@ interface Props {
 const { title, description, robots = 'index', schema = [], active = '', sticky = false } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).toString();
 // Тестовая копия на GitHub Pages закрыта от поиска целиком.
-const meta = NOINDEX_ALL || robots === 'noindex' ? 'noindex, nofollow' : robots === 'noindex-follow' ? 'noindex, follow' : null;
+// Скрытый город (skryt в gorod-dannye.mjs, 09.11.2026): страницы на сайте, но в индекс – только после открытия.
+const skryt = Astro.url.pathname.split('/').some((s) => SKRYTY.includes(s));
+const meta = NOINDEX_ALL || robots === 'noindex' ? 'noindex, nofollow' : robots === 'noindex-follow' || skryt ? 'noindex, follow' : null;
 const org = { '@type': 'Organization', '@id': abs('/', Astro.site) + '#org', name: SITE_NAME, url: abs('/', Astro.site), logo: abs('/favicon.svg', Astro.site) };
 const graph = { '@context': 'https://schema.org', '@graph': [org, ...schema] };
 ---

@@ -5,6 +5,7 @@ import { BLOG, BLOG_OBSHCHIY, BLOG_GORODA, blogOf } from './blog';
 import { NICHES, COMPANIES, indexable } from './reyting';
 import { yaGoroda, uniqueTotals } from './ya';
 import { READY } from './goroda';
+import { SKRYTY } from './gorod-dannye.mjs';
 import { STATI } from './stati';
 import { NICHE_RAYON, RAYON_LIST } from './rayon-stranitsy';
 import { AVTOR } from '../data/avtor';
@@ -112,6 +113,7 @@ export const HUB_INDEX_ALL = NSK.hubIndexAll;
 export function indexableAll(): { path: string; lastmod: string }[] {
   const out: { path: string; lastmod: string }[] = [];
   for (const c of READY) {
+    if (SKRYTY.includes(c.slug)) continue; // скрытый город – в индекс не отдаём (gorod-dannye.mjs)
     const k = katalog(c.slug);
     const ya = yaGoroda(c.slug);
     if (!k.ratings.length) continue;

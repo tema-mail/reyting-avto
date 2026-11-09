@@ -62,5 +62,9 @@ export const GOROD_DANNYE = {
 
 export const GOROD_DEFAULT = 'novosibirsk';
 export const READY_SLUGS = Object.keys(GOROD_DANNYE);
+/** skryt: true (09.11.2026, владелец: «положить на сайт, чтобы не индексировались, индексацию открывать по одному») –
+ *  страницы города собираются, но noindex (Base.astro) и вне sitemap (katalog.ts), значит и вне IndexNow.
+ *  Открыть город = убрать skryt и выложить: новые адреса сами уйдут в sitemap и IndexNow. */
+export const SKRYTY = READY_SLUGS.filter((s) => GOROD_DANNYE[s].skryt);
 /** Город файла съёма: поле «город» (с Краснодара), у съёмов Новосибирска его нет. */
 export const gorodOfSrc = (src) => src['город'] || GOROD_DEFAULT;
