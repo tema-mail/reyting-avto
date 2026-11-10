@@ -9,6 +9,10 @@ import { basename } from 'node:path';
 
 const RUBRIKI = ['Как выбрать', 'Цены', 'Законы и документы', 'Сезон', 'Исследования', 'Выбор редакции'];
 const POHOZHEST = 0.2; // доля общих 5-словных шинглов с любой другой статьёй – выше этого брак
+// 10.11.2026 (проверка первых 7 статей): пять «автошкола цена» прошли шинглы, но каркас один – те же H2 в том же порядке и
+// те же фразы («потом посчитаем», «Права – начало трат»). Ловим совпадение H2 ≥ 60 % и ≥ 3 одинаковых предложений.
+const H2_POHOZHEST = 0.6;
+const PREDL_POVTOR = 3;
 const files = process.argv.slice(2);
 const DIR = 'src/data/blog';
 
@@ -28,6 +32,10 @@ const shingles = (t, gorod) => {
   for (let i = 0; i + 5 <= w.length; i++) s.add(w.slice(i, i + 5).join(' '));
   return s;
 };
+const norm = (s) => s.toLowerCase().replace(/[^а-яё0-9a-z ]/g, ' ').replace(/\s+/g, ' ').trim();
+const GOROD_SLOVA = /^(омск|барнаул|перм|краснодар|красноярск|новосибирск|казан|екатеринбург|самар|уф[аеы]|нижн|новгород|челябинск|ростов|воронеж|волгоград|петербург|москв|сибир|кубан|урал|прикам|алта)/; // слова города не считаем – каркас «автошкола в Омске» = «автошкола в Перми»
+const h2s = (b) => (b.match(/^## .+$/gm) || []).map((s) => norm(s.slice(3)).split(' ').filter((w) => w.length > 2 && !GOROD_SLOVA.test(w)).slice(0, 4).join(' '));
+const predl = (b) => new Set(b.replace(/^#.*$|^\|.*$|^-\s.*$/gm, '').split(/[.!?]\s/).map(norm).filter((s) => s.split(' ').length >= 8));
 const newUrls = new Set(files.map((p) => {
   const { f } = fmOf(readFileSync(p, 'utf8')) || { f: {} };
   return f.gorod ? `/${f.gorod}/blog/${basename(p, '.md')}/` : `/blog/${basename(p, '.md')}/`;
@@ -50,7 +58,8 @@ for (const p of files) {
   if (f.faq < 6) why.push(`FAQ ${f.faq} (<6)`);
   if (f.tema && (temy.get(f.tema) || []).filter((n) => n !== basename(p)).length) why.push(`тема ${f.tema} уже закрыта: ${temy.get(f.tema)}`);
   const n = words(body).length;
-  if (n < 2000 || n > 4800) why.push(`слов ${n} (нужно 2 500–4 000)`);
+  if (n < 1100 || n > 4800) why.push(`слов ${n} (нужно 2 500–4 000, при тонких данных 1 200–2 000)`);
+  if ((body.match(/в наших данных нет|уточните (в|у) (компании|школе|сервисе|студии|страховой)/gi) || []).length > 3) why.push('больше 3 раз «в наших данных нет / уточните в компании» – данных на статью нет');
   if (t.includes('—')) why.push(`длинное тире: ${t.split('—').length - 1}`);
   if (/\{\?|ПРОВЕРИТЬ|TODO|[Ll]orem ipsum/.test(t)) why.push('служебные метки в тексте');
   if (f.nisha && (body.match(/<!-- reyting -->/g) || []).length !== 1) why.push('nisha указана – нужна ровно одна метка <!-- reyting -->');
@@ -69,6 +78,12 @@ for (const p of files) {
     for (const s of mine) if (their.has(s)) common++;
     const share = common / Math.max(1, Math.min(mine.size, their.size));
     if (share > POHOZHEST) why.push(`похожа на ${o.n}: ${(share * 100).toFixed(0)}% общих фраз`);
+    const a = h2s(body), b = new Set(h2s(ob.body));
+    const h2c = a.filter((x) => x && b.has(x)).length / Math.max(1, Math.min(a.length, b.size));
+    if (a.length >= 4 && h2c >= H2_POHOZHEST) why.push(`каркас как у ${o.n}: ${(h2c * 100).toFixed(0)}% тех же H2`);
+    const mp = predl(body), op = predl(ob.body);
+    let pc = 0; for (const s of mp) if (op.has(s)) pc++;
+    if (pc >= PREDL_POVTOR) why.push(`${pc} предложений дословно из ${o.n}`);
   }
   console.log(`${p}: ${why.length ? 'БРАК – ' + why.join('; ') : `ОК (${n} слов, FAQ ${f.faq})`}`);
   if (why.length) brak++;

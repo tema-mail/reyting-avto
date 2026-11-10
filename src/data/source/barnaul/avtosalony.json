@@ -1,0 +1,1290 @@
+{
+ "ниша": "Автосалоны",
+ "ключ": "avtosalony",
+ "запросы": [
+  "автосалон"
+ ],
+ "найдено_в_яндексе": {
+  "автосалон": 42
+ },
+ "дата_съёма": "2026-11-09",
+ "источник": "Яндекс Карты, поиск по Барнаулу (регион 197)",
+ "город": "barnaul",
+ "компании": [
+  {
+   "id": "101840967594",
+   "название": "Crystal Motors",
+   "seoname": "crystal_motors",
+   "адрес": "Правобережный тракт, 26",
+   "координаты": [
+    83.833391,
+    53.314831
+   ],
+   "рейтинг": 5,
+   "оценок": 774,
+   "отзывов": 630,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://barnaul.crystal-motors.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 42-13-20"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "авторынок"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "disable_captions",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/crystal_motors/101840967594/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 57,
+   "загружено_дат": 69
+  },
+  {
+   "id": "18875717689",
+   "название": "Лада-Центр, Lada",
+   "seoname": "lada_tsentr_lada",
+   "адрес": "Павловский тракт, 198К",
+   "координаты": [
+    83.606981,
+    53.351
+   ],
+   "рейтинг": 4.7,
+   "оценок": 895,
+   "отзывов": 486,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://brn.center.lada.ru/",
+    "https://restart.auto/dealers/lada-center-barnaul"
+   ],
+   "телефоны": [
+    "+7 (3852) 22-40-94"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada_tsentr_lada/18875717689/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 63,
+   "загружено_дат": 81
+  },
+  {
+   "id": "1126638198",
+   "название": "Союз-Авто",
+   "seoname": "soyuz_avto",
+   "адрес": "Павловский тракт, 186В",
+   "координаты": [
+    83.639725,
+    53.348325
+   ],
+   "рейтинг": 4.4,
+   "оценок": 704,
+   "отзывов": 291,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://sa22.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 50-40-30",
+    "+7 (3852) 50-45-05"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "страхование автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_purchase_agreement",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/soyuz_avto/1126638198/",
+   "последний_отзыв": "2026-10-08",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 69
+  },
+  {
+   "id": "1100651657",
+   "название": "Ладацентр Юг",
+   "seoname": "ladatsentr_yug",
+   "адрес": "Змеиногорский тракт, 118Б, Барнаул",
+   "координаты": [
+    83.729583,
+    53.269294
+   ],
+   "рейтинг": 4.5,
+   "оценок": 736,
+   "отзывов": 235,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ug22.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 28-24-24"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ladatsentr_yug/1100651657/",
+   "последний_отзыв": "2026-09-28",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 82
+  },
+  {
+   "id": "1112445715",
+   "название": "АНТ Hyundai",
+   "seoname": "ant_hyundai",
+   "адрес": "Павловский тракт, 251Д",
+   "координаты": [
+    83.685104,
+    53.342568
+   ],
+   "рейтинг": 4.7,
+   "оценок": 975,
+   "отзывов": 228,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.hyundai-ant22.ru/",
+    "http://www.ant-mitsubishi.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 29-00-20",
+    "+7 (3852) 29-00-30"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "removing_dents_without_painting",
+    "repair_of_refrigerated_trucks",
+    "self_car_service",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ant_hyundai/1112445715/",
+   "последний_отзыв": "2026-03-16",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 52
+  },
+  {
+   "id": "1072085697",
+   "название": "АНТ, Nissan",
+   "seoname": "ant_nissan",
+   "адрес": "Павловский тракт, 249Е",
+   "координаты": [
+    83.688127,
+    53.342264
+   ],
+   "рейтинг": 4.8,
+   "оценок": 703,
+   "отзывов": 195,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://ant22.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 28-22-22",
+    "+7 (3852) 28-22-20",
+    "+7 (3852) 28-22-28",
+    "+7 (3852) 28-22-24"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "страхование автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ant_nissan/1072085697/",
+   "последний_отзыв": "2026-07-15",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 68
+  },
+  {
+   "id": "1127066369",
+   "название": "Chery Барнаул-Моторс",
+   "seoname": "chery_barnaul_motors",
+   "адрес": "просп. Калинина, 31",
+   "координаты": [
+    83.760058,
+    53.370783
+   ],
+   "рейтинг": 4.9,
+   "оценок": 344,
+   "отзывов": 189,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.chery-barnaul.ru/",
+    "https://chery-bm.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 22-41-94",
+    "+7 (3852) 22-98-96",
+    "+7 (3852) 22-98-92",
+    "+7 (3852) 22-98-78",
+    "+7 (3852) 22-98-79"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_floor_mats",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "ramp",
+    "registration_inspection",
+    "repairs",
+    "street_entrance",
+    "test_drive",
+    "tire_chains",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_barnaul_motors/1127066369/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 66
+  },
+  {
+   "id": "1013156003",
+   "название": "Барнаул Моторс Haval",
+   "seoname": "barnaul_motors_haval",
+   "адрес": "просп. Калинина, 31",
+   "координаты": [
+    83.75976,
+    53.370685
+   ],
+   "рейтинг": 4.7,
+   "оценок": 463,
+   "отзывов": 164,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://barnaulmotors-haval.ru/",
+    "https://haval-barnaul.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 54-68-28",
+    "+7 (3852) 22-98-91",
+    "+7 (3852) 22-98-92",
+    "+7 (3852) 22-98-78",
+    "+7 (3852) 22-98-79"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/barnaul_motors_haval/1013156003/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 65
+  },
+  {
+   "id": "1181808844",
+   "название": "Альбион-Моторс, Esteo",
+   "seoname": "albion_motors_esteo",
+   "адрес": "просп. Калинина, 15Е",
+   "координаты": [
+    83.764308,
+    53.366769
+   ],
+   "рейтинг": 4.8,
+   "оценок": 320,
+   "отзывов": 103,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://albion-esteo.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 55-23-16",
+    "+7 (3852) 55-23-17"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "electric car charging station",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/albion_motors_esteo/1181808844/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 83
+  },
+  {
+   "id": "137938677348",
+   "название": "Geely Тисс Авто",
+   "seoname": "geely_tiss_avto",
+   "адрес": "ул. Попова, 165, Барнаул",
+   "координаты": [
+    83.661051,
+    53.32836
+   ],
+   "рейтинг": 4.9,
+   "оценок": 328,
+   "отзывов": 98,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-tissauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 23-22-51",
+    "+7 (3852) 75-63-01"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_tiss_avto/137938677348/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 52
+  },
+  {
+   "id": "1043713321",
+   "название": "Рено",
+   "seoname": "reno",
+   "адрес": "ул. Мамонтова, 25",
+   "координаты": [
+    83.792408,
+    53.325312
+   ],
+   "рейтинг": 4.4,
+   "оценок": 279,
+   "отзывов": 84,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://rn22.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 22-20-00"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reno/1043713321/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 58
+  },
+  {
+   "id": "54270217616",
+   "название": "Первый номер",
+   "seoname": "pervy_nomer",
+   "адрес": "ул. Челюскинцев, 117",
+   "координаты": [
+    83.753027,
+    53.335657
+   ],
+   "рейтинг": 4.3,
+   "оценок": 197,
+   "отзывов": 82,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://первый-номер.рф/"
+   ],
+   "телефоны": [
+    "+7 (3852) 60-38-88",
+    "+7 (963) 500-35-80",
+    "+7 (983) 600-50-30",
+    "+7 (963) 500-35-39"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "loan_processing",
+    "registration_inspection",
+    "street_entrance",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pervy_nomer/54270217616/",
+   "последний_отзыв": "2026-08-01",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 73
+  },
+  {
+   "id": "169482633378",
+   "название": "АНТ Omoda",
+   "seoname": "ant_omoda",
+   "адрес": "Павловский тракт, 249Д",
+   "координаты": [
+    83.689229,
+    53.342029
+   ],
+   "рейтинг": 5,
+   "оценок": 153,
+   "отзывов": 75,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://omoda-ant22.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 23-00-30",
+    "+7 (3852) 23-00-20"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ant_omoda/169482633378/",
+   "последний_отзыв": "2026-10-17",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 74
+  },
+  {
+   "id": "173475096819",
+   "название": "Аем Холдинг Haval",
+   "seoname": "ayem_kholding_haval",
+   "адрес": "Павловский тракт, 164, Барнаул",
+   "координаты": [
+    83.659069,
+    53.346736
+   ],
+   "рейтинг": 4.8,
+   "оценок": 176,
+   "отзывов": 71,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://aem-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 29-94-89",
+    "+7 (3852) 75-61-26",
+    "+7 (913) 251-50-50"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ayem_kholding_haval/173475096819/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 87
+  },
+  {
+   "id": "62033943037",
+   "название": "Реал",
+   "seoname": "real",
+   "адрес": "Правобережный тракт, 29А",
+   "координаты": [
+    83.833376,
+    53.315917
+   ],
+   "рейтинг": 4.3,
+   "оценок": 170,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://real-cars.ru/",
+    "https://barnaul.subaru.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 20-05-55"
+   ],
+   "часы": "пн-сб 08:00–19:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/real/62033943037/",
+   "последний_отзыв": "2026-08-24",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 54
+  },
+  {
+   "id": "100017400437",
+   "название": "АНТ, JETOUR",
+   "seoname": "ant_jetour",
+   "адрес": "Павловский тракт, 251Д",
+   "координаты": [
+    83.68524,
+    53.342577
+   ],
+   "рейтинг": 4.8,
+   "оценок": 94,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://jetour-ant22.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 29-00-20"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ant_jetour/100017400437/"
+  },
+  {
+   "id": "117315991077",
+   "название": "Supra",
+   "seoname": "supra",
+   "адрес": "просп. Строителей, 117",
+   "координаты": [
+    83.749705,
+    53.342138
+   ],
+   "рейтинг": 4.9,
+   "оценок": 38,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://supramotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 251-28-47",
+    "+7 (964) 086-76-99",
+    "+7 (3852) 53-20-53",
+    "+7 (3852) 99-76-99"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "страхование автомобилей"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_wash",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/supra/117315991077/"
+  },
+  {
+   "id": "16704095491",
+   "название": "Kia Motors",
+   "seoname": "kia_motors",
+   "адрес": "Правобережный тракт, 29А",
+   "координаты": [
+    83.833084,
+    53.315759
+   ],
+   "рейтинг": 4.7,
+   "оценок": 88,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (3852) 20-05-55",
+    "+7 (963) 526-19-99"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_motors/16704095491/"
+  },
+  {
+   "id": "67145832750",
+   "название": "Дана моторс",
+   "seoname": "dana_motors",
+   "адрес": "Павловский тракт, 198К, корп. 1",
+   "координаты": [
+    83.605818,
+    53.35107
+   ],
+   "рейтинг": 4.8,
+   "оценок": 38,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://danamotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 210-00-62",
+    "+7 (905) 080-60-62"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dana_motors/67145832750/"
+  },
+  {
+   "id": "49190514746",
+   "название": "Барнаул-Моторс",
+   "seoname": "barnaul_motors",
+   "адрес": "просп. Калинина, 21",
+   "координаты": [
+    83.760765,
+    53.370337
+   ],
+   "рейтинг": 4.7,
+   "оценок": 35,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://barnaul-motors.com/"
+   ],
+   "телефоны": [
+    "+7 (3852) 22-41-54"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/barnaul_motors/49190514746/"
+  },
+  {
+   "id": "160003339071",
+   "название": "Азия Экспресс Авто",
+   "seoname": "aziya_ekspress_avto",
+   "адрес": "Балтийская ул., 116",
+   "координаты": [
+    83.653106,
+    53.33901
+   ],
+   "рейтинг": 4.6,
+   "оценок": 20,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://asiaexpressauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 248-45-55"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aziya_ekspress_avto/160003339071/"
+  },
+  {
+   "id": "16383677083",
+   "название": "Чанган центр АНТ",
+   "seoname": "changan_tsentr_ant",
+   "адрес": "Павловский тракт, 249Е",
+   "координаты": [
+    83.688327,
+    53.342043
+   ],
+   "рейтинг": 4.7,
+   "оценок": 17,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ant-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 28-22-22"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_ant/16383677083/"
+  },
+  {
+   "id": "1772031419",
+   "название": "Автолюкс",
+   "seoname": "avtolyuks",
+   "адрес": "просп. Строителей, 135",
+   "координаты": [
+    83.744479,
+    53.340108
+   ],
+   "рейтинг": 4.3,
+   "оценок": 20,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 218-88-88",
+    "+7 (3852) 20-28-88"
+   ],
+   "часы": "пн-сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtolyuks/1772031419/"
+  },
+  {
+   "id": "19249051927",
+   "название": "Avatr",
+   "seoname": "avatr",
+   "адрес": "ул. Попова, 212",
+   "координаты": [
+    83.665555,
+    53.331241
+   ],
+   "рейтинг": 4,
+   "оценок": 4,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avatr-barnaul.ru/"
+   ],
+   "телефоны": [
+    "+7 (3852) 26-00-51",
+    "+7 (3852) 26-00-49"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "электромобили, продажа и сервис",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "delivery",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "sandblasting",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avatr/19249051927/"
+  }
+ ]
+}

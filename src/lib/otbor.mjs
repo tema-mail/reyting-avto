@@ -114,6 +114,9 @@ export const NICHES_YA = {
   'servis-lynk-co': { group: 'Ремонт и ТО', schema: 'AutoRepair', who: ['сервис', 'сервиса', 'сервисов'], brand: /lynk|линк/i, rule: 'Lynk & Co в названии либо адресе сайта и рубрика автосервиса.' },
   'servis-changan': { group: 'Ремонт и ТО', schema: 'AutoRepair', who: ['сервис', 'сервиса', 'сервисов'], brand: /changan|чанган/i, rule: 'Changan в названии либо адресе сайта и рубрика автосервиса.' },
   'servis-byd': { group: 'Ремонт и ТО', schema: 'AutoRepair', who: ['сервис', 'сервиса', 'сервисов'], brand: /\bbyd\b|бид\b/i, rule: 'BYD в названии либо адресе сайта и рубрика автосервиса.' },
+  // 10.11.2026: в НСК эти две ниши – ручные (reyting.ts), в остальных городах – по правилу, как чип-тюнинг и марочные
+  'ustanovka-magnitol': { group: 'Установка и тюнинг', schema: 'AutomotiveBusiness', who: ['центр', 'центра', 'центров'], rubric: /автоакустик|автосигнализац|студия тюнинга|автоаксессуар/i, general: true, rule: 'рубрика «Автоакустика», «Автосигнализация», «Студия тюнинга» или «Автоаксессуары», либо автосервис, который Яндекс показал по запросу «установка магнитолы».' },
+  'servis-kitayskikh-avtomobiley': { group: 'Ремонт и ТО', schema: 'AutoRepair', who: ['сервис', 'сервиса', 'сервисов'], brand: /chery|черри|чери|haval|хавейл|хавал|geely|джили|changan|чанган|exeed|эксид|omoda|омода|jaecoo|джейку|jetour|джетур|\btank\b|\bgwm\b|great wall|китайск|china|zeekr|зикр|lixiang|li ?auto|\bbyd\b|voyah|avatr|kaiyi|baic|\bfaw\b|dongfeng|hongqi|\bgac\b|\bjac\b|livan|belgee|москвич/i, rule: 'китайская марка (Chery, Haval, Geely, Changan, Exeed, Omoda, Jetour, Zeekr, Li Auto, BYD и др.) или слово «китайские» в названии либо адресе сайта и рубрика автосервиса.' },
   'servis-avatr': { group: 'Ремонт и ТО', schema: 'AutoRepair', who: ['сервис', 'сервиса', 'сервисов'], brand: /avatr|аватр/i, rule: 'Avatr в названии либо адресе сайта и рубрика автосервиса.' },
 };
 
