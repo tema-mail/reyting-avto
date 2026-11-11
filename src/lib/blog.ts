@@ -39,7 +39,9 @@ export const BLOG: BlogPost[] = (
       // внутренние ссылки от корня – с base (Pages); внешние – в новой вкладке
       const html: string = (await m.compiledContent())
         .replace(/href="(\/[^"\/][^"]*|\/)"/g, (_: string, h: string) => `href="${u(h)}"`)
-        .replace(/<a href="(https?:[^"]+)"/g, '<a href="$1" target="_blank" rel="noopener"');
+        .replace(/<a href="(https?:[^"]+)"/g, '<a href="$1" target="_blank" rel="noopener"')
+        // 11.11.2026, владелец: «фото ещё туда по 2–5 шт» – картинки из ![alt](/images/blog/<slug>/N.webp): ленивая загрузка, адрес с base
+        .replace(/<img src="(\/[^"]+)"([^>]*)>/g, (_: string, s: string, rest: string) => `<img src="${u(s)}" loading="lazy" decoding="async" width="1600" height="1067"${rest}>`);
       const [a, b = ''] = html.split('<!-- reyting -->');
       if (fm.nisha && !b) throw new Error(`blog/${slug}.md: указана ниша, но нет метки <!-- reyting -->`);
       const words = html.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
