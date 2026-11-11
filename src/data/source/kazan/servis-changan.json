@@ -1,0 +1,1862 @@
+{
+ "ниша": "Сервис Changan",
+ "ключ": "servis-changan",
+ "запросы": [
+  "changan сервис",
+  "changan ремонт",
+  "changan техническое обслуживание"
+ ],
+ "найдено_в_яндексе": {
+  "changan сервис": 23,
+  "changan ремонт": 48,
+  "changan техническое обслуживание": 56
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Казани (регион 43)",
+ "город": "kazan",
+ "компании": [
+  {
+   "id": "1541213287",
+   "название": "Диалог Авто",
+   "seoname": "dialog_avto",
+   "адрес": "ул. Горьковское Шоссе, 47, корп. 1",
+   "координаты": [
+    49.025309,
+    55.82658
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1999,
+   "отзывов": 999,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 558-74-46"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto/1541213287/",
+   "последний_отзыв": "2026-08-13",
+   "отзывов_за_12_мес_из_загруженных": 42,
+   "загружено_дат": 84
+  },
+  {
+   "id": "194194788198",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Лазарева, 11",
+   "координаты": [
+    49.047997,
+    55.818447
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1078,
+   "отзывов": 732,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kazan.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 253-02-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/194194788198/",
+   "последний_отзыв": "2026-09-04",
+   "отзывов_за_12_мес_из_загруженных": 60,
+   "загружено_дат": 83
+  },
+  {
+   "id": "191671526055",
+   "название": "Авг сервис",
+   "seoname": "avg_servis",
+   "адрес": "ул. Родины, 4, корп. 1, Казань",
+   "координаты": [
+    49.196309,
+    55.775812
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1096,
+   "отзывов": 589,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://авгсервис.рф/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-32-90"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "generators",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avg_servis/191671526055/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 31,
+   "загружено_дат": 54
+  },
+  {
+   "id": "69359060024",
+   "название": "Автосеть Гараж",
+   "seoname": "avtoset_garazh",
+   "адрес": "Дубравная ул., 51Г, микрорайон Горки-3, Приволжский район, Казань",
+   "координаты": [
+    49.196142,
+    55.740133
+   ],
+   "рейтинг": 4.7,
+   "оценок": 732,
+   "отзывов": 383,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://автосеть-гараж.рф/"
+   ],
+   "телефоны": [
+    "+7 (843) 265-25-35",
+    "+7 (953) 405-25-35"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "stove_radiator_washing",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_garazh/69359060024/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 52,
+   "загружено_дат": 76
+  },
+  {
+   "id": "132558397673",
+   "название": "SNR Service",
+   "seoname": "snr_service",
+   "адрес": "ул. Михаила Миля, 49, корп. 1, Казань",
+   "координаты": [
+    49.116353,
+    55.847608
+   ],
+   "рейтинг": 5,
+   "оценок": 666,
+   "отзывов": 314,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://snr-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 258-22-78"
+   ],
+   "часы": "ежедневно, 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_fitting",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/snr_service/132558397673/",
+   "последний_отзыв": "2026-09-25",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 92
+  },
+  {
+   "id": "136775979199",
+   "название": "Глобал Сервис Gm&china",
+   "seoname": "global_servis_gm_china",
+   "адрес": "ул. Михаила Миля, 49, корп. 1, Казань",
+   "координаты": [
+    49.116998,
+    55.847675
+   ],
+   "рейтинг": 4.9,
+   "оценок": 806,
+   "отзывов": 285,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://мойглобалсервис.рф/china"
+   ],
+   "телефоны": [
+    "+7 (843) 255-51-25"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "automotive_products",
+    "basic_service",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/global_servis_gm_china/136775979199/",
+   "последний_отзыв": "2026-09-23",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 93
+  },
+  {
+   "id": "180182598765",
+   "название": "БестВей",
+   "seoname": "bestvey",
+   "адрес": "Спартаковская ул., 12, Казань",
+   "координаты": [
+    49.130798,
+    55.778034
+   ],
+   "рейтинг": 4.9,
+   "оценок": 371,
+   "отзывов": 250,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bestwaykazan.ru/",
+    "https://bestway-spartakovskaja.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (843) 558-74-79",
+    "+7 (843) 210-57-72"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "chip_tuning",
+    "cylinder_blocks_boring",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "hydroblock_repair",
+    "injector_repair",
+    "injectors_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "turbine repair",
+    "variator_repair",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bestvey/180182598765/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 85
+  },
+  {
+   "id": "209063622357",
+   "название": "Юни центр Кан Авто",
+   "seoname": "yuni_tsentr_kan_avto",
+   "адрес": "ул. Оренбургский Тракт, 209В",
+   "координаты": [
+    49.191331,
+    55.730423
+   ],
+   "рейтинг": 5,
+   "оценок": 437,
+   "отзывов": 232,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sales.kanavto-changanauto.ru/",
+    "https://kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-36-32"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "coffee_to_go",
+    "delivery",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "self_car_service",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yuni_tsentr_kan_avto/209063622357/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 42,
+   "загружено_дат": 81
+  },
+  {
+   "id": "1376351918",
+   "название": "Фокус",
+   "seoname": "fokus",
+   "адрес": "ул. Челюскина, 43, Казань",
+   "координаты": [
+    49.078509,
+    55.866262
+   ],
+   "рейтинг": 4.4,
+   "оценок": 418,
+   "отзывов": 211,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://focus-kazan.com/"
+   ],
+   "телефоны": [
+    "+7 (843) 211-01-07"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "тонирование автостёкол",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "armoring_headlights",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fokus/1376351918/",
+   "последний_отзыв": "2026-11-01",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 86
+  },
+  {
+   "id": "144823317532",
+   "название": "Глобал Сервис Gm&China",
+   "seoname": "global_servis_gm_china",
+   "адрес": "ул. Аделя Кутуя, 159Г, Казань",
+   "координаты": [
+    49.19091,
+    55.771683
+   ],
+   "рейтинг": 5,
+   "оценок": 515,
+   "отзывов": 205,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://мойглобалсервис.рф/",
+    "https://мойглобалсервис.рф/gm",
+    "https://мойглобалсервис.рф/china"
+   ],
+   "телефоны": [
+    "+7 (843) 255-51-35"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "coffee_to_go",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/global_servis_gm_china/144823317532/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 93
+  },
+  {
+   "id": "117126440033",
+   "название": "Дизель Групп",
+   "seoname": "dizel_grupp",
+   "адрес": "ул. Горьковское Шоссе, 49, корп. 3",
+   "координаты": [
+    49.024383,
+    55.826029
+   ],
+   "рейтинг": 5,
+   "оценок": 265,
+   "отзывов": 195,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://digser.ru/"
+   ],
+   "телефоны": [
+    "+7 (906) 322-73-73",
+    "+7 (906) 323-73-73",
+    "+7 (965) 617-31-73"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт турбин",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "guarantee",
+    "injector_repair",
+    "injectors_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dizel_grupp/117126440033/",
+   "последний_отзыв": "2026-11-01",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 81
+  },
+  {
+   "id": "164807153463",
+   "название": "Changan центр, ТрансТехСервис",
+   "seoname": "changan_tsentr_transtekhservis",
+   "адрес": "ул. Декабристов, 81В, корп. 1",
+   "координаты": [
+    49.094326,
+    55.818956
+   ],
+   "рейтинг": 5,
+   "оценок": 297,
+   "отзывов": 176,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sales.kazan.tts-changanauto.ru/",
+    "https://changan.tts.ru/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 244-80-53",
+    "+7 (843) 210-32-65",
+    "+7 (843) 558-33-65"
+   ],
+   "часы": "пн-сб 08:00–21:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "motorcycle_tire_repair",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "starting_the_car",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_transtekhservis/164807153463/",
+   "последний_отзыв": "2026-10-10",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 71
+  },
+  {
+   "id": "168595200697",
+   "название": "Автосеть Гараж",
+   "seoname": "avtoset_garazh",
+   "адрес": "ул. Айдарова, 7А, Казань",
+   "координаты": [
+    49.08994,
+    55.867422
+   ],
+   "рейтинг": 4.6,
+   "оценок": 328,
+   "отзывов": 174,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.автосеть-гараж.рф/"
+   ],
+   "телефоны": [
+    "+7 (904) 679-94-87",
+    "+7 (843) 265-25-15"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "stove_radiator_washing",
+    "street_entrance",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_garazh/168595200697/",
+   "последний_отзыв": "2026-10-07",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 79
+  },
+  {
+   "id": "122581648857",
+   "название": "М Сервис",
+   "seoname": "m_servis",
+   "адрес": "Широкая ул., 7, Казань",
+   "координаты": [
+    49.069939,
+    55.801454
+   ],
+   "рейтинг": 4.4,
+   "оценок": 308,
+   "отзывов": 134,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mservice116.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 208-13-39",
+    "+7 (987) 215-17-17"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "autovinil",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_door_closers",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "disable_photopoi",
+    "gift_certificate",
+    "glass_tinting",
+    "guarantee",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/m_servis/122581648857/",
+   "последний_отзыв": "2026-08-19",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 85
+  },
+  {
+   "id": "180709614197",
+   "название": "Моторхуд",
+   "seoname": "motorkhud",
+   "адрес": "ул. Аделя Кутуя, 151/1, Казань",
+   "координаты": [
+    49.188945,
+    55.774941
+   ],
+   "рейтинг": 4.9,
+   "оценок": 260,
+   "отзывов": 127,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 215-22-26"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motorkhud/180709614197/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 86
+  },
+  {
+   "id": "56510492765",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Патриса Лумумбы, 61",
+   "координаты": [
+    49.185933,
+    55.796213
+   ],
+   "рейтинг": 5,
+   "оценок": 144,
+   "отзывов": 123,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kazan.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 253-02-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/56510492765/"
+  },
+  {
+   "id": "146785962331",
+   "название": "Lukas, BMW",
+   "seoname": "lukas_bmw",
+   "адрес": "Техническая ул., 120В, корп. 2, Казань",
+   "координаты": [
+    49.132113,
+    55.754114
+   ],
+   "рейтинг": 4.9,
+   "оценок": 267,
+   "отзывов": 122,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://auto-lukas.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 290-81-90"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 08:30–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "good_place",
+    "repair_of_diesel_engines",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lukas_bmw/146785962331/"
+  },
+  {
+   "id": "174654750161",
+   "название": "Gm Авто",
+   "seoname": "gm_avto",
+   "адрес": "Дорожная ул., 50, жилой массив Нагорный, Советский район, Казань",
+   "координаты": [
+    49.225303,
+    55.848693
+   ],
+   "рейтинг": 4.7,
+   "оценок": 279,
+   "отзывов": 119,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gmavto.net/"
+   ],
+   "телефоны": [
+    "+7 (843) 253-22-59",
+    "+7 (903) 305-22-49",
+    "+7 (903) 305-22-59",
+    "+7 (843) 253-22-49"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "motorcycle_tire_repair",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "tire_fitting",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gm_avto/174654750161/"
+  },
+  {
+   "id": "98411750243",
+   "название": "Ангар 16",
+   "seoname": "angar_16",
+   "адрес": "Бухарская ул., 5А, Казань",
+   "координаты": [
+    49.200813,
+    55.774674
+   ],
+   "рейтинг": 5,
+   "оценок": 246,
+   "отзывов": 112,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 225-61-16"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "покраска автомобилей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "raptor_painting",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/angar_16/98411750243/"
+  },
+  {
+   "id": "167685218570",
+   "название": "Диалог Авто Changan",
+   "seoname": "dialog_avto_changan",
+   "адрес": "ул. Горьковское Шоссе, 47, корп. 1",
+   "координаты": [
+    49.025223,
+    55.826546
+   ],
+   "рейтинг": 5,
+   "оценок": 194,
+   "отзывов": 108,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dialog-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-13-91"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto_changan/167685218570/"
+  },
+  {
+   "id": "202528705884",
+   "название": "Чанган центр Кан Авто Сибирский",
+   "seoname": "changan_tsentr_kan_avto_sibirskiy",
+   "адрес": "ул. Сибирский Тракт, 51",
+   "координаты": [
+    49.195222,
+    55.837648
+   ],
+   "рейтинг": 4.9,
+   "оценок": 150,
+   "отзывов": 93,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://seles.kan-avto-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 244-87-73"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_kan_avto_sibirskiy/202528705884/"
+  },
+  {
+   "id": "177501445613",
+   "название": "Биба и Боба",
+   "seoname": "biba_i_boba",
+   "адрес": "Архангельская ул., 2, корп. 1",
+   "координаты": [
+    49.058289,
+    55.809676
+   ],
+   "рейтинг": 4.9,
+   "оценок": 183,
+   "отзывов": 87,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pochini-sam.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 030-84-69",
+    "+7 (987) 182-44-80"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "автоподбор"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "motopodbor",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/biba_i_boba/177501445613/"
+  },
+  {
+   "id": "157650114413",
+   "название": "АзияАвто116",
+   "seoname": "aziyaavto116",
+   "адрес": "ул. Энгельса, 15",
+   "координаты": [
+    49.072165,
+    55.808943
+   ],
+   "рейтинг": 5,
+   "оценок": 119,
+   "отзывов": 82,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://70000001081103391.2gis.biz/"
+   ],
+   "телефоны": [
+    "+7 (843) 215-14-44",
+    "+7 (987) 215-14-44"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aziyaavto116/157650114413/"
+  },
+  {
+   "id": "143464460667",
+   "название": "Кайрос",
+   "seoname": "kayros",
+   "адрес": "Чистопольская ул., 63А",
+   "координаты": [
+    49.129735,
+    55.820688
+   ],
+   "рейтинг": 4.6,
+   "оценок": 168,
+   "отзывов": 77,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (966) 260-68-78"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "diesel_service",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kayros/143464460667/"
+  },
+  {
+   "id": "173505115314",
+   "название": "SNR Service",
+   "seoname": "snr_service",
+   "адрес": "ул. Петра Витера, 43",
+   "координаты": [
+    49.122604,
+    55.85239
+   ],
+   "рейтинг": 4.8,
+   "оценок": 147,
+   "отзывов": 68,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://snr-service.ru/china"
+   ],
+   "телефоны": [
+    "+7 (843) 250-22-78",
+    "+7 (966) 240-95-51"
+   ],
+   "часы": "ежедневно, 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "adblue",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_fitting",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/snr_service/173505115314/"
+  },
+  {
+   "id": "142351735779",
+   "название": "Авторешение",
+   "seoname": "avtoresheniye",
+   "адрес": "Гвардейская ул., 53, корп. 5, Казань",
+   "координаты": [
+    49.175995,
+    55.771508
+   ],
+   "рейтинг": 4.6,
+   "оценок": 80,
+   "отзывов": 55,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoreshenie.vizai.fyi/"
+   ],
+   "телефоны": [
+    "+7 (906) 119-65-61"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "chip_tuning",
+    "disable_captions",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoresheniye/142351735779/"
+  },
+  {
+   "id": "154435465258",
+   "название": "Дресс Кар",
+   "seoname": "dress_kar",
+   "адрес": "ул. Аделя Кутуя, 90",
+   "координаты": [
+    49.181844,
+    55.780159
+   ],
+   "рейтинг": 5,
+   "оценок": 66,
+   "отзывов": 53,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://steering-rack-rebuild.ru/"
+   ],
+   "телефоны": [
+    "+7 (906) 115-64-20",
+    "+7 (927) 423-80-66"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dress_kar/154435465258/"
+  },
+  {
+   "id": "215549764726",
+   "название": "Чанган центр ТрансТехСервис",
+   "seoname": "changan_tsentr_transtekhservis",
+   "адрес": "ул. Мамадышский Тракт, 30",
+   "координаты": [
+    49.244764,
+    55.797012
+   ],
+   "рейтинг": 5,
+   "оценок": 63,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.tts.ru/brands/changan/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 558-58-91"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_transtekhservis/215549764726/"
+  },
+  {
+   "id": "117591783429",
+   "название": "Motorbro",
+   "seoname": "motorbro",
+   "адрес": "ул. Академика Лаврентьева, 17А",
+   "координаты": [
+    49.151835,
+    55.834195
+   ],
+   "рейтинг": 4.9,
+   "оценок": 57,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (966) 260-00-56"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "street_entrance",
+    "tire_fitting",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motorbro/117591783429/"
+  },
+  {
+   "id": "129854971520",
+   "название": "Солнечный",
+   "seoname": "solnechny",
+   "адрес": "ул. Короленко, 118",
+   "координаты": [
+    49.098799,
+    55.846441
+   ],
+   "рейтинг": 4.7,
+   "оценок": 64,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sunservice.su/"
+   ],
+   "телефоны": [
+    "+7 (843) 208-13-36",
+    "+7 (901) 143-32-03"
+   ],
+   "часы": "пн,вт,ср,чт,сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solnechny/129854971520/"
+  },
+  {
+   "id": "208215680789",
+   "название": "Next Авто",
+   "seoname": "next_avto",
+   "адрес": "ул. Тази Гиззата, 29, Казань",
+   "координаты": [
+    49.10239,
+    55.784714
+   ],
+   "рейтинг": 4.1,
+   "оценок": 46,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://next-avto-ulitsa-tazi-gizzata.clients.site/",
+    "https://next-avto-ulitsa-tazi-gizzata.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 905-28-28",
+    "+7 (967) 466-18-67"
+   ],
+   "часы": "ежедневно, 07:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "disable_captions",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/next_avto/208215680789/"
+  },
+  {
+   "id": "1091710360",
+   "название": "Элерон",
+   "seoname": "eleron",
+   "адрес": "Интернациональная ул., 7Г, Казань",
+   "координаты": [
+    49.264769,
+    55.807223
+   ],
+   "рейтинг": 4.4,
+   "оценок": 18,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://eleron-kazan.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (906) 116-04-78",
+    "+7 (903) 313-99-96"
+   ],
+   "часы": "пн-пт 08:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/eleron/1091710360/"
+  }
+ ]
+}

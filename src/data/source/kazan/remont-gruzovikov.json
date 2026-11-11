@@ -1,0 +1,4541 @@
+{
+ "ниша": "Ремонт грузовиков",
+ "ключ": "remont-gruzovikov",
+ "запросы": [
+  "ремонт грузовых автомобилей"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт грузовых автомобилей": 63,
+  "ремонт грузовых автомобилей Авиастроительный район": 28,
+  "ремонт грузовых автомобилей Вахитовский район": 27,
+  "ремонт грузовых автомобилей Кировский район": 34,
+  "ремонт грузовых автомобилей Московский район": 35,
+  "ремонт грузовых автомобилей Ново-Савиновский район": 19,
+  "ремонт грузовых автомобилей Приволжский район": 29,
+  "ремонт грузовых автомобилей Советский район": 40
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Казани (регион 43)",
+ "город": "kazan",
+ "компании": [
+  {
+   "id": "1052396158",
+   "название": "Грузовой автосервис Рембат",
+   "seoname": "gruzovoy_avtoservis_rembat",
+   "адрес": "М-7 Волга, 812-й километр, 7",
+   "координаты": [
+    49.196116,
+    55.901183
+   ],
+   "рейтинг": 4.3,
+   "оценок": 1541,
+   "отзывов": 532,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.rembat24.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 333-17-00",
+    "+7 (843) 200-95-30",
+    "+7 (843) 200-95-31"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzovoy_avtoservis_rembat/1052396158/",
+   "последний_отзыв": "2026-10-18",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 50
+  },
+  {
+   "id": "1392882840",
+   "название": "Агрегат Сервис",
+   "seoname": "agregat_servis",
+   "адрес": "ул. Профессора Мухамедьярова, 31В, Казань",
+   "координаты": [
+    49.074957,
+    55.839488
+   ],
+   "рейтинг": 5,
+   "оценок": 791,
+   "отзывов": 532,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://agregat-center.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 500-57-98",
+    "+7 (843) 216-16-74",
+    "+7 (960) 048-33-55"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт турбин",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "delivery",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agregat_servis/1392882840/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 86
+  },
+  {
+   "id": "58468348381",
+   "название": "Вин Дизель",
+   "seoname": "vin_dizel",
+   "адрес": "ул. Сафиуллина, 5, корп. 2",
+   "координаты": [
+    49.225602,
+    55.751135
+   ],
+   "рейтинг": 5,
+   "оценок": 490,
+   "отзывов": 350,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kzndiesel.ru/"
+   ],
+   "телефоны": [
+    "+7 (980) 976-18-62",
+    "+7 (905) 371-23-53",
+    "+7 (967) 770-00-03"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "toilet",
+    "urea",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vin_dizel/58468348381/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 67,
+   "загружено_дат": 80
+  },
+  {
+   "id": "1089724674",
+   "название": "Альфаскан Sitrak",
+   "seoname": "alfaskan_sitrak",
+   "адрес": "Центральная ул., 1Б, посёлок Новониколаевский",
+   "координаты": [
+    48.958323,
+    55.900251
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1002,
+   "отзывов": 314,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://alfascan.ru/"
+   ],
+   "телефоны": [
+    "+7 (960) 056-52-46",
+    "+7 (962) 568-83-83"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "грузовые автомобили, грузовая техника",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "coffee_to_go",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "field_service",
+    "freight_car_service",
+    "generators",
+    "guarantee",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "transponders",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alfaskan_sitrak/1089724674/",
+   "последний_отзыв": "2026-11-08",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 77
+  },
+  {
+   "id": "118961777796",
+   "название": "АК Барс Трак",
+   "seoname": "ak_bars_trak",
+   "адрес": "Кадышевская ул., 1, жилой массив Щербаково, Казань",
+   "координаты": [
+    49.151008,
+    55.917048
+   ],
+   "рейтинг": 5,
+   "оценок": 342,
+   "отзывов": 291,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.akbarstruck.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 215-88-08",
+    "+7 (917) 220-91-01"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "adblue",
+    "advanced_after_sales_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "generators",
+    "guarantee",
+    "hinged_equipment",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_chains",
+    "trailer_repair",
+    "transportation_storage_dangerous_goods",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ak_bars_trak/118961777796/",
+   "последний_отзыв": "2026-11-07",
+   "отзывов_за_12_мес_из_загруженных": 53,
+   "загружено_дат": 53
+  },
+  {
+   "id": "70894244548",
+   "название": "Клевер Трак",
+   "seoname": "klever_trak",
+   "адрес": "Центральная ул., 5, посёлок Новониколаевский",
+   "координаты": [
+    48.961983,
+    55.900211
+   ],
+   "рейтинг": 5,
+   "оценок": 472,
+   "отзывов": 263,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://service.clever-truck.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 555-70-07"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "грузовые автомобили, грузовая техника",
+    "автосалон"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "diesel_service",
+    "disable_captions",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "hinged_equipment",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "termobudki",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klever_trak/70894244548/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 31,
+   "загружено_дат": 86
+  },
+  {
+   "id": "1790623180",
+   "название": "Луидор",
+   "seoname": "luidor",
+   "адрес": "ул. Сибирский Тракт, 59",
+   "координаты": [
+    49.198564,
+    55.840262
+   ],
+   "рейтинг": 4.3,
+   "оценок": 675,
+   "отзывов": 247,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sto.luidor-kazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-50-54"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "field_service",
+    "freight_car_service",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luidor/1790623180/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 48,
+   "загружено_дат": 89
+  },
+  {
+   "id": "28013250730",
+   "название": "Три Газели",
+   "seoname": "tri_gazeli",
+   "адрес": "ул. Дементьева, 51, корп. 1",
+   "координаты": [
+    49.108408,
+    55.865818
+   ],
+   "рейтинг": 4.9,
+   "оценок": 288,
+   "отзывов": 193,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://taplink.cc/tri_gazely"
+   ],
+   "телефоны": [
+    "+7 (917) 859-67-88",
+    "+7 (906) 114-51-18",
+    "+7 (917) 916-83-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tri_gazeli/28013250730/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 37,
+   "загружено_дат": 89
+  },
+  {
+   "id": "187001045944",
+   "название": "Татреф",
+   "seoname": "tatref",
+   "адрес": "Республика Татарстан (Татарстан), Зеленодольский район, Осиновское сельское поселение, территория Промышленная Площадка Индустриальный Парк М7",
+   "координаты": [
+    48.970038,
+    55.894352
+   ],
+   "рейтинг": 5,
+   "оценок": 312,
+   "отзывов": 151,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://refkazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 249-53-19",
+    "+7 (843) 249-53-19",
+    "+7 (962) 552-72-72",
+    "+7 (937) 282-14-23",
+    "+7 (937) 282-14-20"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "промышленное холодильное оборудование",
+    "автомобильные отопители"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "call_button",
+    "car_park",
+    "certified_service",
+    "commercial_refrigeration_equipment",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "engine_preheaters",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "isothermal_containers",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "refrigerants",
+    "repair_of_refrigerated_trucks",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "trailer_repair",
+    "transport_refrigeration_equipment",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tatref/187001045944/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 91
+  },
+  {
+   "id": "1731957139",
+   "название": "МаратАвто",
+   "seoname": "maratavto",
+   "адрес": "Тихорецкая ул., уч2",
+   "координаты": [
+    49.122224,
+    55.731815
+   ],
+   "рейтинг": 4.9,
+   "оценок": 247,
+   "отзывов": 116,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://maratavto.ru/",
+    "https://vk.link/maratavto16"
+   ],
+   "телефоны": [
+    "+7 (927) 034-27-26",
+    "+7 (937) 297-48-97"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/maratavto/1731957139/",
+   "последний_отзыв": "2026-10-17",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 64
+  },
+  {
+   "id": "190936608640",
+   "название": "Авторитэйл, ГАЗ",
+   "seoname": "avtoriteyl_gaz",
+   "адрес": "ул. Горьковское Шоссе, 28, стр. 1, Казань",
+   "координаты": [
+    49.032186,
+    55.82802
+   ],
+   "рейтинг": 4.5,
+   "оценок": 232,
+   "отзывов": 97,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://16.autoretail.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-56-63"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "грузовые автомобили, грузовая техника",
+    "запчасти для грузовых автомобилей"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "hinged_equipment",
+    "official_dealer",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "repairs",
+    "self_car_service",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoriteyl_gaz/190936608640/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 78
+  },
+  {
+   "id": "81250552742",
+   "название": "Мотор Мастер",
+   "seoname": "motor_master",
+   "адрес": "ул. Лебедева, 20",
+   "координаты": [
+    49.122806,
+    55.756927
+   ],
+   "рейтинг": 4.3,
+   "оценок": 300,
+   "отзывов": 81,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://мотор-мастер.рф/",
+    "https://сервисгрузовиков.рф/"
+   ],
+   "телефоны": [
+    "+7 (843) 245-02-25",
+    "+7 (987) 295-65-52",
+    "+7 (987) 295-65-53"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "грузовые автомобили, грузовая техника",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motor_master/81250552742/",
+   "последний_отзыв": "2026-07-28",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 65
+  },
+  {
+   "id": "1286033839",
+   "название": "Автодруг",
+   "seoname": "avtodrug",
+   "адрес": "ул. Бурхана Шахиди, 9В",
+   "координаты": [
+    49.103845,
+    55.788083
+   ],
+   "рейтинг": 4.5,
+   "оценок": 144,
+   "отзывов": 77,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://kuzovnoy-kazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 239-13-35",
+    "+7 (987) 290-22-95",
+    "+7 (843) 290-22-95"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр",
+    "покраска автомобилей"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "bumper_repair",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodrug/1286033839/",
+   "последний_отзыв": "2026-09-12",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 66
+  },
+  {
+   "id": "110203391002",
+   "название": "Харвест, ремонт грузовых автомобилей",
+   "seoname": "kharvest_remont_gruzovykh_avtomobiley",
+   "адрес": "Полевая ул., 1А, посёлок Озёрный",
+   "координаты": [
+    49.057172,
+    55.910652
+   ],
+   "рейтинг": 4.6,
+   "оценок": 172,
+   "отзывов": 71,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.harvestauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 245-60-60",
+    "+7 (843) 245-40-10",
+    "+7 (843) 214-61-00"
+   ],
+   "часы": "пн-сб 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "грузовые автомобили, грузовая техника",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "repairs",
+    "trailer_repair",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kharvest_remont_gruzovykh_avtomobiley/110203391002/",
+   "последний_отзыв": "2026-09-28",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 81
+  },
+  {
+   "id": "117126531131",
+   "название": "Русбизнесавто",
+   "seoname": "rusbiznesavto",
+   "адрес": "Республика Татарстан (Татарстан), Зеленодольский район, Осиновское сельское поселение, территория Площадка Ферромоторс, 2",
+   "координаты": [
+    48.95683,
+    55.899813
+   ],
+   "рейтинг": 4.4,
+   "оценок": 204,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.rbauto.ru/",
+    "https://rbaparts.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 551-33-02"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Грузовые автомобили, грузовая техника",
+    "автосервис, автотехцентр",
+    "дорожно-строительная техника"
+   ],
+   "признаки": [
+    "freight_car_service",
+    "hinged_equipment",
+    "repairs",
+    "trailer_repair"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rusbiznesavto/117126531131/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 24,
+   "загружено_дат": 75
+  },
+  {
+   "id": "195931073652",
+   "название": "Мавинта",
+   "seoname": "mavinta",
+   "адрес": "Центральная ул., 1Б, посёлок Новониколаевский",
+   "координаты": [
+    48.959091,
+    55.900126
+   ],
+   "рейтинг": 4.6,
+   "оценок": 131,
+   "отзывов": 53,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://mavinta.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 773-94-71",
+    "+7 (903) 062-50-69"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "промышленное холодильное оборудование",
+    "ремонт промышленных холодильников"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "field_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "refrigerants",
+    "refrigerator_repair",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "transport_refrigeration_equipment",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mavinta/195931073652/"
+  },
+  {
+   "id": "154435465258",
+   "название": "Дресс Кар",
+   "seoname": "dress_kar",
+   "адрес": "ул. Аделя Кутуя, 90",
+   "координаты": [
+    49.181844,
+    55.780159
+   ],
+   "рейтинг": 5,
+   "оценок": 66,
+   "отзывов": 53,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://steering-rack-rebuild.ru/"
+   ],
+   "телефоны": [
+    "+7 (906) 115-64-20",
+    "+7 (927) 423-80-66"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dress_kar/154435465258/"
+  },
+  {
+   "id": "39376073641",
+   "название": "Авторитэйл, ГАЗ",
+   "seoname": "avtoriteyl_gaz",
+   "адрес": "ул. Аделя Кутуя, 96, Казань",
+   "координаты": [
+    49.18813,
+    55.782727
+   ],
+   "рейтинг": 4.7,
+   "оценок": 68,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://16.autoretail.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-56-63"
+   ],
+   "часы": "пн-пт 08:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "грузовые автомобили, грузовая техника"
+   ],
+   "признаки": [
+    "car_park",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoriteyl_gaz/39376073641/"
+  },
+  {
+   "id": "1121985381",
+   "название": "Авторемзавод",
+   "seoname": "avtoremzavod",
+   "адрес": "Беломорская ул., 69А",
+   "координаты": [
+    49.030907,
+    55.865519
+   ],
+   "рейтинг": 4.4,
+   "оценок": 124,
+   "отзывов": 43,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://arz-kzn.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 314-96-01",
+    "+7 (903) 388-30-66"
+   ],
+   "часы": "пн-пт 08:00–17:00, перерыв 12:30–13:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_wash",
+    "diesel_service",
+    "freight_car_service",
+    "removing_dents_without_painting",
+    "repair_of_diesel_engines",
+    "trailer_repair",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoremzavod/1121985381/"
+  },
+  {
+   "id": "108874036090",
+   "название": "ГТЛ Сервис",
+   "seoname": "gtl_servis",
+   "адрес": "Тэцевская ул., 3, корп. 1",
+   "координаты": [
+    49.076178,
+    55.847817
+   ],
+   "рейтинг": 4.9,
+   "оценок": 52,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.gtl-servis.club/"
+   ],
+   "телефоны": [
+    "+7 (980) 976-76-12",
+    "+7 (960) 077-66-88",
+    "+7 (960) 032-01-33"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "freight_car_service",
+    "generators",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_chains",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gtl_servis/108874036090/"
+  },
+  {
+   "id": "110248143242",
+   "название": "ТрансИнКом",
+   "seoname": "transinkom",
+   "адрес": "ул. Рихарда Зорге, 9/1, жилой массив Кадышево, Авиастроительный район",
+   "координаты": [
+    49.133702,
+    55.901224
+   ],
+   "рейтинг": 4.9,
+   "оценок": 20,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://transinkom.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 917-11-77"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "heater_flushing",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "self_car_service",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/transinkom/110248143242/"
+  },
+  {
+   "id": "1376498601",
+   "название": "Клаксон",
+   "seoname": "klakson",
+   "адрес": "ул. Мира, 147, жилой массив Самосырово, Советский район",
+   "координаты": [
+    49.285532,
+    55.801224
+   ],
+   "рейтинг": 4.4,
+   "оценок": 73,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://klaksonteh.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 208-66-19",
+    "+7 (999) 164-73-91",
+    "+7 (906) 110-11-82",
+    "+7 (917) 921-44-00",
+    "+7 (987) 225-05-75"
+   ],
+   "часы": "пн-пт 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Запчасти для грузовых автомобилей",
+    "грузовые автомобили, грузовая техника",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "adblue",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "avtochekhly",
+    "car_park",
+    "coffee_to_go",
+    "delivery",
+    "freight_car_service",
+    "gas_stops",
+    "generators",
+    "hinged_equipment",
+    "hydraulic_cylinders",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "special_equipment_air_conditioners",
+    "starters",
+    "toilet",
+    "transportation_storage_dangerous_goods",
+    "urea",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klakson/1376498601/"
+  },
+  {
+   "id": "218507397287",
+   "название": "РемТрансСервис",
+   "seoname": "remtransservis",
+   "адрес": "Объездная ул., 15, село Столбище",
+   "координаты": [
+    49.21449,
+    55.6585
+   ],
+   "рейтинг": 4.5,
+   "оценок": 12,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://remtransservis.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (903) 344-48-23"
+   ],
+   "часы": "ежедневно, 07:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remtransservis/218507397287/"
+  },
+  {
+   "id": "144435288950",
+   "название": "СТО 116",
+   "seoname": "sto_116",
+   "адрес": "Южно-Промышленная ул., 3, корп. 9",
+   "координаты": [
+    49.099623,
+    55.728216
+   ],
+   "рейтинг": 3.9,
+   "оценок": 4,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 215-48-80",
+    "+7 (987) 296-00-88"
+   ],
+   "часы": "пн-сб 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "diesel_service",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sto_116/144435288950/"
+  },
+  {
+   "id": "124968516999",
+   "название": "Агрегатный Стомашин",
+   "seoname": "agregatny_stomashin",
+   "адрес": "ул. Дементьева, 18",
+   "координаты": [
+    49.102596,
+    55.857529
+   ],
+   "рейтинг": 4.3,
+   "оценок": 55,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://dvsremont.ru/"
+   ],
+   "телефоны": [
+    "+7 (966) 240-14-05",
+    "+7 (966) 240-44-05"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт двигателей",
+    "грузовые автомобили, грузовая техника",
+    "ремонт лодок"
+   ],
+   "признаки": [
+    "disable_captions",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "repair_of_diesel_engines",
+    "repair_outboard_motors",
+    "repairs"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agregatny_stomashin/124968516999/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "1757766709",
+   "название": "Делфо",
+   "seoname": "delfo",
+   "адрес": "Беломорская ул., 69А, корп. 1",
+   "координаты": [
+    49.028736,
+    55.86562
+   ],
+   "рейтинг": 4,
+   "оценок": 101,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.delphocom.ru/",
+    "https://foton-delfo.ru/",
+    "https://forland-delfo.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 570-75-56",
+    "+7 (927) 039-36-85"
+   ],
+   "часы": "пн-сб 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Грузовые автомобили, грузовая техника"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "disable_captions",
+    "disable_photopoi",
+    "freight_car_service",
+    "official_dealer",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/delfo/1757766709/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "182787285678",
+   "название": "Да Компани",
+   "seoname": "da_kompani",
+   "адрес": "ул. Чапаева, 42, жилой массив Кадышево, Авиастроительный район",
+   "координаты": [
+    49.131773,
+    55.90092
+   ],
+   "рейтинг": 4.3,
+   "оценок": 10,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 307-77-70",
+    "+7 (960) 051-10-60",
+    "+7 (960) 082-05-21"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "моторные масла",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "buying_tires_wheels",
+    "car_park",
+    "car_servicing",
+    "commercial_vehicles_repair",
+    "delivery",
+    "discs",
+    "freight_car_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "tire_chains",
+    "tire_fitting",
+    "tires",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/da_kompani/182787285678/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "90459809987",
+   "название": "Сто+",
+   "seoname": "sto_",
+   "адрес": "Казань, территория ГСК Чайка-1, 84",
+   "координаты": [
+    49.101071,
+    55.866242
+   ],
+   "рейтинг": 4.3,
+   "оценок": 8,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (905) 317-58-20"
+   ],
+   "часы": "ежедневно, 07:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автоподбор"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "thickness_gauge_checking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sto_/90459809987/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "15747870714",
+   "название": "ИнтехСервис",
+   "seoname": "intekhservis",
+   "адрес": "Тэцевская ул., 197",
+   "координаты": [
+    49.022483,
+    55.855889
+   ],
+   "рейтинг": 4.8,
+   "оценок": 84,
+   "отзывов": 43,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://intexgk.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 264-15-51"
+   ],
+   "часы": "ежедневно, 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей",
+    "запчасти для спецтехники"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "kaspi_red",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/intekhservis/15747870714/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "233423632389",
+   "название": "Водород16",
+   "seoname": "vodorod16",
+   "адрес": "ул. Копылова, 1Д",
+   "координаты": [
+    49.083228,
+    55.847482
+   ],
+   "рейтинг": 4.2,
+   "оценок": 5,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (967) 516-16-16"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автоателье"
+   ],
+   "признаки": [
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vodorod16/233423632389/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "35051503448",
+   "название": "АК Барс Трак",
+   "seoname": "ak_bars_trak",
+   "адрес": "Кадышевская ул., 2А, жилой массив Щербаково, Казань",
+   "координаты": [
+    49.150582,
+    55.917099
+   ],
+   "рейтинг": 5,
+   "оценок": 539,
+   "отзывов": 328,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.akbarstruck.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 291-64-47",
+    "+7 (987) 215-88-08",
+    "+7 (917) 220-91-01"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр",
+    "автомобильные тахографы"
+   ],
+   "признаки": [
+    "adblue",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "driver_cards",
+    "field_service",
+    "freight_car_service",
+    "gas_stops",
+    "generators",
+    "guarantee",
+    "hinged_equipment",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_chains",
+    "trailer_repair",
+    "transportation_storage_dangerous_goods",
+    "urea",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ak_bars_trak/35051503448/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "206609726618",
+   "название": "Луидор",
+   "seoname": "luidor",
+   "адрес": "ул. Восход, 43/1",
+   "координаты": [
+    49.070729,
+    55.841258
+   ],
+   "рейтинг": 4.5,
+   "оценок": 61,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 280-05-40",
+    "8 (800) 200-24-02"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luidor/206609726618/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "133893900441",
+   "название": "Итеко Ресурс",
+   "seoname": "iteko_resurs",
+   "адрес": "Республика Татарстан, Высокогорский район, М-7 Волга, 807-й километр, 1",
+   "координаты": [
+    49.128474,
+    55.918697
+   ],
+   "рейтинг": 4.4,
+   "оценок": 450,
+   "отзывов": 109,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://itecors.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 600-84-48",
+    "+7 (906) 120-71-97"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "repair_of_refrigerated_trucks",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/iteko_resurs/133893900441/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "1140488520",
+   "название": "АвтоГазСервис",
+   "seoname": "avtogazservis",
+   "адрес": "Тэцевская ул., 209",
+   "координаты": [
+    49.020381,
+    55.857135
+   ],
+   "рейтинг": 4.4,
+   "оценок": 642,
+   "отзывов": 215,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://ags116.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 212-44-12",
+    "+7 (843) 202-01-12"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtogazservis/1140488520/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "1062006228",
+   "название": "16 Rus",
+   "seoname": "16_rus",
+   "адрес": "2-я Кадышевская ул., 60, жилой массив Савиново, Ново-Савиновский район",
+   "координаты": [
+    49.156389,
+    55.848279
+   ],
+   "рейтинг": 4.3,
+   "оценок": 21,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 216-48-63",
+    "+7 (917) 269-43-12"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "эвакуация автомобилей"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/16_rus/1062006228/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "213136780043",
+   "название": "Iveco рембат",
+   "seoname": "iveco_rembat",
+   "адрес": "М-7 Волга, 812-й километр, 2",
+   "координаты": [
+    49.195606,
+    55.900734
+   ],
+   "рейтинг": 4.3,
+   "оценок": 118,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Грузовые автомобили, грузовая техника"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/iveco_rembat/213136780043/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "1151840496",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Республика Татарстан (Татарстан), Казань, улица Адоратского",
+   "координаты": [
+    49.150232,
+    55.848355
+   ],
+   "рейтинг": 4.4,
+   "оценок": 36,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (909) 307-94-16",
+    "+7 (929) 720-33-23",
+    "+7 (903) 343-32-33"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/1151840496/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "108813578081",
+   "название": "Авикар",
+   "seoname": "avikar",
+   "адрес": "Хлебозаводская ул., 7",
+   "координаты": [
+    49.050893,
+    55.8435
+   ],
+   "рейтинг": 4.1,
+   "оценок": 3,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://itk-avto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (960) 048-93-21"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "покраска автомобилей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avikar/108813578081/",
+   "найдено_по": "ремонт грузовых автомобилей Авиастроительный район"
+  },
+  {
+   "id": "31885873559",
+   "название": "Развал-Схождение у Профессора",
+   "seoname": "razval_skhozhdeniye_u_professora",
+   "адрес": "ул. Карима Тинчурина, 2А",
+   "координаты": [
+    49.102785,
+    55.778072
+   ],
+   "рейтинг": 5,
+   "оценок": 38,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (986) 850-86-86"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Развал-схождение",
+    "автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/razval_skhozhdeniye_u_professora/31885873559/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "182410210318",
+   "название": "А сервис",
+   "seoname": "a_servis",
+   "адрес": "Учительская ул., 10/12Б, Казань",
+   "координаты": [
+    49.11343,
+    55.753929
+   ],
+   "рейтинг": 4.9,
+   "оценок": 120,
+   "отзывов": 89,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://немец-сервис.рф/"
+   ],
+   "телефоны": [
+    "+7 (930) 329-34-72"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "autovinil",
+    "basic_service",
+    "car_door_closers",
+    "car_noise_insulation",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "coffee_to_go",
+    "diesel_service",
+    "gift_certificate",
+    "glass_tinting",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repair_dsg",
+    "spare_parts",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/a_servis/182410210318/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "219679276662",
+   "название": "Яшь Сервис",
+   "seoname": "yash_servis",
+   "адрес": "ул. Яшь Кыч, 6, корп. 1",
+   "координаты": [
+    49.10804,
+    55.751609
+   ],
+   "рейтинг": 4.8,
+   "оценок": 18,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (906) 706-70-67"
+   ],
+   "часы": "пн-пт 08:00–18:00; сб 08:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yash_servis/219679276662/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "64660648252",
+   "название": "Рамин авто",
+   "seoname": "ramin_avto",
+   "адрес": "Магистральная ул., 77, корп. 5, Приволжский район",
+   "координаты": [
+    49.098885,
+    55.734208
+   ],
+   "рейтинг": 4.4,
+   "оценок": 10,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://raminavto.ru/",
+    "https://ramin-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 322-93-61",
+    "+7 (843) 248-55-44"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ramin_avto/64660648252/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "1183968646",
+   "название": "Электро-Год",
+   "seoname": "elektro_god",
+   "адрес": "ул. Мазита Гафури, 71, корп. 3",
+   "координаты": [
+    49.10451,
+    55.76571
+   ],
+   "рейтинг": 3.7,
+   "оценок": 14,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://vk.link/starter_kazan"
+   ],
+   "телефоны": [
+    "+7 (966) 240-21-40",
+    "+7 (843) 240-21-40",
+    "+7 (986) 917-62-13",
+    "+7 (965) 605-14-50"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "payment_by_credit_card",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/elektro_god/1183968646/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "76475467654",
+   "название": "GS-Avto",
+   "seoname": "gs_avto",
+   "адрес": "Воскресенская ул., 20",
+   "координаты": [
+    49.135042,
+    55.752405
+   ],
+   "рейтинг": 4.6,
+   "оценок": 87,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 277-07-71"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт рулевых реек",
+    "автобусы и микроавтобусы"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "sale",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gs_avto/76475467654/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "1114120637",
+   "название": "Абаш",
+   "seoname": "abash",
+   "адрес": "Магистральная ул., 98, Приволжский район",
+   "координаты": [
+    49.104439,
+    55.749647
+   ],
+   "рейтинг": 4.6,
+   "оценок": 82,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://abash116.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 570-37-96"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "ремонт грузовых автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/abash/1114120637/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "177501445613",
+   "название": "Биба и Боба",
+   "seoname": "biba_i_boba",
+   "адрес": "Архангельская ул., 2, корп. 1",
+   "координаты": [
+    49.058289,
+    55.809676
+   ],
+   "рейтинг": 4.9,
+   "оценок": 183,
+   "отзывов": 87,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pochini-sam.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 030-84-69",
+    "+7 (987) 182-44-80"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "автоподбор"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "motopodbor",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/biba_i_boba/177501445613/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "1328677997",
+   "название": "Депо",
+   "seoname": "depo",
+   "адрес": "Роторная ул., 1",
+   "координаты": [
+    49.151918,
+    55.76605
+   ],
+   "рейтинг": 4.2,
+   "оценок": 611,
+   "отзывов": 205,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://depo-sto.ru/",
+    "https://taplink.cc/deporot1d"
+   ],
+   "телефоны": [
+    "+7 (843) 239-42-75",
+    "+7 (843) 239-42-79",
+    "+7 (843) 212-23-22"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "mobile_tire_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/depo/1328677997/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "138804889472",
+   "название": "Илтех",
+   "seoname": "iltekh",
+   "адрес": "Магистральная ул., 126, Приволжский район",
+   "координаты": [
+    49.102199,
+    55.744925
+   ],
+   "рейтинг": 3.9,
+   "оценок": 7,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://iltex.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 201-26-29"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт спецтехники",
+    "ремонт сельскохозяйственной техники"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "home_visit",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "refuse_and_street_sweeping_vehicles",
+    "sandblasting",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/iltekh/138804889472/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "16145862083",
+   "название": "Вездеход",
+   "seoname": "vezdekhod",
+   "адрес": "Тихорецкая ул., 19",
+   "координаты": [
+    49.116946,
+    55.730491
+   ],
+   "рейтинг": 4.5,
+   "оценок": 188,
+   "отзывов": 91,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://37avto.com/",
+    "http://37avto-service.com/"
+   ],
+   "телефоны": [
+    "+7 (843) 250-29-59",
+    "+7 (966) 250-29-59"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб 08:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "delivery",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vezdekhod/16145862083/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "1146036266",
+   "название": "Авто-Экспорт",
+   "seoname": "avto_eksport",
+   "адрес": "ул. Сары Садыковой, 30",
+   "координаты": [
+    49.116205,
+    55.774204
+   ],
+   "рейтинг": 3.1,
+   "оценок": 7,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.all-export.ru/",
+    "https://www.all-export.ru/contacts/kazan"
+   ],
+   "телефоны": [
+    "+7 (499) 553-00-67"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "грузовые автомобили, грузовая техника",
+    "производство автозапчастей"
+   ],
+   "признаки": [
+    "leasing_registration",
+    "official_dealer"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_eksport/1146036266/",
+   "найдено_по": "ремонт грузовых автомобилей Вахитовский район"
+  },
+  {
+   "id": "227066404713",
+   "название": "Мастер Truck",
+   "seoname": "master_truck",
+   "адрес": "Магистральная ул., 98, Приволжский район",
+   "координаты": [
+    49.104321,
+    55.749542
+   ],
+   "рейтинг": 4.1,
+   "оценок": 3,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 915-54-49"
+   ],
+   "часы": "пн-пт 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master_truck/227066404713/",
+   "найдено_по": "ремонт грузовых автомобилей Кировский район"
+  },
+  {
+   "id": "30526337531",
+   "название": "Квадросервис",
+   "seoname": "kvadroservis",
+   "адрес": "ул. Петрова, 22",
+   "координаты": [
+    49.069208,
+    55.822209
+   ],
+   "рейтинг": 4.1,
+   "оценок": 3,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (960) 039-47-62"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kvadroservis/30526337531/",
+   "найдено_по": "ремонт грузовых автомобилей Кировский район"
+  },
+  {
+   "id": "194391542893",
+   "название": "Независимость",
+   "seoname": "nezavisimost",
+   "адрес": "Республика Татарстан (Татарстан), Зеленодольский район, Осиновское сельское поселение, территория Промышленная Площадка Индустриальный Парк М7, 25/1",
+   "координаты": [
+    48.965687,
+    55.890266
+   ],
+   "рейтинг": 4.6,
+   "оценок": 184,
+   "отзывов": 51,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (967) 770-67-67",
+    "8 (800) 550-93-05"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "пункт техосмотра"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nezavisimost/194391542893/",
+   "найдено_по": "ремонт грузовых автомобилей Кировский район"
+  },
+  {
+   "id": "75818013867",
+   "название": "Грузовой автосервис",
+   "seoname": "gruzovoy_avtoservis",
+   "адрес": "Северо-Западная ул., 1, корп. 6",
+   "координаты": [
+    48.942881,
+    55.86641
+   ],
+   "рейтинг": 4.3,
+   "оценок": 15,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 638-38-48"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "guarantee",
+    "parking_disabled",
+    "preliminary_registration",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzovoy_avtoservis/75818013867/",
+   "найдено_по": "ремонт грузовых автомобилей Кировский район"
+  },
+  {
+   "id": "137567162002",
+   "название": "Трактат",
+   "seoname": "traktat",
+   "адрес": "Центральная ул., 9Б, посёлок Новониколаевский",
+   "координаты": [
+    48.962053,
+    55.898828
+   ],
+   "рейтинг": 4.3,
+   "оценок": 4,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 285-87-77"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей"
+   ],
+   "признаки": [
+    "basic_service",
+    "diesel_service",
+    "field_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/traktat/137567162002/",
+   "найдено_по": "ремонт грузовых автомобилей Кировский район"
+  },
+  {
+   "id": "73934675765",
+   "название": "Дженерал Сервис",
+   "seoname": "dzheneral_servis",
+   "адрес": "Республика Татарстан (Татарстан), Зеленодольский район, Октябрьское сельское поселение, территория Придорожная, 16",
+   "координаты": [
+    48.85123,
+    55.846071
+   ],
+   "рейтинг": 4.4,
+   "оценок": 190,
+   "отзывов": 75,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.daf-tlt.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 239-05-50"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей",
+    "запчасти для грузовых автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "toilet",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dzheneral_servis/73934675765/",
+   "найдено_по": "ремонт грузовых автомобилей Кировский район"
+  },
+  {
+   "id": "1079826680",
+   "название": "Техцентр Делтрак",
+   "seoname": "tekhtsentr_deltrak",
+   "адрес": "Центральная ул., 17, посёлок Новониколаевский",
+   "координаты": [
+    48.962198,
+    55.89721
+   ],
+   "рейтинг": 4.6,
+   "оценок": 126,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.deltruck.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 700-47-57"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "guarantee",
+    "injector_repair",
+    "injectors_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tekhtsentr_deltrak/1079826680/",
+   "найдено_по": "ремонт грузовых автомобилей Кировский район"
+  },
+  {
+   "id": "118784231067",
+   "название": "Сервисный центр ТФК КАМАЗ",
+   "seoname": "servisny_tsentr_tfk_kamaz",
+   "адрес": "Полевая ул., 30, село Осиново",
+   "координаты": [
+    48.861156,
+    55.878627
+   ],
+   "рейтинг": 4.5,
+   "оценок": 251,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://tfk-kamaz.ru/",
+    "https://compass.tfk-kamaz.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 202-40-40",
+    "8 (800) 555-00-99"
+   ],
+   "часы": "ежедневно, 08:00–20:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "пункт техосмотра"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/servisny_tsentr_tfk_kamaz/118784231067/",
+   "найдено_по": "ремонт грузовых автомобилей Кировский район"
+  },
+  {
+   "id": "40862526559",
+   "название": "Дом Дизеля",
+   "seoname": "dom_dizelya",
+   "адрес": "Центральная ул., 41, посёлок Новониколаевский",
+   "координаты": [
+    48.962686,
+    55.893534
+   ],
+   "рейтинг": 4.6,
+   "оценок": 123,
+   "отзывов": 38,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://domd.pro/"
+   ],
+   "телефоны": [
+    "+7 (843) 240-22-66"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "injector_repair",
+    "injectors_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dom_dizelya/40862526559/",
+   "найдено_по": "ремонт грузовых автомобилей Кировский район"
+  },
+  {
+   "id": "76277351885",
+   "название": "Как Себе",
+   "seoname": "kak_sebe",
+   "адрес": "Северо-Западная ул., 1, корп. 6, Казань",
+   "координаты": [
+    48.943163,
+    55.86648
+   ],
+   "рейтинг": 4.8,
+   "оценок": 41,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gazel-avtoservis-kazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 207-00-14",
+    "+7 (987) 405-10-03"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kak_sebe/76277351885/",
+   "найдено_по": "ремонт грузовых автомобилей Московский район"
+  },
+  {
+   "id": "1303880333",
+   "название": "Автодор-моторс, Kamaz центр",
+   "seoname": "avtodor_motors_kamaz_tsentr",
+   "адрес": "Автосервисная ул., 19",
+   "координаты": [
+    48.934543,
+    55.873759
+   ],
+   "рейтинг": 4.7,
+   "оценок": 197,
+   "отзывов": 50,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtodormotors.ru/",
+    "http://автодормоторс.рф/"
+   ],
+   "телефоны": [
+    "8 (800) 700-12-60",
+    "+7 (960) 050-10-70",
+    "+7 (962) 578-50-80"
+   ],
+   "часы": "ежедневно, 08:00–20:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "запчасти для грузовых автомобилей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodor_motors_kamaz_tsentr/1303880333/",
+   "найдено_по": "ремонт грузовых автомобилей Московский район"
+  },
+  {
+   "id": "110991371901",
+   "название": "Автоклиника-сервис",
+   "seoname": "avtoklinika_servis",
+   "адрес": "ул. Восход, 38, Казань",
+   "координаты": [
+    49.073599,
+    55.839628
+   ],
+   "рейтинг": 4.9,
+   "оценок": 138,
+   "отзывов": 64,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 258-70-28",
+    "+7 (960) 048-70-28",
+    "+7 (911) 137-50-15"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoklinika_servis/110991371901/",
+   "найдено_по": "ремонт грузовых автомобилей Московский район"
+  },
+  {
+   "id": "1214022513",
+   "название": "СТО-911",
+   "seoname": "sto_911",
+   "адрес": "Тэцевская ул., 279, лит.И",
+   "координаты": [
+    48.97375,
+    55.859756
+   ],
+   "рейтинг": 4.6,
+   "оценок": 170,
+   "отзывов": 69,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 210-29-11",
+    "+7 (987) 295-59-11"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "delivery",
+    "payment_by_credit_card",
+    "pickup",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sto_911/1214022513/",
+   "найдено_по": "ремонт грузовых автомобилей Московский район"
+  },
+  {
+   "id": "30635982775",
+   "название": "M7 Truck",
+   "seoname": "m7_truck",
+   "адрес": "Центральная ул., 1, посёлок Новониколаевский",
+   "координаты": [
+    48.962699,
+    55.900677
+   ],
+   "рейтинг": 4.6,
+   "оценок": 206,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://m7truck.ru/kazan/"
+   ],
+   "телефоны": [
+    "+7 (967) 773-94-05",
+    "+7 (967) 773-94-74"
+   ],
+   "часы": "пн-пт 08:30–17:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Грузовые автомобили, грузовая техника",
+    "автомобильные прицепы",
+    "спецтехника и спецавтомобили"
+   ],
+   "признаки": [
+    "transport_refrigeration_equipment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/m7_truck/30635982775/",
+   "найдено_по": "ремонт грузовых автомобилей Московский район"
+  },
+  {
+   "id": "4821359476",
+   "название": "Авто Люкс АГРО",
+   "seoname": "avto_lyuks_agro",
+   "адрес": "ул. Восстания, 105",
+   "координаты": [
+    49.057393,
+    55.832621
+   ],
+   "рейтинг": 4.1,
+   "оценок": 4,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 628-00-12"
+   ],
+   "часы": "ежедневно, 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Запчасти для грузовых автомобилей"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lyuks_agro/4821359476/",
+   "найдено_по": "ремонт грузовых автомобилей Московский район"
+  },
+  {
+   "id": "59365072363",
+   "название": "Автоцех",
+   "seoname": "avtotsekh",
+   "адрес": "Меридианная ул., 26Б, Ново-Савиновский район",
+   "координаты": [
+    49.116078,
+    55.826219
+   ],
+   "рейтинг": 4.4,
+   "оценок": 96,
+   "отзывов": 56,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 898-69-99",
+    "+7 (908) 304-56-66"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsekh/59365072363/",
+   "найдено_по": "ремонт грузовых автомобилей Ново-Савиновский район"
+  },
+  {
+   "id": "146952670703",
+   "название": "Pro. Kardan",
+   "seoname": "pro_kardan",
+   "адрес": "просп. Ямашева, 36А",
+   "координаты": [
+    49.104401,
+    55.828495
+   ],
+   "рейтинг": 5,
+   "оценок": 53,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://pro-kardan.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (912) 371-67-61"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт карданных валов",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "balancing_cardan_shafts",
+    "car_park",
+    "commercial_vehicles_repair",
+    "field_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pro_kardan/146952670703/",
+   "найдено_по": "ремонт грузовых автомобилей Ново-Савиновский район"
+  },
+  {
+   "id": "107428363869",
+   "название": "АвтоСервис",
+   "seoname": "avtoservis",
+   "адрес": "территория ГСК Автоград 2000, 13/2",
+   "координаты": [
+    49.134405,
+    55.846153
+   ],
+   "рейтинг": 5,
+   "оценок": 33,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoserviskazan.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (939) 312-42-42"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Развал-схождение",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/107428363869/",
+   "найдено_по": "ремонт грузовых автомобилей Ново-Савиновский район"
+  },
+  {
+   "id": "227942659510",
+   "название": "Автосервис Самообслуживания",
+   "seoname": "avtoservis_samoobsluzhivaniya",
+   "адрес": "ул. Воровского, 32А",
+   "координаты": [
+    49.091892,
+    55.843641
+   ],
+   "рейтинг": 4.3,
+   "оценок": 5,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 998-89-11"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "freight_car_service",
+    "gift_certificate",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "self_car_service",
+    "service_maintenance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_samoobsluzhivaniya/227942659510/",
+   "найдено_по": "ремонт грузовых автомобилей Ново-Савиновский район"
+  },
+  {
+   "id": "93102954217",
+   "название": "Мотор16",
+   "seoname": "motor16",
+   "адрес": "территория ГСК Автоград 2000, 8/18",
+   "координаты": [
+    49.134962,
+    55.846687
+   ],
+   "рейтинг": 4.4,
+   "оценок": 8,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://neuro-1435989.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (996) 122-67-59"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "repair_dsg",
+    "thickness_gauge_checking",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motor16/93102954217/",
+   "найдено_по": "ремонт грузовых автомобилей Ново-Савиновский район"
+  },
+  {
+   "id": "1730257551",
+   "название": "Авто Тема",
+   "seoname": "avto_tema",
+   "адрес": "ул. Фатыха Амирхана, 62, корп. 5",
+   "координаты": [
+    49.135396,
+    55.847362
+   ],
+   "рейтинг": 4.6,
+   "оценок": 151,
+   "отзывов": 77,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtotema-ulitsa-fatyha-amirhana.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 215-30-00",
+    "+7 (843) 215-30-00",
+    "+7 (843) 260-56-06"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "anti_corrosion_treatment",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "delivery",
+    "diesel_service",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "hinged_equipment",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_tema/1730257551/",
+   "найдено_по": "ремонт грузовых автомобилей Ново-Савиновский район"
+  },
+  {
+   "id": "146776480491",
+   "название": "Классик",
+   "seoname": "klassik",
+   "адрес": "ул. Голубятникова, 35А",
+   "координаты": [
+    49.113696,
+    55.838711
+   ],
+   "рейтинг": 4.3,
+   "оценок": 79,
+   "отзывов": 43,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://klassik-ulitsa-golubjatnikova.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (965) 605-43-53"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klassik/146776480491/",
+   "найдено_по": "ремонт грузовых автомобилей Ново-Савиновский район"
+  },
+  {
+   "id": "59662041450",
+   "название": "АвтоЭксперт",
+   "seoname": "avtoekspert",
+   "адрес": "ул. Четаева, 16Б",
+   "координаты": [
+    49.139177,
+    55.823102
+   ],
+   "рейтинг": 4.1,
+   "оценок": 109,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 239-31-23",
+    "+7 (927) 241-81-45",
+    "+7 (927) 410-36-00"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "car_park",
+    "diesel_service",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoekspert/59662041450/",
+   "найдено_по": "ремонт грузовых автомобилей Ново-Савиновский район"
+  },
+  {
+   "id": "1044584554",
+   "название": "Motor Service",
+   "seoname": "motor_service",
+   "адрес": "ул. Воровского, 67А",
+   "координаты": [
+    49.096,
+    55.843743
+   ],
+   "рейтинг": 4.7,
+   "оценок": 322,
+   "отзывов": 149,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://motor-serv.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (843) 258-27-44"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motor_service/1044584554/",
+   "найдено_по": "ремонт грузовых автомобилей Ново-Савиновский район"
+  },
+  {
+   "id": "1199635721",
+   "название": "Instal сервис",
+   "seoname": "instal_servis",
+   "адрес": "ул. Маршала Чуйкова, 60",
+   "координаты": [
+    49.150034,
+    55.835227
+   ],
+   "рейтинг": 4.5,
+   "оценок": 74,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.instalservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 521-00-21",
+    "+7 (966) 250-00-63"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/instal_servis/1199635721/",
+   "найдено_по": "ремонт грузовых автомобилей Ново-Савиновский район"
+  },
+  {
+   "id": "136736578004",
+   "название": "Автозапчасти",
+   "seoname": "avtozapchasti",
+   "адрес": "Тихорецкая ул., 7, корп. 3",
+   "координаты": [
+    49.118271,
+    55.730657
+   ],
+   "рейтинг": 4.8,
+   "оценок": 50,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (977) 092-53-69",
+    "+7 (843) 278-73-77",
+    "+7 (843) 278-73-17",
+    "+7 (917) 895-42-77",
+    "+7 (927) 416-40-56",
+    "+7 (950) 948-42-75",
+    "+7 (904) 678-68-85"
+   ],
+   "часы": "пн-пт 08:00–18:00, перерыв 12:20–13:00; сб 08:30–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "ремонт грузовых автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gas_stops",
+    "generators",
+    "guarantee",
+    "hydraulic_cylinders",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "trailer_repair",
+    "urea",
+    "welding_works"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtozapchasti/136736578004/",
+   "найдено_по": "ремонт грузовых автомобилей Приволжский район"
+  },
+  {
+   "id": "71572501143",
+   "название": "Рембаза",
+   "seoname": "rembaza",
+   "адрес": "Тульская ул., 56, корп. 2",
+   "координаты": [
+    49.138385,
+    55.734258
+   ],
+   "рейтинг": 4.3,
+   "оценок": 13,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://rembaza-tulskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (903) 062-95-66",
+    "+7 (904) 712-11-99",
+    "+7 (904) 712-11-44"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "freight_car_service",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rembaza/71572501143/",
+   "найдено_по": "ремонт грузовых автомобилей Приволжский район"
+  },
+  {
+   "id": "1044260839",
+   "название": "АКПП.Pro",
+   "seoname": "akpp_pro",
+   "адрес": "Дубравная ул., 41, корп. 5",
+   "координаты": [
+    49.206306,
+    55.739418
+   ],
+   "рейтинг": 5,
+   "оценок": 442,
+   "отзывов": 313,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://akpp.pro/"
+   ],
+   "телефоны": [
+    "+7 (843) 208-53-79",
+    "+7 (903) 305-62-43"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "delivery",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "toilet_for_disabled",
+    "torque_converter_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akpp_pro/1044260839/",
+   "найдено_по": "ремонт грузовых автомобилей Приволжский район"
+  },
+  {
+   "id": "102073496089",
+   "название": "Арт Тим Моторс",
+   "seoname": "art_tim_motors",
+   "адрес": "Южно-Промышленная ул., 20",
+   "координаты": [
+    49.113942,
+    55.725032
+   ],
+   "рейтинг": 4.3,
+   "оценок": 5,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://art-team-motors.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 905-65-06"
+   ],
+   "часы": "пн-пт 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Грузовые автомобили, грузовая техника",
+    "запчасти для спецтехники"
+   ],
+   "признаки": [
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/art_tim_motors/102073496089/",
+   "найдено_по": "ремонт грузовых автомобилей Приволжский район"
+  },
+  {
+   "id": "108178110209",
+   "название": "Грузовой сервис",
+   "seoname": "gruzovoy_servis",
+   "адрес": "ул. Мира, 147, жилой массив Самосырово, Советский район",
+   "координаты": [
+    49.28552,
+    55.801258
+   ],
+   "рейтинг": 4.4,
+   "оценок": 10,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://gruzovoj-servis-ulitsa-mira.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (906) 331-14-44",
+    "+7 (906) 331-15-55"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "injector_repair",
+    "injectors_repair",
+    "keep_tires",
+    "motorcycle_tire_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "termobudki",
+    "tire_fitting",
+    "trailer_repair",
+    "truck_tire_service",
+    "turbine repair",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzovoy_servis/108178110209/",
+   "найдено_по": "ремонт грузовых автомобилей Приволжский район"
+  },
+  {
+   "id": "14332733455",
+   "название": "РемМаш",
+   "seoname": "remmash",
+   "адрес": "Дорожная ул., 2Д, жилой массив Киндери, Советский район, Казань",
+   "координаты": [
+    49.246193,
+    55.863728
+   ],
+   "рейтинг": 4.8,
+   "оценок": 55,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://remmash16.ru/"
+   ],
+   "телефоны": [
+    "+7 (960) 071-67-77"
+   ],
+   "часы": "ежедневно, 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "field_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remmash/14332733455/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "135211799747",
+   "название": "Русбизнесавто",
+   "seoname": "rusbiznesavto",
+   "адрес": "просп. Победы, 173",
+   "координаты": [
+    49.208983,
+    55.79949
+   ],
+   "рейтинг": 4.3,
+   "оценок": 12,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.rbauto.ru/",
+    "https://rbaparts.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 551-33-02"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Грузовые автомобили, грузовая техника",
+    "запчасти для спецтехники",
+    "дорожно-строительная техника"
+   ],
+   "признаки": [
+    "freight_car_service",
+    "hinged_equipment",
+    "repairs",
+    "trailer_repair",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rusbiznesavto/135211799747/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "175683818696",
+   "название": "Грузовой Дом",
+   "seoname": "gruzovoy_dom",
+   "адрес": "Республика Татарстан (Татарстан), Казань, Советский район, жилой массив Константиновка, улица Татарстан",
+   "координаты": [
+    49.322801,
+    55.795495
+   ],
+   "рейтинг": 4.3,
+   "оценок": 6,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 362-22-74",
+    "+7 (995) 363-22-74"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzovoy_dom/175683818696/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "21049463148",
+   "название": "Автосеть.рф",
+   "seoname": "avtoset_rf",
+   "адрес": "просп. Победы, 212, корп. 2",
+   "координаты": [
+    49.208894,
+    55.804042
+   ],
+   "рейтинг": 4.9,
+   "оценок": 429,
+   "отзывов": 226,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoset-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (933) 091-18-10"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "пункт техосмотра"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_refrigerated_trucks",
+    "street_entrance",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_rf/21049463148/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "108726223515",
+   "название": "РемТрак",
+   "seoname": "remtrak",
+   "адрес": "ул. Аделя Кутуя, 163А, корп. 5",
+   "координаты": [
+    49.193739,
+    55.7688
+   ],
+   "рейтинг": 4.5,
+   "оценок": 9,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://remtrak-ulitsa-adelja-kutuja.clients.site/",
+    "https://remtruck.taplink.ws/"
+   ],
+   "телефоны": [
+    "+7 (953) 400-11-04"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remtrak/108726223515/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "215780569114",
+   "название": "Старт Сервис",
+   "seoname": "start_servis",
+   "адрес": "ул. Космонавтов, 67, корп. 2",
+   "координаты": [
+    49.208842,
+    55.79664
+   ],
+   "рейтинг": 4.3,
+   "оценок": 89,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 225-29-92",
+    "+7 (843) 273-78-47",
+    "+7 (986) 918-72-29"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт автоэлектрики",
+    "автосервис, автотехцентр",
+    "ремонт электрооборудования"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/start_servis/215780569114/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "1217405479",
+   "название": "АЭкС",
+   "seoname": "aeks",
+   "адрес": "ул. Азина, 23",
+   "координаты": [
+    49.243264,
+    55.870502
+   ],
+   "рейтинг": 4.7,
+   "оценок": 103,
+   "отзывов": 57,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://aekskazan.ru/",
+    "https://taplink.cc/aekskazan"
+   ],
+   "телефоны": [
+    "+7 (905) 315-88-48"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автобусы и микроавтобусы",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "sale",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aeks/1217405479/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "146135892342",
+   "название": "ЭМТех Спецтехника",
+   "seoname": "emtekh_spetstekhnika",
+   "адрес": "ул. Космонавтов, 57В",
+   "координаты": [
+    49.19677,
+    55.795906
+   ],
+   "рейтинг": 4.8,
+   "оценок": 89,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://emteh.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 505-67-73",
+    "+7 (843) 249-47-32"
+   ],
+   "часы": "пн-пт 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Грузовые автомобили, грузовая техника",
+    "дорожно-строительная техника",
+    "сельскохозяйственная техника, оборудование"
+   ],
+   "признаки": [
+    "air conditioners for agricultural machinery",
+    "call_button",
+    "delivery",
+    "freight_car_service",
+    "hinged_equipment",
+    "parking_disabled",
+    "pickup",
+    "repairs",
+    "road_construction_equipment_repair",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "toilet_for_disabled",
+    "trailer_repair"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/emtekh_spetstekhnika/146135892342/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "66918118888",
+   "название": "Рамин авто",
+   "seoname": "ramin_avto",
+   "адрес": "ул. Мамадышский Тракт, 35Е",
+   "координаты": [
+    49.259247,
+    55.801542
+   ],
+   "рейтинг": 4.3,
+   "оценок": 504,
+   "отзывов": 199,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://raminavto.ru/",
+    "https://ramin-service.ru/avtoservis-na-mamadyshskom-trakte-35e"
+   ],
+   "телефоны": [
+    "+7 (843) 248-55-28",
+    "+7 (843) 212-22-04",
+    "+7 (843) 248-55-27",
+    "+7 (950) 311-32-62",
+    "+7 (950) 311-23-01"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "freight_car_service",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ramin_avto/66918118888/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "184690245719",
+   "название": "Амтрак",
+   "seoname": "amtrak",
+   "адрес": "ул. Липатова, 33",
+   "координаты": [
+    49.230603,
+    55.88053
+   ],
+   "рейтинг": 4.1,
+   "оценок": 10,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "8 (800) 700-04-47",
+    "+7 (965) 625-10-00",
+    "+7 (962) 549-08-20"
+   ],
+   "часы": "пн-сб 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "грузовые автомобили, грузовая техника"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/amtrak/184690245719/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "13926655447",
+   "название": "СТО КарТрак",
+   "seoname": "sto_kartrak",
+   "адрес": "Поперечно-Ноксинская ул., 3А, лит.А",
+   "координаты": [
+    49.192437,
+    55.849357
+   ],
+   "рейтинг": 4.3,
+   "оценок": 37,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 477-79-94",
+    "+7 (843) 216-16-09"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sto_kartrak/13926655447/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "1740000115",
+   "название": "Грузовой шиномонтаж",
+   "seoname": "gruzovoy_shinomontazh",
+   "адрес": "ул. Аделя Кутуя, 161А",
+   "координаты": [
+    49.188188,
+    55.769661
+   ],
+   "рейтинг": 4.3,
+   "оценок": 250,
+   "отзывов": 83,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://gruzovoj-shinomontazh-1734597675.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (843) 258-91-21",
+    "+7 (960) 048-91-21"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "delivery",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzovoy_shinomontazh/1740000115/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  },
+  {
+   "id": "114743602077",
+   "название": "Пан Сервис",
+   "seoname": "pan_servis",
+   "адрес": "Республика Татарстан (Татарстан), Высокогорский район, М-7 Волга, 823-й километр, 1",
+   "координаты": [
+    49.343527,
+    55.843368
+   ],
+   "рейтинг": 4.9,
+   "оценок": 118,
+   "отзывов": 59,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 283-20-82",
+    "+7 (937) 526-56-55"
+   ],
+   "часы": "пн-пт 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "ремонт автоэлектрики",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "adblue",
+    "authorized_service",
+    "automotive_products",
+    "car_park",
+    "chip_tuning",
+    "coffee_to_go",
+    "delivery",
+    "diesel_service",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_chains",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pan_servis/114743602077/",
+   "найдено_по": "ремонт грузовых автомобилей Советский район"
+  }
+ ],
+ "расширено_по_районам": true
+}

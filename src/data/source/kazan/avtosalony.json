@@ -1,0 +1,5553 @@
+{
+ "ниша": "Автосалоны",
+ "ключ": "avtosalony",
+ "запросы": [
+  "автосалон"
+ ],
+ "найдено_в_яндексе": {
+  "автосалон": 56,
+  "автосалон Авиастроительный район": 23,
+  "автосалон Вахитовский район": 45,
+  "автосалон Кировский район": 41,
+  "автосалон Московский район": 40,
+  "автосалон Ново-Савиновский район": 42,
+  "автосалон Приволжский район": 45,
+  "автосалон Советский район": 45
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Казани (регион 43)",
+ "город": "kazan",
+ "компании": [
+  {
+   "id": "18329669965",
+   "название": "Кан Авто, Lada",
+   "seoname": "kan_avto_lada",
+   "адрес": "ул. Сибирский Тракт, 48, корп. 2",
+   "координаты": [
+    49.196701,
+    55.836922
+   ],
+   "рейтинг": 4.8,
+   "оценок": 3380,
+   "отзывов": 1364,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kan-avto.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 558-76-83",
+    "+7 (843) 212-35-67"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_lada/18329669965/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 57,
+   "загружено_дат": 76
+  },
+  {
+   "id": "1541213287",
+   "название": "Диалог Авто",
+   "seoname": "dialog_avto",
+   "адрес": "ул. Горьковское Шоссе, 47, корп. 1",
+   "координаты": [
+    49.025309,
+    55.82658
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1999,
+   "отзывов": 999,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 558-74-46"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto/1541213287/",
+   "последний_отзыв": "2026-08-13",
+   "отзывов_за_12_мес_из_загруженных": 42,
+   "загружено_дат": 84
+  },
+  {
+   "id": "1911620834",
+   "название": "Кан Авто, Lada",
+   "seoname": "kan_avto_lada",
+   "адрес": "ул. Мусина, 37",
+   "координаты": [
+    49.120455,
+    55.832487
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1776,
+   "отзывов": 846,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kan-avto.lada.ru/?dealer=549316786"
+   ],
+   "телефоны": [
+    "+7 (843) 558-78-29",
+    "+7 (843) 202-21-58"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_lada/1911620834/",
+   "последний_отзыв": "2026-09-22",
+   "отзывов_за_12_мес_из_загруженных": 37,
+   "загружено_дат": 73
+  },
+  {
+   "id": "1198602794",
+   "название": "Парус",
+   "seoname": "parus",
+   "адрес": "Кожевенная ул., 46",
+   "координаты": [
+    49.063289,
+    55.803702
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1462,
+   "отзывов": 682,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://parus.lada.ru/?dealer=1158"
+   ],
+   "телефоны": [
+    "+7 (843) 210-45-06",
+    "+7 (843) 240-42-40"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/parus/1198602794/",
+   "последний_отзыв": "2026-10-07",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 66
+  },
+  {
+   "id": "70985466712",
+   "название": "Автосеть.рф",
+   "seoname": "avtoset_rf",
+   "адрес": "просп. Победы, 212, корп. 2",
+   "координаты": [
+    49.208692,
+    55.803841
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1070,
+   "отзывов": 581,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://автосеть.рф/"
+   ],
+   "телефоны": [
+    "8 (800) 500-11-56"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_rf/70985466712/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 86
+  },
+  {
+   "id": "1073765224",
+   "название": "Автосеть.рф",
+   "seoname": "avtoset_rf",
+   "адрес": "просп. Ямашева, 115А",
+   "координаты": [
+    49.160214,
+    55.823285
+   ],
+   "рейтинг": 4.7,
+   "оценок": 942,
+   "отзывов": 489,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автосеть.рф/"
+   ],
+   "телефоны": [
+    "8 (800) 500-11-56"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_rf/1073765224/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 37,
+   "загружено_дат": 83
+  },
+  {
+   "id": "131206402414",
+   "название": "Диалог Авто",
+   "seoname": "dialog_avto",
+   "адрес": "просп. Альберта Камалеева, 38",
+   "координаты": [
+    49.199623,
+    55.781221
+   ],
+   "рейтинг": 5,
+   "оценок": 591,
+   "отзывов": 482,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dialog-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-43-84"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto/131206402414/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 65,
+   "загружено_дат": 75
+  },
+  {
+   "id": "1182058396",
+   "название": "Geely Барс Авто",
+   "seoname": "geely_bars_avto",
+   "адрес": "ул. Родины, 1В",
+   "координаты": [
+    49.193886,
+    55.761246
+   ],
+   "рейтинг": 5,
+   "оценок": 1029,
+   "отзывов": 470,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://geelykazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 204-44-44"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "страхование автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_purchase_agreement",
+    "car_wash",
+    "diesel_service",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_bars_avto/1182058396/",
+   "последний_отзыв": "2026-10-17",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 55
+  },
+  {
+   "id": "1762400170",
+   "название": "Кан Авто, Mercedes-Benz",
+   "seoname": "kan_avto_mercedes_benz",
+   "адрес": "Московская ул., 20",
+   "координаты": [
+    49.104644,
+    55.791436
+   ],
+   "рейтинг": 5,
+   "оценок": 1362,
+   "отзывов": 465,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://mb.kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 555-55-55",
+    "+7 (843) 239-77-43"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "diesel_service",
+    "elevator_wheelchair_accessible",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_mercedes_benz/1762400170/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 53,
+   "загружено_дат": 61
+  },
+  {
+   "id": "230700907416",
+   "название": "Expocar, Chery",
+   "seoname": "expocar_chery",
+   "адрес": "1-я Азинская ул., 7",
+   "координаты": [
+    49.205095,
+    55.806864
+   ],
+   "рейтинг": 4.9,
+   "оценок": 781,
+   "отзывов": 438,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenetkazan.ru/",
+    "https://chery-expocar-kzn.ru/",
+    "http://tenet-expocar-kzn.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-31-30",
+    "+7 (843) 212-24-05"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "epassport_for_vehicles",
+    "guarantee",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/expocar_chery/230700907416/",
+   "последний_отзыв": "2026-09-20",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 90
+  },
+  {
+   "id": "130989249056",
+   "название": "Диалог Авто, Chery",
+   "seoname": "dialog_avto_chery",
+   "адрес": "ул. Горьковское Шоссе, 30, корп. 1",
+   "координаты": [
+    49.024572,
+    55.827201
+   ],
+   "рейтинг": 5,
+   "оценок": 583,
+   "отзывов": 427,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dialog-chery.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-35-92"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto_chery/130989249056/",
+   "последний_отзыв": "2026-08-06",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 77
+  },
+  {
+   "id": "151928511701",
+   "название": "Кан Авто, Lada",
+   "seoname": "kan_avto_lada",
+   "адрес": "ул. Оренбургский Тракт, 207А",
+   "координаты": [
+    49.188748,
+    55.732826
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1018,
+   "отзывов": 426,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kan-avto.lada.ru/",
+    "https://restart.auto/dealers/kanavto-orenburgskiy-trakt"
+   ],
+   "телефоны": [
+    "+7 (843) 212-15-17",
+    "+7 (843) 212-37-93"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_lada/151928511701/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 54,
+   "загружено_дат": 78
+  },
+  {
+   "id": "189437138221",
+   "название": "Диалог Авто",
+   "seoname": "dialog_avto",
+   "адрес": "ул. Декабристов, 79",
+   "координаты": [
+    49.093255,
+    55.817118
+   ],
+   "рейтинг": 5,
+   "оценок": 451,
+   "отзывов": 362,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dialog-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 558-10-56"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto/189437138221/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 46,
+   "загружено_дат": 77
+  },
+  {
+   "id": "121123469181",
+   "название": "CHERY. ТрансТехСервис",
+   "seoname": "chery_transtekhservis",
+   "адрес": "ул. Декабристов, 81В",
+   "координаты": [
+    49.093577,
+    55.818837
+   ],
+   "рейтинг": 5,
+   "оценок": 611,
+   "отзывов": 325,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kazan.chery-tts.ru/",
+    "https://tenet.ru/",
+    "https://www.tts.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 244-81-49",
+    "+7 (843) 233-54-86"
+   ],
+   "часы": "пн-сб 08:00–21:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_transtekhservis/121123469181/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 92
+  },
+  {
+   "id": "171683587112",
+   "название": "Geely Кан Авто",
+   "seoname": "geely_kan_avto",
+   "адрес": "ул. Габдуллы Тукая, 115, корп. 3",
+   "координаты": [
+    49.127225,
+    55.765193
+   ],
+   "рейтинг": 5,
+   "оценок": 561,
+   "отзывов": 298,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely.kanavto.ru/",
+    "https://kanavto.ru/",
+    "https://kanavto.ru/new/geely/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-59-94"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "starting_the_car",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_kan_avto/171683587112/",
+   "последний_отзыв": "2026-11-07",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 80
+  },
+  {
+   "id": "116361160449",
+   "название": "Казань Центр Авто",
+   "seoname": "kazan_tsentr_avto",
+   "адрес": "ул. Белинского, 21Б/2, Казань",
+   "координаты": [
+    49.070206,
+    55.851295
+   ],
+   "рейтинг": 4.2,
+   "оценок": 330,
+   "отзывов": 213,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://kazan-center-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-24-47"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kazan_tsentr_avto/116361160449/"
+  },
+  {
+   "id": "164807153463",
+   "название": "Changan центр, ТрансТехСервис",
+   "seoname": "changan_tsentr_transtekhservis",
+   "адрес": "ул. Декабристов, 81В, корп. 1",
+   "координаты": [
+    49.094326,
+    55.818956
+   ],
+   "рейтинг": 5,
+   "оценок": 297,
+   "отзывов": 176,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sales.kazan.tts-changanauto.ru/",
+    "https://changan.tts.ru/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 244-80-53",
+    "+7 (843) 210-32-65",
+    "+7 (843) 558-33-65"
+   ],
+   "часы": "пн-сб 08:00–21:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "motorcycle_tire_repair",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "starting_the_car",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_transtekhservis/164807153463/"
+  },
+  {
+   "id": "163001333366",
+   "название": "JETOUR, Диалог Авто",
+   "seoname": "jetour_dialog_avto",
+   "адрес": "ул. Декабристов, 79",
+   "координаты": [
+    49.093517,
+    55.817191
+   ],
+   "рейтинг": 5,
+   "оценок": 234,
+   "отзывов": 170,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jetour-dialog.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-14-24",
+    "+7 (843) 210-91-20"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "termobudki",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jetour_dialog_avto/163001333366/"
+  },
+  {
+   "id": "151977880031",
+   "название": "Gac, Диалог Авто",
+   "seoname": "gac_dialog_avto",
+   "адрес": "ул. Декабристов, 79",
+   "координаты": [
+    49.093116,
+    55.817085
+   ],
+   "рейтинг": 5,
+   "оценок": 162,
+   "отзывов": 123,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dialog-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-34-72"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gac_dialog_avto/151977880031/"
+  },
+  {
+   "id": "151394396202",
+   "название": "Джетур Кан Авто",
+   "seoname": "dzhetur_kan_avto",
+   "адрес": "ул. Сибирский Тракт, 51, Казань",
+   "координаты": [
+    49.195887,
+    55.837684
+   ],
+   "рейтинг": 4.9,
+   "оценок": 156,
+   "отзывов": 90,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.jetour-kanavto.ru/",
+    "https://www.ozon.ru/seller/jetour-kan-avto-ofitsialnyy-diler"
+   ],
+   "телефоны": [
+    "+7 (843) 212-39-15"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "coffee_to_go",
+    "delivery",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dzhetur_kan_avto/151394396202/"
+  },
+  {
+   "id": "135681685052",
+   "название": "Gac Кан Авто",
+   "seoname": "gac_kan_avto",
+   "адрес": "Московская ул., 20",
+   "координаты": [
+    49.104708,
+    55.791327
+   ],
+   "рейтинг": 5,
+   "оценок": 106,
+   "отзывов": 75,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gac-kanavto-kazan.ru/",
+    "https://gac-kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-35-69",
+    "+7 (843) 244-81-98"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gac_kan_avto/135681685052/"
+  },
+  {
+   "id": "156269809887",
+   "название": "Диалог Авто, Tenet",
+   "seoname": "dialog_avto_tenet",
+   "адрес": "ул. Горьковское Шоссе, 30, корп. 1",
+   "координаты": [
+    49.02499,
+    55.827152
+   ],
+   "рейтинг": 5,
+   "оценок": 58,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dialog-auto.ru/cars/new/brand-is-tenet/",
+    "https://dialog-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-90-43"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto_tenet/156269809887/"
+  },
+  {
+   "id": "217250861729",
+   "название": "Voyah Кан Авто, официальный дилер",
+   "seoname": "voyah_kan_avto_ofitsialny_diler",
+   "адрес": "Московская ул., 20",
+   "координаты": [
+    49.104414,
+    55.791646
+   ],
+   "рейтинг": 4.8,
+   "оценок": 81,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://voyah-kzn.ru/",
+    "https://voyah-kzn.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-54-38"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "coffee_to_go",
+    "disable_captions",
+    "disable_photopoi",
+    "electric car charging station",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voyah_kan_avto_ofitsialny_diler/217250861729/"
+  },
+  {
+   "id": "150414690913",
+   "название": "Tank Кан Авто",
+   "seoname": "tank_kan_avto",
+   "адрес": "Московская ул., 20",
+   "координаты": [
+    49.104928,
+    55.791052
+   ],
+   "рейтинг": 4.9,
+   "оценок": 38,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kanavto-tank.ru/",
+    "https://gwm-wey-kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 500-56-49"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "coffee_to_go",
+    "delivery",
+    "electric car charging station",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "generators",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tank_kan_avto/150414690913/"
+  },
+  {
+   "id": "159226572078",
+   "название": "Lada Кан Авто",
+   "seoname": "lada_kan_avto",
+   "адрес": "ул. Восстания, 131, Казань",
+   "координаты": [
+    49.047889,
+    55.8293
+   ],
+   "рейтинг": 4.9,
+   "оценок": 205,
+   "отзывов": 145,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kan-avto.lada.ru/?dealer=600406401",
+    "https://restart.auto/dealers/kanavto-vosstaniya"
+   ],
+   "телефоны": [
+    "+7 (843) 233-54-46",
+    "+7 (843) 212-38-26"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "official_dealer",
+    "payment_by_credit_card",
+    "test_drive"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada_kan_avto/159226572078/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "214750777663",
+   "название": "Кан Авто, Jac",
+   "seoname": "kan_avto_jac",
+   "адрес": "ул. Восстания, 131, Казань",
+   "координаты": [
+    49.047005,
+    55.829347
+   ],
+   "рейтинг": 0,
+   "оценок": 4,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 210-96-67"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_jac/214750777663/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "26556612942",
+   "название": "Sollers СТ Казань",
+   "seoname": "sollers_st_kazan",
+   "адрес": "ул. Фатыха Амирхана, 48А",
+   "координаты": [
+    49.136651,
+    55.843237
+   ],
+   "рейтинг": 4.8,
+   "оценок": 58,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://clck.ru/3FuuWo"
+   ],
+   "телефоны": [
+    "+7 (843) 208-13-41"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "self_car_service",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sollers_st_kazan/26556612942/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "180578574169",
+   "название": "Автоцентр Чуйкова",
+   "seoname": "avtotsentr_chuykova",
+   "адрес": "ул. Маршала Чуйкова, 54Б, Казань",
+   "координаты": [
+    49.142279,
+    55.835471
+   ],
+   "рейтинг": 4.7,
+   "оценок": 343,
+   "отзывов": 251,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kaz-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 567-34-14",
+    "+7 (843) 205-43-52"
+   ],
+   "часы": "ежедневно, 09:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_chuykova/180578574169/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "80994704203",
+   "название": "Foton, Луидор",
+   "seoname": "foton_luidor",
+   "адрес": "ул. Ярослава Гашека, 7, корп. 1",
+   "координаты": [
+    49.105498,
+    55.840664
+   ],
+   "рейтинг": 4.9,
+   "оценок": 62,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://foton-luidor.ru/",
+    "https://web.telegram.org/k/"
+   ],
+   "телефоны": [
+    "8 (800) 511-24-40"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/foton_luidor/80994704203/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "80585629803",
+   "название": "Foton. Делфо",
+   "seoname": "foton_delfo",
+   "адрес": "Беломорская ул., 69А, корп. 1",
+   "координаты": [
+    49.028916,
+    55.865333
+   ],
+   "рейтинг": 3.1,
+   "оценок": 4,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://foton-delfo.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 214-34-68"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "cars_for_order",
+    "disable_captions",
+    "disable_photopoi",
+    "loan_processing",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/foton_delfo/80585629803/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "173941502579",
+   "название": "Рольф Казань Автомобили с пробегом",
+   "seoname": "rolf_kazan_avtomobili_s_probegom",
+   "адрес": "ул. Маршала Чуйкова, 54Б",
+   "координаты": [
+    49.142881,
+    55.835455
+   ],
+   "рейтинг": 4.8,
+   "оценок": 63,
+   "отзывов": 43,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.rolf.ru/kazan/"
+   ],
+   "телефоны": [
+    "+7 (843) 255-50-31"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "cafe",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rolf_kazan_avtomobili_s_probegom/173941502579/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "45154817781",
+   "название": "Chery, Кан Авто",
+   "seoname": "chery_kan_avto",
+   "адрес": "ул. Сибирский Тракт, 51",
+   "координаты": [
+    49.195417,
+    55.837447
+   ],
+   "рейтинг": 4.9,
+   "оценок": 177,
+   "отзывов": 88,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chery.kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-52-04"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_kan_avto/45154817781/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "204182606476",
+   "название": "Кан Авто, Belgee",
+   "seoname": "kan_avto_belgee",
+   "адрес": "ул. Сибирский Тракт, 48",
+   "координаты": [
+    49.19715,
+    55.837207
+   ],
+   "рейтинг": 4.9,
+   "оценок": 125,
+   "отзывов": 51,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://belgee.kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 216-16-59"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_belgee/204182606476/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "163743031924",
+   "название": "Москвич, Кан Авто",
+   "seoname": "moskvich_kan_avto",
+   "адрес": "ул. Восстания, 131",
+   "координаты": [
+    49.047006,
+    55.829347
+   ],
+   "рейтинг": 4.6,
+   "оценок": 223,
+   "отзывов": 93,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://cars-moskvich.kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-39-45"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "electric car charging station",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moskvich_kan_avto/163743031924/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "19853572098",
+   "название": "Москвич, Луидор",
+   "seoname": "moskvich_luidor",
+   "адрес": "ул. Сибирский Тракт, 59",
+   "координаты": [
+    49.198363,
+    55.83998
+   ],
+   "рейтинг": 4.7,
+   "оценок": 125,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://moskvich-kazan.ru/moskvich3"
+   ],
+   "телефоны": [
+    "+7 (843) 208-64-27"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moskvich_luidor/19853572098/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "170535235531",
+   "название": "BAW 212, Квазар",
+   "seoname": "baw_212_kvazar",
+   "адрес": "ул. Маршала Чуйкова, 54В, Казань",
+   "координаты": [
+    49.143618,
+    55.835529
+   ],
+   "рейтинг": 5,
+   "оценок": 293,
+   "отзывов": 177,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://212kazan.ru/",
+    "https://212kzn.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-33-45",
+    "+7 (937) 282-62-68",
+    "+7 (843) 210-59-85"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/baw_212_kvazar/170535235531/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "80552442448",
+   "название": "Лайт Авто",
+   "seoname": "layt_avto",
+   "адрес": "ул. Фатыха Амирхана, 40А",
+   "координаты": [
+    49.136803,
+    55.842372
+   ],
+   "рейтинг": 4.9,
+   "оценок": 154,
+   "отзывов": 95,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://legko-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 424-50-10",
+    "+7 (843) 245-00-10",
+    "+7 (927) 672-27-36"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "brokencars",
+    "car_park",
+    "loan_processing",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/layt_avto/80552442448/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "48050225359",
+   "название": "Xcite Кан Авто",
+   "seoname": "xcite_kan_avto",
+   "адрес": "ул. Мусина, 37",
+   "координаты": [
+    49.120185,
+    55.83247
+   ],
+   "рейтинг": 4.3,
+   "оценок": 18,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 235-35-75"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "registration_inspection",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/xcite_kan_avto/48050225359/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "115919237570",
+   "название": "Haval Кан Авто",
+   "seoname": "haval_kan_avto",
+   "адрес": "ул. Сибирский Тракт, 52",
+   "координаты": [
+    49.199453,
+    55.839451
+   ],
+   "рейтинг": 5,
+   "оценок": 288,
+   "отзывов": 156,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kazan-haval.ru/",
+    "https://www.wildberries.ru/seller/250117748",
+    "https://www.ozon.ru/seller/haval-kan-avto-ofitsialnyy-diler"
+   ],
+   "телефоны": [
+    "+7 (843) 212-39-70"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_kan_avto/115919237570/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "160108461241",
+   "название": "ГАЗ Луидор",
+   "seoname": "gaz_luidor",
+   "адрес": "ул. Ярослава Гашека, 7",
+   "координаты": [
+    49.106421,
+    55.841026
+   ],
+   "рейтинг": 4.5,
+   "оценок": 667,
+   "отзывов": 228,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://luidor-gaz.ru/",
+    "https://luidor-kazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-43-32"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "preliminary_registration",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gaz_luidor/160108461241/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "103710048127",
+   "название": "Кан Авто Эксперт",
+   "seoname": "kan_avto_ekspert",
+   "адрес": "ул. Сибирский Тракт, 52",
+   "координаты": [
+    49.199932,
+    55.839913
+   ],
+   "рейтинг": 5,
+   "оценок": 1695,
+   "отзывов": 1162,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kanavto.ru/used/",
+    "https://restart.auto/dealers/kanavto-sibirskiy-trakt"
+   ],
+   "телефоны": [
+    "+7 (843) 500-42-79"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "brokencars",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "elevator_wheelchair_accessible",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_ekspert/103710048127/",
+   "найдено_по": "автосалон Авиастроительный район"
+  },
+  {
+   "id": "210141175462",
+   "название": "Батыр Авто",
+   "seoname": "batyr_avto",
+   "адрес": "Чистопольская ул., 69, Казань",
+   "координаты": [
+    49.141719,
+    55.820004
+   ],
+   "рейтинг": 4.9,
+   "оценок": 30,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://batyravto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-95-91"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "заказ автомобилей",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "prayer_room",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/batyr_avto/210141175462/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "156854849792",
+   "название": "Кан Авто Эксперт Premium",
+   "seoname": "kan_avto_ekspert_premium",
+   "адрес": "Московская ул., 20",
+   "координаты": [
+    49.104709,
+    55.791399
+   ],
+   "рейтинг": 5,
+   "оценок": 174,
+   "отзывов": 106,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 254-57-49",
+    "+7 (843) 230-31-31"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_ekspert_premium/156854849792/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "47531780275",
+   "название": "Кан Авто Lada",
+   "seoname": "kan_avto_lada",
+   "адрес": "ул. Габдуллы Тукая, 115, корп. 3, Казань",
+   "координаты": [
+    49.127071,
+    55.765845
+   ],
+   "рейтинг": 5,
+   "оценок": 41,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://kan-avto.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-60-91",
+    "+7 (843) 212-20-35"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_lada/47531780275/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "197450004094",
+   "название": "Санрайз групп, Субару",
+   "seoname": "sanrayz_grupp_subaru",
+   "адрес": "ул. Габдуллы Тукая, 130",
+   "координаты": [
+    49.122332,
+    55.770264
+   ],
+   "рейтинг": 4.5,
+   "оценок": 17,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kazan.sunrise-group.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 500-58-12"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон"
+   ],
+   "признаки": [
+    "official_dealer"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sanrayz_grupp_subaru/197450004094/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "145944050357",
+   "название": "Ли Авто Кан Авто",
+   "seoname": "li_avto_kan_avto",
+   "адрес": "Московская ул., 20",
+   "координаты": [
+    49.104662,
+    55.791243
+   ],
+   "рейтинг": 4.6,
+   "оценок": 16,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kanavto-liauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 500-51-09"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "disable_captions",
+    "disable_photopoi",
+    "electric car charging station",
+    "elevator_wheelchair_accessible",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "kaspi_red",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/li_avto_kan_avto/145944050357/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "127682575877",
+   "название": "Хоргос Авто",
+   "seoname": "khorgos_avto",
+   "адрес": "ул. Ташаяк, 2А",
+   "координаты": [
+    49.099978,
+    55.797448
+   ],
+   "рейтинг": 5,
+   "оценок": 44,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://horgos-auto.com/"
+   ],
+   "телефоны": [
+    "+7 (917) 775-73-30",
+    "+7 (960) 089-47-26"
+   ],
+   "часы": "пн-пт 10:00–17:00; сб,вс 11:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "parking_disabled",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/khorgos_avto/127682575877/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "106295247603",
+   "название": "Неофицал Авто",
+   "seoname": "neofitsal_avto",
+   "адрес": "ул. Габдуллы Тукая, 120",
+   "координаты": [
+    49.120868,
+    55.771778
+   ],
+   "рейтинг": 4.9,
+   "оценок": 48,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://neofical.ru/"
+   ],
+   "телефоны": [
+    "8 (804) 700-40-41"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "test_drive",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/neofitsal_avto/106295247603/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "124504117485",
+   "название": "АманатАвто",
+   "seoname": "amanatavto",
+   "адрес": "ул. Оренбургский Тракт, 5В",
+   "координаты": [
+    49.154162,
+    55.761425
+   ],
+   "рейтинг": 5,
+   "оценок": 275,
+   "отзывов": 223,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://amanatauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 567-29-49"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "parking_disabled",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/amanatavto/124504117485/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "228286531958",
+   "название": "Легион авто",
+   "seoname": "legion_avto",
+   "адрес": "ул. Островского, 22",
+   "координаты": [
+    49.116911,
+    55.787644
+   ],
+   "рейтинг": 4.3,
+   "оценок": 30,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://legionautovl.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 240-68-76",
+    "+7 (966) 240-68-76"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/legion_avto/228286531958/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "18628176993",
+   "название": "Aito Seres Кан Авто",
+   "seoname": "aito_seres_kan_avto",
+   "адрес": "Московская ул., 20",
+   "координаты": [
+    49.104622,
+    55.791362
+   ],
+   "рейтинг": 4.7,
+   "оценок": 22,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://kanavto-seres.ru/"
+   ],
+   "телефоны": [],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "coffee_to_go",
+    "electric car charging station",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aito_seres_kan_avto/18628176993/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "178291718373",
+   "название": "Best Import Car",
+   "seoname": "best_import_car",
+   "адрес": "Роторная ул., 27В, корп. 2",
+   "координаты": [
+    49.145502,
+    55.766421
+   ],
+   "рейтинг": 5,
+   "оценок": 50,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 760-66-77"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/best_import_car/178291718373/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "76411969656",
+   "название": "Haval Pro, ТрансТехСервис",
+   "seoname": "haval_pro_transtekhservis",
+   "адрес": "просп. Ибрагимова, 48",
+   "координаты": [
+    49.092418,
+    55.822981
+   ],
+   "рейтинг": 5,
+   "оценок": 220,
+   "отзывов": 116,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://haval-pro.tts.ru/kazan",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-20-28",
+    "+7 (843) 210-56-21"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_pro_transtekhservis/76411969656/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "38821414538",
+   "название": "Geely, ТрансТехСервис",
+   "seoname": "geely_transtekhservis",
+   "адрес": "ул. Декабристов, 96",
+   "координаты": [
+    49.09055,
+    55.82131
+   ],
+   "рейтинг": 5,
+   "оценок": 257,
+   "отзывов": 170,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://promo.geely-tts.ru/",
+    "https://geely-tts.ru/",
+    "https://www.tts.ru/brands/geely"
+   ],
+   "телефоны": [
+    "+7 (843) 233-92-35",
+    "+7 (843) 212-28-26",
+    "+7 (843) 233-54-86"
+   ],
+   "часы": "пн-сб 08:00–21:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "body_repair",
+    "guarantee",
+    "official_dealer",
+    "street_entrance",
+    "tire_fitting",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_transtekhservis/38821414538/",
+   "найдено_по": "автосалон Вахитовский район"
+  },
+  {
+   "id": "188232193021",
+   "название": "Jetour, Автосеть.рф",
+   "seoname": "jetour_avtoset_rf",
+   "адрес": "ул. Горьковское Шоссе, 55",
+   "координаты": [
+    49.022298,
+    55.826855
+   ],
+   "рейтинг": 4.9,
+   "оценок": 182,
+   "отзывов": 91,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jetour-avtosetrf.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-59-42"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jetour_avtoset_rf/188232193021/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "41211204303",
+   "название": "Tenet Plus, Автосеть",
+   "seoname": "tenet_plus_avtoset",
+   "адрес": "ул. Горьковское Шоссе, 55",
+   "координаты": [
+    49.021978,
+    55.826463
+   ],
+   "рейтинг": 4.6,
+   "оценок": 15,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenetplus-avtosetrf.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 500-58-56"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tenet_plus_avtoset/41211204303/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "219171359802",
+   "название": "Автосеть.рф",
+   "seoname": "avtoset_rf",
+   "адрес": "ул. Горьковское Шоссе, 55",
+   "координаты": [
+    49.022241,
+    55.826687
+   ],
+   "рейтинг": 4.8,
+   "оценок": 752,
+   "отзывов": 373,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автосеть.рф/"
+   ],
+   "телефоны": [
+    "8 (800) 500-11-56"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_rf/219171359802/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "162782576481",
+   "название": "Solaris, Автосеть.рф",
+   "seoname": "solaris_avtoset_rf",
+   "адрес": "ул. Горьковское Шоссе, 55",
+   "координаты": [
+    49.022026,
+    55.826655
+   ],
+   "рейтинг": 5,
+   "оценок": 36,
+   "отзывов": 34,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtosetrf-solaris.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-47-45"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solaris_avtoset_rf/162782576481/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "115210453522",
+   "название": "Диалог Авто Geely",
+   "seoname": "dialog_avto_geely",
+   "адрес": "ул. Горьковское Шоссе, 30, корп. 1, Казань",
+   "координаты": [
+    49.025215,
+    55.82714
+   ],
+   "рейтинг": 5,
+   "оценок": 165,
+   "отзывов": 149,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://promo.geely-dialog-kazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-24-45"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto_geely/115210453522/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "167685218570",
+   "название": "Диалог Авто Changan",
+   "seoname": "dialog_avto_changan",
+   "адрес": "ул. Горьковское Шоссе, 47, корп. 1",
+   "координаты": [
+    49.025223,
+    55.826546
+   ],
+   "рейтинг": 5,
+   "оценок": 194,
+   "отзывов": 108,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dialog-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-13-91"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto_changan/167685218570/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "215331555638",
+   "название": "Carnow",
+   "seoname": "carnow",
+   "адрес": "ул. Сабан, 2Г",
+   "координаты": [
+    49.051347,
+    55.825962
+   ],
+   "рейтинг": 4.8,
+   "оценок": 18,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (960) 040-72-15"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "авторынок"
+   ],
+   "признаки": [
+    "car_park",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carnow/215331555638/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "12059391948",
+   "название": "Диалог Авто, Haval",
+   "seoname": "dialog_avto_haval",
+   "адрес": "ул. Горьковское Шоссе, 47, корп. 1",
+   "координаты": [
+    49.025451,
+    55.826524
+   ],
+   "рейтинг": 5,
+   "оценок": 602,
+   "отзывов": 325,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dialog-kazan-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 558-74-51"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto_haval/12059391948/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "238961514409",
+   "название": "Evolute ТрансТехСервис",
+   "seoname": "evolute_transtekhservis",
+   "адрес": "просп. Ибрагимова, 48",
+   "координаты": [
+    49.093918,
+    55.823232
+   ],
+   "рейтинг": 4.7,
+   "оценок": 68,
+   "отзывов": 49,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://evolute-tts.ru/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-34-16",
+    "+7 (843) 212-27-01"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/evolute_transtekhservis/238961514409/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "232893365815",
+   "название": "Луидор-Эксперт",
+   "seoname": "luidor_ekspert",
+   "адрес": "ул. Восход, 43",
+   "координаты": [
+    49.072521,
+    55.840841
+   ],
+   "рейтинг": 4.9,
+   "оценок": 193,
+   "отзывов": 113,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kzn.luidor-expert.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-45-25"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luidor_ekspert/232893365815/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "226129859529",
+   "название": "Volga ТТС",
+   "seoname": "volga_tts",
+   "адрес": "ул. Декабристов, 96, Казань",
+   "координаты": [
+    49.09055,
+    55.82131
+   ],
+   "рейтинг": 4.9,
+   "оценок": 34,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tts-volga.ru/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 558-75-01"
+   ],
+   "часы": "пн-сб 08:00–21:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/volga_tts/226129859529/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "21791657860",
+   "название": "Omoda ТТС",
+   "seoname": "omoda_tts",
+   "адрес": "просп. Ибрагимова, 48",
+   "координаты": [
+    49.093918,
+    55.823232
+   ],
+   "рейтинг": 4.9,
+   "оценок": 50,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omoda-tts.ru/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-50-35",
+    "+7 (843) 558-22-47"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "epassport_for_vehicles",
+    "guarantee",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_tts/21791657860/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "1173948562",
+   "название": "Solaris ТрансТехСервис",
+   "seoname": "solaris_transtekhservis",
+   "адрес": "просп. Ибрагимова, 48",
+   "координаты": [
+    49.093918,
+    55.823232
+   ],
+   "рейтинг": 5,
+   "оценок": 145,
+   "отзывов": 101,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://solaris-tts.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-56-92",
+    "+7 (843) 233-57-08"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solaris_transtekhservis/1173948562/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "108235359209",
+   "название": "CarPoint",
+   "seoname": "carpoint",
+   "адрес": "ул. Четаева, 14А, корп. 2",
+   "координаты": [
+    49.14434,
+    55.822906
+   ],
+   "рейтинг": 5,
+   "оценок": 174,
+   "отзывов": 165,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.carpoint.one/"
+   ],
+   "телефоны": [
+    "8 (800) 700-73-82"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "car_park",
+    "cars_for_order",
+    "gift_certificate",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carpoint/108235359209/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "79082673132",
+   "название": "EXEED Центр Рольф на Чуйкова",
+   "seoname": "exeed_tsentr_rolf_na_chuykova",
+   "адрес": "ул. Маршала Чуйкова, 54Б",
+   "координаты": [
+    49.142423,
+    55.835201
+   ],
+   "рейтинг": 5,
+   "оценок": 63,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://exeed-rolf-kazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-29-91"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "cafe",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/exeed_tsentr_rolf_na_chuykova/79082673132/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "184506002781",
+   "название": "Автокомиссия.рф",
+   "seoname": "avtokomissiya_rf",
+   "адрес": "просп. Ямашева, 46/2, Казань",
+   "координаты": [
+    49.115548,
+    55.829814
+   ],
+   "рейтинг": 4.6,
+   "оценок": 45,
+   "отзывов": 34,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автокомиссия.рф/"
+   ],
+   "телефоны": [
+    "+7 (967) 370-00-20"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokomissiya_rf/184506002781/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "33335212494",
+   "название": "Ван Авто",
+   "seoname": "van_avto",
+   "адрес": "просп. Ямашева, 71А",
+   "координаты": [
+    49.135448,
+    55.82617
+   ],
+   "рейтинг": 4.3,
+   "оценок": 13,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://van-avto-prospekt-jamasheva.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (952) 747-77-66"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "japanese_car_auctions",
+    "leasing_registration",
+    "loan_processing",
+    "motorcycle_auction",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "transfer",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/van_avto/33335212494/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "111827701246",
+   "название": "Сочное авто",
+   "seoname": "sochnoye_avto",
+   "адрес": "ул. Академика Лаврентьева, 11А",
+   "координаты": [
+    49.150647,
+    55.83293
+   ],
+   "рейтинг": 5,
+   "оценок": 69,
+   "отзывов": 62,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://juicy-car.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 918-64-38"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Выкуп автомобилей",
+    "автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "brokencars",
+    "car_park",
+    "cars_for_order",
+    "disable_captions",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sochnoye_avto/111827701246/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "125431474141",
+   "название": "Арена Авто",
+   "seoname": "arena_avto",
+   "адрес": "ул. Сибгата Хакима, 23",
+   "координаты": [
+    49.127709,
+    55.818029
+   ],
+   "рейтинг": 4.3,
+   "оценок": 104,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://arena-avto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (843) 240-66-22",
+    "+7 (967) 469-61-23"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "bike_parking",
+    "brokencars",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/arena_avto/125431474141/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "18782260799",
+   "название": "Pango центр Квазар",
+   "seoname": "pango_tsentr_kvazar",
+   "адрес": "ул. Маршала Чуйкова, 54В, Казань",
+   "координаты": [
+    49.143485,
+    55.835503
+   ],
+   "рейтинг": 4.3,
+   "оценок": 16,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pango-tsentr-kvazar.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-31-60",
+    "+7 (930) 211-31-05"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "disable_captions",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pango_tsentr_kvazar/18782260799/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "1684414749",
+   "название": "Мб-ирбис",
+   "seoname": "mb_irbis",
+   "адрес": "просп. Ямашева, 122Б",
+   "координаты": [
+    49.163123,
+    55.824574
+   ],
+   "рейтинг": 4.9,
+   "оценок": 934,
+   "отзывов": 288,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://hongqi-mb-irbis.ru/",
+    "https://sales.mb-irbis.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 294-94-94",
+    "+7 (843) 203-96-90"
+   ],
+   "часы": "пн-сб 08:00–21:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "elevator_wheelchair_accessible",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mb_irbis/1684414749/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "152132611109",
+   "название": "Бест Авто",
+   "seoname": "best_avto",
+   "адрес": "ул. Фатыха Амирхана, 40А, Казань",
+   "координаты": [
+    49.136939,
+    55.84259
+   ],
+   "рейтинг": 4.5,
+   "оценок": 12,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 007-10-07",
+    "+7 (986) 900-70-07"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб,вс 11:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автоподбор"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/best_avto/152132611109/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "196103330846",
+   "название": "Альянс авто",
+   "seoname": "alyans_avto",
+   "адрес": "ул. Сибгата Хакима, 23блок1",
+   "координаты": [
+    49.128153,
+    55.817355
+   ],
+   "рейтинг": 4.3,
+   "оценок": 121,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://allianceavto.ru/",
+    "http://a-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 226-36-36",
+    "+7 (987) 226-36-36"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб,вс 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alyans_avto/196103330846/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "194863953187",
+   "название": "Nomad Cars",
+   "seoname": "nomad_cars",
+   "адрес": "просп. Ямашева, 33А",
+   "координаты": [
+    49.108444,
+    55.826266
+   ],
+   "рейтинг": 4.5,
+   "оценок": 9,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://nomadcars.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (919) 620-44-11",
+    "+7 (937) 620-01-20"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "автоподбор"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nomad_cars/194863953187/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "5931180111",
+   "название": "Народный",
+   "seoname": "narodny",
+   "адрес": "ул. Сибгата Хакима, 23блок1",
+   "координаты": [
+    49.127968,
+    55.817458
+   ],
+   "рейтинг": 4.5,
+   "оценок": 31,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://narodnyj-ulitsa-sibgata-hakima.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (843) 203-35-36",
+    "+7 (927) 400-35-36"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "car_park",
+    "loan_processing",
+    "parking_disabled",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/narodny/5931180111/",
+   "найдено_по": "автосалон Ново-Савиновский район"
+  },
+  {
+   "id": "2897293449",
+   "название": "Jaecoo Кан Авто",
+   "seoname": "jaecoo_kan_avto",
+   "адрес": "ул. Оренбургский Тракт, 209, Казань",
+   "координаты": [
+    49.189598,
+    55.732114
+   ],
+   "рейтинг": 4.2,
+   "оценок": 4,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jaecoo-kan-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-47-36"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jaecoo_kan_avto/2897293449/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "224186074385",
+   "название": "Jeland Кан Авто",
+   "seoname": "jeland_kan_avto",
+   "адрес": "ул. Оренбургский Тракт, 209, Казань",
+   "координаты": [
+    49.189598,
+    55.732114
+   ],
+   "рейтинг": 4.6,
+   "оценок": 11,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jeland-kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-56-74",
+    "+7 (843) 210-50-12"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jeland_kan_avto/224186074385/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "129108465557",
+   "название": "Car-traid",
+   "seoname": "car_traid",
+   "адрес": "ул. Космонавтов, 73, Казань",
+   "координаты": [
+    49.21133,
+    55.796596
+   ],
+   "рейтинг": 5,
+   "оценок": 430,
+   "отзывов": 328,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://car-traid.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 280-02-53"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоподбор",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "brokencars",
+    "cafe",
+    "car_park",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/car_traid/129108465557/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "133934331846",
+   "название": "Solaris Кан Авто",
+   "seoname": "solaris_kan_avto",
+   "адрес": "ул. Оренбургский Тракт, 209Б",
+   "координаты": [
+    49.19038,
+    55.73145
+   ],
+   "рейтинг": 4.6,
+   "оценок": 18,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://solaris-kanavto.ru/",
+    "https://sales.solaris-kanavto.ru/",
+    "https://kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-28-27"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solaris_kan_avto/133934331846/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "192758768510",
+   "название": "ДрайвАвтоПро",
+   "seoname": "drayvavtopro",
+   "адрес": "ул. Оренбургский Тракт, 160А, Казань",
+   "координаты": [
+    49.188879,
+    55.725884
+   ],
+   "рейтинг": 5,
+   "оценок": 32,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 095-90-09"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/drayvavtopro/192758768510/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "238857265445",
+   "название": "DaCarProclime",
+   "seoname": "dacarproclime",
+   "адрес": "ул. Патриса Лумумбы, 61, Казань",
+   "координаты": [
+    49.185652,
+    55.795859
+   ],
+   "рейтинг": 4.9,
+   "оценок": 58,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://atc-dacar.ru/",
+    "https://автокредит-в-казани.рф/",
+    "https://dacar-import.ru/"
+   ],
+   "телефоны": [
+    "+7 (962) 563-80-14",
+    "+7 (969) 909-70-01"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "страхование автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dacarproclime/238857265445/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "116934158548",
+   "название": "Лиса Рулит",
+   "seoname": "lisa_rulit",
+   "адрес": "ул. Рихарда Зорге, 66",
+   "координаты": [
+    49.210496,
+    55.748023
+   ],
+   "рейтинг": 5,
+   "оценок": 90,
+   "отзывов": 66,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://lenalisa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 398-87-00"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lisa_rulit/116934158548/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "81530387891",
+   "название": "Автокитай",
+   "seoname": "avtokitay",
+   "адрес": "просп. Победы, 9А",
+   "координаты": [
+    49.193274,
+    55.743537
+   ],
+   "рейтинг": 4.8,
+   "оценок": 63,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtokitaykazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 205-01-01"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "cars_for_order",
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokitay/81530387891/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "241832360821",
+   "название": "Кан Авто Эксперт",
+   "seoname": "kan_avto_ekspert",
+   "адрес": "ул. Габдуллы Тукая, 115, корп. 3",
+   "координаты": [
+    49.127144,
+    55.764886
+   ],
+   "рейтинг": 5,
+   "оценок": 161,
+   "отзывов": 153,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kanavto.ru/used/"
+   ],
+   "телефоны": [
+    "+7 (843) 211-83-09"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_ekspert/241832360821/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "34232576392",
+   "название": "Кан Авто Эксперт",
+   "seoname": "kan_avto_ekspert",
+   "адрес": "ул. Оренбургский Тракт, 209Б",
+   "координаты": [
+    49.190444,
+    55.731131
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1988,
+   "отзывов": 986,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kanavto.ru/used/",
+    "https://restart.auto/dealers/kanavto-orenburgskiy-trakt"
+   ],
+   "телефоны": [
+    "+7 (843) 500-43-18"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_ekspert/34232576392/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "174198533418",
+   "название": "Haval Pro Кан Авто",
+   "seoname": "haval_pro_kan_avto",
+   "адрес": "ул. Оренбургский Тракт, 209В",
+   "координаты": [
+    49.191635,
+    55.730167
+   ],
+   "рейтинг": 4.8,
+   "оценок": 101,
+   "отзывов": 51,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sales.kanavto-havalpro.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 244-80-96"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "coffee_to_go",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_pro_kan_avto/174198533418/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "40057890137",
+   "название": "Восток Авто Премиум",
+   "seoname": "vostok_avto_premium",
+   "адрес": "ул. Оренбургский Тракт, 140Г",
+   "координаты": [
+    49.189939,
+    55.728454
+   ],
+   "рейтинг": 4.4,
+   "оценок": 27,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 181-85-55"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vostok_avto_premium/40057890137/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "180112728770",
+   "название": "Барс Авто, Jetour",
+   "seoname": "bars_avto_jetour",
+   "адрес": "ул. Родины, 1",
+   "координаты": [
+    49.192902,
+    55.760717
+   ],
+   "рейтинг": 4.8,
+   "оценок": 76,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jetour-barsavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 204-40-40"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bars_avto_jetour/180112728770/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "75560307867",
+   "название": "Volga, Кан Авто",
+   "seoname": "volga_kan_avto",
+   "адрес": "ул. Оренбургский Тракт, 209В",
+   "координаты": [
+    49.191338,
+    55.730465
+   ],
+   "рейтинг": 4.7,
+   "оценок": 14,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-57-89"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "pickup",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/volga_kan_avto/75560307867/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "56066155840",
+   "название": "Cool Gali Auto",
+   "seoname": "cool_gali_auto",
+   "адрес": "ул. Кул Гали, 32",
+   "координаты": [
+    49.244371,
+    55.750266
+   ],
+   "рейтинг": 4.8,
+   "оценок": 50,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.cg-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (966) 260-53-00",
+    "+7 (903) 341-19-89"
+   ],
+   "часы": "пн-сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "заказ автомобилей",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "registration_inspection",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cool_gali_auto/56066155840/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "169085418187",
+   "название": "Tank Кан Авто",
+   "seoname": "tank_kan_avto",
+   "адрес": "ул. Оренбургский Тракт, 23Д",
+   "координаты": [
+    49.162753,
+    55.753586
+   ],
+   "рейтинг": 5,
+   "оценок": 319,
+   "отзывов": 126,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kanavto-tank.ru/",
+    "https://gwm-wey-kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-31-97"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "electric car charging station",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "spare_parts",
+    "street_entrance",
+    "test_drive",
+    "tire_chains",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tank_kan_avto/169085418187/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "237386915477",
+   "название": "Haval КАН АВТО",
+   "seoname": "haval_kan_avto",
+   "адрес": "ул. Оренбургский Тракт, 209, Казань",
+   "координаты": [
+    49.189281,
+    55.73215
+   ],
+   "рейтинг": 5,
+   "оценок": 751,
+   "отзывов": 314,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ot.kanavto-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-38-09"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "coffee_to_go",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_kan_avto/237386915477/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "124339350375",
+   "название": "Кан Авто, Амберавто",
+   "seoname": "kan_avto_amberavto",
+   "адрес": "ул. Оренбургский Тракт, 209Б",
+   "координаты": [
+    49.190442,
+    55.731181
+   ],
+   "рейтинг": 3.9,
+   "оценок": 3,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://amberauto-kazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-58-30"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_amberavto/124339350375/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "88470570998",
+   "название": "ТТС Авто с пробегом",
+   "seoname": "tts_avto_s_probegom",
+   "адрес": "Даурская ул., 18",
+   "координаты": [
+    49.160238,
+    55.762096
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1149,
+   "отзывов": 508,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kazan.tts.ru/",
+    "https://kazan.tts.ru/sprobegom"
+   ],
+   "телефоны": [
+    "+7 (843) 210-91-08",
+    "+7 (843) 210-31-63"
+   ],
+   "часы": "пн-сб 08:00–21:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tts_avto_s_probegom/88470570998/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "97692825557",
+   "название": "Solaris ТрансТехСервис",
+   "seoname": "solaris_transtekhservis",
+   "адрес": "просп. Победы, 194/1",
+   "координаты": [
+    49.220132,
+    55.794426
+   ],
+   "рейтинг": 5,
+   "оценок": 65,
+   "отзывов": 57,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://solaris-tts.ru/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 244-80-74",
+    "+7 (843) 233-56-92"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solaris_transtekhservis/97692825557/",
+   "найдено_по": "автосалон Приволжский район"
+  },
+  {
+   "id": "71797407163",
+   "название": "Volga Кан Авто",
+   "seoname": "volga_kan_avto",
+   "адрес": "ул. Сибирский Тракт, 52",
+   "координаты": [
+    49.198621,
+    55.838787
+   ],
+   "рейтинг": 4.9,
+   "оценок": 26,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-90-26"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/volga_kan_avto/71797407163/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "170167002950",
+   "название": "Барс Авто",
+   "seoname": "bars_avto",
+   "адрес": "ул. Юлиуса Фучика, 90А",
+   "координаты": [
+    49.234999,
+    55.763381
+   ],
+   "рейтинг": 5,
+   "оценок": 50,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://bars-auto.com/"
+   ],
+   "телефоны": [
+    "+7 (984) 232-47-61",
+    "+7 (914) 736-28-20"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автоаукцион"
+   ],
+   "признаки": [
+    "cars_for_order"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bars_avto/170167002950/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "138057845159",
+   "название": "УАЗ Луидор",
+   "seoname": "uaz_luidor",
+   "адрес": "ул. Сибирский Тракт, 59",
+   "координаты": [
+    49.19838,
+    55.840227
+   ],
+   "рейтинг": 4.7,
+   "оценок": 198,
+   "отзывов": 97,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kazan.uaz-luidor.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 208-63-65"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "field_service",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "sandblasting",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/uaz_luidor/138057845159/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "63549849310",
+   "название": "Lion Auto",
+   "seoname": "lion_auto",
+   "адрес": "ул. Аделя Кутуя, 110Д, корп. 4",
+   "координаты": [
+    49.191661,
+    55.780063
+   ],
+   "рейтинг": 5,
+   "оценок": 330,
+   "отзывов": 172,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://lionauto-kzn.ru/"
+   ],
+   "телефоны": [
+    "+7 (952) 041-30-05"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "brokencars",
+    "cafe",
+    "car_park",
+    "loan_processing",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lion_auto/63549849310/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "106123189620",
+   "название": "Дорога",
+   "seoname": "doroga",
+   "адрес": "просп. Победы, 202",
+   "координаты": [
+    49.210397,
+    55.802451
+   ],
+   "рейтинг": 5,
+   "оценок": 64,
+   "отзывов": 59,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://importdoroga.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 700-70-52"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автоподбор"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "loan_processing",
+    "preliminary_registration",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/doroga/106123189620/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "215549764726",
+   "название": "Чанган центр ТрансТехСервис",
+   "seoname": "changan_tsentr_transtekhservis",
+   "адрес": "ул. Мамадышский Тракт, 30",
+   "координаты": [
+    49.244764,
+    55.797012
+   ],
+   "рейтинг": 5,
+   "оценок": 63,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.tts.ru/brands/changan/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 558-58-91"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_transtekhservis/215549764726/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "194167286756",
+   "название": "Miracar",
+   "seoname": "miracar",
+   "адрес": "Республика Татарстан (Татарстан), Казань, жилой район Седьмое Небо, микрорайон 4А",
+   "координаты": [
+    49.21489,
+    55.79322
+   ],
+   "рейтинг": 3.8,
+   "оценок": 11,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (931) 107-53-10"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/miracar/194167286756/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "56546861205",
+   "название": "EXEED центр ТТС",
+   "seoname": "exeed_tsentr_tts",
+   "адрес": "просп. Победы, 194",
+   "координаты": [
+    49.219786,
+    55.794265
+   ],
+   "рейтинг": 4.9,
+   "оценок": 401,
+   "отзывов": 179,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://exeed.tts.ru/",
+    "https://exeed-tts.ru/KAZAN/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 244-81-53",
+    "+7 (843) 244-81-57",
+    "+7 (843) 233-54-83"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "truck_tire_service",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/exeed_tsentr_tts/56546861205/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "233047975448",
+   "название": "Jac ТТС",
+   "seoname": "jac_tts",
+   "адрес": "просп. Победы, 194/3",
+   "координаты": [
+    49.221075,
+    55.794097
+   ],
+   "рейтинг": 4.9,
+   "оценок": 72,
+   "отзывов": 52,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kazan.tts.ru/auto/jac/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-51-78"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jac_tts/233047975448/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "204014750799",
+   "название": "Кан Авто, Lada",
+   "seoname": "kan_avto_lada",
+   "адрес": "Минская ул., 1",
+   "координаты": [
+    49.223961,
+    55.77282
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1037,
+   "отзывов": 509,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kan-avto.lada.ru/?dealer=45478650",
+    "https://restart.auto/dealers/kanavto-minskaya"
+   ],
+   "телефоны": [
+    "+7 (843) 558-78-17",
+    "+7 (843) 212-31-05"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_lada/204014750799/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "163056561289",
+   "название": "Южный авто",
+   "seoname": "yuzhny_avto",
+   "адрес": "ул. Родины, 49/4",
+   "координаты": [
+    49.215052,
+    55.767163
+   ],
+   "рейтинг": 4,
+   "оценок": 54,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 238-88-23",
+    "+7 (927) 435-11-35",
+    "+7 (927) 039-24-38",
+    "+7 (927) 244-44-50"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yuzhny_avto/163056561289/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "43389891196",
+   "название": "Москвич ТТС",
+   "seoname": "moskvich_tts",
+   "адрес": "просп. Победы, 194, Казань",
+   "координаты": [
+    49.220534,
+    55.794983
+   ],
+   "рейтинг": 4.8,
+   "оценок": 165,
+   "отзывов": 93,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://moskvich.tts.ru/",
+    "https://promo.moskvich-tts.ru/kazan/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 244-83-41",
+    "+7 (843) 558-79-68",
+    "+7 (843) 233-54-83"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "epassport_for_vehicles",
+    "guarantee",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moskvich_tts/43389891196/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "47506954085",
+   "название": "Omoda ТТС",
+   "seoname": "omoda_tts",
+   "адрес": "просп. Победы, 194/1",
+   "координаты": [
+    49.221689,
+    55.794543
+   ],
+   "рейтинг": 5,
+   "оценок": 287,
+   "отзывов": 140,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omoda-tts.ru/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 558-48-69",
+    "+7 (843) 558-70-27",
+    "+7 (843) 233-54-83"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "шины и диски",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_servicing",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_tts/47506954085/",
+   "найдено_по": "автосалон Советский район"
+  }
+ ],
+ "расширено_по_районам": true
+}

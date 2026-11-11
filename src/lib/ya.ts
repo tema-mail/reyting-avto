@@ -60,6 +60,8 @@ function entities(city: Gorod, pub: NicheYa[], stats: GorodYa['stats']): Entity[
     if (!slug) {
       slug = slugify(lead.display);
       if (used.has(slug)) slug = slugify(`${lead.name} ${branches[0].address.split(',').slice(0, 2).join(' ')}`);
+      // 11.11.2026, Казань: адреса без улицы («Республика Татарстан, Казань, район») – третий вариант с id, как в каталоге
+      if (used.has(slug)) slug = `${slugify(lead.name) || 'kompaniya'}-${branches[0].id}`;
       if (used.has(slug)) throw new Error(`Slug «${slug}» занят дважды (${city.name})`);
     }
     used.add(slug);

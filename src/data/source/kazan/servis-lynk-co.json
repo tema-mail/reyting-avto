@@ -1,0 +1,126 @@
+{
+ "ниша": "Сервис Lynk & Co",
+ "ключ": "servis-lynk-co",
+ "запросы": [
+  "lynk co сервис",
+  "lynk co ремонт",
+  "lynk co техническое обслуживание"
+ ],
+ "найдено_в_яндексе": {
+  "lynk co сервис": 3,
+  "lynk co ремонт": 1,
+  "lynk co техническое обслуживание": 1
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Казани (регион 43)",
+ "город": "kazan",
+ "компании": [
+  {
+   "id": "9011113784",
+   "название": "Lynk & Co ByteDepp",
+   "seoname": "lynk_co_bytedepp",
+   "адрес": "2-я Магистральная ул., 3, стр. 3, Москва",
+   "координаты": [
+    37.530364,
+    55.762216
+   ],
+   "рейтинг": 5,
+   "оценок": 45,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (993) 291-15-92"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/lynk_co_bytedepp/9011113784/",
+   "последний_отзыв": "2025-08-13",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 26
+  },
+  {
+   "id": "222160734327",
+   "название": "Авилон Lynk & Co",
+   "seoname": "avilon_lynk_co",
+   "адрес": "Волгоградский просп., 43, корп. 2, Москва",
+   "координаты": [
+    37.719561,
+    55.713562
+   ],
+   "рейтинг": 4.7,
+   "оценок": 67,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://lynkco-avilon.ru/"
+   ],
+   "телефоны": [
+    "+7 (495) 153-33-47"
+   ],
+   "часы": "ежедневно, 09:00–21:40",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avilon_lynk_co/222160734327/",
+   "последний_отзыв": "2025-02-20",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 39
+  }
+ ]
+}

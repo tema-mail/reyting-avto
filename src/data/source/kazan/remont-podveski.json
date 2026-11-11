@@ -1,0 +1,7688 @@
+{
+ "ниша": "Ремонт подвески",
+ "ключ": "remont-podveski",
+ "запросы": [
+  "ремонт подвески"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт подвески": 92,
+  "ремонт подвески Авиастроительный район": 63,
+  "ремонт подвески Вахитовский район": 47,
+  "ремонт подвески Кировский район": 74,
+  "ремонт подвески Московский район": 53,
+  "ремонт подвески Ново-Савиновский район": 52,
+  "ремонт подвески Приволжский район": 86,
+  "ремонт подвески Советский район": 89
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Казани (регион 43)",
+ "город": "kazan",
+ "компании": [
+  {
+   "id": "1149036930",
+   "название": "Гвардейский",
+   "seoname": "gvardeyskiy",
+   "адрес": "Гвардейская ул., 53К, Казань",
+   "координаты": [
+    49.177728,
+    55.772355
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1694,
+   "отзывов": 870,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sto01.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 211-44-44"
+   ],
+   "часы": "пн-сб 09:00–21:00, перерыв 13:00–14:00; вс 10:00–18:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "пункт техосмотра",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "installing_the_towbar",
+    "official_checkup",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gvardeyskiy/1149036930/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 55
+  },
+  {
+   "id": "100503190685",
+   "название": "Свой сервис",
+   "seoname": "svoy_servis",
+   "адрес": "Волочаевская ул., 15А",
+   "координаты": [
+    49.178408,
+    55.787443
+   ],
+   "рейтинг": 5,
+   "оценок": 882,
+   "отзывов": 560,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://svoy-service.com/"
+   ],
+   "телефоны": [
+    "+7 (843) 259-12-42",
+    "+7 (843) 215-50-15",
+    "+7 (843) 244-80-04",
+    "+7 (962) 559-12-42"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/svoy_servis/100503190685/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 45
+  },
+  {
+   "id": "43939472215",
+   "название": "Vagon Project",
+   "seoname": "vagon_project",
+   "адрес": "ул. Азата Аббасова, 6А",
+   "координаты": [
+    49.244457,
+    55.794354
+   ],
+   "рейтинг": 5,
+   "оценок": 976,
+   "отзывов": 394,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vagon-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-29-11"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "adblue",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_accessories",
+    "car_floor_mats",
+    "car_park",
+    "chip_tuning",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "field_service",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "heater_flushing",
+    "hinged_equipment",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vagon_project/43939472215/",
+   "последний_отзыв": "2026-09-11",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 89
+  },
+  {
+   "id": "58468348381",
+   "название": "Вин Дизель",
+   "seoname": "vin_dizel",
+   "адрес": "ул. Сафиуллина, 5, корп. 2, Казань",
+   "координаты": [
+    49.225602,
+    55.751135
+   ],
+   "рейтинг": 5,
+   "оценок": 490,
+   "отзывов": 350,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kzndiesel.ru/"
+   ],
+   "телефоны": [
+    "+7 (980) 976-18-62",
+    "+7 (905) 371-23-53",
+    "+7 (967) 770-00-03"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "toilet",
+    "urea",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vin_dizel/58468348381/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 67,
+   "загружено_дат": 80
+  },
+  {
+   "id": "132558397673",
+   "название": "SNR Service",
+   "seoname": "snr_service",
+   "адрес": "ул. Михаила Миля, 49, корп. 1",
+   "координаты": [
+    49.116353,
+    55.847608
+   ],
+   "рейтинг": 5,
+   "оценок": 666,
+   "отзывов": 314,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://snr-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 258-22-78"
+   ],
+   "часы": "ежедневно, 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_fitting",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/snr_service/132558397673/",
+   "последний_отзыв": "2026-09-25",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 92
+  },
+  {
+   "id": "180182598765",
+   "название": "БестВей",
+   "seoname": "bestvey",
+   "адрес": "Спартаковская ул., 12, Казань",
+   "координаты": [
+    49.130798,
+    55.778034
+   ],
+   "рейтинг": 4.9,
+   "оценок": 371,
+   "отзывов": 250,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bestwaykazan.ru/",
+    "https://bestway-spartakovskaja.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (843) 558-74-79",
+    "+7 (843) 210-57-72"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "chip_tuning",
+    "cylinder_blocks_boring",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "hydroblock_repair",
+    "injector_repair",
+    "injectors_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "turbine repair",
+    "variator_repair",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bestvey/180182598765/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 85
+  },
+  {
+   "id": "1038848385",
+   "название": "ШумахерАвто",
+   "seoname": "shumakheravto",
+   "адрес": "ул. Мазита Гафури, 71, корп. 3",
+   "координаты": [
+    49.104463,
+    55.765689
+   ],
+   "рейтинг": 4.7,
+   "оценок": 436,
+   "отзывов": 194,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://shumaheravto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 253-69-39"
+   ],
+   "часы": "пн-пт 09:01–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_glass_replacement",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "door_repair",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repair_dsg",
+    "sandblasting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "thickness_gauge_color",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shumakheravto/1038848385/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 74
+  },
+  {
+   "id": "145454987839",
+   "название": "Бошсервис Амб",
+   "seoname": "boshservis_amb",
+   "адрес": "ул. Энгельса, 7",
+   "координаты": [
+    49.072552,
+    55.810043
+   ],
+   "рейтинг": 4.8,
+   "оценок": 355,
+   "отзывов": 190,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 203-94-74",
+    "+7 (987) 226-68-68",
+    "+7 (987) 224-68-68"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "service_maintenance",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/boshservis_amb/145454987839/",
+   "последний_отзыв": "2026-07-09",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 89
+  },
+  {
+   "id": "1159551278",
+   "название": "Remmark",
+   "seoname": "remmark",
+   "адрес": "Тэцевская ул., 11, корп. 4",
+   "координаты": [
+    49.068799,
+    55.845796
+   ],
+   "рейтинг": 4.7,
+   "оценок": 311,
+   "отзывов": 142,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://remmark-kzn.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 226-01-21"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт климатических систем",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "good_place",
+    "guarantee",
+    "installation",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "stove_radiator_washing",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remmark/1159551278/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 86
+  },
+  {
+   "id": "1025885791",
+   "название": "АРС Авто",
+   "seoname": "ars_avto",
+   "адрес": "Гвардейская ул., 53А/1",
+   "координаты": [
+    49.171755,
+    55.774934
+   ],
+   "рейтинг": 4.8,
+   "оценок": 306,
+   "отзывов": 135,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://арсавто.рф/"
+   ],
+   "телефоны": [
+    "+7 (843) 226-06-22",
+    "+7 (843) 226-00-22"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ars_avto/1025885791/",
+   "последний_отзыв": "2026-09-27",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 50
+  },
+  {
+   "id": "122581648857",
+   "название": "М Сервис",
+   "seoname": "m_servis",
+   "адрес": "Широкая ул., 7",
+   "координаты": [
+    49.069939,
+    55.801454
+   ],
+   "рейтинг": 4.4,
+   "оценок": 308,
+   "отзывов": 134,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mservice116.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 208-13-39",
+    "+7 (987) 215-17-17"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "autovinil",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_door_closers",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "disable_photopoi",
+    "gift_certificate",
+    "glass_tinting",
+    "guarantee",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/m_servis/122581648857/",
+   "последний_отзыв": "2026-08-19",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 85
+  },
+  {
+   "id": "1173571251",
+   "название": "Автосеть Гараж",
+   "seoname": "avtoset_garazh",
+   "адрес": "ул. Адоратского, 63, Казань",
+   "координаты": [
+    49.145677,
+    55.844186
+   ],
+   "рейтинг": 4.5,
+   "оценок": 261,
+   "отзывов": 130,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://автосеть-гараж.рф/"
+   ],
+   "телефоны": [
+    "+7 (952) 032-55-50",
+    "+7 (843) 265-25-55"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_garazh/1173571251/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 88
+  },
+  {
+   "id": "130731109778",
+   "название": "Автосеть Гараж",
+   "seoname": "avtoset_garazh",
+   "адрес": "Кирпичная ул., 15Д, Казань",
+   "координаты": [
+    49.169375,
+    55.782848
+   ],
+   "рейтинг": 4.7,
+   "оценок": 208,
+   "отзывов": 101,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автосеть-гараж.рф/"
+   ],
+   "телефоны": [
+    "+7 (843) 265-25-26",
+    "+7 (951) 890-27-77"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_garazh/130731109778/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 82
+  },
+  {
+   "id": "232108090295",
+   "название": "For service",
+   "seoname": "for_service",
+   "адрес": "ул. Габдуллы Тукая, 82, корп. 3",
+   "координаты": [
+    49.115712,
+    55.776601
+   ],
+   "рейтинг": 4.9,
+   "оценок": 162,
+   "отзывов": 90,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 327-57-75"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/for_service/232108090295/",
+   "последний_отзыв": "2026-11-07",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 67
+  },
+  {
+   "id": "182410210318",
+   "название": "А сервис",
+   "seoname": "a_servis",
+   "адрес": "Учительская ул., 10/12Б",
+   "координаты": [
+    49.11343,
+    55.753929
+   ],
+   "рейтинг": 4.9,
+   "оценок": 120,
+   "отзывов": 89,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://немец-сервис.рф/"
+   ],
+   "телефоны": [
+    "+7 (930) 329-34-72"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "autovinil",
+    "basic_service",
+    "car_door_closers",
+    "car_noise_insulation",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "coffee_to_go",
+    "diesel_service",
+    "gift_certificate",
+    "glass_tinting",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repair_dsg",
+    "spare_parts",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/a_servis/182410210318/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 43
+  },
+  {
+   "id": "177501445613",
+   "название": "Биба и Боба",
+   "seoname": "biba_i_boba",
+   "адрес": "Архангельская ул., 2, корп. 1",
+   "координаты": [
+    49.058289,
+    55.809676
+   ],
+   "рейтинг": 4.9,
+   "оценок": 183,
+   "отзывов": 87,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pochini-sam.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 030-84-69",
+    "+7 (987) 182-44-80"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "автоподбор"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "motopodbor",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/biba_i_boba/177501445613/"
+  },
+  {
+   "id": "157650114413",
+   "название": "АзияАвто116",
+   "seoname": "aziyaavto116",
+   "адрес": "ул. Энгельса, 15",
+   "координаты": [
+    49.072165,
+    55.808943
+   ],
+   "рейтинг": 5,
+   "оценок": 119,
+   "отзывов": 82,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://70000001081103391.2gis.biz/"
+   ],
+   "телефоны": [
+    "+7 (843) 215-14-44",
+    "+7 (987) 215-14-44"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aziyaavto116/157650114413/"
+  },
+  {
+   "id": "173505115314",
+   "название": "SNR Service",
+   "seoname": "snr_service",
+   "адрес": "ул. Петра Витера, 43",
+   "координаты": [
+    49.122604,
+    55.85239
+   ],
+   "рейтинг": 4.8,
+   "оценок": 147,
+   "отзывов": 68,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://snr-service.ru/china"
+   ],
+   "телефоны": [
+    "+7 (843) 250-22-78",
+    "+7 (966) 240-95-51"
+   ],
+   "часы": "ежедневно, 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "adblue",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_fitting",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/snr_service/173505115314/"
+  },
+  {
+   "id": "19688671309",
+   "название": "Автосеть Гараж",
+   "seoname": "avtoset_garazh",
+   "адрес": "ул. Сабан, 2Г, Казань",
+   "координаты": [
+    49.051482,
+    55.825917
+   ],
+   "рейтинг": 5,
+   "оценок": 75,
+   "отзывов": 65,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://автосеть-гараж.рф/"
+   ],
+   "телефоны": [
+    "+7 (904) 668-71-20",
+    "+7 (843) 265-55-05"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_garazh/19688671309/"
+  },
+  {
+   "id": "154435465258",
+   "название": "Дресс Кар",
+   "seoname": "dress_kar",
+   "адрес": "ул. Аделя Кутуя, 90",
+   "координаты": [
+    49.181844,
+    55.780159
+   ],
+   "рейтинг": 5,
+   "оценок": 66,
+   "отзывов": 53,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://steering-rack-rebuild.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 186-76-48"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dress_kar/154435465258/"
+  },
+  {
+   "id": "170563914994",
+   "название": "Chip Power Pro",
+   "seoname": "chip_power_pro",
+   "адрес": "ул. Восстания, 100, корп. 9130, Казань",
+   "координаты": [
+    49.047818,
+    55.833691
+   ],
+   "рейтинг": 4.9,
+   "оценок": 106,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://advise-assist.com/"
+   ],
+   "телефоны": [
+    "+7 (843) 280-07-89"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "aquablasting",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chip_power_pro/170563914994/"
+  },
+  {
+   "id": "182814188352",
+   "название": "Триал Авто Дорожный",
+   "seoname": "trial_avto_dorozhny",
+   "адрес": "Дорожный пер., 3, корп. 1",
+   "координаты": [
+    49.213497,
+    55.801644
+   ],
+   "рейтинг": 4.8,
+   "оценок": 105,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://trial-auto-dorojniy.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 515-01-50"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "toilet",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/trial_avto_dorozhny/182814188352/"
+  },
+  {
+   "id": "244144178423",
+   "название": "Автосервис16",
+   "seoname": "avtoservis16",
+   "адрес": "ул. Адоратского, 51Б, Казань",
+   "координаты": [
+    49.141278,
+    55.844223
+   ],
+   "рейтинг": 4.9,
+   "оценок": 48,
+   "отзывов": 31,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 319-84-29",
+    "+7 (950) 324-77-55",
+    "+7 (952) 043-33-11"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "injector_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis16/244144178423/"
+  },
+  {
+   "id": "102741862302",
+   "название": "Service Vag",
+   "seoname": "service_vag",
+   "адрес": "ул. Петра Витера, 43",
+   "координаты": [
+    49.122897,
+    55.852288
+   ],
+   "рейтинг": 4.9,
+   "оценок": 24,
+   "отзывов": 23,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://snr-service.ru/vagservice"
+   ],
+   "телефоны": [
+    "+7 (843) 208-13-35"
+   ],
+   "часы": "ежедневно, 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hydraulic_cylinders",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_chains",
+    "tire_fitting",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/service_vag/102741862302/"
+  },
+  {
+   "id": "51450305602",
+   "название": "Вд-моторс",
+   "seoname": "vd_motors",
+   "адрес": "ул. Декабристов, 83",
+   "координаты": [
+    49.09001,
+    55.816483
+   ],
+   "рейтинг": 4.7,
+   "оценок": 37,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://vd-motors116.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (995) 367-57-75"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "parking_disabled",
+    "ramp",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vd_motors/51450305602/"
+  },
+  {
+   "id": "36732201451",
+   "название": "Кэнз-Авто",
+   "seoname": "kenz_avto",
+   "адрес": "ул. Михаила Миля, 25Г",
+   "координаты": [
+    49.098563,
+    55.847892
+   ],
+   "рейтинг": 4.7,
+   "оценок": 62,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kenz-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (966) 240-03-30"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "покраска автомобилей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "door_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "raptor_painting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kenz_avto/36732201451/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "108874036090",
+   "название": "ГТЛ Сервис",
+   "seoname": "gtl_servis",
+   "адрес": "Тэцевская ул., 3, корп. 1",
+   "координаты": [
+    49.076178,
+    55.847817
+   ],
+   "рейтинг": 4.9,
+   "оценок": 52,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.gtl-servis.club/"
+   ],
+   "телефоны": [
+    "+7 (980) 976-76-12",
+    "+7 (960) 077-66-88",
+    "+7 (960) 032-01-33"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "freight_car_service",
+    "generators",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_chains",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gtl_servis/108874036090/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "118961777796",
+   "название": "АК Барс Трак",
+   "seoname": "ak_bars_trak",
+   "адрес": "Кадышевская ул., 1, жилой массив Щербаково, Казань",
+   "координаты": [
+    49.151008,
+    55.917048
+   ],
+   "рейтинг": 5,
+   "оценок": 342,
+   "отзывов": 291,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.akbarstruck.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 215-88-08",
+    "+7 (917) 220-91-01"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "adblue",
+    "advanced_after_sales_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "generators",
+    "guarantee",
+    "hinged_equipment",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_chains",
+    "trailer_repair",
+    "transportation_storage_dangerous_goods",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ak_bars_trak/118961777796/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "97260397349",
+   "название": "Mantis",
+   "seoname": "mantis",
+   "адрес": "ул. Дементьева, 2",
+   "координаты": [
+    49.087697,
+    55.844965
+   ],
+   "рейтинг": 4.6,
+   "оценок": 16,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoteh-tsentr.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 290-92-67",
+    "+7 (950) 666-10-01",
+    "+7 (950) 666-20-02"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_glass_replacement",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "door_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "thickness_gauge_color",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mantis/97260397349/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "62185898659",
+   "название": "NissanKazan.ru",
+   "seoname": "nissankazan_ru",
+   "адрес": "ул. Адоратского, 61, Казань",
+   "координаты": [
+    49.146827,
+    55.843823
+   ],
+   "рейтинг": 5,
+   "оценок": 1242,
+   "отзывов": 595,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://nissankazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 500-58-54"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "delivery",
+    "good_place",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nissankazan_ru/62185898659/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "1002093270",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Дементьева, 18, Казань",
+   "координаты": [
+    49.102866,
+    55.85766
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1110,
+   "отзывов": 697,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kazan.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 253-02-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/1002093270/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "28013250730",
+   "название": "Три Газели",
+   "seoname": "tri_gazeli",
+   "адрес": "ул. Дементьева, 51, корп. 1",
+   "координаты": [
+    49.108408,
+    55.865818
+   ],
+   "рейтинг": 4.9,
+   "оценок": 288,
+   "отзывов": 193,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://taplink.cc/tri_gazely"
+   ],
+   "телефоны": [
+    "+7 (917) 859-67-88",
+    "+7 (906) 114-51-18",
+    "+7 (917) 916-83-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tri_gazeli/28013250730/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "129854971520",
+   "название": "Солнечный",
+   "seoname": "solnechny",
+   "адрес": "ул. Короленко, 118",
+   "координаты": [
+    49.098799,
+    55.846441
+   ],
+   "рейтинг": 4.7,
+   "оценок": 64,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sunservice.su/"
+   ],
+   "телефоны": [
+    "+7 (843) 208-13-36",
+    "+7 (901) 143-32-03"
+   ],
+   "часы": "пн,вт,ср,чт,сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solnechny/129854971520/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "35219329277",
+   "название": "Авик",
+   "seoname": "avik",
+   "адрес": "Республика Татарстан (Татарстан), Казань, Авиастроительный район, жилой массив Кадышево, улица Татарстан",
+   "координаты": [
+    49.104575,
+    55.85932
+   ],
+   "рейтинг": 4.6,
+   "оценок": 34,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (962) 572-05-01",
+    "+7 (927) 428-96-07"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "field_service",
+    "gift_certificate",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "toilet",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avik/35219329277/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "1681543617",
+   "название": "Сделай Сам",
+   "seoname": "sdelay_sam",
+   "адрес": "ул. Леонида Черкасова, 2А/1",
+   "координаты": [
+    49.079236,
+    55.882219
+   ],
+   "рейтинг": 4.9,
+   "оценок": 141,
+   "отзывов": 78,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://garazh-kazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 239-44-90",
+    "+7 (965) 588-61-39",
+    "+7 (927) 039-44-90"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "self_car_service",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sdelay_sam/1681543617/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "1190207026",
+   "название": "Автомастер",
+   "seoname": "avtomaster",
+   "адрес": "Песочная ул., 3Б, жилой массив Сухая Река, Авиастроительный район",
+   "координаты": [
+    49.090666,
+    55.882209
+   ],
+   "рейтинг": 4.7,
+   "оценок": 217,
+   "отзывов": 98,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 511-88-11",
+    "+7 (843) 253-10-40"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomaster/1190207026/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "107682826316",
+   "название": "Автосеть Гараж",
+   "seoname": "avtoset_garazh",
+   "адрес": "ул. Дементьева, 74",
+   "координаты": [
+    49.1087,
+    55.863236
+   ],
+   "рейтинг": 4.7,
+   "оценок": 578,
+   "отзывов": 286,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://автосеть-гараж.рф/"
+   ],
+   "телефоны": [
+    "+7 (904) 678-64-78"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "kaspi_red",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "toilet",
+    "trailer_repair",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_garazh/107682826316/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "1376351918",
+   "название": "Фокус",
+   "seoname": "fokus",
+   "адрес": "ул. Челюскина, 43",
+   "координаты": [
+    49.078509,
+    55.866262
+   ],
+   "рейтинг": 4.4,
+   "оценок": 418,
+   "отзывов": 211,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://focus-kazan.com/"
+   ],
+   "телефоны": [
+    "+7 (843) 211-01-07"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "тонирование автостёкол",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "armoring_headlights",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fokus/1376351918/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "168595200697",
+   "название": "Автосеть Гараж",
+   "seoname": "avtoset_garazh",
+   "адрес": "ул. Айдарова, 7А, Казань",
+   "координаты": [
+    49.08994,
+    55.867422
+   ],
+   "рейтинг": 4.6,
+   "оценок": 328,
+   "отзывов": 174,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.автосеть-гараж.рф/"
+   ],
+   "телефоны": [
+    "+7 (904) 679-94-87",
+    "+7 (843) 265-25-15"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "stove_radiator_washing",
+    "street_entrance",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_garazh/168595200697/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "17597884217",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Пржевальского, 15А",
+   "координаты": [
+    49.094288,
+    55.87137
+   ],
+   "рейтинг": 4.3,
+   "оценок": 54,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 245-09-90"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомобильные ключи и брелоки",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "adblue",
+    "basic_service",
+    "battery_replacement",
+    "car_key_duplication",
+    "car_key_repair",
+    "car_park",
+    "delivery",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/17597884217/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "191958734852",
+   "название": "Глобал Сервис Vag",
+   "seoname": "global_servis_vag",
+   "адрес": "ул. Михаила Миля, 51, Казань",
+   "координаты": [
+    49.120066,
+    55.848058
+   ],
+   "рейтинг": 4.8,
+   "оценок": 814,
+   "отзывов": 304,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://мойглобалсервис.рф/vag"
+   ],
+   "телефоны": [
+    "+7 (843) 255-51-52"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/global_servis_vag/191958734852/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "1121985381",
+   "название": "Авторемзавод",
+   "seoname": "avtoremzavod",
+   "адрес": "Беломорская ул., 69А",
+   "координаты": [
+    49.030907,
+    55.865519
+   ],
+   "рейтинг": 4.4,
+   "оценок": 124,
+   "отзывов": 43,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://arz-kzn.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 314-96-01",
+    "+7 (903) 388-30-66"
+   ],
+   "часы": "пн-пт 08:00–17:00, перерыв 12:30–13:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_wash",
+    "diesel_service",
+    "freight_car_service",
+    "removing_dents_without_painting",
+    "repair_of_diesel_engines",
+    "trailer_repair",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoremzavod/1121985381/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "24175883071",
+   "название": "Gts автотехцентр",
+   "seoname": "gts_avtotekhtsentr",
+   "адрес": "Беломорская ул., 69А, корп. 13",
+   "координаты": [
+    49.031277,
+    55.866045
+   ],
+   "рейтинг": 4.5,
+   "оценок": 69,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 240-17-10",
+    "+7 (843) 240-95-69"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "diesel_service",
+    "payment_by_credit_card",
+    "turbine repair",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gts_avtotekhtsentr/24175883071/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "170384719557",
+   "название": "Лерика Сервис",
+   "seoname": "lerika_servis",
+   "адрес": "Беломорская ул., 69А, корп. 6",
+   "координаты": [
+    49.027949,
+    55.865648
+   ],
+   "рейтинг": 5,
+   "оценок": 154,
+   "отзывов": 75,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 251-15-21"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lerika_servis/170384719557/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "100338188470",
+   "название": "АКМ сервис",
+   "seoname": "akm_servis",
+   "адрес": "Шоссейная ул., 100Б, корп. 2, жилой массив Борисоглебское, Авиастроительный район",
+   "координаты": [
+    49.111651,
+    55.877263
+   ],
+   "рейтинг": 4.7,
+   "оценок": 69,
+   "отзывов": 34,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 941-26-60",
+    "+7 (843) 296-44-47",
+    "+7 (987) 296-44-47"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "diesel_service",
+    "preliminary_registration",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akm_servis/100338188470/",
+   "найдено_по": "ремонт подвески Авиастроительный район"
+  },
+  {
+   "id": "208215680789",
+   "название": "Next Авто",
+   "seoname": "next_avto",
+   "адрес": "ул. Тази Гиззата, 29",
+   "координаты": [
+    49.10239,
+    55.784714
+   ],
+   "рейтинг": 4.1,
+   "оценок": 46,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://next-avto-ulitsa-tazi-gizzata.clients.site/",
+    "https://next-avto-ulitsa-tazi-gizzata.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 905-28-28",
+    "+7 (967) 466-18-67"
+   ],
+   "часы": "ежедневно, 07:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "disable_captions",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/next_avto/208215680789/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "31885873559",
+   "название": "Развал-Схождение у Профессора",
+   "seoname": "razval_skhozhdeniye_u_professora",
+   "адрес": "ул. Карима Тинчурина, 2А",
+   "координаты": [
+    49.102785,
+    55.778072
+   ],
+   "рейтинг": 5,
+   "оценок": 38,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (986) 850-86-86"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Развал-схождение",
+    "автодиагностика",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/razval_skhozhdeniye_u_professora/31885873559/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "131828063303",
+   "название": "Фанат-Авто",
+   "seoname": "fanat_avto",
+   "адрес": "Портовая ул., 2А",
+   "координаты": [
+    49.101509,
+    55.775722
+   ],
+   "рейтинг": 5,
+   "оценок": 113,
+   "отзывов": 59,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://fanat-avto-kazan.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (843) 249-49-72",
+    "+7 (927) 249-49-72",
+    "+7 (843) 293-56-91"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "vibrationstand",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fanat_avto/131828063303/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "113095700203",
+   "название": "Di",
+   "seoname": "di",
+   "адрес": "ул. Николая Ершова, 27Г",
+   "координаты": [
+    49.165554,
+    55.79475
+   ],
+   "рейтинг": 4.8,
+   "оценок": 34,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (996) 901-40-01"
+   ],
+   "часы": "пн-пт 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/di/113095700203/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "167799674878",
+   "название": "Сход-развал 3D",
+   "seoname": "skhod_razval_3d",
+   "адрес": "ул. Николая Ершова, 27Б, корп. 5",
+   "координаты": [
+    49.165259,
+    55.795602
+   ],
+   "рейтинг": 5,
+   "оценок": 53,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (939) 745-41-11"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "disable_captions",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skhod_razval_3d/167799674878/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "1033046642",
+   "название": "CarService",
+   "seoname": "carservice",
+   "адрес": "ул. Татарстан, 7, Вахитовский район",
+   "координаты": [
+    49.114124,
+    55.779828
+   ],
+   "рейтинг": 4.6,
+   "оценок": 200,
+   "отзывов": 75,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://карсервис-казань.рф/",
+    "http://автозапчастидаром.рф/"
+   ],
+   "телефоны": [
+    "+7 (843) 293-82-45",
+    "+7 (843) 293-02-98",
+    "+7 (843) 202-39-58"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carservice/1033046642/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "194369357227",
+   "название": "Vd-сервис",
+   "seoname": "vd_servis",
+   "адрес": "ул. Парижской Коммуны, 14, корп. 1, Казань",
+   "координаты": [
+    49.112532,
+    55.782739
+   ],
+   "рейтинг": 4.9,
+   "оценок": 33,
+   "отзывов": 28,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (966) 260-80-70"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосервисное и гаражное оборудование"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "good_place",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vd_servis/194369357227/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "1286033839",
+   "название": "Автодруг",
+   "seoname": "avtodrug",
+   "адрес": "ул. Бурхана Шахиди, 9В",
+   "координаты": [
+    49.103845,
+    55.788083
+   ],
+   "рейтинг": 4.5,
+   "оценок": 144,
+   "отзывов": 77,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://kuzovnoy-kazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 239-13-35",
+    "+7 (987) 290-22-95",
+    "+7 (843) 290-22-95"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "bumper_repair",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodrug/1286033839/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "91940867347",
+   "название": "Центр 3D развал-схождения",
+   "seoname": "tsentr_3d_razval_skhozhdeniya",
+   "адрес": "ул. Габдуллы Тукая, 64Б",
+   "координаты": [
+    49.113556,
+    55.778385
+   ],
+   "рейтинг": 4.8,
+   "оценок": 21,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 840-91-11"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Развал-схождение",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_3d_razval_skhozhdeniya/91940867347/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "186948740736",
+   "название": "Ает авто",
+   "seoname": "ayet_avto",
+   "адрес": "ул. Салиха Сайдашева, 21",
+   "координаты": [
+    49.114098,
+    55.770256
+   ],
+   "рейтинг": 5,
+   "оценок": 246,
+   "отзывов": 148,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://aetavtoservis.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (995) 367-40-60",
+    "+7 (962) 563-00-32"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "generators",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ayet_avto/186948740736/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "141219101327",
+   "название": "Карта",
+   "seoname": "karta",
+   "адрес": "Магаданская ул., 18В",
+   "координаты": [
+    49.16509,
+    55.768663
+   ],
+   "рейтинг": 4.8,
+   "оценок": 93,
+   "отзывов": 59,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 645-24-87"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/karta/141219101327/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "1297457261",
+   "название": "СТО 770",
+   "seoname": "sto_770",
+   "адрес": "ул. Карима Тинчурина, 6",
+   "координаты": [
+    49.103144,
+    55.777191
+   ],
+   "рейтинг": 4.3,
+   "оценок": 53,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 677-07-70",
+    "+7 (927) 410-07-70"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "tire_fitting",
+    "turbine repair",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sto_770/1297457261/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "1762400170",
+   "название": "Кан Авто, Mercedes-Benz",
+   "seoname": "kan_avto_mercedes_benz",
+   "адрес": "Московская ул., 20",
+   "координаты": [
+    49.104644,
+    55.791436
+   ],
+   "рейтинг": 5,
+   "оценок": 1362,
+   "отзывов": 465,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://mb.kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 555-55-55",
+    "+7 (843) 239-77-43"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "diesel_service",
+    "elevator_wheelchair_accessible",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_mercedes_benz/1762400170/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "71298777070",
+   "название": "Genesis",
+   "seoname": "genesis",
+   "адрес": "Техническая ул., 27 к1",
+   "координаты": [
+    49.12974,
+    55.754749
+   ],
+   "рейтинг": 4.7,
+   "оценок": 223,
+   "отзывов": 106,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://genesis-garage.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 280-07-49",
+    "+7 (967) 770-80-17"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/genesis/71298777070/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "1466064139",
+   "название": "Форсаж",
+   "seoname": "forsazh",
+   "адрес": "ул. Оренбургский Тракт, 17, Казань",
+   "координаты": [
+    49.160015,
+    55.755585
+   ],
+   "рейтинг": 4.4,
+   "оценок": 411,
+   "отзывов": 170,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoservice-forsazh.ru/"
+   ],
+   "телефоны": [
+    "+7 (901) 143-30-93"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forsazh/1466064139/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "1103411259",
+   "название": "Автолига",
+   "seoname": "avtoliga",
+   "адрес": "Московская ул., 22, Казань",
+   "координаты": [
+    49.105508,
+    55.790411
+   ],
+   "рейтинг": 4.9,
+   "оценок": 489,
+   "отзывов": 236,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoliga-kazan.com/"
+   ],
+   "телефоны": [
+    "+7 (843) 203-94-54",
+    "+7 (843) 203-96-01",
+    "+7 (965) 596-83-55"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_armoring",
+    "car_door_closers",
+    "car_interior_re_lighting",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_wheels_powder_coating",
+    "cars_russification",
+    "chip_tuning",
+    "engine_endoscopy",
+    "gift_certificate",
+    "glass_tinting",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "leather_repair",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoliga/1103411259/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "228529054930",
+   "название": "Аимавто",
+   "seoname": "aimavto",
+   "адрес": "Техническая ул., 52, корп. 1, Казань",
+   "координаты": [
+    49.134184,
+    55.737069
+   ],
+   "рейтинг": 4.5,
+   "оценок": 473,
+   "отзывов": 264,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://aimauto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (962) 563-97-91",
+    "+7 (987) 215-90-00"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "service_maintenance",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aimavto/228529054930/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "63710870251",
+   "название": "Юл-авто",
+   "seoname": "yul_avto",
+   "адрес": "ул. Карима Тинчурина, 2А",
+   "координаты": [
+    49.102873,
+    55.777732
+   ],
+   "рейтинг": 4.2,
+   "оценок": 12,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (905) 038-84-73"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "diesel_service",
+    "field_service",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yul_avto/63710870251/",
+   "найдено_по": "ремонт подвески Вахитовский район"
+  },
+  {
+   "id": "225176871455",
+   "название": "Ant_auto",
+   "seoname": "ant_auto",
+   "адрес": "Слободская ул., 28А, село Новая Тура",
+   "координаты": [
+    48.841016,
+    55.86544
+   ],
+   "рейтинг": 5,
+   "оценок": 197,
+   "отзывов": 100,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ant-auto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (996) 606-03-00"
+   ],
+   "часы": "ежедневно, 06:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "эвакуация автомобилей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "field_service",
+    "good_place",
+    "guarantee",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ant_auto/225176871455/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "34420797862",
+   "название": "Диалог Авто Сервис",
+   "seoname": "dialog_avto_servis",
+   "адрес": "ул. Горьковское Шоссе, 47, корп. 1, Казань",
+   "координаты": [
+    49.025359,
+    55.826443
+   ],
+   "рейтинг": 4.2,
+   "оценок": 3,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dialog-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-58-16"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto_servis/34420797862/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "194194788198",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Лазарева, 11",
+   "координаты": [
+    49.047997,
+    55.818447
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1084,
+   "отзывов": 732,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kazan.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 253-02-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/194194788198/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "174158576066",
+   "название": "Диалог Авто Сервис",
+   "seoname": "dialog_avto_servis",
+   "адрес": "ул. Декабристов, 79, Казань",
+   "координаты": [
+    49.093523,
+    55.817456
+   ],
+   "рейтинг": 4.7,
+   "оценок": 14,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dialog-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-58-20"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog_avto_servis/174158576066/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "144746239928",
+   "название": "Автосеть.рф",
+   "seoname": "avtoset_rf",
+   "адрес": "ул. Горьковское Шоссе, 55",
+   "координаты": [
+    49.022026,
+    55.826655
+   ],
+   "рейтинг": 4.7,
+   "оценок": 71,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoset-service.ru/yakarty_kzn_avtoset"
+   ],
+   "телефоны": [
+    "+7 (933) 091-18-11"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "моторные масла",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_refrigerated_trucks",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_rf/144746239928/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "12147416335",
+   "название": "Sky Service Кан Авто",
+   "seoname": "sky_service_kan_avto",
+   "адрес": "ул. Восстания, 131",
+   "координаты": [
+    49.047467,
+    55.829365
+   ],
+   "рейтинг": 4.8,
+   "оценок": 103,
+   "отзывов": 62,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://skyservice.club/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-31-18"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "good_place",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sky_service_kan_avto/12147416335/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "8296971268",
+   "название": "Японский мастер",
+   "seoname": "yaponskiy_master",
+   "адрес": "2-я Юго-Западная ул., 3А",
+   "координаты": [
+    49.087222,
+    55.817883
+   ],
+   "рейтинг": 4.4,
+   "оценок": 49,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://yaponskimaster16.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 558-08-60"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yaponskiy_master/8296971268/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "177408277202",
+   "название": "АвтоШефф",
+   "seoname": "avtosheff",
+   "адрес": "Республика Татарстан (Татарстан), Казань, Кировский район",
+   "координаты": [
+    49.047957,
+    55.809644
+   ],
+   "рейтинг": 4.9,
+   "оценок": 112,
+   "отзывов": 45,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosheff/177408277202/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "64867563131",
+   "название": "Сто-Машин",
+   "seoname": "sto_mashin",
+   "адрес": "Маршрутная ул., 12А",
+   "координаты": [
+    49.033655,
+    55.822747
+   ],
+   "рейтинг": 5,
+   "оценок": 48,
+   "отзывов": 43,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://stomashin-12.ru/promo-kzn"
+   ],
+   "телефоны": [
+    "+7 (999) 145-90-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "toilet",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sto_mashin/64867563131/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "129377065536",
+   "название": "Бс-авто",
+   "seoname": "bs_avto",
+   "адрес": "Музыкальная ул., 11А/1",
+   "координаты": [
+    49.051114,
+    55.817345
+   ],
+   "рейтинг": 4.3,
+   "оценок": 13,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 578-44-44"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bs_avto/129377065536/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "224257356242",
+   "название": "Vag center kzn",
+   "seoname": "vag_center_kzn",
+   "адрес": "ул. Горьковское Шоссе, 53Г, корп. 11",
+   "координаты": [
+    49.017616,
+    55.824774
+   ],
+   "рейтинг": 5,
+   "оценок": 475,
+   "отзывов": 182,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.vagcenterkzn.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 253-35-35"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vag_center_kzn/224257356242/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "1518672440",
+   "название": "Фокус",
+   "seoname": "fokus",
+   "адрес": "Краснококшайская ул., 43А",
+   "координаты": [
+    49.072152,
+    55.810409
+   ],
+   "рейтинг": 4.7,
+   "оценок": 421,
+   "отзывов": 185,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://focus-kazan.com/"
+   ],
+   "телефоны": [
+    "+7 (843) 211-08-44",
+    "+7 (843) 555-01-01"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "тонирование автостёкол",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "armoring_headlights",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "installation",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fokus/1518672440/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "46986431993",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Боевая ул., 12",
+   "координаты": [
+    49.035878,
+    55.79978
+   ],
+   "рейтинг": 4.6,
+   "оценок": 12,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 447-77-88"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/46986431993/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "206933620244",
+   "название": "Автомеханик",
+   "seoname": "avtomekhanik",
+   "адрес": "2-я Юго-Западная ул., 3А",
+   "координаты": [
+    49.087314,
+    55.81777
+   ],
+   "рейтинг": 4.8,
+   "оценок": 361,
+   "отзывов": 240,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mechanic116.ru/"
+   ],
+   "телефоны": [
+    "+7 (953) 485-07-61"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "chip_tuning",
+    "good_place",
+    "guarantee",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomekhanik/206933620244/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "15663832657",
+   "название": "Optimus",
+   "seoname": "optimus",
+   "адрес": "2-я Старо-Аракчинская ул., 10И",
+   "координаты": [
+    48.968038,
+    55.801081
+   ],
+   "рейтинг": 5,
+   "оценок": 123,
+   "отзывов": 75,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (965) 683-34-84"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/optimus/15663832657/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "124562830287",
+   "название": "КАН АВТО, Renault",
+   "seoname": "kan_avto_renault",
+   "адрес": "ул. Восстания, 131",
+   "координаты": [
+    49.047111,
+    55.829407
+   ],
+   "рейтинг": 4.7,
+   "оценок": 891,
+   "отзывов": 306,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kanavto.ru/service-appointment"
+   ],
+   "телефоны": [
+    "+7 (843) 239-76-89"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "diesel_service",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_renault/124562830287/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "126214822254",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Приволжская ул., 195, Кировский район",
+   "координаты": [
+    48.941733,
+    55.804064
+   ],
+   "рейтинг": 4.2,
+   "оценок": 40,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 039-28-66"
+   ],
+   "часы": "пн-пт 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/126214822254/",
+   "найдено_по": "ремонт подвески Кировский район"
+  },
+  {
+   "id": "1392882840",
+   "название": "Агрегат Сервис",
+   "seoname": "agregat_servis",
+   "адрес": "ул. Профессора Мухамедьярова, 31В, Казань",
+   "координаты": [
+    49.074957,
+    55.839488
+   ],
+   "рейтинг": 5,
+   "оценок": 791,
+   "отзывов": 532,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://agregat-center.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 216-16-74"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт турбин",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "delivery",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agregat_servis/1392882840/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "15747870714",
+   "название": "ИнтехСервис",
+   "seoname": "intekhservis",
+   "адрес": "Тэцевская ул., 197",
+   "координаты": [
+    49.022483,
+    55.855889
+   ],
+   "рейтинг": 4.8,
+   "оценок": 84,
+   "отзывов": 43,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://intexgk.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 264-15-51"
+   ],
+   "часы": "ежедневно, 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей",
+    "запчасти для спецтехники"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "kaspi_red",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/intekhservis/15747870714/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "214750777663",
+   "название": "Кан Авто, Jac",
+   "seoname": "kan_avto_jac",
+   "адрес": "ул. Восстания, 131, Казань",
+   "координаты": [
+    49.047005,
+    55.829347
+   ],
+   "рейтинг": 0,
+   "оценок": 4,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 210-96-67"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kan_avto_jac/214750777663/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "199753000266",
+   "название": "Motul Expert",
+   "seoname": "motul_expert",
+   "адрес": "ул. Декабристов, 81А, корп. 1",
+   "координаты": [
+    49.092669,
+    55.818964
+   ],
+   "рейтинг": 5,
+   "оценок": 323,
+   "отзывов": 182,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://motul-expert.com/"
+   ],
+   "телефоны": [
+    "+7 (962) 563-79-00"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт мототехники",
+    "моторные масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motul_expert/199753000266/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "161231613044",
+   "название": "Автосервис 16",
+   "seoname": "avtoservis_16",
+   "адрес": "ул. Горьковское Шоссе, 49, корп. 3, Казань",
+   "координаты": [
+    49.024366,
+    55.825973
+   ],
+   "рейтинг": 5,
+   "оценок": 118,
+   "отзывов": 72,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (966) 260-89-99",
+    "+7 (952) 043-33-11",
+    "+7 (965) 597-65-50"
+   ],
+   "часы": "ежедневно, 09:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "generators",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "hydrogen_generators",
+    "injector_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_16/161231613044/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "1110451494",
+   "название": "На посту",
+   "seoname": "na_postu",
+   "адрес": "Тэцевская ул., 239",
+   "координаты": [
+    49.000776,
+    55.861756
+   ],
+   "рейтинг": 4.7,
+   "оценок": 884,
+   "отзывов": 434,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автосервис-напосту.рф/"
+   ],
+   "телефоны": [
+    "+7 (958) 581-40-82"
+   ],
+   "часы": "пн-сб 08:00–19:00; вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/na_postu/1110451494/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "48049290855",
+   "название": "Hudson",
+   "seoname": "hudson",
+   "адрес": "ул. Восстания, 100, корп. 9130, Казань",
+   "координаты": [
+    49.047698,
+    55.833473
+   ],
+   "рейтинг": 5,
+   "оценок": 96,
+   "отзывов": 83,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://hudson-avtotehtsentr.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (966) 240-39-39"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/hudson/48049290855/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "1012403390",
+   "название": "АКПП.Pro",
+   "seoname": "akpp_pro",
+   "адрес": "ул. Восстания, 66",
+   "координаты": [
+    49.068101,
+    55.83404
+   ],
+   "рейтинг": 5,
+   "оценок": 640,
+   "отзывов": 468,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://akpp.pro/"
+   ],
+   "телефоны": [
+    "+7 (843) 208-53-79",
+    "+7 (903) 305-60-93"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "disable_captions",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "toilet_for_disabled",
+    "torque_converter_repair",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akpp_pro/1012403390/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "206609726618",
+   "название": "Луидор",
+   "seoname": "luidor",
+   "адрес": "ул. Восход, 43/1",
+   "координаты": [
+    49.070729,
+    55.841258
+   ],
+   "рейтинг": 4.5,
+   "оценок": 61,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (843) 280-05-40",
+    "8 (800) 200-24-02"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luidor/206609726618/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "25562166468",
+   "название": "Свой гараж",
+   "seoname": "svoy_garazh",
+   "адрес": "Химическая ул., 52, корп. 2",
+   "координаты": [
+    49.001822,
+    55.871027
+   ],
+   "рейтинг": 4.8,
+   "оценок": 28,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://svg116.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 290-90-05"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/svoy_garazh/25562166468/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "136127655148",
+   "название": "Автосервис бокс № 7",
+   "seoname": "avtoservis_boks_7",
+   "адрес": "ул. Горьковское Шоссе, 49, корп. 7",
+   "координаты": [
+    49.021291,
+    55.825901
+   ],
+   "рейтинг": 4.7,
+   "оценок": 35,
+   "отзывов": 32,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (952) 039-03-09",
+    "+7 (905) 375-77-72",
+    "+7 (952) 043-33-11"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_boks_7/136127655148/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "1140488520",
+   "название": "АвтоГазСервис",
+   "seoname": "avtogazservis",
+   "адрес": "Тэцевская ул., 209",
+   "координаты": [
+    49.020381,
+    55.857135
+   ],
+   "рейтинг": 4.4,
+   "оценок": 642,
+   "отзывов": 215,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://ags116.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 212-44-12",
+    "+7 (843) 202-01-12"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtogazservis/1140488520/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "228525544785",
+   "название": "АвтоPROFI",
+   "seoname": "avtoprofi",
+   "адрес": "ул. Гагарина, 87Б",
+   "координаты": [
+    49.085452,
+    55.837002
+   ],
+   "рейтинг": 4.9,
+   "оценок": 90,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 004-81-23"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprofi/228525544785/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "90175903750",
+   "название": "AmMotors",
+   "seoname": "ammotors",
+   "адрес": "Волгоградская ул., 8, корп. 1",
+   "координаты": [
+    49.083668,
+    55.830424
+   ],
+   "рейтинг": 4.5,
+   "оценок": 144,
+   "отзывов": 76,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://katalmotors.ru/",
+    "https://katalmotors-udalenie.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 274-83-43",
+    "+7 (927) 461-49-16"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "installation_of_exhaust_systems",
+    "parking_disabled",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ammotors/90175903750/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "165840250548",
+   "название": "BMW ТТС",
+   "seoname": "bmw_tts",
+   "адрес": "просп. Ибрагимова, 48",
+   "координаты": [
+    49.094321,
+    55.823453
+   ],
+   "рейтинг": 4.8,
+   "оценок": 928,
+   "отзывов": 316,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.tts.ru/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (843) 244-81-47",
+    "+7 (843) 233-54-81"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bmw_tts/165840250548/",
+   "найдено_по": "ремонт подвески Московский район"
+  },
+  {
+   "id": "143196299952",
+   "название": "БМВ Эксперт",
+   "seoname": "bmv_ekspert",
+   "адрес": "ул. Адоратского, 82",
+   "координаты": [
+    49.149755,
+    55.84937
+   ],
+   "рейтинг": 4.9,
+   "оценок": 349,
+   "отзывов": 150,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://bmv-ekspert-ulitsa-adoratskogo.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (843) 215-22-72",
+    "+7 (843) 500-55-46"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автоателье"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bmv_ekspert/143196299952/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "217230354293",
+   "название": "Глобал Сервис Japan",
+   "seoname": "global_servis_japan",
+   "адрес": "ул. Сибирский Тракт, 44А, Казань",
+   "координаты": [
+    49.19347,
+    55.833169
+   ],
+   "рейтинг": 4.8,
+   "оценок": 215,
+   "отзывов": 121,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://мойглобалсервис.рф/japan"
+   ],
+   "телефоны": [
+    "+7 (843) 255-51-65"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "coffee_to_go",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "spare_parts",
+    "starters",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/global_servis_japan/217230354293/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "203614106240",
+   "название": "Rs auto",
+   "seoname": "rs_auto",
+   "адрес": "ул. Адоратского, 61",
+   "координаты": [
+    49.146411,
+    55.843954
+   ],
+   "рейтинг": 4.8,
+   "оценок": 816,
+   "отзывов": 392,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://automag-rs.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 216-01-02"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rs_auto/203614106240/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "107428363869",
+   "название": "АвтоСервис",
+   "seoname": "avtoservis",
+   "адрес": "Казань, территория ГСК Автоград 2000, 13/2",
+   "координаты": [
+    49.134405,
+    55.846153
+   ],
+   "рейтинг": 5,
+   "оценок": 33,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoserviskazan.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (939) 312-42-42"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Развал-схождение",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/107428363869/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "59365072363",
+   "название": "Автоцех",
+   "seoname": "avtotsekh",
+   "адрес": "Меридианная ул., 26Б, Ново-Савиновский район",
+   "координаты": [
+    49.116078,
+    55.826219
+   ],
+   "рейтинг": 4.4,
+   "оценок": 96,
+   "отзывов": 56,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 898-69-99",
+    "+7 (908) 304-56-66"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsekh/59365072363/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "4426401875",
+   "название": "Итико",
+   "seoname": "itiko",
+   "адрес": "ул. Ярослава Гашека, 7, корп. 2",
+   "координаты": [
+    49.107435,
+    55.84101
+   ],
+   "рейтинг": 5,
+   "оценок": 424,
+   "отзывов": 243,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://itiko-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (966) 260-99-49",
+    "+7 (966) 260-98-32",
+    "+7 (962) 567-20-55"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "моторные масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "vulcanization",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/itiko/4426401875/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "76099530827",
+   "название": "Вд-моторс",
+   "seoname": "vd_motors",
+   "адрес": "ул. Фатыха Амирхана, 62, корп. 8",
+   "координаты": [
+    49.135686,
+    55.847208
+   ],
+   "рейтинг": 4.9,
+   "оценок": 31,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vd-motors116.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 234-90-94"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vd_motors/76099530827/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "204836260321",
+   "название": "Life Motors",
+   "seoname": "life_motors",
+   "адрес": "ул. Академика Лаврентьева, 3А, корп. 1",
+   "координаты": [
+    49.139959,
+    55.831792
+   ],
+   "рейтинг": 4.9,
+   "оценок": 23,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://life-motors-ulitsa-akademika-lavrenteva.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (965) 613-77-17",
+    "+7 (904) 676-43-58"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "delivery",
+    "engine_endoscopy",
+    "generators",
+    "guarantee",
+    "hybrid_car_repair",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/life_motors/204836260321/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "109159238010",
+   "название": "Старт",
+   "seoname": "start",
+   "адрес": "ул. Гаврилова, 44А",
+   "координаты": [
+    49.159908,
+    55.839117
+   ],
+   "рейтинг": 4.3,
+   "оценок": 50,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (960) 048-21-21",
+    "+7 (903) 313-83-20"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/start/109159238010/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "40605110282",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Маршала Чуйкова, 54Б",
+   "координаты": [
+    49.142942,
+    55.835415
+   ],
+   "рейтинг": 5,
+   "оценок": 64,
+   "отзывов": 58,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kazan.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 253-02-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/40605110282/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "146776480491",
+   "название": "Классик",
+   "seoname": "klassik",
+   "адрес": "ул. Голубятникова, 35А",
+   "координаты": [
+    49.113696,
+    55.838711
+   ],
+   "рейтинг": 4.3,
+   "оценок": 79,
+   "отзывов": 43,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://klassik-ulitsa-golubjatnikova.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (965) 605-43-53"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klassik/146776480491/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "73270737873",
+   "название": "NafCar",
+   "seoname": "nafcar",
+   "адрес": "ул. Академика Лаврентьева, 3А",
+   "координаты": [
+    49.139041,
+    55.831651
+   ],
+   "рейтинг": 4.5,
+   "оценок": 10,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (939) 335-07-19",
+    "+7 (987) 285-80-48"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "tire_fitting",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nafcar/73270737873/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "199047153277",
+   "название": "Магистраль",
+   "seoname": "magistral",
+   "адрес": "территория ГСК Магистраль, 57",
+   "координаты": [
+    49.161939,
+    55.836671
+   ],
+   "рейтинг": 5,
+   "оценок": 42,
+   "отзывов": 37,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://magistralkzn.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 577-77-33"
+   ],
+   "часы": "ежедневно, 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/magistral/199047153277/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "132624739636",
+   "название": "Sj_avto",
+   "seoname": "sj_avto",
+   "адрес": "7-я Кадышевская ул., 11А, корп. 2, жилой массив Брикетный, Ново-Савиновский район",
+   "координаты": [
+    49.143113,
+    55.846293
+   ],
+   "рейтинг": 0,
+   "оценок": 58,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sj-avto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (966) 250-66-67"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/sj_avto/132624739636/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "112030826337",
+   "название": "Vag Team Service",
+   "seoname": "vag_team_service",
+   "адрес": "просп. Ямашева, 122",
+   "координаты": [
+    49.16124,
+    55.825013
+   ],
+   "рейтинг": 5,
+   "оценок": 48,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://вагсервис.рф/"
+   ],
+   "телефоны": [
+    "+7 (843) 258-59-11"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vag_team_service/112030826337/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "4060958975",
+   "название": "Нон-Стоп",
+   "seoname": "non_stop",
+   "адрес": "ул. Адоратского, 2А, корп. 1",
+   "координаты": [
+    49.149157,
+    55.822999
+   ],
+   "рейтинг": 4.6,
+   "оценок": 58,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автосервис-казань.рф/"
+   ],
+   "телефоны": [
+    "+7 (843) 253-57-35",
+    "+7 (843) 214-85-72"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/non_stop/4060958975/",
+   "найдено_по": "ремонт подвески Ново-Савиновский район"
+  },
+  {
+   "id": "180709614197",
+   "название": "Моторхуд",
+   "seoname": "motorkhud",
+   "адрес": "ул. Аделя Кутуя, 151/1, Казань",
+   "координаты": [
+    49.188945,
+    55.774941
+   ],
+   "рейтинг": 4.9,
+   "оценок": 260,
+   "отзывов": 127,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 215-22-26"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motorkhud/180709614197/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "83095296981",
+   "название": "АвтоПро",
+   "seoname": "avtopro",
+   "адрес": "Техническая ул., 64",
+   "координаты": [
+    49.132806,
+    55.74902
+   ],
+   "рейтинг": 4.9,
+   "оценок": 28,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://autopro-kazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 524-89-04"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "injector_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtopro/83095296981/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "209063622357",
+   "название": "Юни центр Кан Авто",
+   "seoname": "yuni_tsentr_kan_avto",
+   "адрес": "ул. Оренбургский Тракт, 209В",
+   "координаты": [
+    49.191331,
+    55.730423
+   ],
+   "рейтинг": 5,
+   "оценок": 437,
+   "отзывов": 232,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sales.kanavto-changanauto.ru/",
+    "https://kanavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-36-32"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "coffee_to_go",
+    "delivery",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "self_car_service",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yuni_tsentr_kan_avto/209063622357/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "136736578004",
+   "название": "Автозапчасти",
+   "seoname": "avtozapchasti",
+   "адрес": "Тихорецкая ул., 7, корп. 3",
+   "координаты": [
+    49.118271,
+    55.730657
+   ],
+   "рейтинг": 4.8,
+   "оценок": 50,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (977) 092-53-69",
+    "+7 (843) 278-73-77",
+    "+7 (843) 278-73-17",
+    "+7 (917) 895-42-77",
+    "+7 (927) 416-40-56",
+    "+7 (950) 948-42-75",
+    "+7 (904) 678-68-85"
+   ],
+   "часы": "пн-пт 08:00–18:00, перерыв 12:20–13:00; сб 08:30–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "ремонт грузовых автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gas_stops",
+    "generators",
+    "guarantee",
+    "hydraulic_cylinders",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "trailer_repair",
+    "urea",
+    "welding_works"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtozapchasti/136736578004/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "219218152862",
+   "название": "Аир-сервис Нокса",
+   "seoname": "air_servis_noksa",
+   "адрес": "ул. Николая Калашникова, 32А, Казань",
+   "координаты": [
+    49.247162,
+    55.765205
+   ],
+   "рейтинг": 4.7,
+   "оценок": 17,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 221-15-00"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "disable_captions",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/air_servis_noksa/219218152862/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "221285795069",
+   "название": "Sky Service",
+   "seoname": "sky_service",
+   "адрес": "ул. Оренбургский Тракт, 207А",
+   "координаты": [
+    49.188565,
+    55.732755
+   ],
+   "рейтинг": 4.8,
+   "оценок": 120,
+   "отзывов": 58,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kanavto.ru/service-appointment",
+    "https://taplink.cc/kanavto.renault"
+   ],
+   "телефоны": [
+    "+7 (843) 212-31-29"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "good_place",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sky_service/221285795069/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "181335149486",
+   "название": "Sky Service",
+   "seoname": "sky_service",
+   "адрес": "ул. Габдуллы Тукая, 115, корп. 3",
+   "координаты": [
+    49.127213,
+    55.765155
+   ],
+   "рейтинг": 4.5,
+   "оценок": 59,
+   "отзывов": 29,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://skyservice.club/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-32-09"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "good_place",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sky_service/181335149486/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "69359060024",
+   "название": "Автосеть Гараж",
+   "seoname": "avtoset_garazh",
+   "адрес": "Дубравная ул., 51Г, микрорайон Горки-3, Приволжский район, Казань",
+   "координаты": [
+    49.196142,
+    55.740133
+   ],
+   "рейтинг": 4.7,
+   "оценок": 732,
+   "отзывов": 383,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://автосеть-гараж.рф/"
+   ],
+   "телефоны": [
+    "+7 (843) 265-25-35",
+    "+7 (953) 405-25-35"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "stove_radiator_washing",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_garazh/69359060024/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "189750739660",
+   "название": "АвтоРеал",
+   "seoname": "avtoreal",
+   "адрес": "Магистральная ул., 100, корп. 1, Приволжский район",
+   "координаты": [
+    49.102613,
+    55.74826
+   ],
+   "рейтинг": 4.4,
+   "оценок": 56,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://taplink.cc/avtorealkzn"
+   ],
+   "телефоны": [
+    "+7 (952) 032-07-48",
+    "+7 (843) 278-86-78",
+    "+7 (905) 316-25-66"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_wash",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoreal/189750739660/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "1731957139",
+   "название": "МаратАвто",
+   "seoname": "maratavto",
+   "адрес": "Тихорецкая ул., уч2",
+   "координаты": [
+    49.122224,
+    55.731815
+   ],
+   "рейтинг": 4.9,
+   "оценок": 247,
+   "отзывов": 116,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://maratavto.ru/",
+    "https://vk.link/maratavto16"
+   ],
+   "телефоны": [
+    "+7 (927) 034-27-26",
+    "+7 (937) 297-48-97"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/maratavto/1731957139/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "88938677448",
+   "название": "Сервак",
+   "seoname": "servak",
+   "адрес": "Приволжский район, микрорайон Горки-3, территория ГСК Чулпан, 24",
+   "координаты": [
+    49.209698,
+    55.744634
+   ],
+   "рейтинг": 5,
+   "оценок": 148,
+   "отзывов": 109,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (906) 311-61-16",
+    "+7 (903) 061-51-41"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/servak/88938677448/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "219679276662",
+   "название": "Яшь Сервис",
+   "seoname": "yash_servis",
+   "адрес": "ул. Яшь Кыч, 6, корп. 1",
+   "координаты": [
+    49.10804,
+    55.751609
+   ],
+   "рейтинг": 4.8,
+   "оценок": 18,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (906) 706-70-67"
+   ],
+   "часы": "пн-пт 08:00–18:00; сб 08:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yash_servis/219679276662/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "64660648252",
+   "название": "Рамин авто",
+   "seoname": "ramin_avto",
+   "адрес": "Магистральная ул., 77, корп. 5, Приволжский район",
+   "координаты": [
+    49.098885,
+    55.734208
+   ],
+   "рейтинг": 4.4,
+   "оценок": 10,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://raminavto.ru/",
+    "https://ramin-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 322-93-61",
+    "+7 (843) 248-55-44"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ramin_avto/64660648252/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "215920959074",
+   "название": "Ксервис",
+   "seoname": "kservis",
+   "адрес": "1-я Тракторная ул., 1А",
+   "координаты": [
+    49.111621,
+    55.747046
+   ],
+   "рейтинг": 5,
+   "оценок": 34,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 868-72-21"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kservis/215920959074/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "202667015539",
+   "название": "Батыр16",
+   "seoname": "batyr16",
+   "адрес": "ул. Мира, 27, жилой массив Салмачи, Приволжский район",
+   "координаты": [
+    49.268965,
+    55.737659
+   ],
+   "рейтинг": 4.9,
+   "оценок": 34,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 330-38-54"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "field_service",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/batyr16/202667015539/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "205412084384",
+   "название": "Приволжский",
+   "seoname": "privolzhskiy",
+   "адрес": "ул. Лебедева, 13",
+   "координаты": [
+    49.123491,
+    55.756275
+   ],
+   "рейтинг": 4.3,
+   "оценок": 20,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://stop16.ru/",
+    "https://dzen.ru/stop16ru"
+   ],
+   "телефоны": [
+    "+7 (903) 305-68-58"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/privolzhskiy/205412084384/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "225201006431",
+   "название": "Форест-авто",
+   "seoname": "forest_avto",
+   "адрес": "Дубравная ул., 23А",
+   "координаты": [
+    49.214942,
+    55.738633
+   ],
+   "рейтинг": 4.7,
+   "оценок": 26,
+   "отзывов": 22,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://forest-avto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 424-87-77"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forest_avto/225201006431/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "147360306420",
+   "название": "Master",
+   "seoname": "master",
+   "адрес": "Поперечно-Авангардная ул., 4",
+   "координаты": [
+    49.142222,
+    55.734674
+   ],
+   "рейтинг": 4.8,
+   "оценок": 37,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (905) 313-34-58"
+   ],
+   "часы": "ежедневно, 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "guarantee",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master/147360306420/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "1375926372",
+   "название": "АвтоТехЦентр Лидер",
+   "seoname": "avtotekhtsentr_lider",
+   "адрес": "Приволжский район, ГСК Автолюбитель-2, 19",
+   "координаты": [
+    49.241137,
+    55.749609
+   ],
+   "рейтинг": 4.5,
+   "оценок": 163,
+   "отзывов": 74,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kzn.auto2.info/kazan/avtotehtsentr-lider-71331/"
+   ],
+   "телефоны": [
+    "+7 (917) 880-80-40",
+    "+7 (987) 003-33-99",
+    "+7 (843) 258-37-64"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotekhtsentr_lider/1375926372/",
+   "найдено_по": "ремонт подвески Приволжский район"
+  },
+  {
+   "id": "1091710360",
+   "название": "Элерон",
+   "seoname": "eleron",
+   "адрес": "Интернациональная ул., 7Г",
+   "координаты": [
+    49.264769,
+    55.807223
+   ],
+   "рейтинг": 4.4,
+   "оценок": 18,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://eleron-kazan.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (906) 116-04-78",
+    "+7 (903) 313-99-96"
+   ],
+   "часы": "пн-пт 08:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/eleron/1091710360/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "191627156083",
+   "название": "АвтоПро",
+   "seoname": "avtopro",
+   "адрес": "ул. Аделя Кутуя, 159Г",
+   "координаты": [
+    49.190908,
+    55.771846
+   ],
+   "рейтинг": 5,
+   "оценок": 134,
+   "отзывов": 107,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autopro-kazan.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 524-89-04"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "has_chat_with_clients",
+    "hybrid_car_repair",
+    "injector_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtopro/191627156083/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "1734488014",
+   "название": "Sabr",
+   "seoname": "sabr",
+   "адрес": "ул. Космонавтов, 73, Казань",
+   "координаты": [
+    49.210927,
+    55.79678
+   ],
+   "рейтинг": 4.9,
+   "оценок": 155,
+   "отзывов": 89,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-sabr.ru/"
+   ],
+   "телефоны": [
+    "+7 (980) 976-12-46",
+    "+7 (966) 240-00-23"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 11:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "студия тюнинга",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_gravity_film",
+    "authorized_service",
+    "autovinil",
+    "body_repair",
+    "bumper_repair",
+    "car_noise_insulation",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sabr/1734488014/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "62479636327",
+   "название": "Evolution wings",
+   "seoname": "evolution_wings",
+   "адрес": "Бухарская ул., 3А, корп. 2",
+   "координаты": [
+    49.203293,
+    55.77526
+   ],
+   "рейтинг": 4.6,
+   "оценок": 60,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://evolution-wings.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 233-44-96",
+    "+7 (987) 215-15-22"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "электромобили, продажа и сервис",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_accessories",
+    "car_door_closers",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "electric car charging station",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repairs",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/evolution_wings/62479636327/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "191671526055",
+   "название": "Авг сервис",
+   "seoname": "avg_servis",
+   "адрес": "ул. Родины, 4, корп. 1, Казань",
+   "координаты": [
+    49.196309,
+    55.775812
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1097,
+   "отзывов": 589,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://авгсервис.рф/"
+   ],
+   "телефоны": [
+    "+7 (843) 210-32-90"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "generators",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avg_servis/191671526055/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "56510492765",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Патриса Лумумбы, 61",
+   "координаты": [
+    49.185933,
+    55.796213
+   ],
+   "рейтинг": 5,
+   "оценок": 144,
+   "отзывов": 123,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kazan.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 253-02-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/56510492765/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "220994924417",
+   "название": "Мотроник Авто",
+   "seoname": "motronik_avto",
+   "адрес": "Школьная ул., 49, жилой массив Константиновка, Советский район",
+   "координаты": [
+    49.254994,
+    55.801742
+   ],
+   "рейтинг": 5,
+   "оценок": 402,
+   "отзывов": 228,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://motronic-kzn.ru/"
+   ],
+   "телефоны": [
+    "+7 (906) 117-76-06",
+    "+7 (927) 420-08-47"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "diesel_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_diesel_engines",
+    "spare_parts",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motronik_avto/220994924417/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "108623850068",
+   "название": "Авто14",
+   "seoname": "avto14",
+   "адрес": "Заречная ул., 5Б, жилой массив Константиновка, Советский район",
+   "координаты": [
+    49.264998,
+    55.809046
+   ],
+   "рейтинг": 5,
+   "оценок": 131,
+   "отзывов": 81,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://auto-14.ru/"
+   ],
+   "телефоны": [
+    "+7 (924) 161-97-54",
+    "+7 (999) 269-93-59",
+    "+7 (929) 494-51-74"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "guarantee",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto14/108623850068/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "82636903475",
+   "название": "Sj avto",
+   "seoname": "sj_avto",
+   "адрес": "Торфяная ул., 53Б, жилой массив Торфяной, Советский район",
+   "координаты": [
+    49.188157,
+    55.834991
+   ],
+   "рейтинг": 5,
+   "оценок": 64,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sj-avto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 212-63-57"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "engine_endoscopy",
+    "for_passenger_cars",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sj_avto/82636903475/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "47874929827",
+   "название": "Гибрид сервис Казань",
+   "seoname": "gibrid_servis_kazan",
+   "адрес": "Советский район, территория ГСК Волга, 217",
+   "координаты": [
+    49.189018,
+    55.781011
+   ],
+   "рейтинг": 4.8,
+   "оценок": 44,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://hybrid-kazan.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 288-98-40"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "guarantee",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gibrid_servis_kazan/47874929827/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "243176644716",
+   "название": "Автосеть Гараж",
+   "seoname": "avtoset_garazh",
+   "адрес": "ул. Габдуллы Кариева, 3А, Казань",
+   "координаты": [
+    49.183247,
+    55.785878
+   ],
+   "рейтинг": 4.9,
+   "оценок": 275,
+   "отзывов": 150,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://автосеть-гараж.рф/"
+   ],
+   "телефоны": [
+    "+7 (843) 265-05-05",
+    "+7 (952) 038-80-04"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_garazh/243176644716/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "186134269217",
+   "название": "РТТ авто",
+   "seoname": "rtt_avto",
+   "адрес": "Дорожная ул., 9/3, жилой массив Малые Клыки, Советский район",
+   "координаты": [
+    49.221818,
+    55.796712
+   ],
+   "рейтинг": 5,
+   "оценок": 91,
+   "отзывов": 58,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (996) 901-53-85",
+    "+7 (953) 499-99-44"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "kaspi_red",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rtt_avto/186134269217/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "131258309583",
+   "название": "Эксперт Сервис",
+   "seoname": "ekspert_servis",
+   "адрес": "ул. Юности, 2Д, жилой массив Константиновка, Советский район",
+   "координаты": [
+    49.256781,
+    55.801755
+   ],
+   "рейтинг": 4.7,
+   "оценок": 41,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 777-60-70"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekspert_servis/131258309583/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "1279147986",
+   "название": "РаминАвто",
+   "seoname": "raminavto",
+   "адрес": "ул. Закиева, 12А, микрорайон Азино-1, Советский район",
+   "координаты": [
+    49.231063,
+    55.775677
+   ],
+   "рейтинг": 4.3,
+   "оценок": 508,
+   "отзывов": 237,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ramin-service.ru/",
+    "http://raminauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 248-55-62",
+    "+7 (843) 248-55-35",
+    "+7 (843) 212-14-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "hinged_equipment",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/raminavto/1279147986/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "1205496552",
+   "название": "Рестартер",
+   "seoname": "restarter",
+   "адрес": "Клубная ул., 21А",
+   "координаты": [
+    49.225901,
+    55.796585
+   ],
+   "рейтинг": 4.9,
+   "оценок": 174,
+   "отзывов": 88,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://рестартер.рф/"
+   ],
+   "телефоны": [
+    "+7 (917) 293-63-01",
+    "+7 (843) 290-54-34"
+   ],
+   "часы": "пн-пт 09:00–17:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт электрооборудования"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "payment_by_credit_card",
+    "street_entrance",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/restarter/1205496552/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "97270933603",
+   "название": "ТатКардан",
+   "seoname": "tatkardan",
+   "адрес": "ул. Мира, 127, жилой массив Самосырово, Советский район",
+   "координаты": [
+    49.279333,
+    55.799969
+   ],
+   "рейтинг": 5,
+   "оценок": 279,
+   "отзывов": 164,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://tatkardan.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 615-00-05",
+    "+7 (843) 245-00-05"
+   ],
+   "часы": "пн-пт 08:30–18:00, перерыв 12:00–13:00; сб,вс 09:00–15:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tatkardan/97270933603/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "1249364215",
+   "название": "Рамин авто",
+   "seoname": "ramin_avto",
+   "адрес": "просп. Победы, 202",
+   "координаты": [
+    49.210949,
+    55.802718
+   ],
+   "рейтинг": 4.5,
+   "оценок": 686,
+   "отзывов": 301,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://raminavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (843) 212-22-06",
+    "+7 (953) 491-12-43",
+    "+7 (843) 212-22-03",
+    "+7 (843) 248-55-77",
+    "+7 (937) 615-28-21",
+    "+7 (951) 068-08-36"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "access_by_agreement",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "motorcycle_tire_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "starting_the_car",
+    "street_entrance",
+    "tire_blacking",
+    "tire_fitting",
+    "trailer_repair",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ramin_avto/1249364215/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "12444987960",
+   "название": "RemBox 8",
+   "seoname": "rembox_8",
+   "адрес": "2-я Азинская ул., 7, корп. 5",
+   "координаты": [
+    49.207732,
+    55.800736
+   ],
+   "рейтинг": 5,
+   "оценок": 112,
+   "отзывов": 98,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (950) 315-71-48"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rembox_8/12444987960/",
+   "найдено_по": "ремонт подвески Советский район"
+  },
+  {
+   "id": "1377020310",
+   "название": "АКПП.Pro",
+   "seoname": "akpp_pro",
+   "адрес": "ул. Космонавтов, 46Б",
+   "координаты": [
+    49.199843,
+    55.794097
+   ],
+   "рейтинг": 5,
+   "оценок": 778,
+   "отзывов": 572,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://akpp.pro/"
+   ],
+   "телефоны": [
+    "+7 (843) 208-53-79",
+    "+7 (905) 017-63-95"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "call_button",
+    "car_park",
+    "delivery",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "street_entrance",
+    "torque_converter_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akpp_pro/1377020310/",
+   "найдено_по": "ремонт подвески Советский район"
+  }
+ ],
+ "расширено_по_районам": true
+}
