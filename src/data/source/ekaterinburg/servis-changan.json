@@ -1,0 +1,1628 @@
+{
+ "ниша": "Сервис Changan",
+ "ключ": "servis-changan",
+ "запросы": [
+  "changan сервис",
+  "changan ремонт",
+  "changan техническое обслуживание"
+ ],
+ "найдено_в_яндексе": {
+  "changan сервис": 7,
+  "changan ремонт": 17,
+  "changan техническое обслуживание": 56
+ },
+ "дата_съёма": "2026-11-09",
+ "источник": "Яндекс Карты, поиск по Екатеринбургу (регион 54)",
+ "город": "ekaterinburg",
+ "компании": [
+  {
+   "id": "236467629529",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Академика Вонсовского, 1Ж, Екатеринбург",
+   "координаты": [
+    60.564156,
+    56.776364
+   ],
+   "рейтинг": 4.4,
+   "оценок": 977,
+   "отзывов": 530,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ekaterinburg.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 266-31-67"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/236467629529/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 67,
+   "загружено_дат": 71
+  },
+  {
+   "id": "1118838073",
+   "название": "Автоимпульс",
+   "seoname": "avtoimpuls",
+   "адрес": "Зоологическая ул., 7Б",
+   "координаты": [
+    60.538709,
+    56.812573
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1031,
+   "отзывов": 489,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://екатеринбург-автосервис.рф/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-41-34",
+    "+7 (343) 382-21-35"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "motorcycle_tire_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoimpuls/1118838073/",
+   "последний_отзыв": "2026-11-01",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 84
+  },
+  {
+   "id": "1359892220",
+   "название": "Римэкс",
+   "seoname": "rimeks",
+   "адрес": "Успенский просп., 2/1, Верхняя Пышма",
+   "координаты": [
+    60.605987,
+    56.948503
+   ],
+   "рейтинг": 4.2,
+   "оценок": 1145,
+   "отзывов": 481,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pishma.rimeks.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 226-09-60",
+    "8 (800) 300-05-00"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rimeks/1359892220/",
+   "последний_отзыв": "2026-10-31",
+   "отзывов_за_12_мес_из_загруженных": 48,
+   "загружено_дат": 81
+  },
+  {
+   "id": "72368746024",
+   "название": "Чанган центр Регинас",
+   "seoname": "changan_tsentr_reginas",
+   "адрес": "ул. Владимира Высоцкого, 3",
+   "координаты": [
+    60.671943,
+    56.843183
+   ],
+   "рейтинг": 5,
+   "оценок": 544,
+   "отзывов": 310,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sales.reginas96-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 363-02-56"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "certified_service",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_reginas/72368746024/",
+   "последний_отзыв": "2026-08-27",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 69
+  },
+  {
+   "id": "48502236658",
+   "название": "Чанган центр Восток",
+   "seoname": "changan_tsentr_vostok",
+   "адрес": "Кольцевая ул., 4, Берёзовский",
+   "координаты": [
+    60.766555,
+    56.89724
+   ],
+   "рейтинг": 4.8,
+   "оценок": 575,
+   "отзывов": 254,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sales.vostok-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 344-75-11"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_vostok/48502236658/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 64
+  },
+  {
+   "id": "1214453681",
+   "название": "Разборлевыйруль",
+   "seoname": "razborlevyyrul",
+   "адрес": "ул. Фронтовых Бригад, 35Д, Екатеринбург",
+   "координаты": [
+    60.659868,
+    56.887431
+   ],
+   "рейтинг": 4.5,
+   "оценок": 474,
+   "отзывов": 224,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://sv-company.ru/",
+    "http://разборлевыйруль.рф/"
+   ],
+   "телефоны": [
+    "+7 (800) 222-68-00"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Авторазбор",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "automotive_products",
+    "car_park",
+    "contract_engines",
+    "delivery",
+    "hinged_equipment",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/razborlevyyrul/1214453681/",
+   "последний_отзыв": "2026-09-17",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 69
+  },
+  {
+   "id": "17259972971",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "Дружининская ул., 3, Екатеринбург",
+   "координаты": [
+    60.507823,
+    56.885073
+   ],
+   "рейтинг": 4.9,
+   "оценок": 322,
+   "отзывов": 219,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ekaterinburg.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 266-31-67"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/17259972971/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 41,
+   "загружено_дат": 77
+  },
+  {
+   "id": "244172823271",
+   "название": "Прайм Сервис",
+   "seoname": "praym_servis",
+   "адрес": "Студенческая ул., 80/2",
+   "координаты": [
+    60.664607,
+    56.837417
+   ],
+   "рейтинг": 4.8,
+   "оценок": 309,
+   "отзывов": 180,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://prime196.ru/"
+   ],
+   "телефоны": [
+    "+7 (963) 039-38-48",
+    "+7 (963) 039-28-26"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "injector_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/praym_servis/244172823271/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 45,
+   "загружено_дат": 81
+  },
+  {
+   "id": "179555983750",
+   "название": "SWS-сервис",
+   "seoname": "sws_servis",
+   "адрес": "Иркутская ул., 53",
+   "координаты": [
+    60.582827,
+    56.809638
+   ],
+   "рейтинг": 4.9,
+   "оценок": 258,
+   "отзывов": 170,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sws-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 206-11-17"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "flywheel_repair",
+    "good_place",
+    "guarantee",
+    "hydroblock_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "torque_converter_repair",
+    "variator_repair",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sws_servis/179555983750/",
+   "последний_отзыв": "2026-08-04",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 78
+  },
+  {
+   "id": "150455354896",
+   "название": "Авто-Моё",
+   "seoname": "avto_moyo",
+   "адрес": "ул. Шаумяна, 53",
+   "координаты": [
+    60.580973,
+    56.810359
+   ],
+   "рейтинг": 4.9,
+   "оценок": 260,
+   "отзывов": 150,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avtomoe66.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 135-03-82",
+    "+7 (343) 243-55-52"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "avtochekhly",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "coffee_to_go",
+    "delivery",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_moyo/150455354896/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 79
+  },
+  {
+   "id": "50146221728",
+   "название": "Кардан Моторс",
+   "seoname": "kardan_motors",
+   "адрес": "ул. Исследователей, 24",
+   "координаты": [
+    60.549036,
+    56.772991
+   ],
+   "рейтинг": 5,
+   "оценок": 158,
+   "отзывов": 131,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kardan-auto-motors.ru/"
+   ],
+   "телефоны": [
+    "+7 (963) 446-68-05",
+    "+7 (993) 774-80-95",
+    "+7 (922) 112-14-18"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kardan_motors/50146221728/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 66,
+   "загружено_дат": 66
+  },
+  {
+   "id": "9746379296",
+   "название": "Гет-сервис",
+   "seoname": "get_servis",
+   "адрес": "Черкасская ул., 10Ж",
+   "координаты": [
+    60.55347,
+    56.822998
+   ],
+   "рейтинг": 5,
+   "оценок": 237,
+   "отзывов": 127,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://get-servis.ru/"
+   ],
+   "телефоны": [
+    "+7 (901) 249-84-62"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "engine_endoscopy",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/get_servis/9746379296/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 83
+  },
+  {
+   "id": "40581359389",
+   "название": "Чанган центр Автобан",
+   "seoname": "changan_tsentr_avtoban",
+   "адрес": "ул. Бабушкина, 9",
+   "координаты": [
+    60.626039,
+    56.884669
+   ],
+   "рейтинг": 4.9,
+   "оценок": 231,
+   "отзывов": 122,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sales.avtoban-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 247-83-30"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_avtoban/40581359389/",
+   "последний_отзыв": "2026-09-25",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 73
+  },
+  {
+   "id": "37593727022",
+   "название": "АБС-Авто",
+   "seoname": "abs_avto",
+   "адрес": "ул. Гагарина, 6, корп. 3",
+   "координаты": [
+    60.641654,
+    56.846573
+   ],
+   "рейтинг": 4.9,
+   "оценок": 158,
+   "отзывов": 119,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ekb.abs-auto.su/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-24-57"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/abs_avto/37593727022/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 37,
+   "загружено_дат": 87
+  },
+  {
+   "id": "210673920476",
+   "название": "Миксавто",
+   "seoname": "miksavto",
+   "адрес": "ул. Фронтовых Бригад, 15, корп. 30, Екатеринбург",
+   "координаты": [
+    60.629144,
+    56.880749
+   ],
+   "рейтинг": 4.4,
+   "оценок": 260,
+   "отзывов": 117,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://mixauto-ekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 253-98-14",
+    "+7 (967) 639-54-20",
+    "+7 (343) 333-58-25"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/miksavto/210673920476/",
+   "последний_отзыв": "2026-07-16",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 86
+  },
+  {
+   "id": "214059089851",
+   "название": "Восточный ветер",
+   "seoname": "vostochny_veter",
+   "адрес": "Маневровая ул., 43",
+   "координаты": [
+    60.53285,
+    56.885441
+   ],
+   "рейтинг": 4.5,
+   "оценок": 357,
+   "отзывов": 110,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://service.vostveter.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 118-47-82"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vostochny_veter/214059089851/"
+  },
+  {
+   "id": "129638174374",
+   "название": "Гарри Арк",
+   "seoname": "garri_ark",
+   "адрес": "ул. Лукиных, 1А",
+   "координаты": [
+    60.574472,
+    56.881336
+   ],
+   "рейтинг": 4.7,
+   "оценок": 191,
+   "отзывов": 109,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://garri.site/"
+   ],
+   "телефоны": [
+    "+7 (924) 037-78-44",
+    "+7 (343) 382-22-57"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garri_ark/129638174374/"
+  },
+  {
+   "id": "1564931129",
+   "название": "Европа",
+   "seoname": "yevropa",
+   "адрес": "Гурзуфская ул., 48К",
+   "координаты": [
+    60.565096,
+    56.827244
+   ],
+   "рейтинг": 4.3,
+   "оценок": 235,
+   "отзывов": 105,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://atz-europa.ru/"
+   ],
+   "телефоны": [
+    "+7 (901) 249-91-80"
+   ],
+   "часы": "ежедневно, 09:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "diesel_service",
+    "freight_car_service",
+    "hybrid_car_repair",
+    "injector_repair",
+    "installing_the_towbar",
+    "keep_tires",
+    "payment_by_credit_card",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "turbine repair",
+    "vulcanization",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yevropa/1564931129/"
+  },
+  {
+   "id": "13886847718",
+   "название": "Юнис-Авто",
+   "seoname": "yunis_avto",
+   "адрес": "Маневровая ул., 31, стр. 1",
+   "координаты": [
+    60.525205,
+    56.880056
+   ],
+   "рейтинг": 5,
+   "оценок": 193,
+   "отзывов": 101,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://юнис-авто.рф/"
+   ],
+   "телефоны": [
+    "+7 (967) 635-59-90",
+    "+7 (922) 510-00-09",
+    "+7 (982) 728-73-88"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "field_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yunis_avto/13886847718/"
+  },
+  {
+   "id": "23533136642",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "Водительский пр., 22, Екатеринбург",
+   "координаты": [
+    60.632302,
+    56.787282
+   ],
+   "рейтинг": 5,
+   "оценок": 109,
+   "отзывов": 99,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ekaterinburg.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 266-31-67"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/23533136642/"
+  },
+  {
+   "id": "66012263520",
+   "название": "СервисMarket",
+   "seoname": "servismarket",
+   "адрес": "Кольцевая ул., 4/1В, Берёзовский",
+   "координаты": [
+    60.771674,
+    56.898647
+   ],
+   "рейтинг": 4.6,
+   "оценок": 152,
+   "отзывов": 95,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://servismarkett.ru/"
+   ],
+   "телефоны": [
+    "+7 (932) 122-22-82"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/servismarket/66012263520/"
+  },
+  {
+   "id": "136204524846",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Фурманова, 134, Екатеринбург",
+   "координаты": [
+    60.585347,
+    56.813936
+   ],
+   "рейтинг": 5,
+   "оценок": 103,
+   "отзывов": 85,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ekaterinburg.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 266-31-67"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/136204524846/"
+  },
+  {
+   "id": "133250042937",
+   "название": "Аккмир Сервис",
+   "seoname": "akkmir_servis",
+   "адрес": "ул. Раевского, 9/1",
+   "координаты": [
+    60.663099,
+    56.859491
+   ],
+   "рейтинг": 5,
+   "оценок": 120,
+   "отзывов": 76,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://akkmir.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-13-07"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "disable_captions",
+    "disable_photopoi",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_balancing"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akkmir_servis/133250042937/"
+  },
+  {
+   "id": "1048113403",
+   "название": "Глазурит, Changan Uni",
+   "seoname": "glazurit_changan_uni",
+   "адрес": "ул. Фронтовых Бригад, 27А",
+   "координаты": [
+    60.642453,
+    56.88513
+   ],
+   "рейтинг": 4.9,
+   "оценок": 95,
+   "отзывов": 69,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sales.uni-glazurit.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 364-48-36"
+   ],
+   "часы": "ежедневно, 08:30–20:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "disable_captions",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/glazurit_changan_uni/1048113403/"
+  },
+  {
+   "id": "70025445285",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Полевской тракт, 22/27А, Екатеринбург",
+   "координаты": [
+    60.492142,
+    56.681779
+   ],
+   "рейтинг": 5,
+   "оценок": 184,
+   "отзывов": 66,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nissan-service96.ru/"
+   ],
+   "телефоны": [
+    "+7 (953) 387-70-88"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/70025445285/"
+  },
+  {
+   "id": "216234730578",
+   "название": "Немецкий мастер",
+   "seoname": "nemetskiy_master",
+   "адрес": "ул. 40-летия Комсомола, 4Д, Екатеринбург",
+   "координаты": [
+    60.692891,
+    56.836275
+   ],
+   "рейтинг": 4.9,
+   "оценок": 122,
+   "отзывов": 60,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nemeckimaster96.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 364-73-79"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nemetskiy_master/216234730578/"
+  },
+  {
+   "id": "244836786443",
+   "название": "Чанган центр, Асмото",
+   "seoname": "changan_tsentr_asmoto",
+   "адрес": "ул. Петрова, 44А, Верхняя Пышма",
+   "координаты": [
+    60.610473,
+    56.959648
+   ],
+   "рейтинг": 5,
+   "оценок": 101,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.asmoto-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 287-97-77"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_wash",
+    "payment_by_credit_card",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_asmoto/244836786443/"
+  },
+  {
+   "id": "147209546763",
+   "название": "Француз",
+   "seoname": "frantsuz",
+   "адрес": "ул. Начдива Онуфриева, 55, Екатеринбург",
+   "координаты": [
+    60.565611,
+    56.792883
+   ],
+   "рейтинг": 4.9,
+   "оценок": 43,
+   "отзывов": 37,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автосервис-француз.рф/"
+   ],
+   "телефоны": [
+    "+7 (912) 259-21-36",
+    "+7 (965) 515-24-09"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "good_place",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/frantsuz/147209546763/"
+  },
+  {
+   "id": "203270275363",
+   "название": "Чанган центр, Июль",
+   "seoname": "changan_tsentr_iyul",
+   "адрес": "Гурзуфская ул., 63",
+   "координаты": [
+    60.559449,
+    56.824932
+   ],
+   "рейтинг": 4.8,
+   "оценок": 19,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.july-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 226-72-69",
+    "+7 (343) 363-04-46"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_iyul/203270275363/"
+  },
+  {
+   "id": "1634234148",
+   "название": "Автоуслуги66",
+   "seoname": "avtouslugi66",
+   "адрес": "Волховская ул., 2, Екатеринбург",
+   "координаты": [
+    60.658544,
+    56.866308
+   ],
+   "рейтинг": 4.3,
+   "оценок": 55,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtouslugi66.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 270-50-80"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "покраска автомобилей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "preliminary_registration",
+    "ramp",
+    "scratch_repair",
+    "service_maintenance",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtouslugi66/1634234148/"
+  },
+  {
+   "id": "1318441490",
+   "название": "ТентРу",
+   "seoname": "tentru",
+   "адрес": "ул. Клары Цеткин, 69А, Берёзовский",
+   "координаты": [
+    60.778925,
+    56.918025
+   ],
+   "рейтинг": 4.7,
+   "оценок": 21,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://тентру.рф/"
+   ],
+   "телефоны": [
+    "+7 (964) 485-05-55",
+    "8 (800) 600-57-05"
+   ],
+   "часы": "пн-пт 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "каркасно-тентовые конструкции",
+    "автомобильные прицепы"
+   ],
+   "признаки": [
+    "installation",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tentru/1318441490/"
+  }
+ ]
+}

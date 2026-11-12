@@ -1,0 +1,5537 @@
+{
+ "ниша": "Автошколы",
+ "ключ": "avtoshkoly",
+ "запросы": [
+  "автошкола"
+ ],
+ "найдено_в_яндексе": {
+  "автошкола": 48,
+  "автошкола Верх-Исетский район": 45,
+  "автошкола Железнодорожный район": 45,
+  "автошкола Кировский район": 45,
+  "автошкола Ленинский район": 45,
+  "автошкола Октябрьский район": 45,
+  "автошкола Орджоникидзевский район": 45,
+  "автошкола Чкаловский район": 45,
+  "автошкола Академический район": 17
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Екатеринбургу (регион 54)",
+ "город": "ekaterinburg",
+ "компании": [
+  {
+   "id": "188888360086",
+   "название": "Вектор",
+   "seoname": "vektor",
+   "адрес": "ул. Попова, 2",
+   "координаты": [
+    60.594667,
+    56.835558
+   ],
+   "рейтинг": 5,
+   "оценок": 1113,
+   "отзывов": 917,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoschool-vektor.ru/ekaterinburg"
+   ],
+   "телефоны": [
+    "+7 (343) 343-09-63"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vektor/188888360086/",
+   "последний_отзыв": "2026-10-04",
+   "отзывов_за_12_мес_из_загруженных": 42,
+   "загружено_дат": 43
+  },
+  {
+   "id": "1298525304",
+   "название": "Свердловская областная автошкола",
+   "seoname": "sverdlovskaya_oblastnaya_avtoshkola",
+   "адрес": "Походная ул., 84",
+   "координаты": [
+    60.62957,
+    56.771002
+   ],
+   "рейтинг": 4.9,
+   "оценок": 862,
+   "отзывов": 438,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pravavoa.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 210-70-00",
+    "+7 (343) 290-56-50"
+   ],
+   "часы": "пн-чт 09:00–18:00; пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_oblastnaya_avtoshkola/1298525304/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 54,
+   "загружено_дат": 86
+  },
+  {
+   "id": "1160817763",
+   "название": "АСпорт+",
+   "seoname": "asport_",
+   "адрес": "ул. Крауля, 9А",
+   "координаты": [
+    60.565132,
+    56.829523
+   ],
+   "рейтинг": 5,
+   "оценок": 359,
+   "отзывов": 316,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://asport-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (904) 541-80-13",
+    "+7 (343) 219-80-13",
+    "+7 (343) 213-10-20",
+    "+7 (952) 725-10-20"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "медицинская комиссия"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/asport_/1160817763/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 61,
+   "загружено_дат": 80
+  },
+  {
+   "id": "1546950204",
+   "название": "Авто-Премиум",
+   "seoname": "avto_premium",
+   "адрес": "ул. Пирогова, 30",
+   "координаты": [
+    60.570923,
+    56.830052
+   ],
+   "рейтинг": 5,
+   "оценок": 312,
+   "отзывов": 257,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoprem.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 775-52-96"
+   ],
+   "часы": "пн-пт 12:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_premium/1546950204/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 50
+  },
+  {
+   "id": "1192278760",
+   "название": "Курсант",
+   "seoname": "kursant",
+   "адрес": "ул. Циолковского, 32",
+   "координаты": [
+    60.604904,
+    56.805636
+   ],
+   "рейтинг": 5,
+   "оценок": 322,
+   "отзывов": 237,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-kursant.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 201-33-01",
+    "+7 (343) 201-33-05",
+    "+7 (343) 201-33-04"
+   ],
+   "часы": "пн-чт 10:00–20:00, перерыв 14:00–16:00; пт 10:00–18:00, перерыв 14:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "call_button",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "kaspi_red",
+    "medical_board",
+    "parking_disabled",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kursant/1192278760/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 64,
+   "загружено_дат": 73
+  },
+  {
+   "id": "1676893424",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Татищева, 6, корп. 1",
+   "координаты": [
+    60.570338,
+    56.835568
+   ],
+   "рейтинг": 5,
+   "оценок": 238,
+   "отзывов": 165,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "ADR_training",
+    "disable_captions",
+    "disable_photopoi",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/1676893424/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 52,
+   "загружено_дат": 71
+  },
+  {
+   "id": "1179401771",
+   "название": "Форвард",
+   "seoname": "forvard",
+   "адрес": "ул. Энгельса, 36",
+   "координаты": [
+    60.622077,
+    56.834028
+   ],
+   "рейтинг": 5,
+   "оценок": 182,
+   "отзывов": 147,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://forward96.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 202-00-12"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "payment_by_credit_card",
+    "preliminary_registration"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forvard/1179401771/",
+   "последний_отзыв": "2026-08-25",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 66
+  },
+  {
+   "id": "228897036906",
+   "название": "Свердловская автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Сурикова, 31Б",
+   "координаты": [
+    60.600083,
+    56.814616
+   ],
+   "рейтинг": 5,
+   "оценок": 151,
+   "отзывов": 117,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koltsovoauto.ru/",
+    "https://koltsovoauto.ru/price/"
+   ],
+   "телефоны": [
+    "+7 (902) 268-34-43",
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "учебный центр"
+   ],
+   "признаки": [
+    "ADR_training",
+    "disable_captions",
+    "disable_photopoi",
+    "extreme_driving",
+    "gift_certificate",
+    "good_place",
+    "labor_protection_training",
+    "medical_board",
+    "motocross",
+    "online_classes",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/228897036906/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 66
+  },
+  {
+   "id": "17129798939",
+   "название": "Курсант",
+   "seoname": "kursant",
+   "адрес": "ул. Чернышевского, 16",
+   "координаты": [
+    60.601963,
+    56.831676
+   ],
+   "рейтинг": 5,
+   "оценок": 129,
+   "отзывов": 112,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-kursant.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 201-33-05",
+    "+7 (343) 201-33-01"
+   ],
+   "часы": "вт,чт 10:00–20:00, перерыв 14:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "call_button",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kursant/17129798939/",
+   "последний_отзыв": "2026-09-29",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 90
+  },
+  {
+   "id": "1005279379",
+   "название": "Центр-А. В. С.",
+   "seoname": "tsentr_a_v_s_",
+   "адрес": "ул. Академика Бардина, 28",
+   "координаты": [
+    60.567638,
+    56.803473
+   ],
+   "рейтинг": 4.9,
+   "оценок": 173,
+   "отзывов": 110,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://abccentr.su/"
+   ],
+   "телефоны": [
+    "+7 (953) 000-33-72",
+    "+7 (982) 729-29-61",
+    "+7 (343) 268-26-80"
+   ],
+   "часы": "пн-чт 11:00–19:00, перерыв 14:00–15:00; пт 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "medical_board"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_a_v_s_/1005279379/",
+   "последний_отзыв": "2026-09-20",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 48
+  },
+  {
+   "id": "1022673367",
+   "название": "Курсант",
+   "seoname": "kursant",
+   "адрес": "ул. Хохрякова, 98",
+   "координаты": [
+    60.594808,
+    56.825664
+   ],
+   "рейтинг": 5,
+   "оценок": 122,
+   "отзывов": 107,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-kursant.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 201-33-01",
+    "+7 (343) 201-33-05"
+   ],
+   "часы": "пн,ср 10:00–20:00, перерыв 14:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "preliminary_registration",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kursant/1022673367/",
+   "последний_отзыв": null,
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 0
+  },
+  {
+   "id": "170380253246",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Сулимова, 26",
+   "координаты": [
+    60.644636,
+    56.861573
+   ],
+   "рейтинг": 5,
+   "оценок": 124,
+   "отзывов": 102,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/170380253246/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 51,
+   "загружено_дат": 71
+  },
+  {
+   "id": "126239337645",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "Восточная ул., 162Б",
+   "координаты": [
+    60.636273,
+    56.828478
+   ],
+   "рейтинг": 5,
+   "оценок": 146,
+   "отзывов": 98,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/126239337645/",
+   "последний_отзыв": "2026-10-25",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 65
+  },
+  {
+   "id": "26060761327",
+   "название": "Азимут",
+   "seoname": "azimut",
+   "адрес": "ул. Кулибина, 2",
+   "координаты": [
+    60.657381,
+    56.855151
+   ],
+   "рейтинг": 5,
+   "оценок": 113,
+   "отзывов": 92,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.azimutschool.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 269-06-06"
+   ],
+   "часы": "вт,чт 17:00–20:45; вс 13:45–16:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "call_button",
+    "elevator_wheelchair_accessible",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "medical_board",
+    "motocross",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/azimut/26060761327/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 60
+  },
+  {
+   "id": "1079747032",
+   "название": "Стк-1",
+   "seoname": "stk_1",
+   "адрес": "ул. 8 Марта, 77, Екатеринбург",
+   "координаты": [
+    60.608376,
+    56.816268
+   ],
+   "рейтинг": 4.5,
+   "оценок": 143,
+   "отзывов": 90,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://stk1-school.ru/"
+   ],
+   "телефоны": [
+    "+7 (912) 048-53-38"
+   ],
+   "часы": "пн-чт 10:00–18:00, перерыв 12:00–13:00; пт 10:00–17:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "restoring_driving_skills",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stk_1/1079747032/",
+   "последний_отзыв": "2026-10-25",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 68
+  },
+  {
+   "id": "38049415605",
+   "название": "Точка вождения",
+   "seoname": "tochka_vozhdeniya",
+   "адрес": "ул. Белинского, 56",
+   "координаты": [
+    60.615502,
+    56.829643
+   ],
+   "рейтинг": 5,
+   "оценок": 100,
+   "отзывов": 88,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tochka-drive.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-41-35"
+   ],
+   "часы": "пн-пт 10:00–23:00; сб,вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "restoring_driving_skills",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_vozhdeniya/38049415605/"
+  },
+  {
+   "id": "243701977246",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Малышева, 19",
+   "координаты": [
+    60.590482,
+    56.833215
+   ],
+   "рейтинг": 5,
+   "оценок": 128,
+   "отзывов": 88,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "ADR_training",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/243701977246/"
+  },
+  {
+   "id": "1007050859",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "ул. 8 Марта, 4",
+   "координаты": [
+    60.597414,
+    56.839586
+   ],
+   "рейтинг": 4.7,
+   "оценок": 142,
+   "отзывов": 86,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avto-lada.com/"
+   ],
+   "телефоны": [
+    "+7 (343) 228-69-72",
+    "+7 (343) 201-21-07"
+   ],
+   "часы": "пн-пт 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "good_place",
+    "improving_driver_qualifications",
+    "payment_by_credit_card"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/1007050859/"
+  },
+  {
+   "id": "175377005390",
+   "название": "Зеленый свет",
+   "seoname": "zeleny_svet",
+   "адрес": "ул. Тургенева, 22",
+   "координаты": [
+    60.615036,
+    56.8434
+   ],
+   "рейтинг": 4.9,
+   "оценок": 106,
+   "отзывов": 73,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://мояавтошкола.рф/"
+   ],
+   "телефоны": [
+    "+7 (343) 305-33-03",
+    "+7 (903) 080-47-41"
+   ],
+   "часы": "пн-пт 13:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "дополнительное образование",
+    "учебный центр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "assessment_qualification_employees",
+    "car_park",
+    "female_instructor",
+    "gift_certificate",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zeleny_svet/175377005390/"
+  },
+  {
+   "id": "107753430249",
+   "название": "Формула",
+   "seoname": "formula",
+   "адрес": "ул. Карла Либкнехта, 27",
+   "координаты": [
+    60.610295,
+    56.841151
+   ],
+   "рейтинг": 5,
+   "оценок": 84,
+   "отзывов": 72,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://formula-ekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 110-99-40",
+    "+7 (900) 213-99-11"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/formula/107753430249/"
+  },
+  {
+   "id": "144273853698",
+   "название": "Точка вождения",
+   "seoname": "tochka_vozhdeniya",
+   "адрес": "ул. Баумана, 6",
+   "координаты": [
+    60.618695,
+    56.888361
+   ],
+   "рейтинг": 5,
+   "оценок": 84,
+   "отзывов": 70,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tochka-drive.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-41-35"
+   ],
+   "часы": "пн-пт 10:00–23:00; сб,вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_vozhdeniya/144273853698/"
+  },
+  {
+   "id": "189912585773",
+   "название": "Центральная",
+   "seoname": "tsentralnaya",
+   "адрес": "ул. Крауля, 56",
+   "координаты": [
+    60.552341,
+    56.830871
+   ],
+   "рейтинг": 5,
+   "оценок": 88,
+   "отзывов": 61,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://a-ekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 361-88-83"
+   ],
+   "часы": "пн-чт 10:00–18:30; пт 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "автодром"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentralnaya/189912585773/"
+  },
+  {
+   "id": "133699945945",
+   "название": "Точка вождения",
+   "seoname": "tochka_vozhdeniya",
+   "адрес": "ул. Тимирязева, 10",
+   "координаты": [
+    60.640306,
+    56.843086
+   ],
+   "рейтинг": 5,
+   "оценок": 40,
+   "отзывов": 36,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tochka-drive.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-41-35"
+   ],
+   "часы": "пн-пт 10:00–23:00; сб,вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_vozhdeniya/133699945945/"
+  },
+  {
+   "id": "73347621057",
+   "название": "Точка вождения",
+   "seoname": "tochka_vozhdeniya",
+   "адрес": "ул. Сулимова, 26/1",
+   "координаты": [
+    60.644228,
+    56.861834
+   ],
+   "рейтинг": 5,
+   "оценок": 28,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tochka-drive.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-41-35"
+   ],
+   "часы": "пн-пт 10:00–23:00; сб,вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "elevator_wheelchair_accessible",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "restoring_driving_skills",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_vozhdeniya/73347621057/"
+  },
+  {
+   "id": "116290808018",
+   "название": "Точка вождения",
+   "seoname": "tochka_vozhdeniya",
+   "адрес": "ул. Академика Шварца, 17",
+   "координаты": [
+    60.626976,
+    56.797172
+   ],
+   "рейтинг": 4.8,
+   "оценок": 21,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tochka-drive.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-41-35"
+   ],
+   "часы": "пн-пт 10:00–23:00; сб,вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "elevator_wheelchair_accessible",
+    "extreme_driving",
+    "female_instructor",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "restoring_driving_skills",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_vozhdeniya/116290808018/"
+  },
+  {
+   "id": "100846168704",
+   "название": "Точка вождения",
+   "seoname": "tochka_vozhdeniya",
+   "адрес": "ул. Академика Парина, 46/3, Екатеринбург",
+   "координаты": [
+    60.499181,
+    56.789017
+   ],
+   "рейтинг": 4.7,
+   "оценок": 14,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tochka-drive.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-41-35"
+   ],
+   "часы": "пн-пт 10:00–23:00; сб,вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_vozhdeniya/100846168704/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "17549823938",
+   "название": "Профессионал",
+   "seoname": "professional",
+   "адрес": "ул. Амундсена, 107, Екатеринбург",
+   "координаты": [
+    60.553243,
+    56.776245
+   ],
+   "рейтинг": 4.6,
+   "оценок": 28,
+   "отзывов": 16,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://profi196.ru/"
+   ],
+   "телефоны": [
+    "+7 (965) 830-12-37",
+    "+7 (343) 271-01-95",
+    "+7 (343) 206-17-35",
+    "+7 (912) 230-20-41",
+    "+7 (982) 717-01-95"
+   ],
+   "часы": "пн-пт 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "motocross",
+    "payment_by_credit_card",
+    "ramp"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/professional/17549823938/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "192453007594",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "Белореченская ул., 15",
+   "координаты": [
+    60.566322,
+    56.818209
+   ],
+   "рейтинг": 4.9,
+   "оценок": 104,
+   "отзывов": 73,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "ADR_training",
+    "disable_captions",
+    "disable_photopoi",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/192453007594/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "1071083626",
+   "название": "Перекрёсток",
+   "seoname": "perekryostok",
+   "адрес": "ул. Радищева, 10, Екатеринбург",
+   "координаты": [
+    60.597695,
+    56.830737
+   ],
+   "рейтинг": 4.9,
+   "оценок": 113,
+   "отзывов": 82,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ekb.perekrestok-avtoschool.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 300-66-10"
+   ],
+   "часы": "ежедневно, 09:00–20:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/perekryostok/1071083626/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "155683276323",
+   "название": "Вектор",
+   "seoname": "vektor",
+   "адрес": "ул. Репина, 109/2",
+   "координаты": [
+    60.53653,
+    56.818998
+   ],
+   "рейтинг": 5,
+   "оценок": 141,
+   "отзывов": 132,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avtoschool-vektor.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-09-63",
+    "8 (800) 511-95-02"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vektor/155683276323/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "138155652029",
+   "название": "АСпорт+",
+   "seoname": "asport_",
+   "адрес": "ул. Соболева, 19",
+   "координаты": [
+    60.513563,
+    56.810774
+   ],
+   "рейтинг": 4.6,
+   "оценок": 39,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://asport-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 200-41-85",
+    "+7 (343) 219-80-13",
+    "+7 (908) 919-41-85"
+   ],
+   "часы": "пн-пт 13:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "medical_board",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/asport_/138155652029/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "100773820330",
+   "название": "Приоритет",
+   "seoname": "prioritet",
+   "адрес": "ул. Мельникова, 38",
+   "координаты": [
+    60.567146,
+    56.831465
+   ],
+   "рейтинг": 5,
+   "оценок": 95,
+   "отзывов": 67,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://приоритет66.рф/"
+   ],
+   "телефоны": [
+    "+7 (900) 204-44-41",
+    "+7 (343) 200-07-95"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "автодром",
+    "учебный центр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "assessment_qualification_employees",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prioritet/100773820330/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "1262137655",
+   "название": "Стк-1",
+   "seoname": "stk_1",
+   "адрес": "Заводская ул., 27",
+   "координаты": [
+    60.55285,
+    56.832652
+   ],
+   "рейтинг": 4.9,
+   "оценок": 39,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://stk1-school.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 207-72-61",
+    "+7 (343) 203-25-71",
+    "+7 (343) 257-64-57",
+    "+7 (912) 048-53-38"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stk_1/1262137655/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "1065419143",
+   "название": "Автовек",
+   "seoname": "avtovek",
+   "адрес": "ул. Репина, 95",
+   "координаты": [
+    60.544692,
+    56.821844
+   ],
+   "рейтинг": 4.2,
+   "оценок": 33,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avtovec.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 200-60-62",
+    "+7 (343) 202-69-02",
+    "+7 (902) 876-84-58"
+   ],
+   "часы": "пн-пт 13:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "extreme_driving",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtovek/1065419143/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "1166259400",
+   "название": "Пегас-авто",
+   "seoname": "pegas_avto",
+   "адрес": "ул. Пальмиро Тольятти, 24А",
+   "координаты": [
+    60.577559,
+    56.823474
+   ],
+   "рейтинг": 4.7,
+   "оценок": 77,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://pegas-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 205-88-48",
+    "+7 (902) 870-04-32"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pegas_avto/1166259400/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "1261855736",
+   "название": "Империя вождения",
+   "seoname": "imperiya_vozhdeniya",
+   "адрес": "ул. Крауля, 91",
+   "координаты": [
+    60.532748,
+    56.830039
+   ],
+   "рейтинг": 3.7,
+   "оценок": 16,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://imperiya-vozhdeniya.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 201-29-99",
+    "+7 (343) 200-01-33",
+    "+7 (922) 600-02-12",
+    "+7 (343) 200-07-24"
+   ],
+   "часы": "пн-пт 15:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "improving_driver_qualifications",
+    "medical_board",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/imperiya_vozhdeniya/1261855736/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "1738966032",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "ул. Фролова, 3",
+   "координаты": [
+    60.552412,
+    56.839018
+   ],
+   "рейтинг": 4.4,
+   "оценок": 15,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-lada.com/",
+    "https://taplink.cc/avtoshkola_avtolada"
+   ],
+   "телефоны": [
+    "+7 (343) 344-86-44",
+    "+7 (343) 300-81-11",
+    "+7 (343) 363-81-11"
+   ],
+   "часы": "пн-пт 15:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/1738966032/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "1118631392",
+   "название": "Надежда плюс",
+   "seoname": "nadezhda_plyus",
+   "адрес": "ул. Готвальда, 19А",
+   "координаты": [
+    60.567521,
+    56.853698
+   ],
+   "рейтинг": 4.7,
+   "оценок": 55,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://nadezdaplus-ekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 201-02-13",
+    "+7 (953) 601-14-73"
+   ],
+   "часы": "пн-пт 12:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "improving_driver_qualifications",
+    "medical_board"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nadezhda_plyus/1118631392/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "1254108937",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "Белореченская ул., 10",
+   "координаты": [
+    60.568324,
+    56.821756
+   ],
+   "рейтинг": 4.1,
+   "оценок": 18,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-lada.com/"
+   ],
+   "телефоны": [
+    "+7 (343) 269-89-74",
+    "+7 (343) 363-81-11",
+    "+7 (953) 000-20-37"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/1254108937/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "1241514046",
+   "название": "Лада-люкс",
+   "seoname": "lada_lyuks",
+   "адрес": "ул. Бебеля, 16",
+   "координаты": [
+    60.561907,
+    56.846266
+   ],
+   "рейтинг": 3.8,
+   "оценок": 54,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://ladaluks.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 913-23-23",
+    "+7 (343) 245-76-11"
+   ],
+   "часы": "пн-пт 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "medical_board",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada_lyuks/1241514046/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "211199250050",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Амундсена, 69",
+   "координаты": [
+    60.579091,
+    56.795028
+   ],
+   "рейтинг": 5,
+   "оценок": 135,
+   "отзывов": 103,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "ADR_training",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "matryoshka_head",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/211199250050/",
+   "найдено_по": "автошкола Верх-Исетский район"
+  },
+  {
+   "id": "229403108216",
+   "название": "Профессионал",
+   "seoname": "professional",
+   "адрес": "ул. Луначарского, 194, Екатеринбург",
+   "координаты": [
+    60.623123,
+    56.831287
+   ],
+   "рейтинг": 4.7,
+   "оценок": 23,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://profi196.ru/"
+   ],
+   "телефоны": [
+    "+7 (965) 830-12-37",
+    "+7 (982) 717-01-93",
+    "+7 (343) 271-01-93",
+    "+7 (912) 230-20-41"
+   ],
+   "часы": "пн-пт 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/professional/229403108216/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "4140607392",
+   "название": "Точка вождения",
+   "seoname": "tochka_vozhdeniya",
+   "адрес": "ул. Победы, 42, Екатеринбург",
+   "координаты": [
+    60.595894,
+    56.900581
+   ],
+   "рейтинг": 5,
+   "оценок": 49,
+   "отзывов": 43,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tochka-drive.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 206-11-10"
+   ],
+   "часы": "пн-пт 10:00–23:00; сб,вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_vozhdeniya/4140607392/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "204590682909",
+   "название": "Точка вождения",
+   "seoname": "tochka_vozhdeniya",
+   "адрес": "просп. Космонавтов, 45А, Екатеринбург",
+   "координаты": [
+    60.612593,
+    56.902865
+   ],
+   "рейтинг": 5,
+   "оценок": 38,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tochka-drive.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-41-35"
+   ],
+   "часы": "пн-пт 10:00–23:00; сб,вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_vozhdeniya/204590682909/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "33304083921",
+   "название": "Гений",
+   "seoname": "geniy",
+   "адрес": "ул. Победы, 16, Екатеринбург",
+   "координаты": [
+    60.60513,
+    56.897255
+   ],
+   "рейтинг": 4.9,
+   "оценок": 74,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://geniusauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 320-55-70"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geniy/33304083921/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "1040291558",
+   "название": "Экстрим",
+   "seoname": "ekstrim",
+   "адрес": "Техническая ул., 67",
+   "координаты": [
+    60.519323,
+    56.870584
+   ],
+   "рейтинг": 4.7,
+   "оценок": 210,
+   "отзывов": 88,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://extrimavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 346-31-00",
+    "+7 (932) 704-40-00"
+   ],
+   "часы": "пн-чт 10:00–19:00; пт 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekstrim/1040291558/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "67191540274",
+   "название": "Вектор",
+   "seoname": "vektor",
+   "адрес": "Техническая ул., 32",
+   "координаты": [
+    60.533576,
+    56.866313
+   ],
+   "рейтинг": 5,
+   "оценок": 453,
+   "отзывов": 422,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoschool-vektor.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-09-63"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vektor/67191540274/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "124615497801",
+   "название": "Профессиональный уровень",
+   "seoname": "professionalny_uroven",
+   "адрес": "Техническая ул., 32",
+   "координаты": [
+    60.533682,
+    56.866145
+   ],
+   "рейтинг": 5,
+   "оценок": 39,
+   "отзывов": 34,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.profiekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 872-07-48",
+    "+7 (908) 927-65-13"
+   ],
+   "часы": "пн-пт 09:00–19:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "автодром"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "kaspi_red",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/professionalny_uroven/124615497801/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "1128224507",
+   "название": "Мастер +",
+   "seoname": "master_",
+   "адрес": "Расточная ул., 35",
+   "координаты": [
+    60.517027,
+    56.880679
+   ],
+   "рейтинг": 4.4,
+   "оценок": 112,
+   "отзывов": 55,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mplus96.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 288-83-77",
+    "+7 (900) 197-68-67"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master_/1128224507/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "1213546192",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "ул. Софьи Перовской, 111",
+   "координаты": [
+    60.554485,
+    56.862207
+   ],
+   "рейтинг": 4,
+   "оценок": 25,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (343) 363-81-11",
+    "+7 (343) 201-21-26"
+   ],
+   "часы": "пн-пт 10:00–18:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "medical_board",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/1213546192/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "1243657238",
+   "название": "Педагогика",
+   "seoname": "pedagogika",
+   "адрес": "ул. Испанских Рабочих, 45",
+   "координаты": [
+    60.600993,
+    56.853067
+   ],
+   "рейтинг": 4.5,
+   "оценок": 47,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pedagogika66.ru/"
+   ],
+   "телефоны": [
+    "+7 (912) 643-88-43",
+    "+7 (950) 634-81-38",
+    "+7 (343) 268-94-10"
+   ],
+   "часы": "пн-пт 14:00–20:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "Редакция СМИ"
+   ],
+   "признаки": [
+    "disable_captions",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pedagogika/1243657238/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "1244405794",
+   "название": "Центавр",
+   "seoname": "tsentavr",
+   "адрес": "Техническая ул., 148",
+   "координаты": [
+    60.504494,
+    56.881269
+   ],
+   "рейтинг": 4.3,
+   "оценок": 58,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://centavr66.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 373-63-63",
+    "+7 (900) 198-78-91"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentavr/1244405794/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "1758917163",
+   "название": "Спортивно-техническая школа им. Героя РФ Ивана Марина РО ДОСААФ России Свердловской области",
+   "seoname": "sportivno_tekhnicheskaya_shkola_im_geroya_rf_ivana_marina_ro_dosaaf_rossii_sverdlovskoy_oblasti",
+   "адрес": "Свердловская область, Екатеринбург, жилой район Сортировочный, микрорайон Старая Сортировка",
+   "координаты": [
+    60.496685,
+    56.878456
+   ],
+   "рейтинг": 4,
+   "оценок": 127,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autodosaaf66.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 371-05-71"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sportivno_tekhnicheskaya_shkola_im_geroya_rf_ivana_marina_ro_dosaaf_rossii_sverdlovskoy_oblasti/1758917163/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "1081229469",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "Билимбаевская ул., 26, Екатеринбург",
+   "координаты": [
+    60.511525,
+    56.885005
+   ],
+   "рейтинг": 4.2,
+   "оценок": 24,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-lada.com/",
+    "http://avto-lada.blizko.ru/",
+    "https://taplink.cc/avtoshkola_avtolada"
+   ],
+   "телефоны": [
+    "+7 (343) 363-81-11",
+    "+7 (343) 201-21-97"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "extreme_driving",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/1081229469/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "242480679723",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "ул. Свердлова, 64",
+   "координаты": [
+    60.605472,
+    56.855226
+   ],
+   "рейтинг": 4.3,
+   "оценок": 8,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-lada.com/"
+   ],
+   "телефоны": [
+    "+7 (343) 363-81-11",
+    "+7 (343) 344-86-73",
+    "+7 (343) 344-87-23",
+    "+7 (967) 639-17-23"
+   ],
+   "часы": "пн-пт 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/242480679723/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "43078270494",
+   "название": "УрГУПС, автошкола",
+   "seoname": "urgups_avtoshkola",
+   "адрес": "ул. Колмогорова, 62А",
+   "координаты": [
+    60.575686,
+    56.849987
+   ],
+   "рейтинг": 4,
+   "оценок": 51,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (343) 221-25-95",
+    "+7 (922) 128-87-07",
+    "8 (800) 250-42-00",
+    "+7 (922) 203-22-76"
+   ],
+   "часы": "ежедневно, 08:30–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "инфраструктура образования",
+    "ВУЗ"
+   ],
+   "признаки": [
+    "ramp",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/urgups_avtoshkola/43078270494/",
+   "найдено_по": "автошкола Железнодорожный район"
+  },
+  {
+   "id": "1027385455",
+   "название": "АСпорт",
+   "seoname": "asport",
+   "адрес": "ул. Блюхера, 58",
+   "координаты": [
+    60.670742,
+    56.864473
+   ],
+   "рейтинг": 4.5,
+   "оценок": 66,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://автошкола-аспорт.рф/"
+   ],
+   "телефоны": [
+    "+7 (950) 193-15-71"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "автодром",
+    "медицинская комиссия"
+   ],
+   "признаки": [
+    "extreme_driving",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/asport/1027385455/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "106441362633",
+   "название": "Профессионал",
+   "seoname": "professional",
+   "адрес": "ул. Гагарина, 14",
+   "координаты": [
+    60.644133,
+    56.844406
+   ],
+   "рейтинг": 4.9,
+   "оценок": 44,
+   "отзывов": 30,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://profi196.ru/"
+   ],
+   "телефоны": [
+    "+7 (965) 830-12-37",
+    "+7 (912) 230-20-41",
+    "+7 (343) 206-17-35",
+    "+7 (343) 271-01-92"
+   ],
+   "часы": "пн-пт 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "motocross",
+    "online_classes",
+    "payment_by_credit_card",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/professional/106441362633/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "1180257008",
+   "название": "Профессионал",
+   "seoname": "professional",
+   "адрес": "Сибирский тракт, 8Д",
+   "координаты": [
+    60.64783,
+    56.824335
+   ],
+   "рейтинг": 4.8,
+   "оценок": 69,
+   "отзывов": 42,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://profi196.ru/"
+   ],
+   "телефоны": [
+    "+7 (965) 830-12-37",
+    "+7 (343) 206-17-35",
+    "+7 (982) 717-01-90",
+    "+7 (982) 717-01-93",
+    "+7 (912) 230-20-41"
+   ],
+   "часы": "пн-пт 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "курсы и мастер-классы"
+   ],
+   "признаки": [
+    "car_park",
+    "courses_for_elderly",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "motocross",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/professional/1180257008/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "128549168382",
+   "название": "Экстрим",
+   "seoname": "ekstrim",
+   "адрес": "Якутская ул., 10, Екатеринбург",
+   "координаты": [
+    60.680857,
+    56.782767
+   ],
+   "рейтинг": 4.5,
+   "оценок": 12,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 153-00-00"
+   ],
+   "часы": "пн-пт 12:00–21:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "мотосалон"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekstrim/128549168382/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "159814445296",
+   "название": "Драйвер",
+   "seoname": "drayver",
+   "адрес": "ул. Софьи Ковалевской, 3",
+   "координаты": [
+    60.65595,
+    56.841466
+   ],
+   "рейтинг": 5,
+   "оценок": 79,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (343) 201-20-69",
+    "+7 (953) 601-33-26"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/drayver/159814445296/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "238956492204",
+   "название": "Вектор",
+   "seoname": "vektor",
+   "адрес": "просп. Ленина, 103",
+   "координаты": [
+    60.646799,
+    56.844173
+   ],
+   "рейтинг": 5,
+   "оценок": 691,
+   "отзывов": 628,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoschool-vektor.ru/ekaterinburg"
+   ],
+   "телефоны": [
+    "+7 (343) 364-74-93"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vektor/238956492204/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "198724877830",
+   "название": "Екатеринбургская Автошкола",
+   "seoname": "yekaterinburgskaya_avtoshkola",
+   "адрес": "Сиреневый бул., 15В",
+   "координаты": [
+    60.68885,
+    56.82982
+   ],
+   "рейтинг": 3,
+   "оценок": 39,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtopilot-ekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 219-08-18",
+    "+7 (922) 214-47-00"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "medical_board",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yekaterinburgskaya_avtoshkola/198724877830/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "237334120229",
+   "название": "Зеленый свет",
+   "seoname": "zeleny_svet",
+   "адрес": "ул. Мира, 41",
+   "координаты": [
+    60.657904,
+    56.833775
+   ],
+   "рейтинг": 4.9,
+   "оценок": 28,
+   "отзывов": 21,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://мояавтошкола.рф/"
+   ],
+   "телефоны": [
+    "+7 (343) 305-33-03",
+    "+7 (903) 080-47-41"
+   ],
+   "часы": "пн-пт 13:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "good_place",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zeleny_svet/237334120229/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "1394240501",
+   "название": "Зачет",
+   "seoname": "zachet",
+   "адрес": "ул. Сулимова, 50",
+   "координаты": [
+    60.631797,
+    56.862745
+   ],
+   "рейтинг": 4.3,
+   "оценок": 77,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://zachet.su/"
+   ],
+   "телефоны": [
+    "+7 (922) 210-06-26",
+    "+7 (919) 389-87-87",
+    "+7 (343) 389-87-87"
+   ],
+   "часы": "пн-чт 12:00–20:00; пт 11:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "дополнительное образование",
+    "услуги репетиторов"
+   ],
+   "признаки": [
+    "improving_driver_qualifications",
+    "medical_board",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zachet/1394240501/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "1224823275",
+   "название": "Прайм-авто",
+   "seoname": "praym_avto",
+   "адрес": "Уральская ул., 77",
+   "координаты": [
+    60.640025,
+    56.852734
+   ],
+   "рейтинг": 4,
+   "оценок": 42,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.primeavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 222-30-04",
+    "+7 (343) 222-30-20"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "автодром"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/praym_avto/1224823275/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "1715182103",
+   "название": "Авто-Мастер",
+   "seoname": "avto_master",
+   "адрес": "Комсомольская ул., 71",
+   "координаты": [
+    60.662183,
+    56.835285
+   ],
+   "рейтинг": 4.7,
+   "оценок": 33,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://auto-masta.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-96-06",
+    "+7 (343) 206-20-72"
+   ],
+   "часы": "пн-пт 12:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_master/1715182103/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "114637718223",
+   "название": "Техномотор",
+   "seoname": "tekhnomotor",
+   "адрес": "ул. Блюхера, 58",
+   "координаты": [
+    60.671011,
+    56.864379
+   ],
+   "рейтинг": 5,
+   "оценок": 29,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://technomotorekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 383-89-86",
+    "+7 (900) 207-03-05"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tekhnomotor/114637718223/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "97453036652",
+   "название": "УрФУ",
+   "seoname": "urfu",
+   "адрес": "ул. Софьи Ковалевской, 5",
+   "координаты": [
+    60.655416,
+    56.84275
+   ],
+   "рейтинг": 4.3,
+   "оценок": 54,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://auto.urfu.ru/ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 375-95-07",
+    "+7 (909) 008-88-05",
+    "+7 (953) 601-33-26"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/urfu/97453036652/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "231811889241",
+   "название": "Автовек",
+   "seoname": "avtovek",
+   "адрес": "Советская ул., 20",
+   "координаты": [
+    60.634021,
+    56.852864
+   ],
+   "рейтинг": 4.9,
+   "оценок": 93,
+   "отзывов": 66,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtovec.ru/"
+   ],
+   "телефоны": [
+    "+7 (952) 744-34-64",
+    "+7 (343) 200-60-62",
+    "+7 (343) 202-69-03"
+   ],
+   "часы": "пн-пт 14:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "call_button",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtovek/231811889241/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "1030461532",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "ул. Сулимова, 27, Екатеринбург",
+   "координаты": [
+    60.644195,
+    56.860943
+   ],
+   "рейтинг": 4.1,
+   "оценок": 30,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-lada.com/",
+    "https://taplink.cc/avtoshkola_avtolada"
+   ],
+   "телефоны": [
+    "+7 (343) 363-81-11",
+    "+7 (343) 201-21-21",
+    "+7 (343) 367-80-55",
+    "+7 (922) 133-08-58"
+   ],
+   "часы": "пн-пт 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "extreme_driving",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/1030461532/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "1283610068",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "ул. Владимира Высоцкого, 14",
+   "координаты": [
+    60.68057,
+    56.841362
+   ],
+   "рейтинг": 4.3,
+   "оценок": 11,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-lada.com/",
+    "https://taplink.cc/avtoshkola_avtolada"
+   ],
+   "телефоны": [
+    "+7 (343) 363-81-11",
+    "+7 (343) 344-87-23",
+    "+7 (343) 344-86-73"
+   ],
+   "часы": "пн-пт 10:00–18:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "medical_board",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/1283610068/",
+   "найдено_по": "автошкола Кировский район"
+  },
+  {
+   "id": "53444112467",
+   "название": "Точка вождения",
+   "seoname": "tochka_vozhdeniya",
+   "адрес": "ул. Чкалова, 258, Екатеринбург",
+   "координаты": [
+    60.529375,
+    56.778755
+   ],
+   "рейтинг": 4.7,
+   "оценок": 49,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tochka-drive.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-41-35"
+   ],
+   "часы": "пн-пт 10:00–23:00; сб,вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_vozhdeniya/53444112467/",
+   "найдено_по": "автошкола Ленинский район"
+  },
+  {
+   "id": "209908611966",
+   "название": "Вектор",
+   "seoname": "vektor",
+   "адрес": "Ясная ул., 31",
+   "координаты": [
+    60.567327,
+    56.811355
+   ],
+   "рейтинг": 5,
+   "оценок": 619,
+   "отзывов": 590,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoschool-vektor.ru/ekaterinburg"
+   ],
+   "телефоны": [
+    "+7 (343) 343-09-63"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vektor/209908611966/",
+   "найдено_по": "автошкола Ленинский район"
+  },
+  {
+   "id": "150040331440",
+   "название": "Приоритет",
+   "seoname": "prioritet",
+   "адрес": "Волгоградская ул., 18А",
+   "координаты": [
+    60.591677,
+    56.800062
+   ],
+   "рейтинг": 5,
+   "оценок": 60,
+   "отзывов": 44,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://приоритет66.рф/"
+   ],
+   "телефоны": [
+    "+7 (343) 200-07-95",
+    "+7 (900) 204-44-41"
+   ],
+   "часы": "ежедневно, 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "автодром",
+    "учебный центр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "assessment_qualification_employees",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prioritet/150040331440/",
+   "найдено_по": "автошкола Ленинский район"
+  },
+  {
+   "id": "203554997958",
+   "название": "Автостатус",
+   "seoname": "avtostatus",
+   "адрес": "просп. Ленина, 38А, Екатеринбург",
+   "координаты": [
+    60.61105,
+    56.838774
+   ],
+   "рейтинг": 5,
+   "оценок": 101,
+   "отзывов": 85,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (901) 013-78-11"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 13:00–13:45",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtostatus/203554997958/",
+   "найдено_по": "автошкола Ленинский район"
+  },
+  {
+   "id": "1067629859",
+   "название": "Екатеринбургская автомобильная школа ДОСААФ России",
+   "seoname": "yekaterinburgskaya_avtomobilnaya_shkola_dosaaf_rossii",
+   "адрес": "ул. Воеводина, 6",
+   "координаты": [
+    60.602582,
+    56.834935
+   ],
+   "рейтинг": 3.9,
+   "оценок": 13,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://ekaterinburg.autoschool.dosaaf.ru/",
+    "http://www.avtoschool-ekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 371-16-75"
+   ],
+   "часы": "пн-пт 09:00–16:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "аэроклуб"
+   ],
+   "признаки": [
+    "improving_driver_qualifications",
+    "medical_board",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yekaterinburgskaya_avtomobilnaya_shkola_dosaaf_rossii/1067629859/",
+   "найдено_по": "автошкола Ленинский район"
+  },
+  {
+   "id": "220408566669",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Академика Шварца, 8, корп. 1",
+   "координаты": [
+    60.617378,
+    56.795498
+   ],
+   "рейтинг": 5,
+   "оценок": 251,
+   "отзывов": 169,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-чт 09:30–18:00; пт 09:30–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "учебный центр"
+   ],
+   "признаки": [
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/220408566669/",
+   "найдено_по": "автошкола Ленинский район"
+  },
+  {
+   "id": "1016050295",
+   "название": "Авто-Профи",
+   "seoname": "avto_profi",
+   "адрес": "Волгоградская ул., 45А, Екатеринбург",
+   "координаты": [
+    60.575593,
+    56.802554
+   ],
+   "рейтинг": 4,
+   "оценок": 14,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtoshkola66.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 190-74-14",
+    "+7 (919) 382-03-33"
+   ],
+   "часы": "пн-пт 12:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_profi/1016050295/",
+   "найдено_по": "автошкола Ленинский район"
+  },
+  {
+   "id": "1589970512",
+   "название": "Империя Вождения",
+   "seoname": "imperiya_vozhdeniya",
+   "адрес": "Волгоградская ул., 47Б",
+   "координаты": [
+    60.575447,
+    56.804733
+   ],
+   "рейтинг": 4.5,
+   "оценок": 51,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://imperiya-vozhdeniya.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 206-01-33",
+    "+7 (343) 200-01-33",
+    "+7 (343) 201-29-99",
+    "+7 (343) 200-58-28"
+   ],
+   "часы": "пн-пт 15:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/imperiya_vozhdeniya/1589970512/",
+   "найдено_по": "автошкола Ленинский район"
+  },
+  {
+   "id": "196611822747",
+   "название": "Стк-1",
+   "seoname": "stk_1",
+   "адрес": "ул. Академика Бардина, 21А",
+   "координаты": [
+    60.555153,
+    56.803396
+   ],
+   "рейтинг": 4.2,
+   "оценок": 13,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://stk1-school.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 257-64-57",
+    "+7 (950) 644-45-03",
+    "+7 (912) 048-53-38"
+   ],
+   "часы": "пн,вт 10:00–19:00, перерыв 14:00–15:00; ср 10:00–17:00, перерыв 14:00–15:00; чт 10:00–19:00, перерыв 14:00–15:00; пт 10:00–17:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stk_1/196611822747/",
+   "найдено_по": "автошкола Ленинский район"
+  },
+  {
+   "id": "1040177829",
+   "название": "Калина-Авто",
+   "seoname": "kalina_avto",
+   "адрес": "ул. Спутников, 7, Екатеринбург",
+   "координаты": [
+    60.812912,
+    56.755918
+   ],
+   "рейтинг": 4.9,
+   "оценок": 158,
+   "отзывов": 91,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nou-kalina.ru/"
+   ],
+   "телефоны": [
+    "+7 (904) 384-44-47",
+    "+7 (343) 226-89-39",
+    "+7 (912) 602-50-79",
+    "+7 (950) 208-88-87",
+    "+7 (343) 213-13-76"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kalina_avto/1040177829/",
+   "найдено_по": "автошкола Октябрьский район"
+  },
+  {
+   "id": "219500683431",
+   "название": "Точка вождения",
+   "seoname": "tochka_vozhdeniya",
+   "адрес": "Широкий пер., 6, Екатеринбург",
+   "координаты": [
+    60.651006,
+    56.783171
+   ],
+   "рейтинг": 5,
+   "оценок": 32,
+   "отзывов": 29,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tochka-drive.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-41-35"
+   ],
+   "часы": "пн-пт 10:00–23:00; сб,вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_vozhdeniya/219500683431/",
+   "найдено_по": "автошкола Октябрьский район"
+  },
+  {
+   "id": "1061668440",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "Сибирский тракт, 8Б",
+   "координаты": [
+    60.645536,
+    56.824736
+   ],
+   "рейтинг": 4.9,
+   "оценок": 210,
+   "отзывов": 110,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации"
+   ],
+   "признаки": [
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/1061668440/",
+   "найдено_по": "автошкола Октябрьский район"
+  },
+  {
+   "id": "1133542785",
+   "название": "Свердловская автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "Прибалтийская ул., 11",
+   "координаты": [
+    60.781503,
+    56.788019
+   ],
+   "рейтинг": 5,
+   "оценок": 251,
+   "отзывов": 158,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "ADR_training",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/1133542785/",
+   "найдено_по": "автошкола Октябрьский район"
+  },
+  {
+   "id": "63337199010",
+   "название": "Форвард",
+   "seoname": "forvard",
+   "адрес": "ул. Тверитина, 44",
+   "координаты": [
+    60.621226,
+    56.821986
+   ],
+   "рейтинг": 0,
+   "оценок": 22,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://forward96.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 202-00-12"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/forvard/63337199010/",
+   "найдено_по": "автошкола Октябрьский район"
+  },
+  {
+   "id": "1207292065",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Спутников, 1А",
+   "координаты": [
+    60.815976,
+    56.755441
+   ],
+   "рейтинг": 5,
+   "оценок": 152,
+   "отзывов": 100,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/1207292065/",
+   "найдено_по": "автошкола Октябрьский район"
+  },
+  {
+   "id": "1297842568",
+   "название": "Авто-Мастер",
+   "seoname": "avto_master",
+   "адрес": "ул. Малышева, 85А/1, Екатеринбург",
+   "координаты": [
+    60.628147,
+    56.83831
+   ],
+   "рейтинг": 4.4,
+   "оценок": 70,
+   "отзывов": 34,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.auto-masta.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-96-06"
+   ],
+   "часы": "пн-пт 12:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_master/1297842568/",
+   "найдено_по": "автошкола Октябрьский район"
+  },
+  {
+   "id": "193996026523",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "ул. Куйбышева, 139, Екатеринбург",
+   "координаты": [
+    60.640353,
+    56.830973
+   ],
+   "рейтинг": 4.8,
+   "оценок": 43,
+   "отзывов": 34,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-lada.com/",
+    "https://taplink.cc/avtoshkola_avtolada"
+   ],
+   "телефоны": [
+    "+7 (343) 344-86-73",
+    "+7 (343) 344-87-23",
+    "+7 (343) 363-81-11",
+    "+7 (343) 201-21-87"
+   ],
+   "часы": "пн-пт 10:00–18:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "extreme_driving",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/193996026523/",
+   "найдено_по": "автошкола Октябрьский район"
+  },
+  {
+   "id": "157318491498",
+   "название": "Автостатус",
+   "seoname": "avtostatus",
+   "адрес": "ул. Белинского, 222",
+   "координаты": [
+    60.629422,
+    56.799166
+   ],
+   "рейтинг": 5,
+   "оценок": 204,
+   "отзывов": 184,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (901) 013-78-11"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 13:00–13:45",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "medical_board",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtostatus/157318491498/",
+   "найдено_по": "автошкола Октябрьский район"
+  },
+  {
+   "id": "22734336709",
+   "название": "Вектор",
+   "seoname": "vektor",
+   "адрес": "Родонитовая ул., 18Б",
+   "координаты": [
+    60.62423,
+    56.792297
+   ],
+   "рейтинг": 5,
+   "оценок": 673,
+   "отзывов": 624,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoschool-vektor.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-09-63"
+   ],
+   "часы": "ежедневно, 09:00–21:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vektor/22734336709/",
+   "найдено_по": "автошкола Октябрьский район"
+  },
+  {
+   "id": "1102011643",
+   "название": "Екатеринбургская Автошкола",
+   "seoname": "yekaterinburgskaya_avtoshkola",
+   "адрес": "Хвойная ул., 91",
+   "координаты": [
+    60.769715,
+    56.790519
+   ],
+   "рейтинг": 4.2,
+   "оценок": 24,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtopilot-ekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 219-08-18",
+    "+7 (343) 200-56-00",
+    "+7 (904) 988-71-39"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yekaterinburgskaya_avtoshkola/1102011643/",
+   "найдено_по": "автошкола Октябрьский район"
+  },
+  {
+   "id": "85654462634",
+   "название": "Ultimate Drift School",
+   "seoname": "ultimate_drift_school",
+   "адрес": "ул. Машиностроителей, 31Д",
+   "координаты": [
+    60.585599,
+    56.883774
+   ],
+   "рейтинг": 5,
+   "оценок": 115,
+   "отзывов": 81,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ultimate-drift.ru/"
+   ],
+   "телефоны": [
+    "+7 (982) 640-26-47"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "автодром",
+    "спортивный клуб, секция"
+   ],
+   "признаки": [
+    "extreme_driving",
+    "good_place",
+    "personal_trainer",
+    "preliminary_registration"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ultimate_drift_school/85654462634/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "1199459620",
+   "название": "Вектор",
+   "seoname": "vektor",
+   "адрес": "ул. Восстания, 21",
+   "координаты": [
+    60.605885,
+    56.901546
+   ],
+   "рейтинг": 5,
+   "оценок": 771,
+   "отзывов": 695,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoschool-vektor.ru/ekaterinburg"
+   ],
+   "телефоны": [
+    "+7 (343) 343-09-63"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vektor/1199459620/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "136173232870",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "Совхозная ул., 2",
+   "координаты": [
+    60.621491,
+    56.907116
+   ],
+   "рейтинг": 5,
+   "оценок": 134,
+   "отзывов": 99,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "ADR_training",
+    "disable_captions",
+    "disable_photopoi",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/136173232870/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "183716259001",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Кузнецова, 2Б",
+   "координаты": [
+    60.6078,
+    56.887938
+   ],
+   "рейтинг": 5,
+   "оценок": 182,
+   "отзывов": 136,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "ADR_training",
+    "disable_captions",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/183716259001/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "1037999734",
+   "название": "Центр",
+   "seoname": "tsentr",
+   "адрес": "Успенский просп., 48Б, Верхняя Пышма",
+   "координаты": [
+    60.555467,
+    56.979368
+   ],
+   "рейтинг": 5,
+   "оценок": 352,
+   "отзывов": 290,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://centrpdd.ru/"
+   ],
+   "телефоны": [
+    "+7 (34368) 5-22-00"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr/1037999734/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "41254795539",
+   "название": "АСпорт",
+   "seoname": "asport",
+   "адрес": "просп. Космонавтов, 98А",
+   "координаты": [
+    60.61285,
+    56.911399
+   ],
+   "рейтинг": 5,
+   "оценок": 43,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://автошкола-аспорт.рф/",
+    "https://техномотор-екб.рф/"
+   ],
+   "телефоны": [
+    "+7 (950) 193-15-71",
+    "+7 (900) 207-03-05"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/asport/41254795539/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "147219160382",
+   "название": "Вектор",
+   "seoname": "vektor",
+   "адрес": "ул. Кузнецова, 9/2",
+   "координаты": [
+    60.608035,
+    56.88967
+   ],
+   "рейтинг": 5,
+   "оценок": 255,
+   "отзывов": 249,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoschool-vektor.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-09-63",
+    "+7 (343) 364-77-19"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vektor/147219160382/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "29254498627",
+   "название": "Экспресс М",
+   "seoname": "ekspress_m",
+   "адрес": "ул. Машиностроителей, 29, Екатеринбург",
+   "координаты": [
+    60.585696,
+    56.884529
+   ],
+   "рейтинг": 5,
+   "оценок": 113,
+   "отзывов": 49,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.exspressm.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 213-06-30",
+    "+7 (982) 759-63-50",
+    "+7 (902) 879-31-63"
+   ],
+   "часы": "пн-чт 09:30–18:30; пт 09:30–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "курсы и мастер-классы",
+    "центр повышения квалификации"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekspress_m/29254498627/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "140215864285",
+   "название": "Автостатус",
+   "seoname": "avtostatus",
+   "адрес": "ул. Кузнецова, 2Б",
+   "координаты": [
+    60.607797,
+    56.887679
+   ],
+   "рейтинг": 5,
+   "оценок": 172,
+   "отзывов": 152,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (901) 013-78-11"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 13:00–13:45",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "medical_board"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtostatus/140215864285/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "1123264375",
+   "название": "Элит-Авто",
+   "seoname": "elit_avto",
+   "адрес": "ул. Баумана, 15",
+   "координаты": [
+    60.621508,
+    56.890684
+   ],
+   "рейтинг": 4.7,
+   "оценок": 80,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://elit-avtoshkola.com/"
+   ],
+   "телефоны": [
+    "+7 (343) 271-52-09",
+    "+7 (912) 257-44-40"
+   ],
+   "часы": "пн-пт 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "call_button",
+    "extreme_driving",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/elit_avto/1123264375/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "193579022354",
+   "название": "АСпорт+",
+   "seoname": "asport_",
+   "адрес": "ул. Краснофлотцев, 2А, Екатеринбург",
+   "координаты": [
+    60.616573,
+    56.88616
+   ],
+   "рейтинг": 4.6,
+   "оценок": 17,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://asport-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 213-10-50",
+    "+7 (904) 549-01-22"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "medical_board",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/asport_/193579022354/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "1091700233",
+   "название": "Клаксон",
+   "seoname": "klakson",
+   "адрес": "ул. Красных Командиров, 29",
+   "координаты": [
+    60.628716,
+    56.897876
+   ],
+   "рейтинг": 3.3,
+   "оценок": 43,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.klakson66.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 270-96-69",
+    "+7 (900) 200-62-46"
+   ],
+   "часы": "пн-пт 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "medical_board"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klakson/1091700233/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "1077527093",
+   "название": "Клаксон",
+   "seoname": "klakson",
+   "адрес": "Таганская ул., 51А",
+   "координаты": [
+    60.632522,
+    56.90162
+   ],
+   "рейтинг": 4.2,
+   "оценок": 134,
+   "отзывов": 50,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://klakson66.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 270-96-69",
+    "+7 (900) 200-62-46"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 12:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "improving_driver_qualifications",
+    "medical_board",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klakson/1077527093/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "1132600425",
+   "название": "Прайм-Авто",
+   "seoname": "praym_avto",
+   "адрес": "ул. 40-летия Октября, 63",
+   "координаты": [
+    60.595236,
+    56.901361
+   ],
+   "рейтинг": 4.2,
+   "оценок": 107,
+   "отзывов": 55,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.primeavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 222-30-20"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "автодром"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/praym_avto/1132600425/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "82846951125",
+   "название": "Саланг",
+   "seoname": "salang",
+   "адрес": "ул. Машиностроителей, 16",
+   "координаты": [
+    60.573349,
+    56.885047
+   ],
+   "рейтинг": 4.8,
+   "оценок": 24,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vk.link/salang196"
+   ],
+   "телефоны": [
+    "+7 (902) 260-14-77"
+   ],
+   "часы": "пн-сб 12:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "call_button",
+    "gift_certificate",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/salang/82846951125/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "201022239435",
+   "название": "Техномотор",
+   "seoname": "tekhnomotor",
+   "адрес": "просп. Космонавтов, 98А",
+   "координаты": [
+    60.613114,
+    56.911127
+   ],
+   "рейтинг": 4.7,
+   "оценок": 17,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://technomotorekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 383-89-86",
+    "+7 (900) 207-03-05"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tekhnomotor/201022239435/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "1180666125",
+   "название": "Клаксон",
+   "seoname": "klakson",
+   "адрес": "просп. Космонавтов, 41",
+   "координаты": [
+    60.613069,
+    56.899637
+   ],
+   "рейтинг": 4.2,
+   "оценок": 53,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.klakson66.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 270-96-69"
+   ],
+   "часы": "пн-пт 18:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "medical_board",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klakson/1180666125/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "1002637206",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "просп. Космонавтов, 50А, Екатеринбург",
+   "координаты": [
+    60.615386,
+    56.89055
+   ],
+   "рейтинг": 4.4,
+   "оценок": 29,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avto-lada.com/",
+    "https://taplink.cc/avtoshkola_avtolada"
+   ],
+   "телефоны": [
+    "+7 (950) 645-55-06",
+    "+7 (343) 363-81-11",
+    "+7 (950) 645-58-06"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "extreme_driving",
+    "female_instructor",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/1002637206/",
+   "найдено_по": "автошкола Орджоникидзевский район"
+  },
+  {
+   "id": "22016279041",
+   "название": "Свердловская областная автошкола ВОА",
+   "seoname": "sverdlovskaya_oblastnaya_avtoshkola_voa",
+   "адрес": "ул. Щербакова, 3Б",
+   "координаты": [
+    60.644522,
+    56.789856
+   ],
+   "рейтинг": 4.2,
+   "оценок": 26,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pravavoa.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 290-56-50",
+    "+7 (343) 210-79-93",
+    "+7 (343) 210-70-00"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_oblastnaya_avtoshkola_voa/22016279041/",
+   "найдено_по": "автошкола Чкаловский район"
+  },
+  {
+   "id": "95470309373",
+   "название": "МотоАкадемия",
+   "seoname": "motoakademiya",
+   "адрес": "ул. Василия Ерёмина, 12, Екатеринбург",
+   "координаты": [
+    60.600503,
+    56.844535
+   ],
+   "рейтинг": 5,
+   "оценок": 154,
+   "отзывов": 102,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://moto-academy.org/"
+   ],
+   "телефоны": [
+    "+7 (982) 846-20-20"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб,вс 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотодром",
+    "автодром"
+   ],
+   "признаки": [
+    "extreme_driving",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motoakademiya/95470309373/",
+   "найдено_по": "автошкола Чкаловский район"
+  },
+  {
+   "id": "1380238396",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Патриса Лумумбы, 25",
+   "координаты": [
+    60.599874,
+    56.775381
+   ],
+   "рейтинг": 4.5,
+   "оценок": 101,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "ADR_training",
+    "disable_captions",
+    "disable_photopoi",
+    "extreme_driving",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/1380238396/",
+   "найдено_по": "автошкола Чкаловский район"
+  },
+  {
+   "id": "1030442399",
+   "название": "Т. У. Р. авто",
+   "seoname": "t_u_r_avto",
+   "адрес": "Агрономическая ул., 33, жилой район Вторчермет",
+   "координаты": [
+    60.607155,
+    56.775976
+   ],
+   "рейтинг": 4.2,
+   "оценок": 36,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tur-avto.com/"
+   ],
+   "телефоны": [
+    "+7 (922) 127-68-33",
+    "+7 (343) 210-67-95"
+   ],
+   "часы": "пн 09:00–18:00; вт 10:00–19:00; ср 09:00–18:00; чт 10:00–19:00; пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/t_u_r_avto/1030442399/",
+   "найдено_по": "автошкола Чкаловский район"
+  },
+  {
+   "id": "77871387841",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Грибоедова, 32, корп. 20",
+   "координаты": [
+    60.710078,
+    56.754682
+   ],
+   "рейтинг": 5,
+   "оценок": 99,
+   "отзывов": 66,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/77871387841/",
+   "найдено_по": "автошкола Чкаловский район"
+  },
+  {
+   "id": "1276695427",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "ул. Титова, 11, Екатеринбург",
+   "координаты": [
+    60.610587,
+    56.781812
+   ],
+   "рейтинг": 4.2,
+   "оценок": 25,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avto-lada.com/"
+   ],
+   "телефоны": [
+    "+7 (904) 160-58-31",
+    "+7 (343) 363-81-11"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "improving_driver_qualifications",
+    "medical_board",
+    "payment_by_credit_card",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/1276695427/",
+   "найдено_по": "автошкола Чкаловский район"
+  },
+  {
+   "id": "221384893709",
+   "название": "Свердловская автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Щорса, 29",
+   "координаты": [
+    60.621921,
+    56.80943
+   ],
+   "рейтинг": 5,
+   "оценок": 216,
+   "отзывов": 161,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "центр повышения квалификации",
+    "учебный центр"
+   ],
+   "признаки": [
+    "ADR_training",
+    "disable_captions",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "extreme_driving",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/221384893709/",
+   "найдено_по": "автошкола Чкаловский район"
+  },
+  {
+   "id": "126305927299",
+   "название": "Свердловская Автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "Векторная ул., 13, Екатеринбург",
+   "координаты": [
+    60.567369,
+    56.711847
+   ],
+   "рейтинг": 5,
+   "оценок": 345,
+   "отзывов": 109,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "автодром"
+   ],
+   "признаки": [
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "medical_board",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/126305927299/",
+   "найдено_по": "автошкола Чкаловский район"
+  },
+  {
+   "id": "1084057722",
+   "название": "Т. У. Р. Авто",
+   "seoname": "t_u_r_avto",
+   "адрес": "ул. Грибоедова, 9",
+   "координаты": [
+    60.693543,
+    56.751939
+   ],
+   "рейтинг": 4.4,
+   "оценок": 81,
+   "отзывов": 25,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://tur-avto.com/"
+   ],
+   "телефоны": [
+    "+7 (922) 204-22-10",
+    "+7 (343) 221-77-96"
+   ],
+   "часы": "пн 10:00–19:00; вт 09:00–18:00; ср 10:00–19:00; чт,пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "good_place",
+    "medical_board",
+    "online_classes",
+    "preliminary_registration",
+    "restoring_driving_skills"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/t_u_r_avto/1084057722/",
+   "найдено_по": "автошкола Чкаловский район"
+  },
+  {
+   "id": "85058372564",
+   "название": "Авто-лада",
+   "seoname": "avto_lada",
+   "адрес": "ул. Черняховского, 69Д",
+   "координаты": [
+    60.740984,
+    56.75307
+   ],
+   "рейтинг": 4.4,
+   "оценок": 522,
+   "отзывов": 164,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.avto-lada.com/"
+   ],
+   "телефоны": [
+    "+7 (343) 363-81-11"
+   ],
+   "часы": "ежедневно, 06:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотодром"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "preliminary_registration",
+    "ramp",
+    "restoring_driving_skills",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/85058372564/",
+   "найдено_по": "автошкола Чкаловский район"
+  },
+  {
+   "id": "180533402262",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "Торговая ул., 2",
+   "координаты": [
+    60.710552,
+    56.757135
+   ],
+   "рейтинг": 4.2,
+   "оценок": 14,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avto-lada.com/"
+   ],
+   "телефоны": [
+    "+7 (343) 363-81-11",
+    "+7 (900) 216-48-50"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/180533402262/",
+   "найдено_по": "автошкола Чкаловский район"
+  },
+  {
+   "id": "125451823124",
+   "название": "Свердловская автошкола",
+   "seoname": "sverdlovskaya_avtoshkola",
+   "адрес": "ул. Вильгельма де Геннина, 40",
+   "координаты": [
+    60.517326,
+    56.79153
+   ],
+   "рейтинг": 5,
+   "оценок": 258,
+   "отзывов": 216,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://koltsovoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-54-24"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "учебный центр"
+   ],
+   "признаки": [
+    "ADR_training",
+    "extreme_driving",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "labor_protection_training",
+    "medical_board",
+    "motocross",
+    "online_classes",
+    "payment_by_credit_card",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sverdlovskaya_avtoshkola/125451823124/",
+   "найдено_по": "автошкола Академический район"
+  },
+  {
+   "id": "1090384593",
+   "название": "Автовек",
+   "seoname": "avtovek",
+   "адрес": "ул. Вильгельма де Геннина, 39, Екатеринбург",
+   "координаты": [
+    60.519899,
+    56.790107
+   ],
+   "рейтинг": 4.8,
+   "оценок": 119,
+   "отзывов": 72,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtovec.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 200-60-62",
+    "+7 (900) 204-55-83",
+    "+7 (343) 202-69-01"
+   ],
+   "часы": "пн-пт 13:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "call_button",
+    "extreme_driving",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtovek/1090384593/",
+   "найдено_по": "автошкола Академический район"
+  },
+  {
+   "id": "226926778872",
+   "название": "Империя Вождения",
+   "seoname": "imperiya_vozhdeniya",
+   "адрес": "ул. Павла Шаманова, 15",
+   "координаты": [
+    60.517928,
+    56.787363
+   ],
+   "рейтинг": 4.3,
+   "оценок": 53,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://imperiya-vozhdeniya.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 206-01-33",
+    "+7 (343) 200-01-33",
+    "+7 (922) 600-02-12",
+    "+7 (343) 200-05-33"
+   ],
+   "часы": "пн-пт 15:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/imperiya_vozhdeniya/226926778872/",
+   "найдено_по": "автошкола Академический район"
+  },
+  {
+   "id": "114785852373",
+   "название": "Вектор",
+   "seoname": "vektor",
+   "адрес": "просп. Академика Сахарова, 95/3",
+   "координаты": [
+    60.501607,
+    56.79042
+   ],
+   "рейтинг": 5,
+   "оценок": 706,
+   "отзывов": 650,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avtoschool-vektor.ru/ekaterinburg"
+   ],
+   "телефоны": [
+    "+7 (343) 343-09-63"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vektor/114785852373/",
+   "найдено_по": "автошкола Академический район"
+  },
+  {
+   "id": "154761181628",
+   "название": "Вектор",
+   "seoname": "vektor",
+   "адрес": "ул. Краснолесья, 10/6",
+   "координаты": [
+    60.551907,
+    56.780014
+   ],
+   "рейтинг": 5,
+   "оценок": 252,
+   "отзывов": 244,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoschool-vektor.ru/ekaterinburg",
+    "https://avtoschool-vektor.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-09-63",
+    "8 (800) 511-95-02"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vektor/154761181628/",
+   "найдено_по": "автошкола Академический район"
+  },
+  {
+   "id": "122956603045",
+   "название": "Авто-Лада",
+   "seoname": "avto_lada",
+   "адрес": "ул. Академика Парина, 46/5",
+   "координаты": [
+    60.500753,
+    56.789945
+   ],
+   "рейтинг": 4.7,
+   "оценок": 55,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-lada.com/"
+   ],
+   "телефоны": [
+    "+7 (343) 363-81-11",
+    "+7 (343) 206-40-05"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/122956603045/",
+   "найдено_по": "автошкола Академический район"
+  },
+  {
+   "id": "1192421193",
+   "название": "Пегас-авто",
+   "seoname": "pegas_avto",
+   "адрес": "ул. Краснолесья, 28",
+   "координаты": [
+    60.541971,
+    56.782667
+   ],
+   "рейтинг": 4.6,
+   "оценок": 61,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://pegas-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 870-04-32",
+    "+7 (950) 205-88-48"
+   ],
+   "часы": "пн-сб 10:00–19:00; вс 10:00–12:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "medical_board",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pegas_avto/1192421193/",
+   "найдено_по": "автошкола Академический район"
+  },
+  {
+   "id": "76492834931",
+   "название": "Автостатус",
+   "seoname": "avtostatus",
+   "адрес": "ул. Павла Шаманова, 38",
+   "координаты": [
+    60.512341,
+    56.791394
+   ],
+   "рейтинг": 5,
+   "оценок": 33,
+   "отзывов": 31,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (901) 013-78-11"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 13:00–13:45",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "medical_board",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtostatus/76492834931/",
+   "найдено_по": "автошкола Академический район"
+  },
+  {
+   "id": "190002043899",
+   "название": "Авто-лада",
+   "seoname": "avto_lada",
+   "адрес": "ул. Краснолесья, 12А",
+   "координаты": [
+    60.548232,
+    56.779367
+   ],
+   "рейтинг": 4.8,
+   "оценок": 19,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-lada.com/"
+   ],
+   "телефоны": [
+    "+7 (343) 363-81-11",
+    "+7 (343) 200-07-49",
+    "+7 (902) 877-60-19"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "elevator_wheelchair_accessible",
+    "female_instructor",
+    "gift_certificate",
+    "improving_driver_qualifications",
+    "medical_board",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lada/190002043899/",
+   "найдено_по": "автошкола Академический район"
+  },
+  {
+   "id": "24300288965",
+   "название": "Стк-1",
+   "seoname": "stk_1",
+   "адрес": "просп. Академика Сахарова, 85/2, Екатеринбург",
+   "координаты": [
+    60.503031,
+    56.789473
+   ],
+   "рейтинг": 5,
+   "оценок": 44,
+   "отзывов": 39,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://stk-1-prospekt-akademika-saharova.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (904) 164-20-91",
+    "+7 (343) 257-64-57"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "restoring_driving_skills",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stk_1/24300288965/",
+   "найдено_по": "автошкола Академический район"
+  },
+  {
+   "id": "130784675281",
+   "название": "Экстрим",
+   "seoname": "ekstrim",
+   "адрес": "ул. Евгения Савкова, 35/2",
+   "координаты": [
+    60.488691,
+    56.788614
+   ],
+   "рейтинг": 5,
+   "оценок": 34,
+   "отзывов": 27,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://extrimavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 346-31-00",
+    "+7 (932) 704-40-00"
+   ],
+   "часы": "пн-пт 14:00–21:00; сб 14:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "мотошкола"
+   ],
+   "признаки": [
+    "female_instructor",
+    "gift_certificate",
+    "good_place",
+    "improving_driver_qualifications",
+    "medical_board",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekstrim/130784675281/",
+   "найдено_по": "автошкола Академический район"
+  }
+ ],
+ "расширено_по_районам": true
+}

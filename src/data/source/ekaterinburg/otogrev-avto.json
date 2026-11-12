@@ -1,0 +1,4545 @@
+{
+ "ниша": "Отогрев авто",
+ "ключ": "otogrev-avto",
+ "запросы": [
+  "отогрев авто",
+  "отогрев автомобиля",
+  "запуск автомобиля зимой"
+ ],
+ "найдено_в_яндексе": {
+  "отогрев авто": 4,
+  "отогрев автомобиля": 32,
+  "запуск автомобиля зимой": 1,
+  "отогрев авто Верх-Исетский район": 13,
+  "отогрев авто Железнодорожный район": 32,
+  "отогрев авто Кировский район": 24,
+  "отогрев авто Ленинский район": 1,
+  "отогрев авто Октябрьский район": 6,
+  "отогрев авто Орджоникидзевский район": 28,
+  "отогрев авто Чкаловский район": 7,
+  "отогрев авто Академический район": 1
+ },
+ "дата_съёма": "2026-11-09",
+ "источник": "Яндекс Карты, поиск по Екатеринбургу (регион 54)",
+ "город": "ekaterinburg",
+ "компании": [
+  {
+   "id": "212881395529",
+   "название": "АвтоВыбор",
+   "seoname": "avtovybor",
+   "адрес": "ул. Амундсена, 107",
+   "координаты": [
+    60.553515,
+    56.776592
+   ],
+   "рейтинг": 5,
+   "оценок": 349,
+   "отзывов": 297,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автовыбор-екб.рф/",
+    "https://autovibor-zakaz.ru/"
+   ],
+   "телефоны": [
+    "+7 (901) 634-55-59",
+    "+7 (967) 630-30-03"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "продажа автомобилей с пробегом",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "motopodbor",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtovybor/212881395529/",
+   "последний_отзыв": "2026-11-01",
+   "отзывов_за_12_мес_из_загруженных": 66,
+   "загружено_дат": 74
+  },
+  {
+   "id": "1261200912",
+   "название": "Автовоз",
+   "seoname": "avtovoz",
+   "адрес": "ул. 8 Марта, 13",
+   "координаты": [
+    60.600384,
+    56.836561
+   ],
+   "рейтинг": 5,
+   "оценок": 311,
+   "отзывов": 255,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://2222211.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 372-17-56",
+    "+7 (902) 253-29-20",
+    "+7 (932) 607-90-78",
+    "+7 (343) 204-75-53"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Эвакуация автомобилей",
+    "перевозка автомобилей",
+    "перевозка негабаритных грузов"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "urgent_departure",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtovoz/1261200912/",
+   "последний_отзыв": "2026-08-06",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 84
+  },
+  {
+   "id": "206356378754",
+   "название": "Autolove",
+   "seoname": "autolove",
+   "адрес": "ул. Вайнера, 55",
+   "координаты": [
+    60.599189,
+    56.826964
+   ],
+   "рейтинг": 5,
+   "оценок": 172,
+   "отзывов": 158,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.autolove-ekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (932) 613-55-57",
+    "+7 (932) 612-55-57"
+   ],
+   "часы": "ежедневно, 08:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автоэкспертиза, оценка автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "payment_by_credit_card",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/autolove/206356378754/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 42,
+   "загружено_дат": 52
+  },
+  {
+   "id": "165104499248",
+   "название": "ElexCar",
+   "seoname": "elexcar",
+   "адрес": "ул. 8 Марта, 207А",
+   "координаты": [
+    60.613378,
+    56.788913
+   ],
+   "рейтинг": 5,
+   "оценок": 107,
+   "отзывов": 92,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://элекскар.рф/"
+   ],
+   "телефоны": [
+    "8 (800) 550-05-30"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "перевозка автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "payment_by_credit_card",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/elexcar/165104499248/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 62
+  },
+  {
+   "id": "62416995720",
+   "название": "УралДизель",
+   "seoname": "uraldizel",
+   "адрес": "Берёзовский, территория Западная Промзона, 25/7",
+   "координаты": [
+    60.770146,
+    56.929403
+   ],
+   "рейтинг": 5,
+   "оценок": 197,
+   "отзывов": 84,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.uraldiesel.ru/"
+   ],
+   "телефоны": [
+    "+7 (984) 233-29-08",
+    "+7 (922) 605-43-41",
+    "+7 (912) 222-43-41",
+    "+7 (922) 194-35-07",
+    "8 (800) 222-13-51"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Запчасти для грузовых автомобилей",
+    "эвакуация автомобилей",
+    "авторазбор"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "contract_engines",
+    "delivery",
+    "generators",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "special_equipment_air_conditioners",
+    "starters",
+    "truck_disassembly",
+    "urgent_departure",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/uraldizel/62416995720/",
+   "последний_отзыв": "2025-12-10",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 62
+  },
+  {
+   "id": "102518519445",
+   "название": "Ekb-Cars",
+   "seoname": "ekb_cars",
+   "адрес": "ул. Большакова, 25",
+   "координаты": [
+    60.624092,
+    56.819528
+   ],
+   "рейтинг": 5,
+   "оценок": 94,
+   "отзывов": 79,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ekb-cars66.ru/"
+   ],
+   "телефоны": [
+    "+7 (969) 198-93-88",
+    "+7 (343) 297-84-82"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автодиагностика",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "brokencars",
+    "cars_for_order",
+    "gift_certificate",
+    "guarantee",
+    "motopodbor",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekb_cars/102518519445/",
+   "последний_отзыв": "2025-09-18",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 51
+  },
+  {
+   "id": "177132986811",
+   "название": "Автогранд, Jaecoo",
+   "seoname": "avtogrand_jaecoo",
+   "адрес": "ул. Петрова, 59Б, Верхняя Пышма",
+   "координаты": [
+    60.610518,
+    56.957678
+   ],
+   "рейтинг": 5,
+   "оценок": 143,
+   "отзывов": 70,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.jaecoo-ekt.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 268-89-98"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtogrand_jaecoo/177132986811/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 36,
+   "загружено_дат": 77
+  },
+  {
+   "id": "187165393620",
+   "название": "Азия Экспресс Авто",
+   "seoname": "aziya_ekspress_avto",
+   "адрес": "ул. Черепанова, 23",
+   "координаты": [
+    60.566285,
+    56.85807
+   ],
+   "рейтинг": 5,
+   "оценок": 69,
+   "отзывов": 66,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://asiaexpressauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (982) 748-45-55"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб 10:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион",
+    "автоподбор"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aziya_ekspress_avto/187165393620/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 43,
+   "загружено_дат": 44
+  },
+  {
+   "id": "217449503669",
+   "название": "СЛС Авто",
+   "seoname": "sls_avto",
+   "адрес": "ул. Черняховского, 66",
+   "координаты": [
+    60.72882,
+    56.751754
+   ],
+   "рейтинг": 4.7,
+   "оценок": 124,
+   "отзывов": 63,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 900-47-37"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sls_avto/217449503669/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 64
+  },
+  {
+   "id": "1782238039",
+   "название": "Эвакуатор96",
+   "seoname": "evakuator96",
+   "адрес": "Луганская ул., 59, корп. 1Б",
+   "координаты": [
+    60.646307,
+    56.799049
+   ],
+   "рейтинг": 5,
+   "оценок": 58,
+   "отзывов": 53,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://evacuator96.ru/"
+   ],
+   "телефоны": [
+    "+7 (992) 022-11-99"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Эвакуация автомобилей",
+    "автотехпомощь",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "disable_captions",
+    "field_service",
+    "guarantee",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "urgent_departure"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/evakuator96/1782238039/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 44,
+   "загружено_дат": 64
+  },
+  {
+   "id": "10610093282",
+   "название": "Автоголд",
+   "seoname": "avtogold",
+   "адрес": "просп. Космонавтов, 145В",
+   "координаты": [
+    60.610888,
+    56.930233
+   ],
+   "рейтинг": 4.9,
+   "оценок": 99,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (343) 201-04-04",
+    "+7 (904) 171-04-04"
+   ],
+   "часы": "пн-пт 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "эвакуация автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "self_car_service",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtogold/10610093282/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 43
+  },
+  {
+   "id": "34183477075",
+   "название": "Лебедев Карс",
+   "seoname": "lebedev_kars",
+   "адрес": "Машинная ул., 3А",
+   "координаты": [
+    60.631395,
+    56.812621
+   ],
+   "рейтинг": 5,
+   "оценок": 48,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://lebedevcars.ru/"
+   ],
+   "телефоны": [
+    "+7 (996) 599-29-31"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lebedev_kars/34183477075/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 45
+  },
+  {
+   "id": "219757925417",
+   "название": "Покрас Авто",
+   "seoname": "pokras_avto",
+   "адрес": "Свердловская область, Арамиль",
+   "координаты": [
+    60.850242,
+    56.701348
+   ],
+   "рейтинг": 5,
+   "оценок": 39,
+   "отзывов": 35,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://покраска-автомобиля.рф/"
+   ],
+   "телефоны": [
+    "+7 (932) 115-09-34",
+    "+7 (922) 223-35-88"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "покраска автомобилей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbrushing",
+    "anti_corrosion_treatment",
+    "aquaprint",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "raptor_painting",
+    "removing_dents_without_painting",
+    "sandblasting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "termobudki",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pokras_avto/219757925417/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 55,
+   "загружено_дат": 55
+  },
+  {
+   "id": "164421310893",
+   "название": "Автовоз",
+   "seoname": "avtovoz",
+   "адрес": "пер. Шофёров, 11К",
+   "координаты": [
+    60.671891,
+    56.859212
+   ],
+   "рейтинг": 5,
+   "оценок": 37,
+   "отзывов": 34,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://2222211.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 253-42-35",
+    "+7 (343) 222-22-11"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Эвакуация автомобилей",
+    "перевозка автомобилей",
+    "перевозка негабаритных грузов"
+   ],
+   "признаки": [
+    "disable_captions",
+    "disable_photopoi",
+    "field_service",
+    "gift_certificate",
+    "mobile_tire_service",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "transportation_of_motor_vehicles",
+    "urgent_departure",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtovoz/164421310893/",
+   "последний_отзыв": "2026-05-07",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 45
+  },
+  {
+   "id": "237578206661",
+   "название": "АвтоЮг",
+   "seoname": "avtoyug",
+   "адрес": "ул. Грибоедова, 21А",
+   "координаты": [
+    60.701051,
+    56.754801
+   ],
+   "рейтинг": 4.6,
+   "оценок": 59,
+   "отзывов": 33,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 170-19-11"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "эвакуация автомобилей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "urgent_departure",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoyug/237578206661/",
+   "последний_отзыв": "2026-09-17",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 34
+  },
+  {
+   "id": "18650715791",
+   "название": "Wellars",
+   "seoname": "wellars",
+   "адрес": "ул. Петрова, 59Б, Верхняя Пышма",
+   "координаты": [
+    60.610357,
+    56.956951
+   ],
+   "рейтинг": 4.9,
+   "оценок": 31,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://wellars.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 204-77-88"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/wellars/18650715791/"
+  },
+  {
+   "id": "118975159174",
+   "название": "Спасмастер",
+   "seoname": "spasmaster",
+   "адрес": "Карьерная ул., 16",
+   "координаты": [
+    60.67727,
+    56.81763
+   ],
+   "рейтинг": 4.7,
+   "оценок": 32,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://spasmaster.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 101-99-09"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Эвакуация автомобилей",
+    "перевозка автомобилей"
+   ],
+   "признаки": [
+    "disable_captions",
+    "field_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "transportation_of_motor_vehicles",
+    "urgent_departure"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/spasmaster/118975159174/"
+  },
+  {
+   "id": "122471014355",
+   "название": "Soueast Автобан",
+   "seoname": "soueast_avtoban",
+   "адрес": "ул. Металлургов, 67",
+   "координаты": [
+    60.517314,
+    56.82599
+   ],
+   "рейтинг": 4.4,
+   "оценок": 25,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://soueast-avtoban.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 344-33-00"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/soueast_avtoban/122471014355/"
+  },
+  {
+   "id": "30085623558",
+   "название": "АвтоOne",
+   "seoname": "avtoone",
+   "адрес": "Сибирский тракт, 7-й километр, 1142",
+   "координаты": [
+    60.682947,
+    56.815674
+   ],
+   "рейтинг": 4.6,
+   "оценок": 16,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (993) 503-43-53",
+    "+7 (950) 646-39-30"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автотехпомощь"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_wash",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoone/30085623558/"
+  },
+  {
+   "id": "93003456379",
+   "название": "Восточный ветер",
+   "seoname": "vostochny_veter",
+   "адрес": "Карьерная ул., 17",
+   "координаты": [
+    60.679257,
+    56.817208
+   ],
+   "рейтинг": 4,
+   "оценок": 63,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://vostveter.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 118-48-14"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vostochny_veter/93003456379/"
+  },
+  {
+   "id": "190351557100",
+   "название": "Прокарс",
+   "seoname": "prokars",
+   "адрес": "ул. 8 Марта, 207",
+   "координаты": [
+    60.606483,
+    56.788272
+   ],
+   "рейтинг": 4.5,
+   "оценок": 9,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (999) 287-61-00",
+    "+86 181 86 60 48 10"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "disable_photopoi",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "loan_processing",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prokars/190351557100/"
+  },
+  {
+   "id": "88669481855",
+   "название": "Автогранд, Omoda",
+   "seoname": "avtogrand_omoda",
+   "адрес": "ул. Петрова, 59Б, Верхняя Пышма",
+   "координаты": [
+    60.610904,
+    56.957619
+   ],
+   "рейтинг": 4.7,
+   "оценок": 18,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.omoda-ekt.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 268-89-98"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "loan_processing",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtogrand_omoda/88669481855/"
+  },
+  {
+   "id": "61748455481",
+   "название": "Автосфера",
+   "seoname": "avtosfera",
+   "адрес": "Пролетарская ул., 32А, Верхняя Пышма",
+   "координаты": [
+    60.620411,
+    56.967459
+   ],
+   "рейтинг": 4.4,
+   "оценок": 9,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autosfera96.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 100-11-01"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автодиагностика",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cars_for_order",
+    "disable_captions",
+    "engine_endoscopy",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosfera/61748455481/"
+  },
+  {
+   "id": "53928167943",
+   "название": "Спасмастер",
+   "seoname": "spasmaster",
+   "адрес": "ул. Миномётчиков, 29, корп. 2",
+   "координаты": [
+    60.519025,
+    56.868856
+   ],
+   "рейтинг": 4.3,
+   "оценок": 6,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://spasmaster.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 101-99-09"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Эвакуация автомобилей",
+    "перевозка автомобилей"
+   ],
+   "признаки": [
+    "disable_captions",
+    "field_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "urgent_departure"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/spasmaster/53928167943/"
+  },
+  {
+   "id": "28215757558",
+   "название": "ОсмотрАвто",
+   "seoname": "osmotravto",
+   "адрес": "ул. Фурманова, 126",
+   "координаты": [
+    60.587,
+    56.814168
+   ],
+   "рейтинг": 4.2,
+   "оценок": 3,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://osmotrauto.pro/"
+   ],
+   "телефоны": [
+    "8 (800) 201-24-98"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автоэкспертиза, оценка автомобилей"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/osmotravto/28215757558/"
+  },
+  {
+   "id": "93491449097",
+   "название": "Апельсин МС",
+   "seoname": "apelsin_ms",
+   "адрес": "ул. Начдива Онуфриева, 55",
+   "координаты": [
+    60.564574,
+    56.794338
+   ],
+   "рейтинг": 5,
+   "оценок": 251,
+   "отзывов": 192,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.шинкаекб.рф/"
+   ],
+   "телефоны": [
+    "+7 (343) 226-74-93",
+    "+7 (953) 003-68-77"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "delivery",
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "parking_disabled",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "vulcanization",
+    "wheel_balancing"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/apelsin_ms/93491449097/",
+   "найдено_по": "отогрев авто Верх-Исетский район"
+  },
+  {
+   "id": "143075945471",
+   "название": "Пик",
+   "seoname": "pik",
+   "адрес": "Верх-Исетский бул., 13В",
+   "координаты": [
+    60.57369,
+    56.837948
+   ],
+   "рейтинг": 5,
+   "оценок": 70,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ocenka-pik.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 342-01-27"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Оценочная компания",
+    "автоэкспертиза, оценка автомобилей"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pik/143075945471/",
+   "найдено_по": "отогрев авто Верх-Исетский район"
+  },
+  {
+   "id": "1681694317",
+   "название": "Кардан",
+   "seoname": "kardan",
+   "адрес": "ул. Академика Вонсовского, 1АШ, Екатеринбург",
+   "координаты": [
+    60.55833,
+    56.775908
+   ],
+   "рейтинг": 4.7,
+   "оценок": 594,
+   "отзывов": 316,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://kardan-avto.com/"
+   ],
+   "телефоны": [
+    "+7 (343) 346-05-44",
+    "+7 (996) 899-80-17"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kardan/1681694317/",
+   "найдено_по": "отогрев авто Верх-Исетский район"
+  },
+  {
+   "id": "179555983750",
+   "название": "SWS-сервис",
+   "seoname": "sws_servis",
+   "адрес": "Иркутская ул., 53",
+   "координаты": [
+    60.582827,
+    56.809638
+   ],
+   "рейтинг": 4.9,
+   "оценок": 258,
+   "отзывов": 170,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sws-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 206-11-17"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "flywheel_repair",
+    "good_place",
+    "guarantee",
+    "hydroblock_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "torque_converter_repair",
+    "variator_repair",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sws_servis/179555983750/",
+   "найдено_по": "отогрев авто Верх-Исетский район"
+  },
+  {
+   "id": "178658890305",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Васильковая ул., 1, посёлок Лиственный",
+   "координаты": [
+    60.496963,
+    56.806812
+   ],
+   "рейтинг": 4.7,
+   "оценок": 89,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (982) 701-32-24"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/178658890305/",
+   "найдено_по": "отогрев авто Верх-Исетский район"
+  },
+  {
+   "id": "1055575542",
+   "название": "Экспресс",
+   "seoname": "ekspress",
+   "адрес": "Волгоградская ул., 201",
+   "координаты": [
+    60.544471,
+    56.815342
+   ],
+   "рейтинг": 4.3,
+   "оценок": 47,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (902) 266-86-66",
+    "+7 (912) 250-93-48"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "temporary-closed",
+   "карточка": "https://yandex.ru/maps/org/ekspress/1055575542/",
+   "найдено_по": "отогрев авто Верх-Исетский район"
+  },
+  {
+   "id": "1790957467",
+   "название": "Апельсин",
+   "seoname": "apelsin",
+   "адрес": "Посадская ул., 32А",
+   "координаты": [
+    60.575241,
+    56.820184
+   ],
+   "рейтинг": 5,
+   "оценок": 203,
+   "отзывов": 146,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.шинкаекб.рф/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-47-35",
+    "+7 (904) 179-23-20",
+    "+7 (343) 201-99-20"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "автосервисное и гаражное оборудование",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/apelsin/1790957467/",
+   "найдено_по": "отогрев авто Верх-Исетский район"
+  },
+  {
+   "id": "86133370165",
+   "название": "Rnk Alliance",
+   "seoname": "rnk_alliance",
+   "адрес": "ул. Евгения Савкова, 45/1",
+   "координаты": [
+    60.48088,
+    56.787429
+   ],
+   "рейтинг": 4.9,
+   "оценок": 325,
+   "отзывов": 205,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://rnkalliance.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 200-99-10",
+    "+7 (900) 042-63-33",
+    "+7 (343) 268-88-48",
+    "+7 (953) 044-24-94"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rnk_alliance/86133370165/",
+   "найдено_по": "отогрев авто Верх-Исетский район"
+  },
+  {
+   "id": "143640341361",
+   "название": "Карди",
+   "seoname": "kardi",
+   "адрес": "просп. Космонавтов, 15А, лит.П",
+   "координаты": [
+    60.609674,
+    56.871862
+   ],
+   "рейтинг": 4.8,
+   "оценок": 23,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://okley-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 193-88-05",
+    "+7 (343) 201-68-80"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Оклейка машин",
+    "детейлинг",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "armoring_headlights",
+    "autovinil",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "glass_polishing",
+    "leather_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kardi/143640341361/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "200215636723",
+   "название": "AutoChip",
+   "seoname": "autochip",
+   "адрес": "ул. Монтажников, 32Д",
+   "координаты": [
+    60.515146,
+    56.896672
+   ],
+   "рейтинг": 4.3,
+   "оценок": 9,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autochip66.com/"
+   ],
+   "телефоны": [
+    "+7 (912) 619-26-19"
+   ],
+   "часы": "пн-пт 10:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Студия тюнинга"
+   ],
+   "признаки": [
+    "cars_russification",
+    "chip_tuning",
+    "installation_of_exhaust_systems",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tuning_of_motor_vehicles",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/autochip/200215636723/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "1619677702",
+   "название": "АвтоКонтинент Плюс",
+   "seoname": "avtokontinent_plyus",
+   "адрес": "Артинская ул., 20Б",
+   "координаты": [
+    60.589929,
+    56.869533
+   ],
+   "рейтинг": 4.6,
+   "оценок": 467,
+   "отзывов": 195,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autocontentplus.ru/"
+   ],
+   "телефоны": [
+    "+7 (982) 745-99-39"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт рулевых реек",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokontinent_plyus/1619677702/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "86245891810",
+   "название": "СпецСервис Про",
+   "seoname": "spetsservis_pro",
+   "адрес": "Артинская ул., 24, Екатеринбург",
+   "координаты": [
+    60.58406,
+    56.868417
+   ],
+   "рейтинг": 4.8,
+   "оценок": 154,
+   "отзывов": 73,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://specservis.pro/"
+   ],
+   "телефоны": [
+    "+7 (995) 564-14-61",
+    "+7 (343) 361-43-58"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомобильные радиаторы",
+    "ремонт двигателей",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "certified_service",
+    "delivery",
+    "engine_endoscopy",
+    "for_passenger_cars",
+    "for_trucks",
+    "guarantee",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "repairs",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "stove_radiator_washing",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/spetsservis_pro/86245891810/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "29644210190",
+   "название": "Ваговский",
+   "seoname": "vagovskiy",
+   "адрес": "ул. Крупносортщиков, 14",
+   "координаты": [
+    60.565544,
+    56.862885
+   ],
+   "рейтинг": 4.7,
+   "оценок": 62,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vagowskii.ru/"
+   ],
+   "телефоны": [
+    "+7 (965) 830-10-41"
+   ],
+   "часы": "пн-пт 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vagovskiy/29644210190/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "13886847718",
+   "название": "Юнис-Авто",
+   "seoname": "yunis_avto",
+   "адрес": "Маневровая ул., 31, стр. 1",
+   "координаты": [
+    60.525205,
+    56.880056
+   ],
+   "рейтинг": 5,
+   "оценок": 193,
+   "отзывов": 101,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://юнис-авто.рф/"
+   ],
+   "телефоны": [
+    "+7 (967) 635-59-90",
+    "+7 (922) 510-00-09",
+    "+7 (982) 728-73-88"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "field_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yunis_avto/13886847718/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "119272282535",
+   "название": "AvtoGin",
+   "seoname": "avtogin",
+   "адрес": "Завокзальная ул., 36",
+   "координаты": [
+    60.594987,
+    56.865174
+   ],
+   "рейтинг": 5,
+   "оценок": 35,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtogin.ru/"
+   ],
+   "телефоны": [
+    "+7 (993) 773-10-00"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "автоподбор"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtogin/119272282535/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "94734962413",
+   "название": "Правый Поворот",
+   "seoname": "pravy_povorot",
+   "адрес": "ул. Миномётчиков, 74",
+   "координаты": [
+    60.51249,
+    56.87231
+   ],
+   "рейтинг": 4.9,
+   "оценок": 386,
+   "отзывов": 205,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://сто100.рф/"
+   ],
+   "телефоны": [
+    "+7 (343) 253-91-24"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "моторные масла",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_accessories",
+    "car_floor_mats",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pravy_povorot/94734962413/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "19227019580",
+   "название": "Вебасто Урал",
+   "seoname": "vebasto_ural",
+   "адрес": "ул. Мамина-Сибиряка, 14",
+   "координаты": [
+    60.612631,
+    56.851804
+   ],
+   "рейтинг": 5,
+   "оценок": 479,
+   "отзывов": 274,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://webasto-ural.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 302-26-80"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомобильные отопители",
+    "заправка автокондиционеров",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "delivery",
+    "disable_photopoi",
+    "engine_preheaters",
+    "gift_certificate",
+    "installation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "stove_radiator_washing",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vebasto_ural/19227019580/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "154156320619",
+   "название": "Автоэвакуатор.рф",
+   "seoname": "avtoevakuator_rf",
+   "адрес": "Мельковская ул., 12А",
+   "координаты": [
+    60.59866,
+    56.849551
+   ],
+   "рейтинг": 4.5,
+   "оценок": 18,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автоэвакуатор.рф/"
+   ],
+   "телефоны": [
+    "+7 (922) 196-22-21"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Эвакуация автомобилей",
+    "перевозка автомобилей",
+    "перевозка негабаритных грузов"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "field_service",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "transportation_of_motor_vehicles",
+    "urgent_departure",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoevakuator_rf/154156320619/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "207168212146",
+   "название": "Каретный Двор",
+   "seoname": "karetny_dvor",
+   "адрес": "Ереванская ул., 6",
+   "координаты": [
+    60.579611,
+    56.863208
+   ],
+   "рейтинг": 5,
+   "оценок": 78,
+   "отзывов": 45,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (982) 611-11-36"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/karetny_dvor/207168212146/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "159799368050",
+   "название": "Регион-Авто 96",
+   "seoname": "region_avto_96",
+   "адрес": "Авангардная ул., 13, лит.А, жилой район Уралмаш",
+   "координаты": [
+    60.606015,
+    56.892014
+   ],
+   "рейтинг": 3.6,
+   "оценок": 12,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 289-97-58",
+    "+7 (999) 559-24-33"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "body_repair",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/region_avto_96/159799368050/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "52422811722",
+   "название": "АвтоПрофСервис",
+   "seoname": "avtoprofservis",
+   "адрес": "Автомагистральная ул., 4А",
+   "координаты": [
+    60.566737,
+    56.867552
+   ],
+   "рейтинг": 4,
+   "оценок": 10,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 227-00-06"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprofservis/52422811722/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "109354854234",
+   "название": "AvtoTemp",
+   "seoname": "avtotemp",
+   "адрес": "ул. Культуры, 2А",
+   "координаты": [
+    60.59107,
+    56.886744
+   ],
+   "рейтинг": 4.3,
+   "оценок": 14,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (962) 313-20-00",
+    "+7 (912) 697-50-37"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotemp/109354854234/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "212410489322",
+   "название": "ГудАвто",
+   "seoname": "gudavto",
+   "адрес": "ул. Машинистов, 2Д/1",
+   "координаты": [
+    60.576168,
+    56.852993
+   ],
+   "рейтинг": 4.5,
+   "оценок": 102,
+   "отзывов": 53,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 123-70-24",
+    "+7 (343) 328-14-08"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gudavto/212410489322/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "6959137491",
+   "название": "Другавто",
+   "seoname": "drugavto",
+   "адрес": "ул. Монтажников, 2А",
+   "координаты": [
+    60.54354,
+    56.881345
+   ],
+   "рейтинг": 4.2,
+   "оценок": 10,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://drugavto.gorpom.ru/"
+   ],
+   "телефоны": [
+    "+7 (912) 697-14-40",
+    "+7 (953) 054-43-54",
+    "+7 (343) 207-60-30"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "body_repair",
+    "car_park",
+    "diesel_service",
+    "freight_car_service",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/drugavto/6959137491/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "1102276447",
+   "название": "М-авто",
+   "seoname": "m_avto",
+   "адрес": "Выездной пер., 3Е",
+   "координаты": [
+    60.580506,
+    56.857604
+   ],
+   "рейтинг": 4.3,
+   "оценок": 93,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://m-autoprokat.ru/avtoservis",
+    "http://m-autoprokat.ru/"
+   ],
+   "телефоны": [
+    "+7 (904) 176-76-34",
+    "+7 (343) 269-30-75"
+   ],
+   "часы": "пн-пт 09:30–20:00; сб 09:30–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/m_avto/1102276447/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "1035520663",
+   "название": "Автоколонна 1212",
+   "seoname": "avtokolonna_1212",
+   "адрес": "Свердловская область, муниципальное образование Екатеринбург, Железнодорожный район",
+   "координаты": [
+    60.595951,
+    56.86541
+   ],
+   "рейтинг": 4.2,
+   "оценок": 57,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.ak1212.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 217-07-12",
+    "+7 (343) 217-07-12"
+   ],
+   "часы": "пн-пт 08:00–17:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомобильные грузоперевозки",
+    "ремонт грузовых автомобилей",
+    "контейнерные перевозки"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "guarantee",
+    "office_or_warehouse",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokolonna_1212/1035520663/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "228072611314",
+   "название": "EkbCarCare",
+   "seoname": "ekbcarcare",
+   "адрес": "ул. Черепанова, 23",
+   "координаты": [
+    60.566285,
+    56.85807
+   ],
+   "рейтинг": 5,
+   "оценок": 27,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://ekbcarcare.ru/"
+   ],
+   "телефоны": [
+    "+7 (912) 260-63-33"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автосвет",
+    "автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "bike_parking",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "gift_certificate",
+    "glass_polishing",
+    "leather_repair",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekbcarcare/228072611314/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "35415836158",
+   "название": "CarSTO",
+   "seoname": "carsto",
+   "адрес": "ул. Монтажников, 18А",
+   "координаты": [
+    60.524831,
+    56.888662
+   ],
+   "рейтинг": 4.2,
+   "оценок": 19,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://carsto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (343) 383-04-04",
+    "+7 (922) 183-04-04"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carsto/35415836158/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "15592914321",
+   "название": "Автосервис Стрим Авто",
+   "seoname": "avtoservis_strim_avto",
+   "адрес": "Маневровая ул., 9",
+   "координаты": [
+    60.514549,
+    56.872426
+   ],
+   "рейтинг": 4.9,
+   "оценок": 81,
+   "отзывов": 38,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.strimauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 509-08-51"
+   ],
+   "часы": "пн-пт 09:30–19:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automotive_products",
+    "car_park",
+    "generators",
+    "good_place",
+    "guarantee",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_strim_avto/15592914321/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "1146745280",
+   "название": "Автотранс-сервис",
+   "seoname": "avtotrans_servis",
+   "адрес": "ул. Монтажников, 6",
+   "координаты": [
+    60.537172,
+    56.883211
+   ],
+   "рейтинг": 4,
+   "оценок": 103,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (343) 389-17-65",
+    "+7 (922) 141-72-18",
+    "+7 (343) 383-50-04",
+    "+7 (922) 219-52-17",
+    "+7 (343) 389-17-66",
+    "+7 (922) 186-37-37",
+    "+7 (912) 261-20-50",
+    "+7 (922) 141-71-36"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "car_wash",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotrans_servis/1146745280/",
+   "найдено_по": "отогрев авто Железнодорожный район"
+  },
+  {
+   "id": "13726496918",
+   "название": "Автомир, Belgee",
+   "seoname": "avtomir_belgee",
+   "адрес": "ул. Новгородцевой, 4А",
+   "координаты": [
+    60.668765,
+    56.835348
+   ],
+   "рейтинг": 5,
+   "оценок": 517,
+   "отзывов": 319,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ekt.avtomir.ru/new-cars/belgee/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-18-39"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_belgee/13726496918/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "145332316866",
+   "название": "Автотрон",
+   "seoname": "avtotron",
+   "адрес": "ул. Малышева, 128",
+   "координаты": [
+    60.647856,
+    56.839555
+   ],
+   "рейтинг": 4.8,
+   "оценок": 676,
+   "отзывов": 287,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://auto-tron.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 344-48-70"
+   ],
+   "часы": "пн-пт 08:30–20:00; сб,вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автокосметика, автохимия",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "car_park",
+    "delivery",
+    "disable_captions",
+    "disable_photopoi",
+    "generators",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotron/145332316866/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "170673419799",
+   "название": "Автомир, Livan",
+   "seoname": "avtomir_livan",
+   "адрес": "ул. Новгородцевой, 4А",
+   "координаты": [
+    60.668765,
+    56.835348
+   ],
+   "рейтинг": 4.9,
+   "оценок": 56,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ekt.avtomir.ru/service/livan/locksmith/"
+   ],
+   "телефоны": [
+    "+7 (343) 226-94-50"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_livan/170673419799/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "1263331608",
+   "название": "Римэкс",
+   "seoname": "rimeks",
+   "адрес": "ул. Учителей, 32А, Екатеринбург",
+   "координаты": [
+    60.634689,
+    56.869113
+   ],
+   "рейтинг": 4.3,
+   "оценок": 866,
+   "отзывов": 380,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://rimeks.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 226-09-82",
+    "8 (800) 300-05-00"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rimeks/1263331608/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "238133175600",
+   "название": "Автомир, Tenet Plus",
+   "seoname": "avtomir_tenet_plus",
+   "адрес": "ул. Новгородцевой, 4А",
+   "координаты": [
+    60.668765,
+    56.835348
+   ],
+   "рейтинг": 4.2,
+   "оценок": 8,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ekt.avtomir.ru/new-cars/tenet-plus/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-29-98"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_tenet_plus/238133175600/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "66700539343",
+   "название": "Автомир, Ford",
+   "seoname": "avtomir_ford",
+   "адрес": "ул. Новгородцевой, 4Б",
+   "координаты": [
+    60.669299,
+    56.834377
+   ],
+   "рейтинг": 4.9,
+   "оценок": 910,
+   "отзывов": 490,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ekt.ford-avtomir.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 343-03-14"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_ford/66700539343/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "98939206237",
+   "название": "AutoFriends",
+   "seoname": "autofriends",
+   "адрес": "пер. Шофёров, 3",
+   "координаты": [
+    60.668342,
+    56.861179
+   ],
+   "рейтинг": 5,
+   "оценок": 73,
+   "отзывов": 54,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autofriends-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (901) 249-83-04"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "good_place",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/autofriends/98939206237/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "1125179035",
+   "название": "АвтоStar",
+   "seoname": "avtostar",
+   "адрес": "ул. 40-летия Комсомола, 12",
+   "координаты": [
+    60.693622,
+    56.832927
+   ],
+   "рейтинг": 4.6,
+   "оценок": 206,
+   "отзывов": 88,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtostar-ulitsa-40-letija-komsomola.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (343) 346-05-06",
+    "+7 (919) 360-60-05"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "смазочные материалы",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "disable_captions",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtostar/1125179035/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "78140289035",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "Проезжая ул., 5, Екатеринбург",
+   "координаты": [
+    60.67734,
+    56.86902
+   ],
+   "рейтинг": 4.7,
+   "оценок": 61,
+   "отзывов": 40,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ekaterinburg.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 266-31-67"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/78140289035/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "4276112411",
+   "название": "КарТоп",
+   "seoname": "kartop",
+   "адрес": "ул. Искровцев, 40, корп. 5",
+   "координаты": [
+    60.682545,
+    56.87773
+   ],
+   "рейтинг": 4.7,
+   "оценок": 14,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kartop.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (963) 850-90-06"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "sandblasting",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kartop/4276112411/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "228905679552",
+   "название": "Garage",
+   "seoname": "garage",
+   "адрес": "ул. Смазчиков, 3",
+   "координаты": [
+    60.619234,
+    56.860031
+   ],
+   "рейтинг": 5,
+   "оценок": 57,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (902) 279-96-96",
+    "+7 (343) 290-04-05"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "chip_tuning",
+    "field_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "temporary-closed",
+   "карточка": "https://yandex.ru/maps/org/garage/228905679552/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "17581603948",
+   "название": "Автосервис у Суворова",
+   "seoname": "avtoservis_u_suvorova",
+   "адрес": "Свердловская область, Екатеринбург, улица Шахта Партизан",
+   "координаты": [
+    60.725834,
+    56.907143
+   ],
+   "рейтинг": 4.4,
+   "оценок": 10,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 985-18-13",
+    "+7 (912) 971-25-91"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "field_service",
+    "preliminary_registration",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_u_suvorova/17581603948/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "213960537615",
+   "название": "Сервисавтомастер",
+   "seoname": "servisavtomaster",
+   "адрес": "Кольцевая ул., 4, корп. 1, Берёзовский",
+   "координаты": [
+    60.767858,
+    56.898063
+   ],
+   "рейтинг": 4.2,
+   "оценок": 7,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://serviseautomaster.ru/"
+   ],
+   "телефоны": [],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/servisavtomaster/213960537615/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "10929897218",
+   "название": "Автосервис на Исакова",
+   "seoname": "avtoservis_na_isakova",
+   "адрес": "ул. Исакова, 49А, Берёзовский",
+   "координаты": [
+    60.806423,
+    56.906886
+   ],
+   "рейтинг": 4,
+   "оценок": 4,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtoservis-na-isakova.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (912) 616-49-37"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_na_isakova/10929897218/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "219269154884",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "просп. Космонавтов, 136",
+   "координаты": [
+    60.614785,
+    56.92762
+   ],
+   "рейтинг": 4.3,
+   "оценок": 20,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "payment_by_credit_card",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/219269154884/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "1093435179",
+   "название": "Мистер авто",
+   "seoname": "mister_avto",
+   "адрес": "Латвийская ул., 2Г",
+   "координаты": [
+    60.783425,
+    56.787322
+   ],
+   "рейтинг": 4.2,
+   "оценок": 219,
+   "отзывов": 67,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://мистеравто.рф/",
+    "http://mrauto96.com/"
+   ],
+   "телефоны": [
+    "+7 (343) 236-40-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_wash",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mister_avto/1093435179/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "240652195813",
+   "название": "Autodoctor",
+   "seoname": "autodoctor",
+   "адрес": "ул. Фронтовых Бригад, 13",
+   "координаты": [
+    60.625134,
+    56.879348
+   ],
+   "рейтинг": 4.3,
+   "оценок": 33,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (965) 506-86-14"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "payment_by_credit_card",
+    "pickup",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "vulcanization",
+    "wheel_alignment",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/autodoctor/240652195813/",
+   "найдено_по": "отогрев авто Кировский район"
+  },
+  {
+   "id": "242838544217",
+   "название": "Отогрев Авто",
+   "seoname": "otogrev_avto",
+   "адрес": "ул. Бархатовой, 1, корп. 2, микрорайон Заозёрный, Омск",
+   "координаты": [
+    73.327647,
+    55.049383
+   ],
+   "рейтинг": 4.3,
+   "оценок": 12,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://otogrevavto55.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 316-10-27"
+   ],
+   "часы": "ежедневно, 06:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автотехпомощь",
+    "эвакуация автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "field_service",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "street_entrance",
+    "urgent_departure"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/otogrev_avto/242838544217/",
+   "найдено_по": "отогрев авто Октябрьский район"
+  },
+  {
+   "id": "196948753749",
+   "название": "Отогрев Авто",
+   "seoname": "otogrev_avto",
+   "адрес": "ул. Демьяна Бедного, 3/4, Омск",
+   "координаты": [
+    73.418284,
+    54.933502
+   ],
+   "рейтинг": 4.7,
+   "оценок": 13,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://otogrev55.ru/"
+   ],
+   "телефоны": [
+    "+7 (909) 535-33-55"
+   ],
+   "часы": "ежедневно, 07:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автотехпомощь",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "commercial_vehicles_repair",
+    "field_service",
+    "onsite_diagnostics_cars",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/otogrev_avto/196948753749/",
+   "найдено_по": "отогрев авто Октябрьский район"
+  },
+  {
+   "id": "142957951948",
+   "название": "Отогрев авто",
+   "seoname": "otogrev_avto",
+   "адрес": "ул. Химиков, 60, Омск",
+   "координаты": [
+    73.306165,
+    55.057492
+   ],
+   "рейтинг": 4.2,
+   "оценок": 3,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://otogrevavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 333-20-20"
+   ],
+   "часы": "ежедневно, 06:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автотехпомощь",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "field_service",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "street_entrance",
+    "urgent_departure"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/otogrev_avto/142957951948/",
+   "найдено_по": "отогрев авто Октябрьский район"
+  },
+  {
+   "id": "1214453681",
+   "название": "Разборлевыйруль",
+   "seoname": "razborlevyyrul",
+   "адрес": "ул. Фронтовых Бригад, 35Д",
+   "координаты": [
+    60.659868,
+    56.887431
+   ],
+   "рейтинг": 4.5,
+   "оценок": 474,
+   "отзывов": 224,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://sv-company.ru/",
+    "http://разборлевыйруль.рф/"
+   ],
+   "телефоны": [
+    "8 (800) 222-68-00",
+    "+7 (343) 383-28-83",
+    "+7 (912) 035-18-11",
+    "+7 (912) 241-66-88"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Авторазбор",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "automotive_products",
+    "car_park",
+    "contract_engines",
+    "delivery",
+    "hinged_equipment",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/razborlevyyrul/1214453681/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "1192221690",
+   "название": "Разбор66",
+   "seoname": "razbor66",
+   "адрес": "просп. Космонавтов, 258/2",
+   "координаты": [
+    60.62875,
+    56.943223
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1574,
+   "отзывов": 522,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://razbor66.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 288-40-93",
+    "8 (800) 100-59-70",
+    "+7 (953) 051-28-15",
+    "+7 (952) 139-69-33",
+    "+7 (999) 568-46-90"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Авторазбор",
+    "выкуп автомобилей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automotive_products",
+    "brokencars",
+    "car_park",
+    "contract_engines",
+    "delivery",
+    "gas_stops",
+    "generators",
+    "hinged_equipment",
+    "hydraulic_cylinders",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "spare_parts",
+    "starters",
+    "toilet"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/razbor66/1192221690/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "1133529696",
+   "название": "Ниссан клуб",
+   "seoname": "nissan_klub",
+   "адрес": "Кислородная ул., 7, Екатеринбург",
+   "координаты": [
+    60.614691,
+    56.865805
+   ],
+   "рейтинг": 4.4,
+   "оценок": 753,
+   "отзывов": 307,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.nissan66.ru/"
+   ],
+   "телефоны": [
+    "+7 (912) 222-99-21",
+    "+7 (343) 214-28-08"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "delivery",
+    "generators",
+    "guarantee",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nissan_klub/1133529696/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "231690056805",
+   "название": "Автотрейд",
+   "seoname": "avtotreyd",
+   "адрес": "ул. Лукиных, 1Б/55",
+   "координаты": [
+    60.577064,
+    56.881776
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1464,
+   "отзывов": 588,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autotrade.su/"
+   ],
+   "телефоны": [
+    "+7 (343) 228-74-12",
+    "8 (800) 555-71-68"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "automotive_products",
+    "car_park",
+    "delivery",
+    "payment_by_credit_card",
+    "pickup",
+    "spare_parts",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotreyd/231690056805/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "1107450661",
+   "название": "Авто-Лидер, Хёндэ",
+   "seoname": "avto_lider_khyonde",
+   "адрес": "просп. Космонавтов, 8",
+   "координаты": [
+    60.612384,
+    56.865831
+   ],
+   "рейтинг": 4.6,
+   "оценок": 921,
+   "отзывов": 327,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.hyundai-al.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 363-86-57"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "good_place",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lider_khyonde/1107450661/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "201458159852",
+   "название": "Hyundai Авто-Лидер",
+   "seoname": "hyundai_avto_lider",
+   "адрес": "Шефская ул., 2кГ2",
+   "координаты": [
+    60.661039,
+    56.874192
+   ],
+   "рейтинг": 4.8,
+   "оценок": 937,
+   "отзывов": 315,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.hyundai-al.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 364-41-34"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "electric car charging station",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/hyundai_avto_lider/201458159852/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "8197358150",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Старых Большевиков, 1А, Екатеринбург",
+   "координаты": [
+    60.637405,
+    56.884006
+   ],
+   "рейтинг": 4.2,
+   "оценок": 206,
+   "отзывов": 130,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ekaterinburg.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 266-31-67"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/8197358150/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "163629967128",
+   "название": "Автотрейд",
+   "seoname": "avtotreyd",
+   "адрес": "ул. Лукиных, 1Б/60",
+   "координаты": [
+    60.57622,
+    56.880066
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1107,
+   "отзывов": 496,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autosteklo.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 555-54-15",
+    "+7 (343) 227-66-65"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "delivery",
+    "glass_tinting",
+    "good_place",
+    "installation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotreyd/163629967128/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "1089980481",
+   "название": "Автоmasster",
+   "seoname": "avtomasster",
+   "адрес": "Шефская ул., 97",
+   "координаты": [
+    60.619639,
+    56.9079
+   ],
+   "рейтинг": 4.5,
+   "оценок": 134,
+   "отзывов": 81,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://automasster.com/"
+   ],
+   "телефоны": [
+    "+7 (343) 227-71-11",
+    "+7 (922) 151-45-88"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_photopoi",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomasster/1089980481/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "1686141482",
+   "название": "Автоmobile",
+   "seoname": "avtomobile",
+   "адрес": "Ереванская ул., 20",
+   "координаты": [
+    60.578216,
+    56.864372
+   ],
+   "рейтинг": 4.7,
+   "оценок": 235,
+   "отзывов": 71,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mashine.parts/"
+   ],
+   "телефоны": [
+    "+7 (953) 829-90-03",
+    "+7 (999) 497-70-06",
+    "+7 (902) 151-92-51"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "automotive_products",
+    "basic_service",
+    "car_floor_mats",
+    "car_park",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomobile/1686141482/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "78667343000",
+   "название": "Автоаура",
+   "seoname": "avtoaura",
+   "адрес": "просп. Космонавтов, 103А, корп. 1",
+   "координаты": [
+    60.611971,
+    56.926527
+   ],
+   "рейтинг": 4.9,
+   "оценок": 98,
+   "отзывов": 53,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://autoaura.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 914-11-35",
+    "+7 (343) 268-11-67"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосигнализация",
+    "тонирование автостёкол",
+    "автоакустика"
+   ],
+   "признаки": [
+    "armoring_headlights",
+    "gift_certificate",
+    "installation",
+    "installing_car_audio",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoaura/78667343000/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "82712141627",
+   "название": "Созвездие",
+   "seoname": "sozvezdiye",
+   "адрес": "Шефская ул., 1Б",
+   "координаты": [
+    60.669926,
+    56.86764
+   ],
+   "рейтинг": 4.1,
+   "оценок": 8,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sto-sozvezdie.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 271-91-00"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "freight_car_service",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sozvezdiye/82712141627/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "74141668445",
+   "название": "Автомоё",
+   "seoname": "avtomoyo",
+   "адрес": "Донбасская ул., 1, жилой район Уралмаш",
+   "координаты": [
+    60.570354,
+    56.892527
+   ],
+   "рейтинг": 4.3,
+   "оценок": 23,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ufa.avtomoe.com/addresses-of-shops"
+   ],
+   "телефоны": [
+    "+7 (343) 227-22-28"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyo/74141668445/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "220805355862",
+   "название": "Автодоктор",
+   "seoname": "avtodoktor",
+   "адрес": "Промышленный пр., 11",
+   "координаты": [
+    60.672915,
+    56.880437
+   ],
+   "рейтинг": 4.4,
+   "оценок": 11,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (343) 207-96-66",
+    "+7 (922) 222-99-34",
+    "+7 (922) 222-94-77",
+    "+7 (922) 222-94-67"
+   ],
+   "часы": "пн-сб 11:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodoktor/220805355862/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "210673920476",
+   "название": "Миксавто",
+   "seoname": "miksavto",
+   "адрес": "ул. Фронтовых Бригад, 15, корп. 30",
+   "координаты": [
+    60.629144,
+    56.880749
+   ],
+   "рейтинг": 4.4,
+   "оценок": 260,
+   "отзывов": 117,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://mixauto-ekb.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 253-98-14",
+    "+7 (967) 639-54-20",
+    "+7 (343) 333-58-25"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/miksavto/210673920476/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "178594415837",
+   "название": "Просто Авто",
+   "seoname": "prosto_avto",
+   "адрес": "ул. Лукиных, 3А, корп. 1",
+   "координаты": [
+    60.569205,
+    56.88106
+   ],
+   "рейтинг": 4.3,
+   "оценок": 12,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 178-01-20"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prosto_avto/178594415837/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "224956502439",
+   "название": "Авто-Е",
+   "seoname": "avto_ye",
+   "адрес": "Таватуйская ул., 20",
+   "координаты": [
+    60.534428,
+    56.872253
+   ],
+   "рейтинг": 4.3,
+   "оценок": 158,
+   "отзывов": 51,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (902) 409-29-09",
+    "+7 (343) 207-01-07",
+    "+7 (343) 290-29-09"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00; вс 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "car_park",
+    "payment_by_credit_card",
+    "pickup",
+    "spare_parts",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_ye/224956502439/",
+   "найдено_по": "отогрев авто Орджоникидзевский район"
+  },
+  {
+   "id": "1034962931",
+   "название": "Тойота центр Екатеринбург Юг",
+   "seoname": "toyota_tsentr_yekaterinburg_yug",
+   "адрес": "2-я Новосибирская ул., 2",
+   "координаты": [
+    60.589201,
+    56.761892
+   ],
+   "рейтинг": 5,
+   "оценок": 1798,
+   "отзывов": 521,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://toyota66.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 229-99-99",
+    "+7 (343) 229-99-00"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "state",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr_yekaterinburg_yug/1034962931/",
+   "найдено_по": "отогрев авто Чкаловский район"
+  },
+  {
+   "id": "1013095579",
+   "название": "Римэкс",
+   "seoname": "rimeks",
+   "адрес": "ул. Черняховского, 68, Екатеринбург",
+   "координаты": [
+    60.732406,
+    56.752154
+   ],
+   "рейтинг": 4.4,
+   "оценок": 880,
+   "отзывов": 301,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://rimeks.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 226-05-44",
+    "8 (800) 300-05-00"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_servicing",
+    "car_wash",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rimeks/1013095579/",
+   "найдено_по": "отогрев авто Чкаловский район"
+  },
+  {
+   "id": "1044043042",
+   "название": "Регион-96",
+   "seoname": "region_96",
+   "адрес": "Санаторная ул., 26, жилой район Вторчермет",
+   "координаты": [
+    60.601419,
+    56.76844
+   ],
+   "рейтинг": 4.2,
+   "оценок": 98,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://remont-avto.ucoz.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 200-04-42",
+    "+7 (953) 383-00-66"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/region_96/1044043042/",
+   "найдено_по": "отогрев авто Чкаловский район"
+  },
+  {
+   "id": "14954047291",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Пархоменко, 51, жилой район Нижне-Исетский, Екатеринбург",
+   "координаты": [
+    60.679742,
+    56.749727
+   ],
+   "рейтинг": 4.3,
+   "оценок": 537,
+   "отзывов": 250,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ekaterinburg.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 266-31-67"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/14954047291/",
+   "найдено_по": "отогрев авто Чкаловский район"
+  },
+  {
+   "id": "105554918970",
+   "название": "Академический",
+   "seoname": "akademicheskiy",
+   "адрес": "ул. Рябинина, 24",
+   "координаты": [
+    60.508868,
+    56.796035
+   ],
+   "рейтинг": 4.7,
+   "оценок": 4159,
+   "отзывов": 2762,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://prime-dealer.ru/"
+   ],
+   "телефоны": [
+    "+7 (343) 208-00-58"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_wash",
+    "disable_photopoi",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akademicheskiy/105554918970/",
+   "найдено_по": "отогрев авто Академический район"
+  }
+ ],
+ "расширено_по_районам": true
+}
