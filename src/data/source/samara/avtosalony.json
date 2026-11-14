@@ -1,0 +1,4945 @@
+{
+ "ниша": "Автосалоны",
+ "ключ": "avtosalony",
+ "запросы": [
+  "автосалон"
+ ],
+ "найдено_в_яндексе": {
+  "автосалон": 59,
+  "автосалон Железнодорожный район": 38,
+  "автосалон Кировский район": 45,
+  "автосалон Красноглинский район": 52,
+  "автосалон Куйбышевский район": 45,
+  "автосалон Ленинский район": 21,
+  "автосалон Октябрьский район": 22,
+  "автосалон Промышленный район": 47,
+  "автосалон Самарский район": 41,
+  "автосалон Советский район": 23
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Самаре (регион 51)",
+ "город": "samara",
+ "компании": [
+  {
+   "id": "153101386970",
+   "название": "Самара-Лада",
+   "seoname": "samara_lada",
+   "адрес": "Алма-Атинская ул., 72",
+   "координаты": [
+    50.2693,
+    53.244334
+   ],
+   "рейтинг": 4.6,
+   "оценок": 3380,
+   "отзывов": 1633,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 229-56-34",
+    "+7 (846) 215-08-76"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_lada/153101386970/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 70,
+   "загружено_дат": 78
+  },
+  {
+   "id": "11275767484",
+   "название": "Автоллион",
+   "seoname": "avtollion",
+   "адрес": "ул. Антонова-Овсеенко, 51Ж",
+   "координаты": [
+    50.201307,
+    53.21183
+   ],
+   "рейтинг": 4.4,
+   "оценок": 2413,
+   "отзывов": 1354,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.ab-club.ru/brokers/avtollion_na_antonovoovseenko"
+   ],
+   "телефоны": [
+    "+7 (927) 200-34-10",
+    "+7 (927) 713-86-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоподбор",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "disable_captions",
+    "disable_photopoi",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtollion/11275767484/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 54
+  },
+  {
+   "id": "106977838684",
+   "название": "Автомир, Haval",
+   "seoname": "avtomir_haval",
+   "адрес": "ул. Авроры, 150Е",
+   "координаты": [
+    50.184771,
+    53.210054
+   ],
+   "рейтинг": 5,
+   "оценок": 2060,
+   "отзывов": 1258,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://smr.avtomir.ru/new-cars/haval/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-20-63"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_haval/106977838684/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 54,
+   "загружено_дат": 81
+  },
+  {
+   "id": "216059659516",
+   "название": "Kia в Самаре",
+   "seoname": "kia_v_samare",
+   "адрес": "Ново-Урицкая ул., 22Ж",
+   "координаты": [
+    50.152591,
+    53.183414
+   ],
+   "рейтинг": 4.7,
+   "оценок": 2882,
+   "отзывов": 1062,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://service.kia-samara.ru/",
+    "https://promo.kia-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-50-29"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_v_samare/216059659516/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 77
+  },
+  {
+   "id": "90315151643",
+   "название": "Самара-Авто, Lada",
+   "seoname": "samara_avto_lada",
+   "адрес": "Южное ш., 14Б",
+   "координаты": [
+    50.176547,
+    53.136382
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1773,
+   "отзывов": 906,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara-avto.lada.ru/?dealer=573412344"
+   ],
+   "телефоны": [
+    "+7 (846) 215-12-67"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "avtochekhly",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "car_accessories",
+    "car_door_closers",
+    "car_floor_mats",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "certified_service",
+    "delivery",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "heater_flushing",
+    "home_visit",
+    "hybrid_car_repair",
+    "hydrogen_generators",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "luggage_racks_roof_boxes",
+    "motorsport_equipment",
+    "official_dealer",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repairs",
+    "sandblasting",
+    "self_service_car_wash",
+    "street_entrance",
+    "termobudki",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_chains",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "transponders",
+    "urea",
+    "vibrationstand",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_avto_lada/90315151643/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 46,
+   "загружено_дат": 58
+  },
+  {
+   "id": "1258638284",
+   "название": "Автоцентр на Заводском",
+   "seoname": "avtotsentr_na_zavodskom",
+   "адрес": "Заводское ш., 14Н, Самара",
+   "координаты": [
+    50.2353,
+    53.195619
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1744,
+   "отзывов": 850,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avnz.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 215-16-92"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "epassport_for_vehicles",
+    "guarantee",
+    "has_chat_with_clients",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "termobudki",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_na_zavodskom/1258638284/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 54,
+   "загружено_дат": 73
+  },
+  {
+   "id": "1000405785",
+   "название": "Гэмбл",
+   "seoname": "gembl",
+   "адрес": "Пятигорская ул., 11, Самара",
+   "координаты": [
+    50.139265,
+    53.186405
+   ],
+   "рейтинг": 4.5,
+   "оценок": 2090,
+   "отзывов": 700,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gamble.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-47-00"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gembl/1000405785/",
+   "последний_отзыв": "2026-09-01",
+   "отзывов_за_12_мес_из_загруженных": 39,
+   "загружено_дат": 79
+  },
+  {
+   "id": "129230978836",
+   "название": "Автомир, Geely",
+   "seoname": "avtomir_geely",
+   "адрес": "Московское ш., 262, Самара",
+   "координаты": [
+    50.216561,
+    53.248147
+   ],
+   "рейтинг": 5,
+   "оценок": 1000,
+   "отзывов": 575,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-avtomir-sam.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-55-27"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_geely/129230978836/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 47,
+   "загружено_дат": 81
+  },
+  {
+   "id": "232649477844",
+   "название": "Самара-Авто, Haval",
+   "seoname": "samara_avto_haval",
+   "адрес": "Южное ш., 14",
+   "координаты": [
+    50.176797,
+    53.137102
+   ],
+   "рейтинг": 5,
+   "оценок": 876,
+   "отзывов": 534,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://haval-smavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 212-56-08"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_avto_haval/232649477844/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 49,
+   "загружено_дат": 70
+  },
+  {
+   "id": "79178222040",
+   "название": "Самара Авто трейд",
+   "seoname": "samara_avto_treyd",
+   "адрес": "Южное ш., 20",
+   "координаты": [
+    50.176038,
+    53.135194
+   ],
+   "рейтинг": 4.9,
+   "оценок": 738,
+   "отзывов": 474,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://smavto-trade.ru/",
+    "https://dzen.ru/smavto_official"
+   ],
+   "телефоны": [
+    "+7 (846) 212-55-89"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "car_park",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_avto_treyd/79178222040/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 44,
+   "загружено_дат": 74
+  },
+  {
+   "id": "102677982245",
+   "название": "EXEED центр Вип Авто",
+   "seoname": "exeed_tsentr_vip_avto",
+   "адрес": "Демократическая ул., 55",
+   "координаты": [
+    50.22725,
+    53.274839
+   ],
+   "рейтинг": 5,
+   "оценок": 718,
+   "отзывов": 369,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vipavto-exeed.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-51-08"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/exeed_tsentr_vip_avto/102677982245/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 89
+  },
+  {
+   "id": "58184213673",
+   "название": "Базил Авто",
+   "seoname": "bazil_avto",
+   "адрес": "ул. Дыбенко, 99В, Самара",
+   "координаты": [
+    50.212407,
+    53.206146
+   ],
+   "рейтинг": 5,
+   "оценок": 435,
+   "отзывов": 329,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bazilauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (958) 732-69-88"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "brokencars",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bazil_avto/58184213673/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 39,
+   "загружено_дат": 76
+  },
+  {
+   "id": "41186955631",
+   "название": "Самара-Авто, Lada",
+   "seoname": "samara_avto_lada",
+   "адрес": "Московское ш., 264Б, Самара",
+   "координаты": [
+    50.21835,
+    53.249203
+   ],
+   "рейтинг": 4.5,
+   "оценок": 672,
+   "отзывов": 326,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara-avto.lada.ru/?dealer=589298055"
+   ],
+   "телефоны": [
+    "+7 (846) 277-39-87",
+    "+7 (846) 211-54-06"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "disable_photopoi",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_avto_lada/41186955631/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 85
+  },
+  {
+   "id": "1063863749",
+   "название": "Эхо, УАЗ",
+   "seoname": "ekho_uaz",
+   "адрес": "ул. Дзержинского, 52",
+   "координаты": [
+    50.167206,
+    53.183571
+   ],
+   "рейтинг": 4.4,
+   "оценок": 891,
+   "отзывов": 299,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://echoauto.ru/",
+    "https://uaz-echoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 268-20-20"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekho_uaz/1063863749/",
+   "последний_отзыв": "2026-10-17",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 70
+  },
+  {
+   "id": "204554307295",
+   "название": "Omoda, Вип Авто",
+   "seoname": "omoda_vip_avto",
+   "адрес": "Южное ш., 12, стр. 3",
+   "координаты": [
+    50.178144,
+    53.138514
+   ],
+   "рейтинг": 5,
+   "оценок": 435,
+   "отзывов": 270,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omoda-vipavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 229-54-73",
+    "+7 (846) 212-54-10",
+    "+7 (846) 211-12-53"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_vip_avto/204554307295/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 85
+  },
+  {
+   "id": "57192880798",
+   "название": "Альфа, Хендэ",
+   "seoname": "alfa_khende",
+   "адрес": "Ново-Урицкая ул., 22, Самара",
+   "координаты": [
+    50.151361,
+    53.184167
+   ],
+   "рейтинг": 4.5,
+   "оценок": 644,
+   "отзывов": 233,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://hyundai-alpha.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 977-78-88",
+    "+7 (846) 977-77-10"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alfa_khende/57192880798/"
+  },
+  {
+   "id": "181028427246",
+   "название": "Вега-Моторс, Solaris",
+   "seoname": "vega_motors_solaris",
+   "адрес": "Ново-Садовая ул., 149А",
+   "координаты": [
+    50.149477,
+    53.215316
+   ],
+   "рейтинг": 5,
+   "оценок": 472,
+   "отзывов": 213,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://solaris-vega.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 244-40-00"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vega_motors_solaris/181028427246/"
+  },
+  {
+   "id": "195779884217",
+   "название": "Nextline",
+   "seoname": "nextline",
+   "адрес": "Лесная ул., 33",
+   "координаты": [
+    50.134357,
+    53.215836
+   ],
+   "рейтинг": 5,
+   "оценок": 185,
+   "отзывов": 116,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://nextlineonline.ru/catalog/"
+   ],
+   "телефоны": [
+    "+7 (846) 270-03-82"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "электромобили, продажа и сервис",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nextline/195779884217/"
+  },
+  {
+   "id": "4742172479",
+   "название": "Азия ЭкспрессАвто",
+   "seoname": "aziya_ekspressavto",
+   "адрес": "ул. Антонова-Овсеенко, 52, Самара",
+   "координаты": [
+    50.224843,
+    53.213234
+   ],
+   "рейтинг": 5,
+   "оценок": 111,
+   "отзывов": 109,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://asiaexpressauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 933-55-55"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "автоподбор"
+   ],
+   "признаки": [
+    "preliminary_registration"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aziya_ekspressavto/4742172479/"
+  },
+  {
+   "id": "4437915490",
+   "название": "Geely Эхо",
+   "seoname": "geely_ekho",
+   "адрес": "ул. Дзержинского, 52",
+   "координаты": [
+    50.167957,
+    53.183624
+   ],
+   "рейтинг": 4.7,
+   "оценок": 304,
+   "отзывов": 100,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-echoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 212-50-69"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "loan_processing",
+    "parking_disabled",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_ekho/4437915490/"
+  },
+  {
+   "id": "164089167904",
+   "название": "Первый километр",
+   "seoname": "pervy_kilometr",
+   "адрес": "Красноармейская ул., 131",
+   "координаты": [
+    50.128737,
+    53.186189
+   ],
+   "рейтинг": 5,
+   "оценок": 135,
+   "отзывов": 97,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://1kmsamara.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 334-06-00"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pervy_kilometr/164089167904/"
+  },
+  {
+   "id": "148022527481",
+   "название": "АсАвто, Ли Авто",
+   "seoname": "asavto_li_avto",
+   "адрес": "Южное ш., 12А, Самара",
+   "координаты": [
+    50.180946,
+    53.138552
+   ],
+   "рейтинг": 4.7,
+   "оценок": 22,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://li-asavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 255-24-29"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "ramp",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/asavto_li_avto/148022527481/"
+  },
+  {
+   "id": "104559567442",
+   "название": "Esteo центр Вип Авто",
+   "seoname": "esteo_tsentr_vip_avto",
+   "адрес": "Демократическая ул., 55",
+   "координаты": [
+    50.227496,
+    53.275042
+   ],
+   "рейтинг": 4.8,
+   "оценок": 17,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vipavto-esteo.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 229-57-86"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "leasing_registration",
+    "loan_processing",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/esteo_tsentr_vip_avto/104559567442/"
+  },
+  {
+   "id": "158143935207",
+   "название": "Партнер-Авто, Volga",
+   "seoname": "partner_avto_volga",
+   "адрес": "Московское шоссе, 24-й километр, 3, стр. 1, Самара",
+   "координаты": [
+    50.302233,
+    53.320931
+   ],
+   "рейтинг": 4.5,
+   "оценок": 10,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://volga-partner-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 255-17-19"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/partner_avto_volga/158143935207/"
+  },
+  {
+   "id": "30648182114",
+   "название": "М-Кар",
+   "seoname": "m_kar",
+   "адрес": "4-й пр., 57",
+   "координаты": [
+    50.182998,
+    53.212316
+   ],
+   "рейтинг": 0,
+   "оценок": 21,
+   "отзывов": 90,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 600-00-20"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "кредитный брокер"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "assistance_obtaining_bank_guarantees",
+    "brokencars",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/m_kar/30648182114/"
+  },
+  {
+   "id": "151002154210",
+   "название": "Jac центр Самара",
+   "seoname": "jac_tsentr_samara",
+   "адрес": "Ново-урицкая ул., 22Ж",
+   "координаты": [
+    50.152413,
+    53.183552
+   ],
+   "рейтинг": 4.6,
+   "оценок": 93,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://jac-center-samara.ru/",
+    "https://jac-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-57-82",
+    "+7 (846) 211-57-81",
+    "+7 (846) 233-42-84"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jac_tsentr_samara/151002154210/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "7505144070",
+   "название": "Альфа, Джетур",
+   "seoname": "alfa_dzhetur",
+   "адрес": "Ново-Урицкая ул., 22, Самара",
+   "координаты": [
+    50.15166,
+    53.18397
+   ],
+   "рейтинг": 4.9,
+   "оценок": 158,
+   "отзывов": 74,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jetour-alpha-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-57-14"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alfa_dzhetur/7505144070/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "218319352917",
+   "название": "Альфа, Ливэн",
+   "seoname": "alfa_liven",
+   "адрес": "Ново-Урицкая ул., 22, Самара",
+   "координаты": [
+    50.150446,
+    53.1843
+   ],
+   "рейтинг": 4.9,
+   "оценок": 47,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 977-77-72"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alfa_liven/218319352917/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "8227823079",
+   "название": "Роялекс",
+   "seoname": "royaleks",
+   "адрес": "Московское ш., 17",
+   "координаты": [
+    50.156382,
+    53.203289
+   ],
+   "рейтинг": 5,
+   "оценок": 183,
+   "отзывов": 164,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://royaleksrs.ru/"
+   ],
+   "телефоны": [
+    "+7 (964) 979-77-72"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–19:00; вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/royaleks/8227823079/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "106817936534",
+   "название": "Автомир, Haval Pro",
+   "seoname": "avtomir_haval_pro",
+   "адрес": "ул. Авроры, 150Е",
+   "координаты": [
+    50.185009,
+    53.210143
+   ],
+   "рейтинг": 5,
+   "оценок": 253,
+   "отзывов": 175,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://smr.avtomir.ru/new-cars/haval-pro/"
+   ],
+   "телефоны": [
+    "+7 (846) 212-98-25"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_haval_pro/106817936534/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "180905692196",
+   "название": "Парк Авто",
+   "seoname": "park_avto",
+   "адрес": "Партизанская ул., 80А",
+   "координаты": [
+    50.16823,
+    53.192219
+   ],
+   "рейтинг": 4.4,
+   "оценок": 21,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 986-93-49"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "loan_processing",
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/park_avto/180905692196/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "35832385027",
+   "название": "Gac Арго-Моторс",
+   "seoname": "gac_argo_motors",
+   "адрес": "Московское ш., 17А",
+   "координаты": [
+    50.186444,
+    53.215366
+   ],
+   "рейтинг": 5,
+   "оценок": 151,
+   "отзывов": 69,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gac-samara-argo.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 233-88-53",
+    "+7 (846) 226-50-57"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "car_park",
+    "certified_service",
+    "electric car charging station",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gac_argo_motors/35832385027/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "177203222399",
+   "название": "Live Car",
+   "seoname": "live_car",
+   "адрес": "ул. Луначарского, 1",
+   "координаты": [
+    50.145573,
+    53.214599
+   ],
+   "рейтинг": 5,
+   "оценок": 52,
+   "отзывов": 45,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 952-63-99",
+    "+7 (903) 308-00-09"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/live_car/177203222399/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "43532782355",
+   "название": "Альфа, Soueast",
+   "seoname": "alfa_soueast",
+   "адрес": "Ново-Урицкая ул., 22, Самара",
+   "координаты": [
+    50.151571,
+    53.184003
+   ],
+   "рейтинг": 4.2,
+   "оценок": 10,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://soueast-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 212-52-65"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alfa_soueast/43532782355/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "159629135724",
+   "название": "Авто на заказ",
+   "seoname": "avto_na_zakaz",
+   "адрес": "Московское ш., 13",
+   "координаты": [
+    50.17916,
+    53.210938
+   ],
+   "рейтинг": 4.9,
+   "оценок": 37,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://whaleauto.bitrix24site.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 150-00-09",
+    "+7 (995) 343-99-80"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_na_zakaz/159629135724/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "157487468625",
+   "название": "Haval",
+   "seoname": "haval",
+   "адрес": "ул. Авроры, 150Е",
+   "координаты": [
+    50.184836,
+    53.210156
+   ],
+   "рейтинг": 4.4,
+   "оценок": 39,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://haval-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-00-68"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval/157487468625/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "83314157407",
+   "название": "Конкордия-Авто",
+   "seoname": "konkordiya_avto",
+   "адрес": "Партизанская ул., 82А",
+   "координаты": [
+    50.170068,
+    53.191558
+   ],
+   "рейтинг": 4.9,
+   "оценок": 43,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 972-30-30",
+    "8 (800) 222-35-34"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "спецтехника и спецавтомобили"
+   ],
+   "признаки": [
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "registration_inspection",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/konkordiya_avto/83314157407/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "1030321045",
+   "название": "Nissan Эксперт Самара",
+   "seoname": "nissan_ekspert_samara",
+   "адрес": "Ново-Урицкая ул., 22, Самара",
+   "координаты": [
+    50.15157,
+    53.183993
+   ],
+   "рейтинг": 4.4,
+   "оценок": 687,
+   "отзывов": 228,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nissan-smr.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 977-77-79",
+    "+7 (846) 977-77-11"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nissan_ekspert_samara/1030321045/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "75146849752",
+   "название": "Диверс Моторс",
+   "seoname": "divers_motors",
+   "адрес": "Партизанская ул., 82А",
+   "координаты": [
+    50.170305,
+    53.191578
+   ],
+   "рейтинг": 4.3,
+   "оценок": 70,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://taplink.cc/konkordiaauto",
+    "https://diversmotors.nethouse.ru/contacts"
+   ],
+   "телефоны": [
+    "+7 (846) 972-30-30",
+    "+7 (846) 300-43-17"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кредитный брокер",
+    "страхование автомобилей"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_purchase_agreement",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan secured by real estate",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "toilet_for_disabled",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/divers_motors/75146849752/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "164883780153",
+   "название": "Future Cars",
+   "seoname": "future_cars",
+   "адрес": "Московское ш., 17",
+   "координаты": [
+    50.156514,
+    53.203351
+   ],
+   "рейтинг": 4.9,
+   "оценок": 32,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 167-88-53"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–19:00; вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоподбор",
+    "автоателье"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/future_cars/164883780153/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "174301389571",
+   "название": "СГМ Авто групп",
+   "seoname": "sgm_avto_grupp",
+   "адрес": "Московское ш., 17",
+   "координаты": [
+    50.155567,
+    53.203109
+   ],
+   "рейтинг": 4.8,
+   "оценок": 19,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sgmautogroup.ru/"
+   ],
+   "телефоны": [
+    "+7 (966) 445-17-52"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "disable_captions",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sgm_avto_grupp/174301389571/",
+   "найдено_по": "автосалон Железнодорожный район"
+  },
+  {
+   "id": "11180208511",
+   "название": "АсеАвто",
+   "seoname": "aseavto",
+   "адрес": "Демократическая ул., 56",
+   "координаты": [
+    50.226009,
+    53.274672
+   ],
+   "рейтинг": 5,
+   "оценок": 1260,
+   "отзывов": 1052,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://aceavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 267-74-51"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aseavto/11180208511/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "195356168173",
+   "название": "Belgee Партнер-Авто",
+   "seoname": "belgee_partner_avto",
+   "адрес": "Московское шоссе, 24-й километр, 3, стр. 1, Самара",
+   "координаты": [
+    50.302575,
+    53.320899
+   ],
+   "рейтинг": 4.9,
+   "оценок": 106,
+   "отзывов": 63,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://belgee-partner-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 267-38-48"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/belgee_partner_avto/195356168173/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "41996165730",
+   "название": "Jeland, АсАвто",
+   "seoname": "jeland_asavto",
+   "адрес": "Алма-Атинская ул., 87",
+   "координаты": [
+    50.262142,
+    53.263678
+   ],
+   "рейтинг": 4.2,
+   "оценок": 3,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jeland-asavto-samara.ru/",
+    "https://asavto-jaland-smr.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 255-14-75"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jeland_asavto/41996165730/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "144089077694",
+   "название": "Мультибрендовый",
+   "seoname": "multibrendovy",
+   "адрес": "ул. Ивана Булкина, 66Б, Самара",
+   "координаты": [
+    50.194225,
+    53.209068
+   ],
+   "рейтинг": 4.9,
+   "оценок": 271,
+   "отзывов": 184,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://multibrandsauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (962) 563-78-81",
+    "+7 (927) 000-44-42"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "авторынок"
+   ],
+   "признаки": [
+    "car_park",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/multibrendovy/144089077694/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "231432955425",
+   "название": "Тенет Вип Авто",
+   "seoname": "tenet_vip_avto",
+   "адрес": "Демократическая ул., 55",
+   "координаты": [
+    50.227754,
+    53.275197
+   ],
+   "рейтинг": 5,
+   "оценок": 184,
+   "отзывов": 176,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://tenet-vipavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 270-09-13",
+    "+7 (846) 212-50-46"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tenet_vip_avto/231432955425/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "19330058927",
+   "название": "BMW Алдис",
+   "seoname": "bmw_aldis",
+   "адрес": "Демократическая ул., 65, Самара",
+   "координаты": [
+    50.2261,
+    53.287438
+   ],
+   "рейтинг": 4.6,
+   "оценок": 819,
+   "отзывов": 268,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bmw-aldis.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 215-25-96"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "guarantee",
+    "installing_the_towbar",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bmw_aldis/19330058927/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "10194759484",
+   "название": "ГалереяАвто.рф",
+   "seoname": "galereyaavto_rf",
+   "адрес": "ул. Дыбенко, 89А, Самара",
+   "координаты": [
+    50.202966,
+    53.205999
+   ],
+   "рейтинг": 0,
+   "оценок": 4,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://галереяавто.рф/"
+   ],
+   "телефоны": [
+    "+7 (903) 304-56-56"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "loan_processing",
+    "motopodbor",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/galereyaavto_rf/10194759484/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "1260111269",
+   "название": "Chery АТК Моторс Восток",
+   "seoname": "chery_atk_motors_vostok",
+   "адрес": "Аэропортовское ш., 1Ж",
+   "координаты": [
+    50.36211,
+    53.252561
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1322,
+   "отзывов": 461,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://chery-atkmotors-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 207-99-88"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_atk_motors_vostok/1260111269/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "1001127108",
+   "название": "Самара-Моторс, Mercedes-Benz",
+   "seoname": "samara_motors_mercedes_benz",
+   "адрес": "Московское шоссе, 17-й километр, 15",
+   "координаты": [
+    50.256065,
+    53.270972
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1074,
+   "отзывов": 321,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://seres-samara-motors.ru/",
+    "http://www.mercedes-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 342-55-55"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "electric car charging station",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "service_maintenance",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_motors_mercedes_benz/1001127108/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "1024667942",
+   "название": "Solaris, Эксперт-Авто",
+   "seoname": "solaris_ekspert_avto",
+   "адрес": "Демократическая ул., 55",
+   "координаты": [
+    50.227492,
+    53.275566
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1313,
+   "отзывов": 471,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://solaris-expertauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 321-00-00"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solaris_ekspert_avto/1024667942/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "183569750351",
+   "название": "Belgee центр",
+   "seoname": "belgee_tsentr",
+   "адрес": "Московское ш., 262А",
+   "координаты": [
+    50.215497,
+    53.248604
+   ],
+   "рейтинг": 5,
+   "оценок": 322,
+   "отзывов": 229,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://belgee-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-47-91"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/belgee_tsentr/183569750351/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "11452693438",
+   "название": "Omoda АсАвто",
+   "seoname": "omoda_asavto",
+   "адрес": "Алма-Атинская ул., 87, Самара",
+   "координаты": [
+    50.261926,
+    53.263627
+   ],
+   "рейтинг": 4.5,
+   "оценок": 933,
+   "отзывов": 406,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omoda-asavto-smr.ru/",
+    "https://asavto-jaland-smr.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-55-04"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_asavto/11452693438/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "230955976959",
+   "название": "Сав Авто",
+   "seoname": "sav_avto",
+   "адрес": "ул. Антонова-Овсеенко, 52",
+   "координаты": [
+    50.224813,
+    53.213173
+   ],
+   "рейтинг": 4.4,
+   "оценок": 142,
+   "отзывов": 67,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sav-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 189-00-97",
+    "+7 (846) 244-40-88"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "кредитный брокер"
+   ],
+   "признаки": [
+    "bike_parking",
+    "call_button",
+    "car_park",
+    "cars_for_order",
+    "disable_captions",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sav_avto/230955976959/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "117153402898",
+   "название": "Луидор, ПАЗ",
+   "seoname": "luidor_paz",
+   "адрес": "просп. Карла Маркса, 526",
+   "координаты": [
+    50.290115,
+    53.262208
+   ],
+   "рейтинг": 4.9,
+   "оценок": 32,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://bus-luidor.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 200-24-02",
+    "8 (800) 511-75-81"
+   ],
+   "часы": "пн-пт 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luidor_paz/117153402898/",
+   "найдено_по": "автосалон Кировский район"
+  },
+  {
+   "id": "24899562130",
+   "название": "Автомир, Ford",
+   "seoname": "avtomir_ford",
+   "адрес": "ул. Авроры, 150Е",
+   "координаты": [
+    50.184859,
+    53.210155
+   ],
+   "рейтинг": 4.7,
+   "оценок": 973,
+   "отзывов": 429,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.ford-avtomir.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-12-97"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосалон"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_ford/24899562130/",
+   "найдено_по": "автосалон Красноглинский район"
+  },
+  {
+   "id": "10202040996",
+   "название": "Урал-Лада",
+   "seoname": "ural_lada",
+   "адрес": "Степная ул., 4А, село Красный Яр",
+   "координаты": [
+    50.404933,
+    53.477602
+   ],
+   "рейтинг": 4.8,
+   "оценок": 594,
+   "отзывов": 269,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://kryar.urallada63.lada.ru/",
+    "https://urallada63.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 255-06-21"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "disable_photopoi",
+    "epassport_for_vehicles",
+    "guarantee",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ural_lada/10202040996/",
+   "найдено_по": "автосалон Красноглинский район"
+  },
+  {
+   "id": "120096584964",
+   "название": "Самара-Авто, Changan",
+   "seoname": "samara_avto_changan",
+   "адрес": "Московское ш., 264, Самара",
+   "координаты": [
+    50.217503,
+    53.249624
+   ],
+   "рейтинг": 4.7,
+   "оценок": 349,
+   "отзывов": 151,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://smavto-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-12-49"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_avto_changan/120096584964/",
+   "найдено_по": "автосалон Красноглинский район"
+  },
+  {
+   "id": "221992301909",
+   "название": "Мерит, Xcite",
+   "seoname": "merit_xcite",
+   "адрес": "Восточное ш., 5, Новокуйбышевск",
+   "координаты": [
+    49.999475,
+    53.084898
+   ],
+   "рейтинг": 4.3,
+   "оценок": 113,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 254-04-54"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/merit_xcite/221992301909/",
+   "найдено_по": "автосалон Красноглинский район"
+  },
+  {
+   "id": "13944415522",
+   "название": "Jaecoo, Вип Авто",
+   "seoname": "jaecoo_vip_avto",
+   "адрес": "Южное ш., 12, стр. 3",
+   "координаты": [
+    50.178014,
+    53.138341
+   ],
+   "рейтинг": 4.9,
+   "оценок": 140,
+   "отзывов": 91,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jaecoo-vipavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 233-99-12",
+    "+7 (846) 211-59-56"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "prayer_room",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jaecoo_vip_avto/13944415522/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "150852023325",
+   "название": "Gac, Эксперт Авто",
+   "seoname": "gac_ekspert_avto",
+   "адрес": "Южное ш., 12, стр. 4",
+   "координаты": [
+    50.17764,
+    53.137877
+   ],
+   "рейтинг": 5,
+   "оценок": 286,
+   "отзывов": 179,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gac-smr.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 229-59-25",
+    "+7 (846) 211-07-01"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gac_ekspert_avto/150852023325/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "73478168185",
+   "название": "Самара-Авто, Haval Pro",
+   "seoname": "samara_avto_haval_pro",
+   "адрес": "Южное ш., 14Б, стр. 1",
+   "координаты": [
+    50.176899,
+    53.136583
+   ],
+   "рейтинг": 5,
+   "оценок": 69,
+   "отзывов": 65,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara-avto-havalpro.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-46-82",
+    "+7 (846) 269-77-55"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_avto_haval_pro/73478168185/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "65602965632",
+   "название": "Автосеть.рф, Kgm",
+   "seoname": "avtoset_rf_kgm",
+   "адрес": "Южное ш., 10А, Самара",
+   "координаты": [
+    50.181024,
+    53.141011
+   ],
+   "рейтинг": 4.6,
+   "оценок": 25,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kgm-samara-avtosetrf.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 255-11-03"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_floor_mats",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "eva_mats",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_chains",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoset_rf_kgm/65602965632/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "80919023366",
+   "название": "Evolute Самара-Авто",
+   "seoname": "evolute_samara_avto",
+   "адрес": "городской округ Самара, Куйбышевский район",
+   "координаты": [
+    50.176164,
+    53.135936
+   ],
+   "рейтинг": 4.7,
+   "оценок": 14,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 255-15-57"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/evolute_samara_avto/80919023366/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "174721115955",
+   "название": "Geely, Эксперт Авто",
+   "seoname": "geely_ekspert_avto",
+   "адрес": "Южное ш., 12, стр. 1, Самара",
+   "координаты": [
+    50.179626,
+    53.140204
+   ],
+   "рейтинг": 5,
+   "оценок": 714,
+   "отзывов": 444,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.geely-expertauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 212-52-98"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_ekspert_avto/174721115955/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "244680358235",
+   "название": "Belgee, Эксперт Авто",
+   "seoname": "belgee_ekspert_avto",
+   "адрес": "Южное ш., 12, стр. 1",
+   "координаты": [
+    50.179371,
+    53.140293
+   ],
+   "рейтинг": 5,
+   "оценок": 115,
+   "отзывов": 73,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://expertauto-belgee.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-54-63"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/belgee_ekspert_avto/244680358235/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "184965121562",
+   "название": "Tank, Самара-Авто",
+   "seoname": "tank_samara_avto",
+   "адрес": "Южное ш., 14",
+   "координаты": [
+    50.176878,
+    53.137225
+   ],
+   "рейтинг": 5,
+   "оценок": 325,
+   "отзывов": 149,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tank-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-58-02"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tank_samara_avto/184965121562/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "3387528670",
+   "название": "Chery, АсАвто",
+   "seoname": "chery_asavto",
+   "адрес": "Южное ш., 10, Самара",
+   "координаты": [
+    50.180163,
+    53.141543
+   ],
+   "рейтинг": 5,
+   "оценок": 902,
+   "отзывов": 452,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://clck.ru/3GBX7B",
+    "https://clck.ru/3GBXCH",
+    "https://chery-asavto-volga.ru/?ysclid=mj1hn1crlt361436856"
+   ],
+   "телефоны": [
+    "+7 (846) 212-54-30"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_asavto/3387528670/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "9990709568",
+   "название": "Тенет АсАвто",
+   "seoname": "tenet_asavto",
+   "адрес": "Южное ш., 10",
+   "координаты": [
+    50.180252,
+    53.141515
+   ],
+   "рейтинг": 4.9,
+   "оценок": 39,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenet-asavto.ru/",
+    "https://tenet-smr-asavto.ru/",
+    "https://promo.tenet-smr-asavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-58-57"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tenet_asavto/9990709568/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "165292144139",
+   "название": "Самара-Авто, Детейлинг",
+   "seoname": "samara_avto_deteyling",
+   "адрес": "Южное ш., 20",
+   "координаты": [
+    50.176207,
+    53.135864
+   ],
+   "рейтинг": 3.8,
+   "оценок": 5,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://smavto-trade.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 265-99-33",
+    "+7 (846) 255-24-15"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_avto_deteyling/165292144139/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "125984083464",
+   "название": "Поволжье-Авто, ГАЗ",
+   "seoname": "povolzhye_avto_gaz",
+   "адрес": "Южное ш., 14А",
+   "координаты": [
+    50.17781,
+    53.136494
+   ],
+   "рейтинг": 4.3,
+   "оценок": 302,
+   "отзывов": 101,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://1akpgaz.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 226-65-55",
+    "+7 (846) 207-52-07",
+    "+7 (846) 226-65-75",
+    "+7 (846) 211-06-92"
+   ],
+   "часы": "пн-пт 08:00–17:00, перерыв 12:00–13:00; сб 08:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/povolzhye_avto_gaz/125984083464/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "194682629242",
+   "название": "Hyundai",
+   "seoname": "hyundai",
+   "адрес": "Южное ш., 12, стр. 4",
+   "координаты": [
+    50.177606,
+    53.137817
+   ],
+   "рейтинг": 4.3,
+   "оценок": 561,
+   "отзывов": 148,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.hyundai-samavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 993-68-00"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/hyundai/194682629242/",
+   "найдено_по": "автосалон Куйбышевский район"
+  },
+  {
+   "id": "157955746415",
+   "название": "63компани",
+   "seoname": "63kompani",
+   "адрес": "ул. Мичурина, 21В",
+   "координаты": [
+    50.141817,
+    53.204136
+   ],
+   "рейтинг": 4.9,
+   "оценок": 30,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://63company.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 658-66-14",
+    "+7 (937) 173-73-12"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "авторынок"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "delivery",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/63kompani/157955746415/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "187308103442",
+   "название": "Carbat",
+   "seoname": "carbat",
+   "адрес": "Галактионовская ул., 88",
+   "координаты": [
+    50.101269,
+    53.192175
+   ],
+   "рейтинг": 4.4,
+   "оценок": 7,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://samar.carbat.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 400-00-87"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carbat/187308103442/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "51290265801",
+   "название": "СГМ Авто Групп",
+   "seoname": "sgm_avto_grupp",
+   "адрес": "Лесная ул., 25В",
+   "координаты": [
+    50.124442,
+    53.211188
+   ],
+   "рейтинг": 5,
+   "оценок": 35,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.sgmautogroup.ru/"
+   ],
+   "телефоны": [
+    "+7 (966) 445-17-35"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "перевозка автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "leasing_registration",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sgm_avto_grupp/51290265801/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "82822700312",
+   "название": "Cars Shop",
+   "seoname": "cars_shop",
+   "адрес": "ул. Мичурина, 21А",
+   "координаты": [
+    50.140487,
+    53.203807
+   ],
+   "рейтинг": 5,
+   "оценок": 61,
+   "отзывов": 57,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://carsshopsamara.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 870-40-05",
+    "+7 (937) 773-46-34",
+    "+7 (937) 798-85-55"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автоподбор"
+   ],
+   "признаки": [
+    "car_park",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cars_shop/82822700312/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "226303164097",
+   "название": "F Cars",
+   "seoname": "f_cars",
+   "адрес": "Московское ш., 17",
+   "координаты": [
+    50.155606,
+    53.203093
+   ],
+   "рейтинг": 4.5,
+   "оценок": 15,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "пн-сб 09:00–19:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "детейлинг",
+    "гаражный кооператив",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "aquablasting",
+    "aquaprint",
+    "autovinil",
+    "bike_parking",
+    "body_repair",
+    "call_button",
+    "car_door_closers",
+    "car_noise_insulation",
+    "car_park",
+    "car_valeting",
+    "car_wash",
+    "car_wheels_powder_coating",
+    "cars_russification",
+    "chip_tuning",
+    "electric car charging station",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "glass_polishing",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tuning_deflectors",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/f_cars/226303164097/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "57481424050",
+   "название": "Energy Car",
+   "seoname": "energy_car",
+   "адрес": "ул. Мичурина, 23",
+   "координаты": [
+    50.143988,
+    53.20536
+   ],
+   "рейтинг": 4.1,
+   "оценок": 6,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://electro-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 220-00-66"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Электромобили, продажа и сервис",
+    "автосалон",
+    "продажа автомобилей с пробегом",
+    "автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/energy_car/57481424050/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "79513561433",
+   "название": "Aquamarine",
+   "seoname": "aquamarine",
+   "адрес": "Лесная ул., 35",
+   "координаты": [
+    50.13439,
+    53.215874
+   ],
+   "рейтинг": 4,
+   "оценок": 19,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 273-40-05",
+    "+7 (846) 273-40-06"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спортивная одежда и обувь",
+    "автосалон",
+    "вездеходы, квадроциклы"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aquamarine/79513561433/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "157411799619",
+   "название": "Автомир, Suzuki",
+   "seoname": "avtomir_suzuki",
+   "адрес": "ул. Авроры, 150Е",
+   "координаты": [
+    50.184859,
+    53.210155
+   ],
+   "рейтинг": 4.7,
+   "оценок": 427,
+   "отзывов": 200,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://samara.suzuki-avtomir.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 215-12-86"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_suzuki/157411799619/",
+   "найдено_по": "автосалон Октябрьский район"
+  },
+  {
+   "id": "1024679522",
+   "название": "Субару центр Самара",
+   "seoname": "subaru_tsentr_samara",
+   "адрес": "Революционная ул., 70Д",
+   "координаты": [
+    50.180253,
+    53.2078
+   ],
+   "рейтинг": 4.7,
+   "оценок": 557,
+   "отзывов": 158,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.subaru.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 233-78-18",
+    "+7 (961) 385-81-74"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/subaru_tsentr_samara/1024679522/",
+   "найдено_по": "автосалон Октябрьский район"
+  },
+  {
+   "id": "220519647075",
+   "название": "М-Кар",
+   "seoname": "m_kar",
+   "адрес": "Московское ш., 15М",
+   "координаты": [
+    50.183395,
+    53.21269
+   ],
+   "рейтинг": 5,
+   "оценок": 124,
+   "отзывов": 100,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (962) 564-08-72"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "кредитный брокер"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "assistance_obtaining_bank_guarantees",
+    "brokencars",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/m_kar/220519647075/",
+   "найдено_по": "автосалон Октябрьский район"
+  },
+  {
+   "id": "1131539377",
+   "название": "Тойота центр Аврора",
+   "seoname": "toyota_tsentr_avrora",
+   "адрес": "ул. Авроры, 150Б",
+   "координаты": [
+    50.188549,
+    53.211009
+   ],
+   "рейтинг": 4.7,
+   "оценок": 935,
+   "отзывов": 308,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://cars.toyota-aurora.ru/",
+    "https://service-toyota-aurora.ru/",
+    "https://toyota-aurora-new.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-71-52",
+    "+7 (846) 372-02-02",
+    "+7 (846) 212-52-39",
+    "+7 (846) 211-71-85"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr_avrora/1131539377/",
+   "найдено_по": "автосалон Октябрьский район"
+  },
+  {
+   "id": "137457813696",
+   "название": "SheikhАвто",
+   "seoname": "sheikhavto",
+   "адрес": "Центральная ул., 1, стр. 1",
+   "координаты": [
+    50.190407,
+    53.219625
+   ],
+   "рейтинг": 3.4,
+   "оценок": 13,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 303-32-58",
+    "+7 (917) 812-06-56"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sheikhavto/137457813696/",
+   "найдено_по": "автосалон Октябрьский район"
+  },
+  {
+   "id": "1193994891",
+   "название": "Рик-Авто",
+   "seoname": "rik_avto",
+   "адрес": "ул. Антонова-Овсеенко, 9",
+   "координаты": [
+    50.199077,
+    53.211342
+   ],
+   "рейтинг": 4.2,
+   "оценок": 291,
+   "отзывов": 91,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 608-93-93",
+    "+7 (937) 208-80-80",
+    "+7 (927) 725-49-29",
+    "+7 (846) 993-40-02"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "bike_parking",
+    "brokencars",
+    "car_park",
+    "cars_for_order",
+    "leasing_registration",
+    "loan_processing",
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rik_avto/1193994891/",
+   "найдено_по": "автосалон Октябрьский район"
+  },
+  {
+   "id": "153219280641",
+   "название": "Changan центр АсАвто Юг",
+   "seoname": "changan_tsentr_asavto_yug",
+   "адрес": "Южное ш., 10",
+   "координаты": [
+    50.180008,
+    53.141234
+   ],
+   "рейтинг": 5,
+   "оценок": 540,
+   "отзывов": 295,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://smr.asavtomotors-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 212-55-42",
+    "+7 (846) 215-00-07",
+    "+7 (846) 212-55-78"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "cars_for_order",
+    "guarantee",
+    "loan_processing",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_asavto_yug/153219280641/",
+   "найдено_по": "автосалон Промышленный район"
+  },
+  {
+   "id": "1351237123",
+   "название": "Кар Вэй",
+   "seoname": "kar_vey",
+   "адрес": "Московское ш., 262В",
+   "координаты": [
+    50.216826,
+    53.248968
+   ],
+   "рейтинг": 4.2,
+   "оценок": 80,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.carway63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 994-81-12",
+    "+7 (927) 012-99-99",
+    "+7 (846) 994-81-13",
+    "+7 (939) 756-09-47"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб,вс 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "кредитный брокер"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "assistance_obtaining_bank_guarantees",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kar_vey/1351237123/",
+   "найдено_по": "автосалон Промышленный район"
+  },
+  {
+   "id": "129119671800",
+   "название": "Автомир Богемия, Škoda",
+   "seoname": "avtomir_bogemiya_koda",
+   "адрес": "Московское ш., 262",
+   "координаты": [
+    50.216622,
+    53.248208
+   ],
+   "рейтинг": 4.9,
+   "оценок": 2116,
+   "отзывов": 879,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bogemia-smr.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 215-12-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосалон"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_bogemiya_koda/129119671800/",
+   "найдено_по": "автосалон Промышленный район"
+  },
+  {
+   "id": "29695552703",
+   "название": "Мерит, Lada",
+   "seoname": "merit_lada",
+   "адрес": "Восточное ш., 5, Новокуйбышевск",
+   "координаты": [
+    49.999451,
+    53.085015
+   ],
+   "рейтинг": 4.9,
+   "оценок": 665,
+   "отзывов": 361,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://restart.auto/dealers/merit",
+    "https://merit.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 254-04-54"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "vibrationstand",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/merit_lada/29695552703/",
+   "найдено_по": "автосалон Самарский район"
+  },
+  {
+   "id": "85950817816",
+   "название": "Вип Авто Tenet",
+   "seoname": "vip_avto_tenet",
+   "адрес": "ул. Антонова-Овсеенко, 46",
+   "координаты": [
+    50.218654,
+    53.21317
+   ],
+   "рейтинг": 5,
+   "оценок": 203,
+   "отзывов": 195,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenet-vipavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 212-50-46"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vip_avto_tenet/85950817816/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "60541049269",
+   "название": "Автоллион",
+   "seoname": "avtollion",
+   "адрес": "ул. Дыбенко, 101",
+   "координаты": [
+    50.204746,
+    53.205914
+   ],
+   "рейтинг": 4.7,
+   "оценок": 162,
+   "отзывов": 125,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.ab-club.ru/brokers/avtolliona_na_dybenko"
+   ],
+   "телефоны": [
+    "+7 (927) 718-12-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион",
+    "авторынок"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "delivery",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "pickup",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtollion/60541049269/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "45689103137",
+   "название": "Чери Вип Авто",
+   "seoname": "cheri_vip_avto",
+   "адрес": "ул. Антонова-Овсеенко, 46",
+   "координаты": [
+    50.218712,
+    53.213237
+   ],
+   "рейтинг": 5,
+   "оценок": 839,
+   "отзывов": 531,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chery-vipavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 212-51-19"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cheri_vip_avto/45689103137/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "165555583440",
+   "название": "Карпрайм",
+   "seoname": "karpraym",
+   "адрес": "ул. Антонова-Овсеенко, 51А",
+   "координаты": [
+    50.200697,
+    53.211789
+   ],
+   "рейтинг": 4.2,
+   "оценок": 92,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 005-01-63",
+    "+7 (927) 002-60-70"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "brokencars",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "street_entrance",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/karpraym/165555583440/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "184631486957",
+   "название": "Базил Авто групп",
+   "seoname": "bazil_avto_grupp",
+   "адрес": "ул. Дыбенко, 99А",
+   "координаты": [
+    50.212565,
+    53.205698
+   ],
+   "рейтинг": 0,
+   "оценок": 131,
+   "отзывов": 283,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://taplink.cc/bazilavto"
+   ],
+   "телефоны": [
+    "+7 (962) 602-40-08"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "brokencars",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/bazil_avto_grupp/184631486957/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "99067427217",
+   "название": "Like Auto",
+   "seoname": "like_auto",
+   "адрес": "Московское ш., 94",
+   "координаты": [
+    50.18875,
+    53.221087
+   ],
+   "рейтинг": 4.9,
+   "оценок": 48,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (996) 341-00-02"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автоэкспертиза, оценка автомобилей"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/like_auto/99067427217/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "213668522460",
+   "название": "Сияй",
+   "seoname": "siyay",
+   "адрес": "ул. Дыбенко, 99",
+   "координаты": [
+    50.211827,
+    53.205927
+   ],
+   "рейтинг": 5,
+   "оценок": 56,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://taplink.cc/bazilavto"
+   ],
+   "телефоны": [
+    "+7 (962) 606-00-03",
+    "+7 (962) 602-40-08"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автосалон",
+    "автохимчистка",
+    "продажа автомобилей с пробегом",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_park",
+    "car_valeting",
+    "gift_certificate",
+    "glass_polishing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/siyay/213668522460/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "72969963274",
+   "название": "Auto trading",
+   "seoname": "auto_trading",
+   "адрес": "ул. Гагарина, 147",
+   "координаты": [
+    50.215312,
+    53.201111
+   ],
+   "рейтинг": 3.7,
+   "оценок": 6,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 027-59-99",
+    "+7 (937) 206-29-99",
+    "+7 (927) 762-44-97"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 11:00–17:00; вс 11:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "cars_for_order",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/auto_trading/72969963274/",
+   "найдено_по": "автосалон Советский район"
+  }
+ ],
+ "расширено_по_районам": true
+}

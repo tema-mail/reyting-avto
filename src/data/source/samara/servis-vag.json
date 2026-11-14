@@ -1,0 +1,2000 @@
+{
+ "ниша": "Сервис Volkswagen, Skoda, Audi",
+ "ключ": "servis-vag",
+ "запросы": [
+  "сервис volkswagen skoda",
+  "ремонт audi"
+ ],
+ "найдено_в_яндексе": {
+  "сервис volkswagen skoda": 70,
+  "ремонт audi": 52
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Самаре (регион 51)",
+ "город": "samara",
+ "компании": [
+  {
+   "id": "129119671800",
+   "название": "Автомир Богемия, Škoda",
+   "seoname": "avtomir_bogemiya_koda",
+   "адрес": "Московское ш., 262",
+   "координаты": [
+    50.216622,
+    53.248208
+   ],
+   "рейтинг": 4.9,
+   "оценок": 2116,
+   "отзывов": 879,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bogemia-smr.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 215-12-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосалон"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_bogemiya_koda/129119671800/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 87
+  },
+  {
+   "id": "144470152276",
+   "название": "АвтоОкей",
+   "seoname": "avtookey",
+   "адрес": "Революционная ул., 113А",
+   "координаты": [
+    50.1778,
+    53.201769
+   ],
+   "рейтинг": 4.3,
+   "оценок": 1182,
+   "отзывов": 629,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 260-25-41"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtookey/144470152276/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 64,
+   "загружено_дат": 75
+  },
+  {
+   "id": "66669698937",
+   "название": "АвтоОкей",
+   "seoname": "avtookey",
+   "адрес": "ул. Дыбенко, 99",
+   "координаты": [
+    50.211647,
+    53.206012
+   ],
+   "рейтинг": 4.8,
+   "оценок": 819,
+   "отзывов": 573,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 700-26-71"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "flywheel_repair",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "hydroblock_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtookey/66669698937/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 58,
+   "загружено_дат": 64
+  },
+  {
+   "id": "28584948663",
+   "название": "Чип Профи",
+   "seoname": "chip_profi",
+   "адрес": "ул. Авроры, 150Г",
+   "координаты": [
+    50.18733,
+    53.210163
+   ],
+   "рейтинг": 5,
+   "оценок": 688,
+   "отзывов": 400,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://chip-profi.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-23-07",
+    "8 (800) 555-15-88",
+    "+7 (958) 598-53-75",
+    "+7 (958) 598-55-64",
+    "+7 (958) 598-55-43"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chip_profi/28584948663/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 41,
+   "загружено_дат": 57
+  },
+  {
+   "id": "50827682125",
+   "название": "Десбо",
+   "seoname": "desbo",
+   "адрес": "Средний пр., 30",
+   "координаты": [
+    50.202802,
+    53.198559
+   ],
+   "рейтинг": 4.8,
+   "оценок": 611,
+   "отзывов": 398,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://desbo.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-45-07",
+    "+7 (846) 300-45-50"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "delivery",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/desbo/50827682125/",
+   "последний_отзыв": "2026-08-25",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 91
+  },
+  {
+   "id": "227675039279",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "Владимирская ул., 18А, Самара",
+   "координаты": [
+    50.132137,
+    53.19967
+   ],
+   "рейтинг": 4.3,
+   "оценок": 674,
+   "отзывов": 371,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://samara.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 267-09-70"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/227675039279/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 93
+  },
+  {
+   "id": "43338962233",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Авроры, 114А, корп. 7, Самара",
+   "координаты": [
+    50.189486,
+    53.199492
+   ],
+   "рейтинг": 4.2,
+   "оценок": 601,
+   "отзывов": 342,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://samara.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 267-09-70"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/43338962233/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 89
+  },
+  {
+   "id": "80947930236",
+   "название": "Vag Place",
+   "seoname": "vag_place",
+   "адрес": "Солнечная ул., 24, стр. 1",
+   "координаты": [
+    50.195166,
+    53.247271
+   ],
+   "рейтинг": 5,
+   "оценок": 634,
+   "отзывов": 295,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://gt63.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 731-18-80"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vag_place/80947930236/",
+   "последний_отзыв": "2026-11-07",
+   "отзывов_за_12_мес_из_загруженных": 36,
+   "загружено_дат": 73
+  },
+  {
+   "id": "83535708894",
+   "название": "Автомат Ресурс",
+   "seoname": "avtomat_resurs",
+   "адрес": "ул. Тухачевского, 53",
+   "координаты": [
+    50.152878,
+    53.191802
+   ],
+   "рейтинг": 4.4,
+   "оценок": 381,
+   "отзывов": 263,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://remont-akpp163.ru/",
+    "https://remont-akpp163.ru/kontakty/"
+   ],
+   "телефоны": [
+    "+7 (927) 216-13-11"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Ремонт АКПП",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "call_button",
+    "guarantee",
+    "kaspi_red",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "street_entrance",
+    "toilet_for_disabled",
+    "torque_converter_repair",
+    "variator_repair",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomat_resurs/83535708894/",
+   "последний_отзыв": "2026-06-05",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 70
+  },
+  {
+   "id": "1180753381",
+   "название": "Агрегатка",
+   "seoname": "agregatka",
+   "адрес": "Структурная ул., 71, Самара",
+   "координаты": [
+    50.167585,
+    53.179464
+   ],
+   "рейтинг": 4.3,
+   "оценок": 589,
+   "отзывов": 257,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://akpp63.agregatka.ru/",
+    "https://agregatka.ru/remont-akpp-samara"
+   ],
+   "телефоны": [
+    "+7 (903) 301-77-22"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт АКПП",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agregatka/1180753381/",
+   "последний_отзыв": "2026-08-25",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 87
+  },
+  {
+   "id": "1170877012",
+   "название": "РеМарк Авто",
+   "seoname": "remark_avto",
+   "адрес": "Демократическая ул., 45А, корп. 2",
+   "координаты": [
+    50.226881,
+    53.272096
+   ],
+   "рейтинг": 4.7,
+   "оценок": 576,
+   "отзывов": 253,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://remark-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 225-34-45",
+    "+7 (846) 225-06-25"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remark_avto/1170877012/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 89
+  },
+  {
+   "id": "15715560613",
+   "название": "Мобитоп",
+   "seoname": "mobitop",
+   "адрес": "Уральская ул., 38, корп. 1",
+   "координаты": [
+    50.116663,
+    53.13387
+   ],
+   "рейтинг": 4.3,
+   "оценок": 571,
+   "отзывов": 232,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mobitopsam.ru/"
+   ],
+   "телефоны": [
+    "+7 (906) 125-85-19",
+    "+7 (906) 125-85-18",
+    "+7 (906) 125-85-24",
+    "+7 (917) 114-04-02",
+    "+7 (846) 330-16-74"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автомойка"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_polishing",
+    "car_wash",
+    "car_waxing",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mobitop/15715560613/",
+   "последний_отзыв": "2026-08-29",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 75
+  },
+  {
+   "id": "1028543973",
+   "название": "Дракон-Сервис",
+   "seoname": "drakon_servis",
+   "адрес": "ул. Антонова-Овсеенко, 9А",
+   "координаты": [
+    50.198396,
+    53.211019
+   ],
+   "рейтинг": 4.4,
+   "оценок": 458,
+   "отзывов": 215,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dragon-service.2gis.biz/",
+    "http://www.ugonov-net.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 222-11-22",
+    "+7 (961) 381-53-65"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–16:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/drakon_servis/1028543973/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 24,
+   "загружено_дат": 78
+  },
+  {
+   "id": "243224082577",
+   "название": "Автосервис Победы",
+   "seoname": "avtoservis_pobedy",
+   "адрес": "ул. Победы, 4В",
+   "координаты": [
+    50.225521,
+    53.204771
+   ],
+   "рейтинг": 4.3,
+   "оценок": 483,
+   "отзывов": 214,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtookej-pecherskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (977) 092-65-57",
+    "+7 (846) 225-20-50"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_pobedy/243224082577/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 77
+  },
+  {
+   "id": "1715057769",
+   "название": "Форсаж",
+   "seoname": "forsazh",
+   "адрес": "Демократическая ул., 45А, корп. 2, Самара",
+   "координаты": [
+    50.227399,
+    53.271907
+   ],
+   "рейтинг": 4.8,
+   "оценок": 443,
+   "отзывов": 212,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://auto-forsazh.ru/"
+   ],
+   "телефоны": [
+    "+7 (938) 699-83-27"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "пункт техосмотра",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forsazh/1715057769/",
+   "последний_отзыв": "2026-09-23",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 88
+  },
+  {
+   "id": "1859483533",
+   "название": "Сибаль-Авто",
+   "seoname": "sibal_avto",
+   "адрес": "Московское ш., 15А, стр. 1",
+   "координаты": [
+    50.177586,
+    53.210541
+   ],
+   "рейтинг": 4.2,
+   "оценок": 448,
+   "отзывов": 211,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://sibal-remont.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 233-51-36"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sibal_avto/1859483533/"
+  },
+  {
+   "id": "1086872892",
+   "название": "Audi Service",
+   "seoname": "audi_service",
+   "адрес": "Московское ш., 17А",
+   "координаты": [
+    50.186483,
+    53.215384
+   ],
+   "рейтинг": 4.7,
+   "оценок": 818,
+   "отзывов": 207,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.audi-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-52-01"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "electric car charging station",
+    "good_place",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/audi_service/1086872892/"
+  },
+  {
+   "id": "1080215052",
+   "название": "Ss20",
+   "seoname": "ss20",
+   "адрес": "Ташкентская ул., 175А",
+   "координаты": [
+    50.229537,
+    53.267278
+   ],
+   "рейтинг": 4.6,
+   "оценок": 425,
+   "отзывов": 201,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 155-05-05",
+    "+7 (846) 342-00-16",
+    "+7 (996) 729-17-16",
+    "+7 (927) 013-79-13"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "disable_photopoi",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ss20/1080215052/"
+  },
+  {
+   "id": "179294393148",
+   "название": "Zigert Motors - Vag Сервис",
+   "seoname": "zigert_motors_vag_servis",
+   "адрес": "Монтажная ул., 11, Новокуйбышевск",
+   "координаты": [
+    49.90869,
+    53.114838
+   ],
+   "рейтинг": 5,
+   "оценок": 378,
+   "отзывов": 180,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://zigertmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (960) 833-36-63",
+    "+7 (937) 100-01-63"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zigert_motors_vag_servis/179294393148/"
+  },
+  {
+   "id": "182148309598",
+   "название": "Бамперок63",
+   "seoname": "bamperok63",
+   "адрес": "6-я просека, 146",
+   "координаты": [
+    50.192476,
+    53.247079
+   ],
+   "рейтинг": 4.8,
+   "оценок": 297,
+   "отзывов": 175,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bamperok63.ru/"
+   ],
+   "телефоны": [
+    "+7 (958) 732-28-01"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "заправка автокондиционеров",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_glass_replacement",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "door_repair",
+    "kaspi_red",
+    "payment_by_credit_card",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bamperok63/182148309598/"
+  },
+  {
+   "id": "1736060638",
+   "название": "Атмосфера",
+   "seoname": "atmosfera",
+   "адрес": "ул. Мориса Тореза, 36А/1",
+   "координаты": [
+    50.186521,
+    53.197227
+   ],
+   "рейтинг": 4.9,
+   "оценок": 237,
+   "отзывов": 155,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://atmosfera-63.ru/"
+   ],
+   "телефоны": [
+    "+7 (963) 115-08-59",
+    "+7 (846) 359-17-15",
+    "+7 (987) 943-13-78"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "нанесение покрытий"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "powder_painting",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/atmosfera/1736060638/"
+  },
+  {
+   "id": "1744341024",
+   "название": "Ринг-Моторс",
+   "seoname": "ring_motors",
+   "адрес": "ул. Авроры, 156В",
+   "координаты": [
+    50.186925,
+    53.214867
+   ],
+   "рейтинг": 4.7,
+   "оценок": 291,
+   "отзывов": 149,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ringservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 225-33-53",
+    "+7 (927) 788-82-22",
+    "+7 (846) 990-66-11",
+    "+7 (927) 725-33-53"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ring_motors/1744341024/"
+  },
+  {
+   "id": "21817055032",
+   "название": "Автосервис № 1",
+   "seoname": "avtoservis_1",
+   "адрес": "ул. Аминева, 18",
+   "координаты": [
+    50.209534,
+    53.247925
+   ],
+   "рейтинг": 4.5,
+   "оценок": 211,
+   "отзывов": 113,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://servis163.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 955-57-05"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "kaspi_red",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_1/21817055032/"
+  },
+  {
+   "id": "164400312588",
+   "название": "Bavaria",
+   "seoname": "bavaria",
+   "адрес": "ул. Неверова, 1А",
+   "координаты": [
+    50.110274,
+    53.181684
+   ],
+   "рейтинг": 4.5,
+   "оценок": 299,
+   "отзывов": 106,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://bavaria163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 207-47-44",
+    "+7 (937) 066-69-80"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "adblue",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bavaria/164400312588/"
+  },
+  {
+   "id": "78583894772",
+   "название": "Корейский мастер",
+   "seoname": "koreyskiy_master",
+   "адрес": "городской округ Самара, Промышленный район, 7-я просека 3-й проезд, с1",
+   "координаты": [
+    50.19148,
+    53.255156
+   ],
+   "рейтинг": 4.9,
+   "оценок": 167,
+   "отзывов": 88,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koreiskimaster163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-47-83"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koreyskiy_master/78583894772/"
+  },
+  {
+   "id": "1038695308",
+   "название": "С. Т. О. Проф",
+   "seoname": "s_t_o_prof",
+   "адрес": "Силовая ул., 1",
+   "координаты": [
+    50.202996,
+    53.242516
+   ],
+   "рейтинг": 4.7,
+   "оценок": 156,
+   "отзывов": 77,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sto-prof63.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 692-59-71"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/s_t_o_prof/1038695308/"
+  },
+  {
+   "id": "1081483185",
+   "название": "Выбор",
+   "seoname": "vybor",
+   "адрес": "Ново-Вокзальная ул., 114А",
+   "координаты": [
+    50.221995,
+    53.232447
+   ],
+   "рейтинг": 4.4,
+   "оценок": 184,
+   "отзывов": 76,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 441-55-44",
+    "+7 (846) 989-10-29",
+    "+7 (846) 248-32-78",
+    "+7 (937) 989-10-29"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vybor/1081483185/"
+  },
+  {
+   "id": "219932521424",
+   "название": "Рейкарт",
+   "seoname": "reykart",
+   "адрес": "Алма-Атинская ул., 153",
+   "координаты": [
+    50.264785,
+    53.258103
+   ],
+   "рейтинг": 4.7,
+   "оценок": 133,
+   "отзывов": 64,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://reykart.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 200-01-20"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reykart/219932521424/"
+  },
+  {
+   "id": "88934414814",
+   "название": "Дракон Дыбенко",
+   "seoname": "drakon_dybenko",
+   "адрес": "ул. Советской Армии, 93",
+   "координаты": [
+    50.214722,
+    53.206154
+   ],
+   "рейтинг": 4.6,
+   "оценок": 148,
+   "отзывов": 60,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://service-dragon.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 141-94-37",
+    "+7 (903) 301-88-77"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "моторные масла",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "installation",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/drakon_dybenko/88934414814/"
+  },
+  {
+   "id": "11742682226",
+   "название": "РемЛаб",
+   "seoname": "remlab",
+   "адрес": "ул. Ерошевского, 31, Самара",
+   "координаты": [
+    50.164493,
+    53.211251
+   ],
+   "рейтинг": 4.6,
+   "оценок": 87,
+   "отзывов": 59,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://remlab63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 231-27-35"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 11:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Компьютерный ремонт и услуги",
+    "ремонт аудиотехники и видеотехники",
+    "игровые приставки"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "data_recovery",
+    "good_place",
+    "guarantee",
+    "headphone_repair",
+    "laptop_repair",
+    "monitor_repair",
+    "payment_by_credit_card",
+    "personal_computer_building",
+    "pickup",
+    "repair_mining_hardware",
+    "repair_of_game_consoles",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "smart_watch_repair",
+    "street_entrance",
+    "video_card_repair"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remlab/11742682226/"
+  },
+  {
+   "id": "116312837187",
+   "название": "Motin's service",
+   "seoname": "motin_s_service",
+   "адрес": "ул. Неверова, 50, Самара",
+   "координаты": [
+    50.117166,
+    53.183604
+   ],
+   "рейтинг": 4.9,
+   "оценок": 117,
+   "отзывов": 52,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (939) 700-12-35"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motin_s_service/116312837187/"
+  },
+  {
+   "id": "156683274632",
+   "название": "Мотор КПП",
+   "seoname": "motor_kpp",
+   "адрес": "городской округ Самара, Железнодорожный район, Семафорная улица, 5",
+   "координаты": [
+    50.177818,
+    53.172859
+   ],
+   "рейтинг": 5,
+   "оценок": 108,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://motorkpp63.ru/"
+   ],
+   "телефоны": [
+    "+7 (996) 745-24-56",
+    "+7 (846) 252-51-12"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motor_kpp/156683274632/"
+  },
+  {
+   "id": "125340063421",
+   "название": "Автомеханик",
+   "seoname": "avtomekhanik",
+   "адрес": "3-й пер., 1А",
+   "координаты": [
+    50.155351,
+    53.185663
+   ],
+   "рейтинг": 4.5,
+   "оценок": 101,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://remont-akpp63.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 147-65-64"
+   ],
+   "часы": "пн-сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "self_car_service",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomekhanik/125340063421/"
+  },
+  {
+   "id": "88308973311",
+   "название": "СпецМаксСервис",
+   "seoname": "spetsmaksservis",
+   "адрес": "Лунная ул., 3А",
+   "координаты": [
+    50.154275,
+    53.192317
+   ],
+   "рейтинг": 4.4,
+   "оценок": 82,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 246-62-46",
+    "+7 (962) 606-62-46"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/spetsmaksservis/88308973311/"
+  },
+  {
+   "id": "232429627571",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Структурная ул., 73",
+   "координаты": [
+    50.16741,
+    53.179652
+   ],
+   "рейтинг": 4.4,
+   "оценок": 108,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://serv63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 207-55-22",
+    "+7 (846) 207-55-33",
+    "+7 (846) 270-55-54",
+    "+7 (917) 107-53-53",
+    "+7 (917) 112-53-53",
+    "+7 (846) 270-55-53"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/232429627571/"
+  },
+  {
+   "id": "153849331197",
+   "название": "Логан-Сервис",
+   "seoname": "logan_servis",
+   "адрес": "Московское ш., 2, стр. 21",
+   "координаты": [
+    50.170523,
+    53.202699
+   ],
+   "рейтинг": 4.5,
+   "оценок": 104,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://tehnoton-s.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 225-09-55",
+    "+7 (846) 255-20-21"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей"
+   ],
+   "признаки": [
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/logan_servis/153849331197/"
+  },
+  {
+   "id": "234386899826",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "5-я просека, 97Б",
+   "координаты": [
+    50.183149,
+    53.243747
+   ],
+   "рейтинг": 4.3,
+   "оценок": 46,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 267-09-70"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/234386899826/"
+  },
+  {
+   "id": "98539801731",
+   "название": "Выхлоп 63",
+   "seoname": "vykhlop_63",
+   "адрес": "Луганская ул., 16, Железнодорожный район",
+   "координаты": [
+    50.179113,
+    53.175887
+   ],
+   "рейтинг": 4.9,
+   "оценок": 33,
+   "отзывов": 28,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://turbo-az.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (963) 115-05-51"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "coffee_to_go",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "home_visit",
+    "hybrid_car_repair",
+    "hydrogen_generators",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "termobudki",
+    "thickness_gauge_checking",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vykhlop_63/98539801731/"
+  },
+  {
+   "id": "1136573268",
+   "название": "АвтоЛидер",
+   "seoname": "avtolider",
+   "адрес": "Пятигорская ул., 13, корп. 1, Самара",
+   "координаты": [
+    50.136903,
+    53.185948
+   ],
+   "рейтинг": 4.3,
+   "оценок": 67,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtolider9.ru/",
+    "https://omvlgbo.ru/services/samara-region/samara/avtolider-4/"
+   ],
+   "телефоны": [
+    "+7 (927) 692-47-01"
+   ],
+   "часы": "пн-пт 08:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Установка ГБО"
+   ],
+   "признаки": [
+    "basic_service",
+    "freight_car_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtolider/1136573268/"
+  },
+  {
+   "id": "1185018974",
+   "название": "Автозапчасти",
+   "seoname": "avtozapchasti",
+   "адрес": "ул. Мичурина, 98Б/1",
+   "координаты": [
+    50.15046,
+    53.208923
+   ],
+   "рейтинг": 4.1,
+   "оценок": 49,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 267-17-17",
+    "+7 (905) 300-17-87"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtozapchasti/1185018974/"
+  },
+  {
+   "id": "80507005498",
+   "название": "G-Energy Service Рольф",
+   "seoname": "g_energy_service_rolf",
+   "адрес": "9-я просека 5-я линия, 105, Барбошина Поляна, Самара",
+   "координаты": [
+    50.210129,
+    53.264437
+   ],
+   "рейтинг": 4.2,
+   "оценок": 16,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://g-energy.org/",
+    "https://g-energy.org/service/ru/station/g-energy-service-rolf-samara_RU-0001GR"
+   ],
+   "телефоны": [
+    "+7 (846) 211-01-30"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/g_energy_service_rolf/80507005498/"
+  }
+ ]
+}

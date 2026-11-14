@@ -1,0 +1,6332 @@
+{
+ "ниша": "Ремонт рулевых реек",
+ "ключ": "remont-rulevykh-reek",
+ "запросы": [
+  "ремонт рулевой рейки"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт рулевой рейки": 104,
+  "ремонт рулевой рейки Железнодорожный район": 53,
+  "ремонт рулевой рейки Кировский район": 79,
+  "ремонт рулевой рейки Красноглинский район": 48,
+  "ремонт рулевой рейки Куйбышевский район": 58,
+  "ремонт рулевой рейки Ленинский район": 35,
+  "ремонт рулевой рейки Октябрьский район": 50,
+  "ремонт рулевой рейки Промышленный район": 68,
+  "ремонт рулевой рейки Самарский район": 6,
+  "ремонт рулевой рейки Советский район": 47
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Самаре (регион 51)",
+ "город": "samara",
+ "компании": [
+  {
+   "id": "28231340226",
+   "название": "Автокрепеж",
+   "seoname": "avtokrepezh",
+   "адрес": "Московское ш., 26Д",
+   "координаты": [
+    50.172828,
+    53.208997
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1605,
+   "отзывов": 979,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 211-10-63",
+    "+7 (917) 110-63-02"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "flywheel_repair",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "injector_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "torque_converter_repair",
+    "turbine repair",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokrepezh/28231340226/",
+   "последний_отзыв": "2026-10-14",
+   "отзывов_за_12_мес_из_загруженных": 37,
+   "загружено_дат": 68
+  },
+  {
+   "id": "144470152276",
+   "название": "АвтоОкей",
+   "seoname": "avtookey",
+   "адрес": "Революционная ул., 113А",
+   "координаты": [
+    50.1778,
+    53.201769
+   ],
+   "рейтинг": 4.3,
+   "оценок": 1182,
+   "отзывов": 629,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 260-25-41"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtookey/144470152276/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 64,
+   "загружено_дат": 75
+  },
+  {
+   "id": "50827682125",
+   "название": "Десбо",
+   "seoname": "desbo",
+   "адрес": "Средний пр., 30",
+   "координаты": [
+    50.202802,
+    53.198559
+   ],
+   "рейтинг": 4.8,
+   "оценок": 611,
+   "отзывов": 398,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://desbo.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-45-07",
+    "+7 (846) 300-45-50"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "delivery",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/desbo/50827682125/",
+   "последний_отзыв": "2026-08-25",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 91
+  },
+  {
+   "id": "227675039279",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "Владимирская ул., 18А, Самара",
+   "координаты": [
+    50.132137,
+    53.19967
+   ],
+   "рейтинг": 4.3,
+   "оценок": 674,
+   "отзывов": 371,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://samara.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 267-09-70"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/227675039279/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 93
+  },
+  {
+   "id": "164240813501",
+   "название": "Чип Форд",
+   "seoname": "chip_ford",
+   "адрес": "Алма-Атинская ул., 60В",
+   "координаты": [
+    50.261295,
+    53.265161
+   ],
+   "рейтинг": 4.9,
+   "оценок": 875,
+   "отзывов": 356,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chipford.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 555-50-63",
+    "+7 (846) 255-00-63"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chip_ford/164240813501/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 50
+  },
+  {
+   "id": "2282334077",
+   "название": "Десбо",
+   "seoname": "desbo",
+   "адрес": "ул. Алексея Толстого, 8Б",
+   "координаты": [
+    50.076678,
+    53.178929
+   ],
+   "рейтинг": 4.9,
+   "оценок": 372,
+   "отзывов": 260,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://desbo-ulitsa-vodnikov.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-49-12",
+    "+7 (846) 300-49-16"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/desbo/2282334077/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 89
+  },
+  {
+   "id": "107705719617",
+   "название": "Пионер",
+   "seoname": "pioner",
+   "адрес": "Партизанская ул., 44, Самара",
+   "координаты": [
+    50.165623,
+    53.193424
+   ],
+   "рейтинг": 4.8,
+   "оценок": 463,
+   "отзывов": 237,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.avtoservis-pioner.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 955-30-60",
+    "+7 (987) 955-20-30",
+    "+7 (846) 205-20-30",
+    "+7 (987) 955-20-40",
+    "+7 (846) 205-20-40"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pioner/107705719617/",
+   "последний_отзыв": "2026-08-17",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 70
+  },
+  {
+   "id": "1080215052",
+   "название": "Ss20",
+   "seoname": "ss20",
+   "адрес": "Ташкентская ул., 175А",
+   "координаты": [
+    50.229537,
+    53.267278
+   ],
+   "рейтинг": 4.6,
+   "оценок": 425,
+   "отзывов": 201,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 155-05-05",
+    "+7 (846) 342-00-16",
+    "+7 (996) 729-17-16",
+    "+7 (927) 013-79-13"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "disable_photopoi",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ss20/1080215052/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 73
+  },
+  {
+   "id": "232952442705",
+   "название": "Ремонт рулевых реек",
+   "seoname": "remont_rulevykh_reyek",
+   "адрес": "Луцкая ул., 18, Самара",
+   "координаты": [
+    50.152207,
+    53.17858
+   ],
+   "рейтинг": 4.9,
+   "оценок": 350,
+   "отзывов": 187,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://regrands.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 270-09-32"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт рулевых реек",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remont_rulevykh_reyek/232952442705/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 72
+  },
+  {
+   "id": "1274025806",
+   "название": "МаксАвто",
+   "seoname": "maksavto",
+   "адрес": "Алма-Атинская ул., 60А",
+   "координаты": [
+    50.265293,
+    53.257281
+   ],
+   "рейтинг": 4.8,
+   "оценок": 266,
+   "отзывов": 138,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://maksavto63.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 692-98-20",
+    "+7 (846) 972-98-20"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "street_entrance",
+    "tire_fitting",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/maksavto/1274025806/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 89
+  },
+  {
+   "id": "108447586237",
+   "название": "Вау",
+   "seoname": "vau",
+   "адрес": "просп. Кирова, 424В, корп. 2",
+   "координаты": [
+    50.216812,
+    53.258526
+   ],
+   "рейтинг": 5,
+   "оценок": 160,
+   "отзывов": 135,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (939) 707-07-77"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vau/108447586237/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 39,
+   "загружено_дат": 46
+  },
+  {
+   "id": "171575496890",
+   "название": "Авто-Лидер",
+   "seoname": "avto_lider",
+   "адрес": "Каховская ул., 73Б",
+   "координаты": [
+    50.253704,
+    53.229818
+   ],
+   "рейтинг": 4.8,
+   "оценок": 291,
+   "отзывов": 131,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avto-lider.center/"
+   ],
+   "телефоны": [
+    "+7 (927) 791-40-46",
+    "+7 (846) 990-23-13"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lider/171575496890/",
+   "последний_отзыв": "2026-09-20",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 85
+  },
+  {
+   "id": "134922906616",
+   "название": "МультиБрендовыйСервис",
+   "seoname": "multibrendovyyservis",
+   "адрес": "ул. Промышленности, 120А",
+   "координаты": [
+    50.196157,
+    53.181142
+   ],
+   "рейтинг": 4.5,
+   "оценок": 245,
+   "отзывов": 126,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.cto-bs.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 252-51-12",
+    "+7 (996) 745-24-56"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/multibrendovyyservis/134922906616/",
+   "последний_отзыв": "2026-09-26",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 96
+  },
+  {
+   "id": "37455370484",
+   "название": "Авто-Лидер",
+   "seoname": "avto_lider",
+   "адрес": "Пролетарская ул., 169Б",
+   "координаты": [
+    50.156517,
+    53.201823
+   ],
+   "рейтинг": 4.4,
+   "оценок": 238,
+   "отзывов": 100,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avto-lider.center/"
+   ],
+   "телефоны": [
+    "+7 (964) 977-07-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lider/37455370484/",
+   "последний_отзыв": "2026-02-28",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 83
+  },
+  {
+   "id": "186616889454",
+   "название": "Фаэтон",
+   "seoname": "faeton",
+   "адрес": "ул. Мичурина, 21Б",
+   "координаты": [
+    50.141649,
+    53.203894
+   ],
+   "рейтинг": 4.7,
+   "оценок": 156,
+   "отзывов": 91,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 176-44-70"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "kaspi_red",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/faeton/186616889454/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 84
+  },
+  {
+   "id": "56860671379",
+   "название": "Станция технического обслуживания Тухачевского",
+   "seoname": "stantsiya_tekhnicheskogo_obsluzhivaniya_tukhachevskogo",
+   "адрес": "ул. Тухачевского, 183",
+   "координаты": [
+    50.153494,
+    53.195379
+   ],
+   "рейтинг": 5,
+   "оценок": 100,
+   "отзывов": 88,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://stantsija-tehnicheskogo-ulitsa-tuhachevskogo.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 712-84-36",
+    "+7 (987) 945-09-46"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stantsiya_tekhnicheskogo_obsluzhivaniya_tukhachevskogo/56860671379/"
+  },
+  {
+   "id": "23481924566",
+   "название": "Гур-центр",
+   "seoname": "gur_tsentr",
+   "адрес": "Демократическая ул., 45А, корп. 6",
+   "координаты": [
+    50.226277,
+    53.271752
+   ],
+   "рейтинг": 4.6,
+   "оценок": 172,
+   "отзывов": 87,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 260-04-80"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт рулевых реек",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "basic_service",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gur_tsentr/23481924566/"
+  },
+  {
+   "id": "158364489898",
+   "название": "Авторемонт",
+   "seoname": "avtoremont",
+   "адрес": "Землевольческая ул., 21",
+   "координаты": [
+    50.122275,
+    53.182889
+   ],
+   "рейтинг": 5,
+   "оценок": 109,
+   "отзывов": 81,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (902) 517-48-00"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoremont/158364489898/"
+  },
+  {
+   "id": "85429478657",
+   "название": "Goodok",
+   "seoname": "goodok",
+   "адрес": "Красноармейская ул., 104А",
+   "координаты": [
+    50.124696,
+    53.188205
+   ],
+   "рейтинг": 4.4,
+   "оценок": 135,
+   "отзывов": 77,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 270-22-82"
+   ],
+   "часы": "пн-сб 09:00–18:00; вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "generators",
+    "guarantee",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/goodok/85429478657/"
+  },
+  {
+   "id": "219932521424",
+   "название": "Рейкарт",
+   "seoname": "reykart",
+   "адрес": "Алма-Атинская ул., 153",
+   "координаты": [
+    50.264785,
+    53.258103
+   ],
+   "рейтинг": 4.7,
+   "оценок": 133,
+   "отзывов": 64,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://reykart.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 200-01-20"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reykart/219932521424/"
+  },
+  {
+   "id": "83862199149",
+   "название": "Лаксар",
+   "seoname": "laksar",
+   "адрес": "Речной пер., 3А",
+   "координаты": [
+    50.159781,
+    53.176849
+   ],
+   "рейтинг": 4.5,
+   "оценок": 103,
+   "отзывов": 57,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 208-52-01",
+    "+7 (846) 359-13-31"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/laksar/83862199149/"
+  },
+  {
+   "id": "240261127490",
+   "название": "Катана",
+   "seoname": "katana",
+   "адрес": "ул. Гагарина, 6А, стр. 1, Самара",
+   "координаты": [
+    50.163633,
+    53.201687
+   ],
+   "рейтинг": 5,
+   "оценок": 69,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 989-99-11"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "моторные масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "delivery",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/katana/240261127490/"
+  },
+  {
+   "id": "236947401678",
+   "название": "Euro Service",
+   "seoname": "euro_service",
+   "адрес": "Тувинская ул., 31, Самара",
+   "координаты": [
+    50.260327,
+    53.276377
+   ],
+   "рейтинг": 5,
+   "оценок": 50,
+   "отзывов": 45,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (993) 468-08-08"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "car_park",
+    "delivery",
+    "generators",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_chains",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/euro_service/236947401678/"
+  },
+  {
+   "id": "201874105420",
+   "название": "Дакар",
+   "seoname": "dakar",
+   "адрес": "Дачная ул., 20",
+   "координаты": [
+    50.150591,
+    53.194329
+   ],
+   "рейтинг": 4.3,
+   "оценок": 114,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://dacar163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-04-11",
+    "+7 (917) 015-54-55"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dakar/201874105420/"
+  },
+  {
+   "id": "1783511282",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Водников, 11, Самара",
+   "координаты": [
+    50.076376,
+    53.178825
+   ],
+   "рейтинг": 4.3,
+   "оценок": 76,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-v-samarskom-rajone.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 424-19-61"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "installing_the_towbar",
+    "repair_of_diesel_engines",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/1783511282/"
+  },
+  {
+   "id": "156683274632",
+   "название": "Мотор КПП",
+   "seoname": "motor_kpp",
+   "адрес": "городской округ Самара, Железнодорожный район, Семафорная улица, 5",
+   "координаты": [
+    50.177818,
+    53.172859
+   ],
+   "рейтинг": 5,
+   "оценок": 108,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://motorkpp63.ru/"
+   ],
+   "телефоны": [
+    "+7 (996) 745-24-56",
+    "+7 (846) 252-51-12"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motor_kpp/156683274632/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "125340063421",
+   "название": "Автомеханик",
+   "seoname": "avtomekhanik",
+   "адрес": "3-й пер., 1А",
+   "координаты": [
+    50.155351,
+    53.185663
+   ],
+   "рейтинг": 4.5,
+   "оценок": 101,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://remont-akpp63.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 147-65-64"
+   ],
+   "часы": "пн-сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "self_car_service",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomekhanik/125340063421/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "1024679522",
+   "название": "Субару центр Самара",
+   "seoname": "subaru_tsentr_samara",
+   "адрес": "Революционная ул., 70Д, Самара",
+   "координаты": [
+    50.180253,
+    53.2078
+   ],
+   "рейтинг": 4.7,
+   "оценок": 557,
+   "отзывов": 158,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.subaru.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 233-78-18",
+    "+7 (961) 385-81-74"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/subaru_tsentr_samara/1024679522/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "216059659516",
+   "название": "Kia в Самаре",
+   "seoname": "kia_v_samare",
+   "адрес": "Ново-Урицкая ул., 22Ж, Самара",
+   "координаты": [
+    50.152591,
+    53.183414
+   ],
+   "рейтинг": 4.7,
+   "оценок": 2882,
+   "отзывов": 1062,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://service.kia-samara.ru/",
+    "https://promo.kia-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-50-29"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_v_samare/216059659516/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "116312837187",
+   "название": "Motin's service",
+   "seoname": "motin_s_service",
+   "адрес": "ул. Неверова, 50, Самара",
+   "координаты": [
+    50.117166,
+    53.183604
+   ],
+   "рейтинг": 4.9,
+   "оценок": 117,
+   "отзывов": 52,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (939) 700-12-35"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motin_s_service/116312837187/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "1123399186",
+   "название": "Т-техник 1991",
+   "seoname": "t_tekhnik_1991",
+   "адрес": "ул. Гая, 38, Самара",
+   "координаты": [
+    50.171895,
+    53.215663
+   ],
+   "рейтинг": 4.7,
+   "оценок": 148,
+   "отзывов": 54,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 266-64-44",
+    "+7 (927) 727-77-73",
+    "+7 (846) 265-08-68"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "coffee_to_go",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "generators",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/t_tekhnik_1991/1123399186/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "43338962233",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Авроры, 114А, корп. 7, Самара",
+   "координаты": [
+    50.189486,
+    53.199492
+   ],
+   "рейтинг": 4.2,
+   "оценок": 601,
+   "отзывов": 342,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://samara.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 267-09-70"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/43338962233/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "1028543973",
+   "название": "Дракон-Сервис",
+   "seoname": "drakon_servis",
+   "адрес": "ул. Антонова-Овсеенко, 9А, Самара",
+   "координаты": [
+    50.198396,
+    53.211019
+   ],
+   "рейтинг": 4.4,
+   "оценок": 458,
+   "отзывов": 215,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dragon-service.2gis.biz/",
+    "http://www.ugonov-net.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 222-11-22",
+    "+7 (961) 381-53-65"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–16:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/drakon_servis/1028543973/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "221517202903",
+   "название": "Ред Лайн Гараж",
+   "seoname": "red_layn_garazh",
+   "адрес": "Луцкая ул., 15",
+   "координаты": [
+    50.148325,
+    53.17975
+   ],
+   "рейтинг": 4.2,
+   "оценок": 6,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://red-line-garage.clients.site/service/remont-avtomobilej/TYCOON_43717550686"
+   ],
+   "телефоны": [
+    "+7 (937) 070-70-04",
+    "+7 (969) 513-53-28",
+    "+7 (927) 729-21-53"
+   ],
+   "часы": "пн-пт 08:00–18:00; сб 09:00–16:00; вс 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосервисное и гаражное оборудование"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/red_layn_garazh/221517202903/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "58766797999",
+   "название": "Рамиль Перформанс",
+   "seoname": "ramil_performans",
+   "адрес": "городской округ Самара, Железнодорожный район, Верхне-Карьерная улица, 1А",
+   "координаты": [
+    50.167197,
+    53.179817
+   ],
+   "рейтинг": 4.7,
+   "оценок": 26,
+   "отзывов": 20,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 799-99-64"
+   ],
+   "часы": "пн-пт 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "field_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ramil_performans/58766797999/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "22216374614",
+   "название": "63 Перфоманс",
+   "seoname": "63_perfomans",
+   "адрес": "ул. Промышленности, 44",
+   "координаты": [
+    50.179083,
+    53.175676
+   ],
+   "рейтинг": 4.9,
+   "оценок": 19,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 127-69-30"
+   ],
+   "часы": "пн-пт 15:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/63_perfomans/22216374614/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "170685984665",
+   "название": "PandaGarage",
+   "seoname": "pandagarage",
+   "адрес": "Юзовская ул., 1",
+   "координаты": [
+    50.14504,
+    53.184399
+   ],
+   "рейтинг": 4.5,
+   "оценок": 24,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 207-12-80"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pandagarage/170685984665/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "231532553757",
+   "название": "Авторитет",
+   "seoname": "avtoritet",
+   "адрес": "Аэродромная ул., 40, стр. 1",
+   "координаты": [
+    50.189091,
+    53.192633
+   ],
+   "рейтинг": 4.4,
+   "оценок": 7,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (923) 490-80-07"
+   ],
+   "часы": "пн-сб 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoritet/231532553757/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "164400312588",
+   "название": "Bavaria",
+   "seoname": "bavaria",
+   "адрес": "ул. Неверова, 1А",
+   "координаты": [
+    50.110274,
+    53.181684
+   ],
+   "рейтинг": 4.5,
+   "оценок": 299,
+   "отзывов": 106,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://bavaria163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 207-47-44",
+    "+7 (937) 066-69-80"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "adblue",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bavaria/164400312588/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "132818765959",
+   "название": "Пекшев Моторс",
+   "seoname": "pekshev_motors",
+   "адрес": "Партизанская ул., 55",
+   "координаты": [
+    50.156886,
+    53.196558
+   ],
+   "рейтинг": 4.9,
+   "оценок": 30,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://pekshevmotorservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 170-66-63"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pekshev_motors/132818765959/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "191964008266",
+   "название": "СТО на СТО",
+   "seoname": "sto_na_sto",
+   "адрес": "Владимирская ул., 62А",
+   "координаты": [
+    50.149108,
+    53.186496
+   ],
+   "рейтинг": 4.4,
+   "оценок": 23,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://100na100.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (999) 171-72-74"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sto_na_sto/191964008266/",
+   "найдено_по": "ремонт рулевой рейки Железнодорожный район"
+  },
+  {
+   "id": "234056185957",
+   "название": "Автозона Про",
+   "seoname": "avtozona_pro",
+   "адрес": "просп. Кирова, 255Н",
+   "координаты": [
+    50.24187,
+    53.236362
+   ],
+   "рейтинг": 4.3,
+   "оценок": 35,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://сервистут.рф/"
+   ],
+   "телефоны": [
+    "+7 (927) 692-59-59",
+    "+7 (846) 972-59-59"
+   ],
+   "часы": "пн-сб 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtozona_pro/234056185957/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "80507005498",
+   "название": "G-Energy Service Рольф",
+   "seoname": "g_energy_service_rolf",
+   "адрес": "9-я просека 5-я линия, 105, Барбошина Поляна, Самара",
+   "координаты": [
+    50.210129,
+    53.264437
+   ],
+   "рейтинг": 4.2,
+   "оценок": 16,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://g-energy.org/",
+    "https://g-energy.org/service/ru/station/g-energy-service-rolf-samara_RU-0001GR"
+   ],
+   "телефоны": [
+    "+7 (846) 211-01-30"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/g_energy_service_rolf/80507005498/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "1179041515",
+   "название": "Киа центр на Московском",
+   "seoname": "kia_tsentr_na_moskovskom",
+   "адрес": "Московское ш., 262А, Самара",
+   "координаты": [
+    50.215118,
+    53.2486
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1823,
+   "отзывов": 725,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://service.kia-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-50-28"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_tsentr_na_moskovskom/1179041515/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "115596578595",
+   "название": "Ев моторс",
+   "seoname": "yev_motors",
+   "адрес": "просп. Карла Маркса, 495, корп. 1",
+   "координаты": [
+    50.282081,
+    53.255907
+   ],
+   "рейтинг": 5,
+   "оценок": 61,
+   "отзывов": 40,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 219-29-10"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Электромобили, продажа и сервис",
+    "детейлинг",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_wheels_powder_coating",
+    "cars_russification",
+    "ceiling_cleaning",
+    "certified_service",
+    "chip_tuning",
+    "chrome_plating",
+    "commercial_vehicles_repair",
+    "disk_maintenance",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "field_service",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "leather_repair",
+    "loan_processing",
+    "onsite_diagnostics_cars",
+    "ozonation",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "registration_inspection",
+    "removing_dents_without_painting",
+    "sandblasting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "urea",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yev_motors/115596578595/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "219279495866",
+   "название": "Гусматик",
+   "seoname": "gusmatik",
+   "адрес": "ул. Карбышева, 63В, Самара",
+   "координаты": [
+    50.203074,
+    53.209397
+   ],
+   "рейтинг": 4.4,
+   "оценок": 135,
+   "отзывов": 70,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-gusmatik.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (961) 382-50-06",
+    "+7 (917) 011-27-77"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "keep_tires",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gusmatik/219279495866/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "233515909126",
+   "название": "Формула Кузова",
+   "seoname": "formula_kuzova",
+   "адрес": "пр. Мальцева, 7, корп. 3, Самара",
+   "координаты": [
+    50.247845,
+    53.189647
+   ],
+   "рейтинг": 4.9,
+   "оценок": 337,
+   "отзывов": 204,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://formulakuzova.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 424-83-31"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 11:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр",
+    "автомойка"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "door_repair",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/formula_kuzova/233515909126/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "78583894772",
+   "название": "Корейский мастер",
+   "seoname": "koreyskiy_master",
+   "адрес": "городской округ Самара, Промышленный район, 7-я просека 3-й проезд, с1",
+   "координаты": [
+    50.19148,
+    53.255156
+   ],
+   "рейтинг": 4.9,
+   "оценок": 167,
+   "отзывов": 88,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koreiskimaster163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-47-83"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koreyskiy_master/78583894772/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "236515706141",
+   "название": "АвтоВыбор",
+   "seoname": "avtovybor",
+   "адрес": "ул. Авроры, 110, корп. 4, Самара",
+   "координаты": [
+    50.189616,
+    53.193645
+   ],
+   "рейтинг": 4.9,
+   "оценок": 77,
+   "отзывов": 53,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.a-parts.ru/",
+    "https://www.a-parts.ru/autoservice"
+   ],
+   "телефоны": [
+    "+7 (963) 115-12-95",
+    "+7 (846) 205-55-14"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtovybor/236515706141/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "240392491495",
+   "название": "Кармастер",
+   "seoname": "karmaster",
+   "адрес": "Мирная ул., 3, корп. 1",
+   "координаты": [
+    50.246473,
+    53.239946
+   ],
+   "рейтинг": 5,
+   "оценок": 490,
+   "отзывов": 241,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://carmaster63.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 201-72-12"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/karmaster/240392491495/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "150492173432",
+   "название": "Premiera auto",
+   "seoname": "premiera_auto",
+   "адрес": "просп. Кирова, 84А",
+   "координаты": [
+    50.253069,
+    53.22522
+   ],
+   "рейтинг": 4.7,
+   "оценок": 34,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://premiera-auto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (966) 780-00-63",
+    "+7 (937) 177-52-43"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/premiera_auto/150492173432/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "183221988173",
+   "название": "Top Gear",
+   "seoname": "top_gear",
+   "адрес": "Алма-Атинская ул., 29к45К1",
+   "координаты": [
+    50.284014,
+    53.240303
+   ],
+   "рейтинг": 4.8,
+   "оценок": 77,
+   "отзывов": 60,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://topgear-alma-atinskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (966) 969-69-64"
+   ],
+   "часы": "пн-сб 11:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "ремонт выхлопных систем"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/top_gear/183221988173/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "1142375083",
+   "название": "СамараАвтоЦентр",
+   "seoname": "samaraavtotsentr",
+   "адрес": "территория 18-й километр Московского шоссе, 2В",
+   "координаты": [
+    50.264243,
+    53.275586
+   ],
+   "рейтинг": 4.2,
+   "оценок": 431,
+   "отзывов": 185,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 644-37-21"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samaraavtotsentr/1142375083/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "1715057769",
+   "название": "Форсаж",
+   "seoname": "forsazh",
+   "адрес": "Демократическая ул., 45А, корп. 2, Самара",
+   "координаты": [
+    50.227399,
+    53.271907
+   ],
+   "рейтинг": 4.8,
+   "оценок": 443,
+   "отзывов": 212,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://auto-forsazh.ru/"
+   ],
+   "телефоны": [
+    "+7 (938) 699-83-27"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "пункт техосмотра",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forsazh/1715057769/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "4838428675",
+   "название": "А. N. О. Auto",
+   "seoname": "a_n_o_auto",
+   "адрес": "городской округ Самара, Промышленный район, улица Кирова, 19",
+   "координаты": [
+    50.27075,
+    53.214524
+   ],
+   "рейтинг": 5,
+   "оценок": 160,
+   "отзывов": 81,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://anoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 992-58-57",
+    "+7 (902) 324-20-18"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/a_n_o_auto/4838428675/",
+   "найдено_по": "ремонт рулевой рейки Кировский район"
+  },
+  {
+   "id": "197544152169",
+   "название": "Арена",
+   "seoname": "arena",
+   "адрес": "11-я линия, 120, Барбошина Поляна, Самара",
+   "координаты": [
+    50.220966,
+    53.270156
+   ],
+   "рейтинг": 4.7,
+   "оценок": 290,
+   "отзывов": 179,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://арена-техцентр.рф/"
+   ],
+   "телефоны": [
+    "+7 (846) 270-03-86",
+    "+7 (846) 990-00-55"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосервисное и гаражное оборудование"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_photopoi",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/arena/197544152169/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "134747365112",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Набережная ул., 14, п. г. т. Новосемейкино",
+   "координаты": [
+    50.346506,
+    53.381545
+   ],
+   "рейтинг": 5,
+   "оценок": 236,
+   "отзывов": 146,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://evakuator-autorazbor63.ru/"
+   ],
+   "телефоны": [
+    "+7 (958) 732-62-98"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Эвакуация автомобилей",
+    "авторазбор",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "contract_engines",
+    "diesel_service",
+    "field_service",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "pickup",
+    "preliminary_registration",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "trailer_repair",
+    "welding_works"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/134747365112/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "195513798504",
+   "название": "Авенрокс",
+   "seoname": "avenroks",
+   "адрес": "ул. Мориса Тореза, 44А, Самара",
+   "координаты": [
+    50.188103,
+    53.197392
+   ],
+   "рейтинг": 4.4,
+   "оценок": 9,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avenrox.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 215-00-29",
+    "+7 (901) 147-74-70"
+   ],
+   "часы": "пн-сб 10:30–19:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avenroks/195513798504/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "242836593403",
+   "название": "АвтоВэйл",
+   "seoname": "avtoveyl",
+   "адрес": "Демократическая ул., 45А, стр. 2, Самара",
+   "координаты": [
+    50.225465,
+    53.271848
+   ],
+   "рейтинг": 4.8,
+   "оценок": 95,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autovail.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 200-02-31",
+    "+7 (917) 112-97-30"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Установка ГБО",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoveyl/242836593403/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "195728145237",
+   "название": "Немецкий мастер",
+   "seoname": "nemetskiy_master",
+   "адрес": "Московское ш., 15А, стр. 1, Самара",
+   "координаты": [
+    50.17758,
+    53.210595
+   ],
+   "рейтинг": 4.6,
+   "оценок": 122,
+   "отзывов": 73,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nemeckimaster163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 226-52-74"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nemetskiy_master/195728145237/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "1716702831",
+   "название": "Лексус",
+   "seoname": "leksus",
+   "адрес": "Московское ш., 264А, Самара",
+   "координаты": [
+    50.218524,
+    53.249919
+   ],
+   "рейтинг": 4.8,
+   "оценок": 555,
+   "отзывов": 154,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.lexussamara.ru/",
+    "https://lexussamara.ru/",
+    "https://lexussamara-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 233-78-49",
+    "+7 (846) 211-12-79",
+    "+7 (846) 211-20-09"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–18:00; вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/leksus/1716702831/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "237054774532",
+   "название": "Rdt Service",
+   "seoname": "rdt_service",
+   "адрес": "Самара, посёлок Управленческий",
+   "координаты": [
+    50.208799,
+    53.353995
+   ],
+   "рейтинг": 4.7,
+   "оценок": 104,
+   "отзывов": 45,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (902) 159-96-45",
+    "+7 (960) 822-25-46"
+   ],
+   "часы": "пн-пт 09:30–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rdt_service/237054774532/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "239347092500",
+   "название": "Гараж Мастер",
+   "seoname": "garazh_master",
+   "адрес": "Самара, посёлок Управленческий",
+   "координаты": [
+    50.207479,
+    53.353713
+   ],
+   "рейтинг": 4.3,
+   "оценок": 8,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (967) 768-03-33"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garazh_master/239347092500/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "1087783478",
+   "название": "Логан сервис",
+   "seoname": "logan_servis",
+   "адрес": "Волжское ш., 40",
+   "координаты": [
+    50.237984,
+    53.306335
+   ],
+   "рейтинг": 4.8,
+   "оценок": 728,
+   "отзывов": 315,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://logan-servis.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 255-20-21",
+    "+7 (846) 922-88-46",
+    "+7 (846) 972-20-21",
+    "+7 (846) 374-20-21"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/logan_servis/1087783478/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "139359318164",
+   "название": "Флагман Авто",
+   "seoname": "flagman_avto",
+   "адрес": "Беловская ул., 11, посёлок Мехзавод, Самара",
+   "координаты": [
+    50.273317,
+    53.299979
+   ],
+   "рейтинг": 4.4,
+   "оценок": 127,
+   "отзывов": 52,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://flagman-avto-belovskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 951-07-56"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "car_park",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/flagman_avto/139359318164/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "125435660175",
+   "название": "Студия Кузова",
+   "seoname": "studiya_kuzova",
+   "адрес": "Московское шоссе, 22-й километр, 8",
+   "координаты": [
+    50.290805,
+    53.305051
+   ],
+   "рейтинг": 4.8,
+   "оценок": 100,
+   "отзывов": 52,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kuzov63.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-42-08",
+    "+7 (987) 165-69-76"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "adblue",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "call_button",
+    "car_park",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "installing_the_towbar",
+    "kz_kaspi_qr",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_chains",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/studiya_kuzova/125435660175/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "1429145621",
+   "название": "Логан сервис",
+   "seoname": "logan_servis",
+   "адрес": "29-й массив, 35",
+   "координаты": [
+    50.31914,
+    53.333824
+   ],
+   "рейтинг": 4.8,
+   "оценок": 268,
+   "отзывов": 114,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://logan-servis.ru/",
+    "https://avtorazbor-renault.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 255-20-21",
+    "+7 (919) 807-90-02"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "авторазбор",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "basic_service",
+    "brokencars",
+    "car_park",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/logan_servis/1429145621/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "62170162002",
+   "название": "АвтоОкей",
+   "seoname": "avtookey",
+   "адрес": "Алма-Атинская ул., 37Б",
+   "координаты": [
+    50.268038,
+    53.25284
+   ],
+   "рейтинг": 4.9,
+   "оценок": 414,
+   "отзывов": 235,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avtookey.com/"
+   ],
+   "телефоны": [
+    "+7 (939) 707-56-56"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtookey/62170162002/",
+   "найдено_по": "ремонт рулевой рейки Красноглинский район"
+  },
+  {
+   "id": "167084990683",
+   "название": "Автосервис 063",
+   "seoname": "avtoservis_063",
+   "адрес": "Шоссейная ул., 9А, Самара",
+   "координаты": [
+    50.075049,
+    53.165134
+   ],
+   "рейтинг": 5,
+   "оценок": 28,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-063.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (846) 207-72-72"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "disable_photopoi",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_063/167084990683/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "88934414814",
+   "название": "Дракон Дыбенко",
+   "seoname": "drakon_dybenko",
+   "адрес": "ул. Советской Армии, 93, Самара",
+   "координаты": [
+    50.214722,
+    53.206154
+   ],
+   "рейтинг": 4.6,
+   "оценок": 148,
+   "отзывов": 60,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://service-dragon.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 141-94-37",
+    "+7 (903) 301-88-77"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "моторные масла",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "installation",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/drakon_dybenko/88934414814/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "1020119713",
+   "название": "Озон",
+   "seoname": "ozon",
+   "адрес": "Уральское ш., 10",
+   "координаты": [
+    50.186775,
+    53.124386
+   ],
+   "рейтинг": 4.9,
+   "оценок": 610,
+   "отзывов": 296,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://ozon-servis.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 270-09-19",
+    "+7 (846) 300-45-01"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ozon/1020119713/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "83105410153",
+   "название": "Ваш Автосервис",
+   "seoname": "vash_avtoservis",
+   "адрес": "Саратовский пер., 63А, посёлок Соцгород",
+   "координаты": [
+    50.09102,
+    53.126998
+   ],
+   "рейтинг": 4.7,
+   "оценок": 26,
+   "отзывов": 20,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 833-67-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vash_avtoservis/83105410153/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "195793804523",
+   "название": "Станция технического обслуживания Утёвская",
+   "seoname": "stantsiya_tekhnicheskogo_obsluzhivaniya_utyovskaya",
+   "адрес": "Утёвская ул., 20Б",
+   "координаты": [
+    50.106745,
+    53.131015
+   ],
+   "рейтинг": 5,
+   "оценок": 77,
+   "отзывов": 65,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sto-utevskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (936) 543-35-48",
+    "+7 (927) 219-71-78"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stantsiya_tekhnicheskogo_obsluzhivaniya_utyovskaya/195793804523/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "179702467566",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "городской округ Самара, Куйбышевский район, Центральная улица, 11Б",
+   "координаты": [
+    50.152268,
+    53.137461
+   ],
+   "рейтинг": 4.7,
+   "оценок": 17,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (999) 158-69-99"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/179702467566/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "36916778493",
+   "название": "Gmaster",
+   "seoname": "gmaster",
+   "адрес": "Извилистый пер., 3",
+   "координаты": [
+    50.071219,
+    53.167353
+   ],
+   "рейтинг": 4.9,
+   "оценок": 56,
+   "отзывов": 29,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://garagemaster.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (937) 994-95-35"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gmaster/36916778493/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "15715560613",
+   "название": "Мобитоп",
+   "seoname": "mobitop",
+   "адрес": "Уральская ул., 38, корп. 1",
+   "координаты": [
+    50.116663,
+    53.13387
+   ],
+   "рейтинг": 4.3,
+   "оценок": 571,
+   "отзывов": 232,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mobitopsam.ru/"
+   ],
+   "телефоны": [
+    "+7 (906) 125-85-19",
+    "+7 (906) 125-85-18",
+    "+7 (906) 125-85-24",
+    "+7 (917) 114-04-02",
+    "+7 (846) 330-16-74"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_polishing",
+    "car_wash",
+    "car_waxing",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mobitop/15715560613/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "206290916973",
+   "название": "Скорость",
+   "seoname": "skorost",
+   "адрес": "Белорусская ул., 128А",
+   "координаты": [
+    50.034742,
+    53.143793
+   ],
+   "рейтинг": 4.8,
+   "оценок": 18,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 984-04-29"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skorost/206290916973/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "46694155753",
+   "название": "Еамоторс",
+   "seoname": "yeamotors",
+   "адрес": "Пугачёвский тракт, 82Г",
+   "координаты": [
+    50.089351,
+    53.126506
+   ],
+   "рейтинг": 5,
+   "оценок": 37,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://eamotors.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (846) 277-08-01",
+    "+7 (927) 207-08-01"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "сварочные работы"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "starting_the_car",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yeamotors/46694155753/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "190531168929",
+   "название": "PiT-Stop",
+   "seoname": "pit_stop",
+   "адрес": "Белорусская ул., 88, корп. 2",
+   "координаты": [
+    50.057195,
+    53.146762
+   ],
+   "рейтинг": 4.4,
+   "оценок": 98,
+   "отзывов": 45,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 163-58-88"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "mobile_tire_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pit_stop/190531168929/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "64799398717",
+   "название": "CarTech",
+   "seoname": "cartech",
+   "адрес": "Грозненская ул., 8",
+   "координаты": [
+    50.066201,
+    53.112763
+   ],
+   "рейтинг": 4.2,
+   "оценок": 217,
+   "отзывов": 97,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://cartech116.orgs.biz/"
+   ],
+   "телефоны": [
+    "+7 (917) 973-65-27"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "access_by_agreement",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "commercial_vehicles_repair",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "repair_dsg",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cartech/64799398717/",
+   "найдено_по": "ремонт рулевой рейки Куйбышевский район"
+  },
+  {
+   "id": "53457543382",
+   "название": "Мастер Кар",
+   "seoname": "master_kar",
+   "адрес": "просп. Масленникова, 4/1",
+   "координаты": [
+    50.152963,
+    53.214755
+   ],
+   "рейтинг": 5,
+   "оценок": 111,
+   "отзывов": 76,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mastercar-smr.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 019-14-13"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "автоэкспертиза, оценка автомобилей"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_gravity_film",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_valeting",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "glass_polishing",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "registration_SBKTS",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master_kar/53457543382/",
+   "найдено_по": "ремонт рулевой рейки Ленинский район"
+  },
+  {
+   "id": "1517516298",
+   "название": "Скиф-Авто",
+   "seoname": "skif_avto",
+   "адрес": "просп. Масленникова, 4/1",
+   "координаты": [
+    50.153532,
+    53.215264
+   ],
+   "рейтинг": 4.8,
+   "оценок": 215,
+   "отзывов": 121,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://skifavto63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 205-50-01",
+    "+7 (927) 013-12-77"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_door_closers",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skif_avto/1517516298/",
+   "найдено_по": "ремонт рулевой рейки Ленинский район"
+  },
+  {
+   "id": "214678633084",
+   "название": "ЮнАвто",
+   "seoname": "yunavto",
+   "адрес": "ул. Мичурина, 21Б",
+   "координаты": [
+    50.141631,
+    53.203926
+   ],
+   "рейтинг": 4.4,
+   "оценок": 181,
+   "отзывов": 98,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 907-25-40"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "generators",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "service_maintenance",
+    "spare_parts",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yunavto/214678633084/",
+   "найдено_по": "ремонт рулевой рейки Ленинский район"
+  },
+  {
+   "id": "183036594081",
+   "название": "РЛС",
+   "seoname": "rls",
+   "адрес": "ул. Мичурина, 23",
+   "координаты": [
+    50.144042,
+    53.205359
+   ],
+   "рейтинг": 4.3,
+   "оценок": 214,
+   "отзывов": 80,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://g-energy.org/service/ru/station/g-energy-service-samara_RU-0043"
+   ],
+   "телефоны": [
+    "+7 (846) 211-59-38",
+    "+7 (927) 746-87-47"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rls/183036594081/",
+   "найдено_по": "ремонт рулевой рейки Ленинский район"
+  },
+  {
+   "id": "119056352167",
+   "название": "Авто Сервис Малышева",
+   "seoname": "avto_servis_malysheva",
+   "адрес": "ул. Тухачевского, 53",
+   "координаты": [
+    50.153041,
+    53.191794
+   ],
+   "рейтинг": 5,
+   "оценок": 67,
+   "отзывов": 43,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://pavelmotors63.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 982-42-42",
+    "+7 (917) 034-82-16"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 14:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_servis_malysheva/119056352167/",
+   "найдено_по": "ремонт рулевой рейки Ленинский район"
+  },
+  {
+   "id": "1101682999",
+   "название": "Goodok",
+   "seoname": "goodok",
+   "адрес": "ул. Венцека, 127",
+   "координаты": [
+    50.104271,
+    53.181174
+   ],
+   "рейтинг": 4.3,
+   "оценок": 180,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 310-87-56"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "engine_endoscopy",
+    "generators",
+    "guarantee",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "spare_parts",
+    "starters",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/goodok/1101682999/",
+   "найдено_по": "ремонт рулевой рейки Ленинский район"
+  },
+  {
+   "id": "118205061357",
+   "название": "RedBox",
+   "seoname": "redbox",
+   "адрес": "ул. Ерошевского, 5В",
+   "координаты": [
+    50.158733,
+    53.216551
+   ],
+   "рейтинг": 4.6,
+   "оценок": 166,
+   "отзывов": 78,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 335-29-98"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/redbox/118205061357/",
+   "найдено_по": "ремонт рулевой рейки Ленинский район"
+  },
+  {
+   "id": "93182088494",
+   "название": "Fair Service",
+   "seoname": "fair_service",
+   "адрес": "Ново-Урицкая ул., 31А",
+   "координаты": [
+    50.161011,
+    53.178813
+   ],
+   "рейтинг": 4.7,
+   "оценок": 79,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 766-61-14"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "diesel_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fair_service/93182088494/",
+   "найдено_по": "ремонт рулевой рейки Ленинский район"
+  },
+  {
+   "id": "45856903180",
+   "название": "На Ниве по жизни",
+   "seoname": "na_nive_po_zhizni",
+   "адрес": "Ново-Урицкая ул., 6А",
+   "координаты": [
+    50.144651,
+    53.18551
+   ],
+   "рейтинг": 4.7,
+   "оценок": 47,
+   "отзывов": 17,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nivatuning.com/"
+   ],
+   "телефоны": [
+    "+7 (927) 691-60-65"
+   ],
+   "часы": "пн-пт 12:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "field_service",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/na_nive_po_zhizni/45856903180/",
+   "найдено_по": "ремонт рулевой рейки Ленинский район"
+  },
+  {
+   "id": "187291798018",
+   "название": "Автомотомастерская",
+   "seoname": "avtomotomasterskaya",
+   "адрес": "Ново-Урицкая ул., 42",
+   "координаты": [
+    50.157618,
+    53.180913
+   ],
+   "рейтинг": 4.9,
+   "оценок": 53,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 151-87-36"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "body_repair",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomotomasterskaya/187291798018/",
+   "найдено_по": "ремонт рулевой рейки Ленинский район"
+  },
+  {
+   "id": "125392615223",
+   "название": "Могучие моторы",
+   "seoname": "moguchiye_motory",
+   "адрес": "ул. Николая Панова, 29, корп. 3",
+   "координаты": [
+    50.16267,
+    53.20828
+   ],
+   "рейтинг": 4.3,
+   "оценок": 140,
+   "отзывов": 79,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://mightymotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 652-68-67"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 12:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "cylinder_blocks_boring",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moguchiye_motory/125392615223/",
+   "найдено_по": "ремонт рулевой рейки Ленинский район"
+  },
+  {
+   "id": "157411799619",
+   "название": "Автомир, Suzuki",
+   "seoname": "avtomir_suzuki",
+   "адрес": "ул. Авроры, 150Е",
+   "координаты": [
+    50.184859,
+    53.210155
+   ],
+   "рейтинг": 4.7,
+   "оценок": 427,
+   "отзывов": 200,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://samara.suzuki-avtomir.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 215-12-86"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_suzuki/157411799619/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "234386899826",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "5-я просека, 97Б",
+   "координаты": [
+    50.183149,
+    53.243747
+   ],
+   "рейтинг": 4.3,
+   "оценок": 46,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 267-09-70"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/234386899826/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "192491506329",
+   "название": "Di Cars",
+   "seoname": "di_cars",
+   "адрес": "Солнечная ул., 24, стр. 1, Самара",
+   "координаты": [
+    50.19482,
+    53.247029
+   ],
+   "рейтинг": 5,
+   "оценок": 155,
+   "отзывов": 77,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dicars63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 270-09-14",
+    "+7 (963) 916-33-64"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/di_cars/192491506329/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "220915209555",
+   "название": "СервисОК",
+   "seoname": "servisok",
+   "адрес": "Революционная ул., 113А",
+   "координаты": [
+    50.176617,
+    53.201979
+   ],
+   "рейтинг": 5,
+   "оценок": 106,
+   "отзывов": 69,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 172-31-24"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/servisok/220915209555/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "168339888935",
+   "название": "Das",
+   "seoname": "das",
+   "адрес": "Подшипниковая ул., 8",
+   "координаты": [
+    50.161444,
+    53.207939
+   ],
+   "рейтинг": 4.7,
+   "оценок": 56,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (906) 345-67-88"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_wash",
+    "chip_tuning",
+    "gift_certificate",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/das/168339888935/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "68177503990",
+   "название": "МГ",
+   "seoname": "mg",
+   "адрес": "Революционная ул., 113А",
+   "координаты": [
+    50.17752,
+    53.201725
+   ],
+   "рейтинг": 4.5,
+   "оценок": 14,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 904-46-44"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 11:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mg/68177503990/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "148088406128",
+   "название": "Автотрек",
+   "seoname": "avtotrek",
+   "адрес": "ул. Авроры, 150Д",
+   "координаты": [
+    50.185507,
+    53.21059
+   ],
+   "рейтинг": 5,
+   "оценок": 76,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtotreksamara.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 008-79-40"
+   ],
+   "часы": "пн-сб 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hydraulic_cylinders",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotrek/148088406128/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "56534823025",
+   "название": "ЭлАвто",
+   "seoname": "elavto",
+   "адрес": "ул. Николая Панова, 56В",
+   "координаты": [
+    50.164292,
+    53.21054
+   ],
+   "рейтинг": 4.8,
+   "оценок": 153,
+   "отзывов": 66,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 775-21-94",
+    "+7 (937) 643-22-22"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/elavto/56534823025/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "139303721901",
+   "название": "АвтоОкей",
+   "seoname": "avtookey",
+   "адрес": "ул. Санфировой, 114А",
+   "координаты": [
+    50.192362,
+    53.221103
+   ],
+   "рейтинг": 4.9,
+   "оценок": 676,
+   "отзывов": 505,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 790-01-37"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtookey/139303721901/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "99974452461",
+   "название": "CarVega",
+   "seoname": "carvega",
+   "адрес": "ул. Ерошевского, 3",
+   "координаты": [
+    50.157259,
+    53.217173
+   ],
+   "рейтинг": 4.8,
+   "оценок": 21,
+   "отзывов": 16,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 982-18-02",
+    "+7 (927) 715-67-23"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "good_place",
+    "heater_flushing",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carvega/99974452461/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "180348018081",
+   "название": "Немцев. Нет",
+   "seoname": "nemtsev_net",
+   "адрес": "Революционная ул., 113А",
+   "координаты": [
+    50.17657,
+    53.202072
+   ],
+   "рейтинг": 4.3,
+   "оценок": 5,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (939) 708-09-99"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "repair_dsg",
+    "thickness_gauge_checking",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nemtsev_net/180348018081/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "57553903720",
+   "название": "КузовОК",
+   "seoname": "kuzovok",
+   "адрес": "ул. Николая Панова, 29, корп. 3",
+   "координаты": [
+    50.162666,
+    53.208378
+   ],
+   "рейтинг": 4.6,
+   "оценок": 277,
+   "отзывов": 139,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://kuzovok63.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 175-84-83",
+    "+7 (937) 070-80-20"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр",
+    "антикоррозийная обработка"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "freight_car_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kuzovok/57553903720/",
+   "найдено_по": "ремонт рулевой рейки Октябрьский район"
+  },
+  {
+   "id": "214831060990",
+   "название": "Дас Авто",
+   "seoname": "das_avto",
+   "адрес": "Нагорная ул., 123",
+   "координаты": [
+    50.243609,
+    53.229883
+   ],
+   "рейтинг": 5,
+   "оценок": 163,
+   "отзывов": 124,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.dasauto63.ru/"
+   ],
+   "телефоны": [
+    "+7 (995) 909-04-77",
+    "+7 (927) 020-00-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheel_balancing"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/das_avto/214831060990/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "115565385419",
+   "название": "Корейский мастер",
+   "seoname": "koreyskiy_master",
+   "адрес": "ул. Аминева, 18",
+   "координаты": [
+    50.209051,
+    53.247705
+   ],
+   "рейтинг": 5,
+   "оценок": 52,
+   "отзывов": 51,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koreiskimaster163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-47-83"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koreyskiy_master/115565385419/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "61904523936",
+   "название": "Авто-Скр",
+   "seoname": "avto_skr",
+   "адрес": "Силовая ул., 1",
+   "координаты": [
+    50.203224,
+    53.242824
+   ],
+   "рейтинг": 5,
+   "оценок": 149,
+   "отзывов": 71,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://skr-silovaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 606-88-01"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_skr/61904523936/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "165932517830",
+   "название": "Чемпион",
+   "seoname": "chempion",
+   "адрес": "ул. Александра Матросова, 76А, лит.Г",
+   "координаты": [
+    50.231952,
+    53.217445
+   ],
+   "рейтинг": 4.8,
+   "оценок": 71,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 290-28-28"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chempion/165932517830/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "1082515127",
+   "название": "Ремонтно-производственный центр",
+   "seoname": "remontno_proizvodstvenny_tsentr",
+   "адрес": "просп. Юных Пионеров, 34Б",
+   "координаты": [
+    50.229095,
+    53.219147
+   ],
+   "рейтинг": 4.6,
+   "оценок": 273,
+   "отзывов": 114,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://rpcpro.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 712-80-98",
+    "+7 (846) 951-55-12",
+    "+7 (917) 109-23-41",
+    "+7 (917) 829-24-55",
+    "+7 (927) 766-09-04"
+   ],
+   "часы": "пн-пт 09:00–17:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт двигателей",
+    "автосервис, автотехцентр",
+    "металлообработка"
+   ],
+   "признаки": [
+    "diesel_service",
+    "milling",
+    "payment_by_credit_card",
+    "plasma_cutting_metal",
+    "street_entrance",
+    "turbine repair",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remontno_proizvodstvenny_tsentr/1082515127/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "1081483185",
+   "название": "Выбор",
+   "seoname": "vybor",
+   "адрес": "Ново-Вокзальная ул., 114А",
+   "координаты": [
+    50.221995,
+    53.232447
+   ],
+   "рейтинг": 4.4,
+   "оценок": 184,
+   "отзывов": 76,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 441-55-44",
+    "+7 (846) 989-10-29",
+    "+7 (846) 248-32-78",
+    "+7 (937) 989-10-29"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vybor/1081483185/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "1301138560",
+   "название": "Самарский ремонтно-производственный диагностический центр",
+   "seoname": "samarskiy_remontno_proizvodstvenny_diagnosticheskiy_tsentr",
+   "адрес": "Физкультурная ул., 105",
+   "координаты": [
+    50.262328,
+    53.216456
+   ],
+   "рейтинг": 4,
+   "оценок": 171,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://srpdc63.ru/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/"
+   ],
+   "телефоны": [
+    "+7 (846) 995-27-27",
+    "+7 (927) 901-97-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_wash",
+    "payment_by_credit_card",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samarskiy_remontno_proizvodstvenny_diagnosticheskiy_tsentr/1301138560/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "30572628300",
+   "название": "Японский мастер",
+   "seoname": "yaponskiy_master",
+   "адрес": "ул. Аминева, 18",
+   "координаты": [
+    50.208708,
+    53.247393
+   ],
+   "рейтинг": 4.9,
+   "оценок": 356,
+   "отзывов": 246,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://yaponskimaster163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-53-62"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yaponskiy_master/30572628300/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "1706112184",
+   "название": "ЛогикАвто",
+   "seoname": "logikavto",
+   "адрес": "Силовая ул., 11",
+   "координаты": [
+    50.207457,
+    53.243692
+   ],
+   "рейтинг": 4.7,
+   "оценок": 158,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://logikavto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (846) 972-72-42",
+    "+7 (927) 692-72-42"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "electric car charging station",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/logikavto/1706112184/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "1038695308",
+   "название": "С. Т. О. Проф",
+   "seoname": "s_t_o_prof",
+   "адрес": "Силовая ул., 1",
+   "координаты": [
+    50.202996,
+    53.242516
+   ],
+   "рейтинг": 4.7,
+   "оценок": 156,
+   "отзывов": 77,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sto-prof63.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 692-59-71",
+    "+7 (846) 972-59-71"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/s_t_o_prof/1038695308/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "32472232035",
+   "название": "Витес",
+   "seoname": "vites",
+   "адрес": "городской округ Самара, Промышленный район",
+   "координаты": [
+    50.297663,
+    53.209304
+   ],
+   "рейтинг": 4.2,
+   "оценок": 104,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vites-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 201-96-06",
+    "+7 (987) 959-99-63",
+    "+7 (846) 977-33-23"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vites/32472232035/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "21817055032",
+   "название": "Автосервис № 1",
+   "seoname": "avtoservis_1",
+   "адрес": "ул. Аминева, 18",
+   "координаты": [
+    50.209534,
+    53.247925
+   ],
+   "рейтинг": 4.5,
+   "оценок": 211,
+   "отзывов": 113,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://servis163.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 955-57-05"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "kaspi_red",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_1/21817055032/",
+   "найдено_по": "ремонт рулевой рейки Промышленный район"
+  },
+  {
+   "id": "158864172054",
+   "название": "63 Легион",
+   "seoname": "63_legion",
+   "адрес": "Утёвская ул., 20Б, Самара",
+   "координаты": [
+    50.106084,
+    53.130669
+   ],
+   "рейтинг": 4.6,
+   "оценок": 19,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 735-94-53",
+    "+7 (917) 105-50-61",
+    "+7 (996) 623-63-63"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт МКПП",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/63_legion/158864172054/",
+   "найдено_по": "ремонт рулевой рейки Самарский район"
+  },
+  {
+   "id": "98539801731",
+   "название": "Выхлоп 63",
+   "seoname": "vykhlop_63",
+   "адрес": "Луганская ул., 16, Железнодорожный район",
+   "координаты": [
+    50.179113,
+    53.175887
+   ],
+   "рейтинг": 4.9,
+   "оценок": 33,
+   "отзывов": 28,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://turbo-az.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (963) 115-05-51"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "coffee_to_go",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "home_visit",
+    "hybrid_car_repair",
+    "hydrogen_generators",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "termobudki",
+    "thickness_gauge_checking",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vykhlop_63/98539801731/",
+   "найдено_по": "ремонт рулевой рейки Советский район"
+  },
+  {
+   "id": "215520834242",
+   "название": "Автосила",
+   "seoname": "avtosila",
+   "адрес": "ул. Промышленности, 168, Самара",
+   "координаты": [
+    50.203482,
+    53.186107
+   ],
+   "рейтинг": 4.8,
+   "оценок": 30,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtosila63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 990-45-05",
+    "+7 (927) 752-50-47"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "termobudki",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosila/215520834242/",
+   "найдено_по": "ремонт рулевой рейки Советский район"
+  },
+  {
+   "id": "131745088241",
+   "название": "Автосервис 112",
+   "seoname": "avtoservis_112",
+   "адрес": "ул. Антонова-Овсеенко, 53Б",
+   "координаты": [
+    50.205632,
+    53.211148
+   ],
+   "рейтинг": 4.9,
+   "оценок": 145,
+   "отзывов": 83,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtoservis112.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (903) 300-59-35"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_112/131745088241/",
+   "найдено_по": "ремонт рулевой рейки Советский район"
+  },
+  {
+   "id": "66669698937",
+   "название": "АвтоОкей",
+   "seoname": "avtookey",
+   "адрес": "ул. Дыбенко, 99",
+   "координаты": [
+    50.211647,
+    53.206012
+   ],
+   "рейтинг": 4.8,
+   "оценок": 819,
+   "отзывов": 573,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 700-26-71"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "flywheel_repair",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "hydroblock_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtookey/66669698937/",
+   "найдено_по": "ремонт рулевой рейки Советский район"
+  },
+  {
+   "id": "243224082577",
+   "название": "Автосервис Победы",
+   "seoname": "avtoservis_pobedy",
+   "адрес": "ул. Победы, 4В",
+   "координаты": [
+    50.225521,
+    53.204771
+   ],
+   "рейтинг": 4.3,
+   "оценок": 483,
+   "отзывов": 214,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtookej-pecherskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (977) 092-65-57",
+    "+7 (846) 225-20-50"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_pobedy/243224082577/",
+   "найдено_по": "ремонт рулевой рейки Советский район"
+  },
+  {
+   "id": "187224125230",
+   "название": "Next",
+   "seoname": "next",
+   "адрес": "Южный пр., 278",
+   "координаты": [
+    50.203117,
+    53.179132
+   ],
+   "рейтинг": 4.6,
+   "оценок": 47,
+   "отзывов": 27,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 011-40-11"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/next/187224125230/",
+   "найдено_по": "ремонт рулевой рейки Советский район"
+  },
+  {
+   "id": "7694260860",
+   "название": "Ктр-авто",
+   "seoname": "ktr_avto",
+   "адрес": "Рыльская ул., 13/19Б",
+   "координаты": [
+    50.244553,
+    53.201564
+   ],
+   "рейтинг": 5,
+   "оценок": 56,
+   "отзывов": 45,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://baza-rylskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (993) 464-63-27"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "sandblasting",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ktr_avto/7694260860/",
+   "найдено_по": "ремонт рулевой рейки Советский район"
+  },
+  {
+   "id": "220203767721",
+   "название": "Мастер трак",
+   "seoname": "master_trak",
+   "адрес": "городской округ Самара, Советский район",
+   "координаты": [
+    50.264449,
+    53.197926
+   ],
+   "рейтинг": 4.2,
+   "оценок": 47,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://master-trak-1757917323.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 601-59-00"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "guarantee",
+    "kaspi_red",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master_trak/220203767721/",
+   "найдено_по": "ремонт рулевой рейки Советский район"
+  },
+  {
+   "id": "100610626177",
+   "название": "Аланд",
+   "seoname": "aland",
+   "адрес": "пр. 9 Мая, 14А",
+   "координаты": [
+    50.217678,
+    53.200283
+   ],
+   "рейтинг": 4.3,
+   "оценок": 37,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aland/100610626177/",
+   "найдено_по": "ремонт рулевой рейки Советский район"
+  },
+  {
+   "id": "128684960966",
+   "название": "Workshop",
+   "seoname": "workshop",
+   "адрес": "Томашевский тупик, 12",
+   "координаты": [
+    50.247169,
+    53.217508
+   ],
+   "рейтинг": 4.4,
+   "оценок": 23,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (986) 954-38-55",
+    "+7 (927) 752-94-77"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/workshop/128684960966/",
+   "найдено_по": "ремонт рулевой рейки Советский район"
+  },
+  {
+   "id": "200137839452",
+   "название": "Сервис центр",
+   "seoname": "servis_tsentr",
+   "адрес": "Заводское ш., 3",
+   "координаты": [
+    50.253279,
+    53.192524
+   ],
+   "рейтинг": 4.9,
+   "оценок": 120,
+   "отзывов": 59,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://servicesamaraavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 225-22-44",
+    "+7 (939) 714-79-53"
+   ],
+   "часы": "пн-пт 08:00–16:00; сб 08:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/servis_tsentr/200137839452/",
+   "найдено_по": "ремонт рулевой рейки Советский район"
+  }
+ ],
+ "расширено_по_районам": true
+}

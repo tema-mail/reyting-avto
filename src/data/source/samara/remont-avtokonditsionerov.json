@@ -1,0 +1,7297 @@
+{
+ "ниша": "Ремонт автокондиционеров",
+ "ключ": "remont-avtokonditsionerov",
+ "запросы": [
+  "ремонт автокондиционера",
+  "заправка автокондиционера"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт автокондиционера": 101,
+  "заправка автокондиционера": 100,
+  "ремонт автокондиционера Железнодорожный район": 55,
+  "ремонт автокондиционера Кировский район": 75,
+  "ремонт автокондиционера Красноглинский район": 60,
+  "ремонт автокондиционера Куйбышевский район": 66,
+  "ремонт автокондиционера Ленинский район": 34,
+  "ремонт автокондиционера Октябрьский район": 52,
+  "ремонт автокондиционера Промышленный район": 71,
+  "ремонт автокондиционера Самарский район": 20,
+  "ремонт автокондиционера Советский район": 56
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Самаре (регион 51)",
+ "город": "samara",
+ "компании": [
+  {
+   "id": "153101386970",
+   "название": "Самара-Лада",
+   "seoname": "samara_lada",
+   "адрес": "Алма-Атинская ул., 72",
+   "координаты": [
+    50.2693,
+    53.244334
+   ],
+   "рейтинг": 4.6,
+   "оценок": 3380,
+   "отзывов": 1633,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 229-56-34",
+    "+7 (846) 215-08-76"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_lada/153101386970/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 70,
+   "загружено_дат": 78
+  },
+  {
+   "id": "90315151643",
+   "название": "Самара-Авто, Lada",
+   "seoname": "samara_avto_lada",
+   "адрес": "Южное ш., 14Б",
+   "координаты": [
+    50.176547,
+    53.136382
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1773,
+   "отзывов": 906,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara-avto.lada.ru/?dealer=573412344"
+   ],
+   "телефоны": [
+    "+7 (846) 215-12-67"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "avtochekhly",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "car_accessories",
+    "car_door_closers",
+    "car_floor_mats",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "certified_service",
+    "delivery",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "heater_flushing",
+    "home_visit",
+    "hybrid_car_repair",
+    "hydrogen_generators",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "luggage_racks_roof_boxes",
+    "motorsport_equipment",
+    "official_dealer",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repairs",
+    "sandblasting",
+    "self_service_car_wash",
+    "street_entrance",
+    "termobudki",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_chains",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "transponders",
+    "urea",
+    "vibrationstand",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_avto_lada/90315151643/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 46,
+   "загружено_дат": 58
+  },
+  {
+   "id": "66669698937",
+   "название": "АвтоОкей",
+   "seoname": "avtookey",
+   "адрес": "ул. Дыбенко, 99",
+   "координаты": [
+    50.211647,
+    53.206012
+   ],
+   "рейтинг": 4.8,
+   "оценок": 819,
+   "отзывов": 573,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 700-26-71"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "flywheel_repair",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "hydroblock_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtookey/66669698937/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 58,
+   "загружено_дат": 64
+  },
+  {
+   "id": "227675039279",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "Владимирская ул., 18А, Самара",
+   "координаты": [
+    50.132137,
+    53.19967
+   ],
+   "рейтинг": 4.3,
+   "оценок": 674,
+   "отзывов": 371,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://samara.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 267-09-70"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/227675039279/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 93
+  },
+  {
+   "id": "180216689328",
+   "название": "Мир Масел",
+   "seoname": "mir_masel",
+   "адрес": "Ново-Садовая ул., 265А, Самара",
+   "координаты": [
+    50.180704,
+    53.230067
+   ],
+   "рейтинг": 5,
+   "оценок": 611,
+   "отзывов": 324,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mirmasel63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 970-70-17"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_masel/180216689328/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 91
+  },
+  {
+   "id": "183569750351",
+   "название": "Belgee центр",
+   "seoname": "belgee_tsentr",
+   "адрес": "Московское ш., 262А, Самара",
+   "координаты": [
+    50.215497,
+    53.248604
+   ],
+   "рейтинг": 5,
+   "оценок": 322,
+   "отзывов": 229,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://belgee-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-47-91"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/belgee_tsentr/183569750351/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 53,
+   "загружено_дат": 68
+  },
+  {
+   "id": "121048508662",
+   "название": "Мир Масел",
+   "seoname": "mir_masel",
+   "адрес": "ул. Дыбенко, 91/1, Самара",
+   "координаты": [
+    50.204219,
+    53.205955
+   ],
+   "рейтинг": 5,
+   "оценок": 332,
+   "отзывов": 227,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mirmasel63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 970-70-17"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_masel/121048508662/",
+   "последний_отзыв": "2026-06-08",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 88
+  },
+  {
+   "id": "164137941344",
+   "название": "Мир масел",
+   "seoname": "mir_masel",
+   "адрес": "Южное ш., 5Д/1, Самара",
+   "координаты": [
+    50.177951,
+    53.141649
+   ],
+   "рейтинг": 5,
+   "оценок": 318,
+   "отзывов": 214,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mirmasel63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 970-70-17"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_masel/164137941344/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 88
+  },
+  {
+   "id": "169383756723",
+   "название": "Мир масел",
+   "seoname": "mir_masel",
+   "адрес": "Осетинская ул., 4/5, Самара",
+   "координаты": [
+    50.075526,
+    53.153001
+   ],
+   "рейтинг": 5,
+   "оценок": 329,
+   "отзывов": 203,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mirmasel63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 970-70-17"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_masel/169383756723/",
+   "последний_отзыв": "2026-04-28",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 94
+  },
+  {
+   "id": "232952442705",
+   "название": "Ремонт рулевых реек",
+   "seoname": "remont_rulevykh_reyek",
+   "адрес": "Луцкая ул., 18, Самара",
+   "координаты": [
+    50.152207,
+    53.17858
+   ],
+   "рейтинг": 4.9,
+   "оценок": 350,
+   "отзывов": 187,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://regrands.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 270-09-32"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт рулевых реек",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remont_rulevykh_reyek/232952442705/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 72
+  },
+  {
+   "id": "1682427293",
+   "название": "Carfix",
+   "seoname": "carfix",
+   "адрес": "Пензенская ул., 20",
+   "координаты": [
+    50.138913,
+    53.190322
+   ],
+   "рейтинг": 4.9,
+   "оценок": 365,
+   "отзывов": 185,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avtoservis-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 992-32-85",
+    "+7 (846) 229-44-02",
+    "+7 (846) 212-99-39"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carfix/1682427293/",
+   "последний_отзыв": "2026-10-31",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 55
+  },
+  {
+   "id": "1024362819",
+   "название": "Bistar",
+   "seoname": "bistar",
+   "адрес": "Горная ул., 9",
+   "координаты": [
+    50.152909,
+    53.185435
+   ],
+   "рейтинг": 4.7,
+   "оценок": 362,
+   "отзывов": 173,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 233-77-13"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт стартеров и генераторов",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "generators",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bistar/1024362819/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 56
+  },
+  {
+   "id": "245672993696",
+   "название": "ЕвроКод",
+   "seoname": "yevrokod",
+   "адрес": "Луцкая ул., 16А",
+   "координаты": [
+    50.151477,
+    53.178108
+   ],
+   "рейтинг": 4.9,
+   "оценок": 346,
+   "отзывов": 165,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://eurocode-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 601-86-89",
+    "+7 (917) 941-71-31"
+   ],
+   "часы": "вт-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_door_closers",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yevrokod/245672993696/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 82
+  },
+  {
+   "id": "48268654350",
+   "название": "Южный город",
+   "seoname": "yuzhny_gorod",
+   "адрес": "Подстепновская ул., 1А, квартал Южный Город-1, микрорайон Южный Город, посёлок Придорожный",
+   "координаты": [
+    50.15421,
+    53.114326
+   ],
+   "рейтинг": 4.7,
+   "оценок": 219,
+   "отзывов": 146,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://juzhnyj-gorod-podstepnovskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (937) 989-01-10"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yuzhny_gorod/48268654350/",
+   "последний_отзыв": "2026-09-25",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 70
+  },
+  {
+   "id": "14421407440",
+   "название": "Волгарь-Авто",
+   "seoname": "volgar_avto",
+   "адрес": "ул. Петра Алабина, 6А",
+   "координаты": [
+    50.076773,
+    53.142298
+   ],
+   "рейтинг": 5,
+   "оценок": 136,
+   "отзывов": 112,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://volgar-avto-ulitsa-petra-alabina.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (958) 416-28-81"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/volgar_avto/14421407440/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 53,
+   "загружено_дат": 79
+  },
+  {
+   "id": "164400312588",
+   "название": "Bavaria",
+   "seoname": "bavaria",
+   "адрес": "ул. Неверова, 1А",
+   "координаты": [
+    50.110274,
+    53.181684
+   ],
+   "рейтинг": 4.5,
+   "оценок": 299,
+   "отзывов": 106,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://bavaria163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 207-47-44",
+    "+7 (937) 066-69-80"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "adblue",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bavaria/164400312588/"
+  },
+  {
+   "id": "178386753164",
+   "название": "СДТ Про",
+   "seoname": "sdt_pro",
+   "адрес": "Алма-Атинская ул., 3, корп. 1",
+   "координаты": [
+    50.257869,
+    53.270087
+   ],
+   "рейтинг": 5,
+   "оценок": 123,
+   "отзывов": 97,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (918) 220-46-46"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "сварочные работы",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "urea",
+    "welding_works"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sdt_pro/178386753164/"
+  },
+  {
+   "id": "43356605994",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "Казачья ул., 22",
+   "координаты": [
+    50.083196,
+    53.157918
+   ],
+   "рейтинг": 5,
+   "оценок": 154,
+   "отзывов": 93,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 011-60-09",
+    "+7 (987) 440-94-79"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/43356605994/"
+  },
+  {
+   "id": "78583894772",
+   "название": "Корейский мастер",
+   "seoname": "koreyskiy_master",
+   "адрес": "городской округ Самара, Промышленный район, 7-я просека 3-й проезд, с1",
+   "координаты": [
+    50.19148,
+    53.255156
+   ],
+   "рейтинг": 4.9,
+   "оценок": 167,
+   "отзывов": 88,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koreiskimaster163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-47-83"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koreyskiy_master/78583894772/"
+  },
+  {
+   "id": "85429478657",
+   "название": "Goodok",
+   "seoname": "goodok",
+   "адрес": "Красноармейская ул., 104А",
+   "координаты": [
+    50.124696,
+    53.188205
+   ],
+   "рейтинг": 4.4,
+   "оценок": 135,
+   "отзывов": 77,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 270-22-82"
+   ],
+   "часы": "пн-сб 09:00–18:00; вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "generators",
+    "guarantee",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/goodok/85429478657/"
+  },
+  {
+   "id": "192491506329",
+   "название": "Di Cars",
+   "seoname": "di_cars",
+   "адрес": "Солнечная ул., 24, стр. 1",
+   "координаты": [
+    50.19482,
+    53.247029
+   ],
+   "рейтинг": 5,
+   "оценок": 155,
+   "отзывов": 77,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dicars63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 270-09-14",
+    "+7 (963) 916-33-64"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/di_cars/192491506329/"
+  },
+  {
+   "id": "6187911228",
+   "название": "Радиус",
+   "seoname": "radius",
+   "адрес": "Арцыбушевский пер., 14А",
+   "координаты": [
+    50.18728,
+    53.228355
+   ],
+   "рейтинг": 4.9,
+   "оценок": 116,
+   "отзывов": 72,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 432-57-76"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автокондиционеры",
+    "заправка автокондиционеров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "guarantee",
+    "keep_tires",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "starting_the_car",
+    "street_entrance",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/radius/6187911228/"
+  },
+  {
+   "id": "219279495866",
+   "название": "Гусматик",
+   "seoname": "gusmatik",
+   "адрес": "ул. Карбышева, 63В",
+   "координаты": [
+    50.203074,
+    53.209397
+   ],
+   "рейтинг": 4.4,
+   "оценок": 135,
+   "отзывов": 70,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-gusmatik.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (961) 382-50-06",
+    "+7 (917) 011-27-77"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "keep_tires",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gusmatik/219279495866/"
+  },
+  {
+   "id": "1053562706",
+   "название": "Холод-Макс",
+   "seoname": "kholod_maks",
+   "адрес": "ул. Волгина, 119Б",
+   "координаты": [
+    50.185498,
+    53.194275
+   ],
+   "рейтинг": 4.7,
+   "оценок": 142,
+   "отзывов": 69,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 903-90-77"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт климатических систем",
+    "автокондиционеры",
+    "сварочные работы"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kholod_maks/1053562706/"
+  },
+  {
+   "id": "1101682999",
+   "название": "Goodok",
+   "seoname": "goodok",
+   "адрес": "ул. Венцека, 127",
+   "координаты": [
+    50.104271,
+    53.181174
+   ],
+   "рейтинг": 4.3,
+   "оценок": 180,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 310-87-56"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "engine_endoscopy",
+    "generators",
+    "guarantee",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "spare_parts",
+    "starters",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/goodok/1101682999/"
+  },
+  {
+   "id": "88934414814",
+   "название": "Дракон Дыбенко",
+   "seoname": "drakon_dybenko",
+   "адрес": "ул. Советской Армии, 93",
+   "координаты": [
+    50.214722,
+    53.206154
+   ],
+   "рейтинг": 4.6,
+   "оценок": 148,
+   "отзывов": 60,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://service-dragon.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 141-94-37",
+    "+7 (903) 301-88-77"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "моторные масла",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "installation",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/drakon_dybenko/88934414814/"
+  },
+  {
+   "id": "1088389078",
+   "название": "Автосфера",
+   "seoname": "avtosfera",
+   "адрес": "ул. Чекистов, 40",
+   "координаты": [
+    50.350621,
+    53.251826
+   ],
+   "рейтинг": 4.7,
+   "оценок": 127,
+   "отзывов": 49,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 206-81-81"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автокондиционеры",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "stove_radiator_washing",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosfera/1088389078/"
+  },
+  {
+   "id": "156683274632",
+   "название": "Мотор КПП",
+   "seoname": "motor_kpp",
+   "адрес": "городской округ Самара, Железнодорожный район, Семафорная улица, 5",
+   "координаты": [
+    50.177818,
+    53.172859
+   ],
+   "рейтинг": 5,
+   "оценок": 108,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://motorkpp63.ru/"
+   ],
+   "телефоны": [
+    "+7 (996) 745-24-56",
+    "+7 (846) 252-51-12"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motor_kpp/156683274632/"
+  },
+  {
+   "id": "148088406128",
+   "название": "Автотрек",
+   "seoname": "avtotrek",
+   "адрес": "ул. Авроры, 150Д",
+   "координаты": [
+    50.185507,
+    53.21059
+   ],
+   "рейтинг": 5,
+   "оценок": 76,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtotreksamara.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 008-79-40"
+   ],
+   "часы": "пн-сб 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hydraulic_cylinders",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotrek/148088406128/"
+  },
+  {
+   "id": "1550522016",
+   "название": "AS-Service",
+   "seoname": "as_service",
+   "адрес": "Нагорная ул., 78В",
+   "координаты": [
+    50.23099,
+    53.224495
+   ],
+   "рейтинг": 4.6,
+   "оценок": 92,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://as-holod.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 721-22-22",
+    "+7 (846) 265-64-52",
+    "+7 (917) 150-74-74"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автокондиционеры",
+    "заправка автокондиционеров",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/as_service/1550522016/"
+  },
+  {
+   "id": "38277923917",
+   "название": "Чип-Холод",
+   "seoname": "chip_kholod",
+   "адрес": "ул. Дыбенко, 84",
+   "координаты": [
+    50.209121,
+    53.206415
+   ],
+   "рейтинг": 4.8,
+   "оценок": 37,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 982-40-47",
+    "+7 (909) 343-93-35"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автодиагностика",
+    "ремонт автоэлектрики",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "installation",
+    "payment_by_credit_card",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chip_kholod/38277923917/"
+  },
+  {
+   "id": "127355432221",
+   "название": "Автомеханик 163",
+   "seoname": "avtomekhanik_163",
+   "адрес": "Утёвская ул., 28, стр. 8",
+   "координаты": [
+    50.109536,
+    53.127717
+   ],
+   "рейтинг": 5,
+   "оценок": 34,
+   "отзывов": 26,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 653-03-50"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автокондиционеры",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "for_passenger_cars",
+    "good_place",
+    "guarantee",
+    "installation",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomekhanik_163/127355432221/"
+  },
+  {
+   "id": "71198030933",
+   "название": "Комфорт Авто",
+   "seoname": "komfort_avto",
+   "адрес": "ул. Специалистов, 28В, посёлок Верхняя Подстепновка",
+   "координаты": [
+    50.095505,
+    53.082453
+   ],
+   "рейтинг": 4.4,
+   "оценок": 56,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://komfort-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 922-68-68",
+    "+7 (846) 248-19-52"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомобильные отопители",
+    "автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "authorized_service",
+    "delivery",
+    "guarantee",
+    "installation",
+    "pickup",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "repairs"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/komfort_avto/71198030933/"
+  },
+  {
+   "id": "232885958991",
+   "название": "АвтоРем сервис",
+   "seoname": "avtorem_servis",
+   "адрес": "Обувная ул., 1А",
+   "координаты": [
+    50.068483,
+    53.151816
+   ],
+   "рейтинг": 4.3,
+   "оценок": 49,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 102-37-98",
+    "+7 (917) 950-17-37"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtorem_servis/232885958991/"
+  },
+  {
+   "id": "67945152857",
+   "название": "Честный сервис",
+   "seoname": "chestny_servis",
+   "адрес": "Парниковая ул., 27А",
+   "координаты": [
+    50.088147,
+    53.154199
+   ],
+   "рейтинг": 4.5,
+   "оценок": 16,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://chestny-servis.ru/"
+   ],
+   "телефоны": [
+    "+7 (964) 984-54-84"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "basic_service",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chestny_servis/67945152857/"
+  },
+  {
+   "id": "133566702312",
+   "название": "VikAvto",
+   "seoname": "vikavto",
+   "адрес": "Новоленинградская ул., 10",
+   "координаты": [
+    50.111659,
+    53.183085
+   ],
+   "рейтинг": 4.1,
+   "оценок": 30,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 797-54-30",
+    "+7 (987) 442-63-83"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "tire_fitting",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vikavto/133566702312/"
+  },
+  {
+   "id": "143910374119",
+   "название": "Заправка автокондиционеров",
+   "seoname": "zapravka_avtokonditsionerov",
+   "адрес": "Долинная ул., 35А",
+   "координаты": [
+    50.166426,
+    53.175951
+   ],
+   "рейтинг": 4.4,
+   "оценок": 6,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 647-04-34"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Заправка автокондиционеров",
+    "автодиагностика",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "for_passenger_cars",
+    "for_trucks",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "stove_radiator_washing",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zapravka_avtokonditsionerov/143910374119/"
+  },
+  {
+   "id": "116312837187",
+   "название": "Motin's service",
+   "seoname": "motin_s_service",
+   "адрес": "ул. Неверова, 50",
+   "координаты": [
+    50.117166,
+    53.183604
+   ],
+   "рейтинг": 4.9,
+   "оценок": 117,
+   "отзывов": 52,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (939) 700-12-35"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motin_s_service/116312837187/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "1123399186",
+   "название": "Т-техник 1991",
+   "seoname": "t_tekhnik_1991",
+   "адрес": "ул. Гая, 38, Самара",
+   "координаты": [
+    50.171895,
+    53.215663
+   ],
+   "рейтинг": 4.7,
+   "оценок": 148,
+   "отзывов": 54,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 266-64-44",
+    "+7 (927) 727-77-73",
+    "+7 (846) 265-08-68"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "coffee_to_go",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "generators",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/t_tekhnik_1991/1123399186/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "56860671379",
+   "название": "Станция технического обслуживания Тухачевского",
+   "seoname": "stantsiya_tekhnicheskogo_obsluzhivaniya_tukhachevskogo",
+   "адрес": "ул. Тухачевского, 183",
+   "координаты": [
+    50.153494,
+    53.195379
+   ],
+   "рейтинг": 5,
+   "оценок": 100,
+   "отзывов": 88,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://stantsija-tehnicheskogo-ulitsa-tuhachevskogo.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 712-84-36",
+    "+7 (987) 945-09-46"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stantsiya_tekhnicheskogo_obsluzhivaniya_tukhachevskogo/56860671379/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "189133764523",
+   "название": "Автолюкс",
+   "seoname": "avtolyuks",
+   "адрес": "городской округ Самара, Железнодорожный район, Борская улица, 108Б",
+   "координаты": [
+    50.177547,
+    53.185893
+   ],
+   "рейтинг": 4.9,
+   "оценок": 330,
+   "отзывов": 143,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 983-11-11"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtolyuks/189133764523/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "9229226847",
+   "название": "Vd Сервис",
+   "seoname": "vd_servis",
+   "адрес": "ул. Промышленности, 62Б, корп. 2",
+   "координаты": [
+    50.187013,
+    53.178643
+   ],
+   "рейтинг": 5,
+   "оценок": 175,
+   "отзывов": 169,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://vd63.ru/"
+   ],
+   "телефоны": [
+    "+7 (963) 115-10-56"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосервисное и гаражное оборудование"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "auto_scanners",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vd_servis/9229226847/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "43338962233",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Авроры, 114А, корп. 7, Самара",
+   "координаты": [
+    50.189486,
+    53.199492
+   ],
+   "рейтинг": 4.2,
+   "оценок": 601,
+   "отзывов": 342,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://samara.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 267-09-70"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/43338962233/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "205662651223",
+   "название": "Про СТО",
+   "seoname": "pro_sto",
+   "адрес": "2-й пер., 53",
+   "координаты": [
+    50.156979,
+    53.185699
+   ],
+   "рейтинг": 4.6,
+   "оценок": 52,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (999) 171-47-79"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "disable_photopoi",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pro_sto/205662651223/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "107705719617",
+   "название": "Пионер",
+   "seoname": "pioner",
+   "адрес": "Партизанская ул., 44, Самара",
+   "координаты": [
+    50.165623,
+    53.193424
+   ],
+   "рейтинг": 4.8,
+   "оценок": 463,
+   "отзывов": 237,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.avtoservis-pioner.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 955-30-60",
+    "+7 (987) 955-20-30",
+    "+7 (846) 205-20-30",
+    "+7 (987) 955-20-40",
+    "+7 (846) 205-20-40"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pioner/107705719617/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "18421129168",
+   "название": "Gascars",
+   "seoname": "gascars",
+   "адрес": "Клиническая ул., 261, корп. 5",
+   "координаты": [
+    50.164019,
+    53.179605
+   ],
+   "рейтинг": 5,
+   "оценок": 252,
+   "отзывов": 101,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://gascars.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 251-44-55",
+    "+7 (846) 989-00-43",
+    "+7 (937) 656-16-66"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gascars/18421129168/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "98272040685",
+   "название": "Ромб Авто",
+   "seoname": "romb_avto",
+   "адрес": "ул. Промышленности, 24",
+   "координаты": [
+    50.175694,
+    53.174707
+   ],
+   "рейтинг": 4.8,
+   "оценок": 164,
+   "отзывов": 66,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://rombavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 001-16-96",
+    "+7 (846) 254-02-50"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/romb_avto/98272040685/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "177487294141",
+   "название": "Автоград",
+   "seoname": "avtograd",
+   "адрес": "городской округ Самара, Железнодорожный район, Верхне-Карьерная улица",
+   "координаты": [
+    50.167264,
+    53.179993
+   ],
+   "рейтинг": 4.5,
+   "оценок": 41,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 661-31-39"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "field_service",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtograd/177487294141/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "154977873948",
+   "название": "Фаворит",
+   "seoname": "favorit",
+   "адрес": "Структурная ул., 82Б",
+   "координаты": [
+    50.167394,
+    53.179152
+   ],
+   "рейтинг": 5,
+   "оценок": 374,
+   "отзывов": 224,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 066-34-20",
+    "+7 (846) 990-80-30",
+    "+7 (937) 066-34-10"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_valeting",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "gift_certificate",
+    "glass_polishing",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/favorit/154977873948/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "37455370484",
+   "название": "Авто-Лидер",
+   "seoname": "avto_lider",
+   "адрес": "Пролетарская ул., 169Б",
+   "координаты": [
+    50.156517,
+    53.201823
+   ],
+   "рейтинг": 4.4,
+   "оценок": 238,
+   "отзывов": 100,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avto-lider.center/"
+   ],
+   "телефоны": [
+    "+7 (964) 977-07-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lider/37455370484/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "91087349067",
+   "название": "Арсенал",
+   "seoname": "arsenal",
+   "адрес": "Партизанская ул., 11",
+   "координаты": [
+    50.164535,
+    53.193188
+   ],
+   "рейтинг": 4.6,
+   "оценок": 144,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 202-30-40",
+    "+7 (937) 189-06-96",
+    "+7 (846) 989-06-96"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/arsenal/91087349067/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "231532553757",
+   "название": "Авторитет",
+   "seoname": "avtoritet",
+   "адрес": "Аэродромная ул., 40, стр. 1",
+   "координаты": [
+    50.189091,
+    53.192633
+   ],
+   "рейтинг": 4.4,
+   "оценок": 7,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (923) 490-80-07"
+   ],
+   "часы": "пн-сб 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoritet/231532553757/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "1736060638",
+   "название": "Атмосфера",
+   "seoname": "atmosfera",
+   "адрес": "ул. Мориса Тореза, 36А/1",
+   "координаты": [
+    50.186521,
+    53.197227
+   ],
+   "рейтинг": 4.9,
+   "оценок": 237,
+   "отзывов": 155,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://atmosfera-63.ru/"
+   ],
+   "телефоны": [
+    "+7 (963) 115-08-59",
+    "+7 (846) 359-17-15",
+    "+7 (987) 943-13-78"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "нанесение покрытий"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "powder_painting",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/atmosfera/1736060638/",
+   "найдено_по": "ремонт автокондиционера Железнодорожный район"
+  },
+  {
+   "id": "234056185957",
+   "название": "Автозона Про",
+   "seoname": "avtozona_pro",
+   "адрес": "просп. Кирова, 255Н",
+   "координаты": [
+    50.24187,
+    53.236362
+   ],
+   "рейтинг": 4.3,
+   "оценок": 35,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://сервистут.рф/"
+   ],
+   "телефоны": [
+    "+7 (927) 692-59-59",
+    "+7 (846) 972-59-59"
+   ],
+   "часы": "пн-сб 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtozona_pro/234056185957/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "138145811705",
+   "название": "Р сервис",
+   "seoname": "r_servis",
+   "адрес": "Республиканская ул., 106, корп. 1",
+   "координаты": [
+    50.278561,
+    53.241691
+   ],
+   "рейтинг": 4.5,
+   "оценок": 11,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://r-servis-respublikanskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 905-53-00",
+    "+7 (927) 685-49-81"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "guarantee",
+    "preliminary_registration",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/r_servis/138145811705/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "19330058927",
+   "название": "BMW Алдис",
+   "seoname": "bmw_aldis",
+   "адрес": "Демократическая ул., 65, Самара",
+   "координаты": [
+    50.2261,
+    53.287438
+   ],
+   "рейтинг": 4.6,
+   "оценок": 819,
+   "отзывов": 268,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bmw-aldis.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 215-25-96"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "guarantee",
+    "installing_the_towbar",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bmw_aldis/19330058927/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "62170162002",
+   "название": "АвтоОкей",
+   "seoname": "avtookey",
+   "адрес": "Алма-Атинская ул., 37Б",
+   "координаты": [
+    50.268038,
+    53.25284
+   ],
+   "рейтинг": 4.9,
+   "оценок": 414,
+   "отзывов": 235,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avtookey.com/"
+   ],
+   "телефоны": [
+    "+7 (939) 707-56-56"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtookey/62170162002/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "214831060990",
+   "название": "Дас Авто",
+   "seoname": "das_avto",
+   "адрес": "Нагорная ул., 123, Самара",
+   "координаты": [
+    50.243609,
+    53.229883
+   ],
+   "рейтинг": 5,
+   "оценок": 163,
+   "отзывов": 124,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.dasauto63.ru/"
+   ],
+   "телефоны": [
+    "+7 (995) 909-04-77",
+    "+7 (927) 020-00-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheel_balancing"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/das_avto/214831060990/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "1142375083",
+   "название": "СамараАвтоЦентр",
+   "seoname": "samaraavtotsentr",
+   "адрес": "территория 18-й километр Московского шоссе, 2В",
+   "координаты": [
+    50.264243,
+    53.275586
+   ],
+   "рейтинг": 4.2,
+   "оценок": 431,
+   "отзывов": 185,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 644-37-21"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samaraavtotsentr/1142375083/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "172120831181",
+   "название": "Автотерм",
+   "seoname": "avtoterm",
+   "адрес": "Ракитовское ш., 1, Самара",
+   "координаты": [
+    50.297721,
+    53.257607
+   ],
+   "рейтинг": 4.4,
+   "оценок": 9,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoterm-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 339-09-06"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автокондиционеры",
+    "ремонт грузовых автомобилей",
+    "автомобильные отопители"
+   ],
+   "признаки": [
+    "car_park",
+    "delivery",
+    "engine_preheaters",
+    "for_trucks",
+    "guarantee",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoterm/172120831181/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "1131875659",
+   "название": "Лада-Техсервис",
+   "seoname": "lada_tekhservis",
+   "адрес": "ул. Победы, 121В",
+   "координаты": [
+    50.268344,
+    53.221076
+   ],
+   "рейтинг": 4.6,
+   "оценок": 144,
+   "отзывов": 51,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 993-17-73"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "body_repair",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada_tekhservis/1131875659/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "150492173432",
+   "название": "Premiera auto",
+   "seoname": "premiera_auto",
+   "адрес": "просп. Кирова, 84А",
+   "координаты": [
+    50.253069,
+    53.22522
+   ],
+   "рейтинг": 4.7,
+   "оценок": 34,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://premiera-auto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (966) 780-00-63",
+    "+7 (937) 177-52-43"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/premiera_auto/150492173432/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "240187333790",
+   "название": "СДТ Про",
+   "seoname": "sdt_pro",
+   "адрес": "Алма-Атинская ул., 164",
+   "координаты": [
+    50.265807,
+    53.256218
+   ],
+   "рейтинг": 5,
+   "оценок": 56,
+   "отзывов": 50,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (918) 220-46-46"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "ремонт выхлопных систем"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "cars_russification",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "heater_flushing",
+    "home_visit",
+    "installing_the_towbar",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sdt_pro/240187333790/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "1274025806",
+   "название": "МаксАвто",
+   "seoname": "maksavto",
+   "адрес": "Алма-Атинская ул., 60А",
+   "координаты": [
+    50.265293,
+    53.257281
+   ],
+   "рейтинг": 4.8,
+   "оценок": 266,
+   "отзывов": 138,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://maksavto63.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 692-98-20",
+    "+7 (846) 972-98-20"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "street_entrance",
+    "tire_fitting",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/maksavto/1274025806/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "171575496890",
+   "название": "Авто-Лидер",
+   "seoname": "avto_lider",
+   "адрес": "Каховская ул., 73Б",
+   "координаты": [
+    50.253704,
+    53.229818
+   ],
+   "рейтинг": 4.8,
+   "оценок": 291,
+   "отзывов": 131,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avto-lider.center/"
+   ],
+   "телефоны": [
+    "+7 (927) 791-40-46",
+    "+7 (846) 990-23-13"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_lider/171575496890/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "111793918981",
+   "название": "Царёв motor sport",
+   "seoname": "tsaryov_motor_sport",
+   "адрес": "Ташкентский пер., 68, Кировский район",
+   "координаты": [
+    50.259841,
+    53.238298
+   ],
+   "рейтинг": 5,
+   "оценок": 214,
+   "отзывов": 80,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vk.link/avtoservice_carev_motor_sport"
+   ],
+   "телефоны": [
+    "+7 (927) 011-44-11",
+    "+7 (927) 011-66-11"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "generators",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsaryov_motor_sport/111793918981/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "1614734142",
+   "название": "Драйв",
+   "seoname": "drayv",
+   "адрес": "Алма-Атинская ул., 212",
+   "координаты": [
+    50.261968,
+    53.262041
+   ],
+   "рейтинг": 4.5,
+   "оценок": 477,
+   "отзывов": 161,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://drajv-alma-atinskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 608-77-22"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/drayv/1614734142/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "108447586237",
+   "название": "Вау",
+   "seoname": "vau",
+   "адрес": "просп. Кирова, 424В, корп. 2",
+   "координаты": [
+    50.216812,
+    53.258526
+   ],
+   "рейтинг": 5,
+   "оценок": 160,
+   "отзывов": 135,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (939) 707-07-77"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vau/108447586237/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "1715057769",
+   "название": "Форсаж",
+   "seoname": "forsazh",
+   "адрес": "Демократическая ул., 45А, корп. 2, Самара",
+   "координаты": [
+    50.227399,
+    53.271907
+   ],
+   "рейтинг": 4.8,
+   "оценок": 443,
+   "отзывов": 212,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://auto-forsazh.ru/"
+   ],
+   "телефоны": [
+    "+7 (938) 699-83-27"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "пункт техосмотра",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forsazh/1715057769/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "104046393900",
+   "название": "Ниваленд",
+   "seoname": "nivalend",
+   "адрес": "Пугачёвская ул., 85А",
+   "координаты": [
+    50.261638,
+    53.239822
+   ],
+   "рейтинг": 4.6,
+   "оценок": 17,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 656-33-66"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nivalend/104046393900/",
+   "найдено_по": "ремонт автокондиционера Кировский район"
+  },
+  {
+   "id": "39088863321",
+   "название": "Автопрестиж, Mitsubishi",
+   "seoname": "avtoprestizh_mitsubishi",
+   "адрес": "Московское шоссе, 24-й километр, 42, стр. 1",
+   "координаты": [
+    50.295932,
+    53.320224
+   ],
+   "рейтинг": 5,
+   "оценок": 582,
+   "отзывов": 306,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://service.autoprestige.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-50-87"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_wash",
+    "certified_service",
+    "engine_endoscopy",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "vibrationstand",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprestizh_mitsubishi/39088863321/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "61326168129",
+   "название": "Gac центр Север",
+   "seoname": "gac_tsentr_sever",
+   "адрес": "Московское шоссе, 24-й километр, 3, стр. 1",
+   "координаты": [
+    50.302233,
+    53.321362
+   ],
+   "рейтинг": 5,
+   "оценок": 109,
+   "отзывов": 56,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://gac-severauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-27-16"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gac_tsentr_sever/61326168129/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "234659890469",
+   "название": "Мир Масел",
+   "seoname": "mir_masel",
+   "адрес": "Красноглинское ш., 92Ж, посёлок Управленческий, Самара",
+   "координаты": [
+    50.227078,
+    53.349961
+   ],
+   "рейтинг": 5,
+   "оценок": 190,
+   "отзывов": 140,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mirmasel63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 970-70-17"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_masel/234659890469/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "1179041515",
+   "название": "Киа центр на Московском",
+   "seoname": "kia_tsentr_na_moskovskom",
+   "адрес": "Московское ш., 262А, Самара",
+   "координаты": [
+    50.215118,
+    53.2486
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1823,
+   "отзывов": 725,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://service.kia-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-50-28"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_tsentr_na_moskovskom/1179041515/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "139359318164",
+   "название": "Флагман Авто",
+   "seoname": "flagman_avto",
+   "адрес": "Беловская ул., 11, посёлок Мехзавод, Самара",
+   "координаты": [
+    50.273317,
+    53.299979
+   ],
+   "рейтинг": 4.4,
+   "оценок": 127,
+   "отзывов": 52,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://flagman-avto-belovskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 951-07-56"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "car_park",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/flagman_avto/139359318164/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "1087783478",
+   "название": "Логан сервис",
+   "seoname": "logan_servis",
+   "адрес": "Волжское ш., 40",
+   "координаты": [
+    50.237984,
+    53.306335
+   ],
+   "рейтинг": 4.8,
+   "оценок": 728,
+   "отзывов": 315,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://logan-servis.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 255-20-21",
+    "+7 (846) 922-88-46",
+    "+7 (846) 972-20-21",
+    "+7 (846) 374-20-21"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/logan_servis/1087783478/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "87003901533",
+   "название": "Авторитэйл, ГАЗ",
+   "seoname": "avtoriteyl_gaz",
+   "адрес": "Московское шоссе, 19-й километр, 7А, Самара",
+   "координаты": [
+    50.28509,
+    53.290217
+   ],
+   "рейтинг": 4.4,
+   "оценок": 241,
+   "отзывов": 98,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://63.autoretail.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-72-16"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoriteyl_gaz/87003901533/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "89780661834",
+   "название": "АвтоПрофи",
+   "seoname": "avtoprofi",
+   "адрес": "Московское шоссе, 20-й километр, 20, лит.Г",
+   "координаты": [
+    50.292769,
+    53.298007
+   ],
+   "рейтинг": 4.8,
+   "оценок": 59,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (939) 714-77-31"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprofi/89780661834/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "35190911366",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Жигули, 8Б, корп. 1, посёлок Красная Глинка",
+   "координаты": [
+    50.164279,
+    53.385541
+   ],
+   "рейтинг": 5,
+   "оценок": 41,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://myshop-dem643.insales.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 964-74-24",
+    "+7 (917) 969-09-73"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "грузовая автомойка",
+    "автомойка"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "gift_certificate",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_blacking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/35190911366/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "139303721901",
+   "название": "АвтоОкей",
+   "seoname": "avtookey",
+   "адрес": "ул. Санфировой, 114А",
+   "координаты": [
+    50.192362,
+    53.221103
+   ],
+   "рейтинг": 4.9,
+   "оценок": 676,
+   "отзывов": 505,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 790-01-37"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtookey/139303721901/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "132638353600",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Московское шоссе, 24-й километр, 5А, Самара",
+   "координаты": [
+    50.300958,
+    53.327385
+   ],
+   "рейтинг": 4.2,
+   "оценок": 7,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (963) 116-01-22"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/132638353600/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "1257198925",
+   "название": "Самара Север",
+   "seoname": "samara_sever",
+   "адрес": "Московское шоссе, 24-й километр, 3, стр. 1",
+   "координаты": [
+    50.301612,
+    53.321088
+   ],
+   "рейтинг": 4.4,
+   "оценок": 663,
+   "отзывов": 195,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 213-07-07",
+    "+7 (846) 211-40-57"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "coffee_to_go",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samara_sever/1257198925/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "28231340226",
+   "название": "Автокрепеж",
+   "seoname": "avtokrepezh",
+   "адрес": "Московское ш., 26Д",
+   "координаты": [
+    50.172828,
+    53.208997
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1605,
+   "отзывов": 979,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 211-10-63",
+    "+7 (917) 110-63-02"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "flywheel_repair",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "injector_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "torque_converter_repair",
+    "turbine repair",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokrepezh/28231340226/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "1303804915",
+   "название": "Автосервис Mazdaprofi",
+   "seoname": "avtoservis_mazdaprofi",
+   "адрес": "Волжское ш., 11, Самара",
+   "координаты": [
+    50.242912,
+    53.298358
+   ],
+   "рейтинг": 5,
+   "оценок": 637,
+   "отзывов": 304,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mzd-profi.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 787-30-05"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "disable_captions",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_mazdaprofi/1303804915/",
+   "найдено_по": "ремонт автокондиционера Красноглинский район"
+  },
+  {
+   "id": "167084990683",
+   "название": "Автосервис 063",
+   "seoname": "avtoservis_063",
+   "адрес": "Шоссейная ул., 9А, Самара",
+   "координаты": [
+    50.075049,
+    53.165134
+   ],
+   "рейтинг": 5,
+   "оценок": 28,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-063.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (846) 207-72-72"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "disable_photopoi",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_063/167084990683/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "216059659516",
+   "название": "Kia в Самаре",
+   "seoname": "kia_v_samare",
+   "адрес": "Ново-Урицкая ул., 22Ж, Самара",
+   "координаты": [
+    50.152591,
+    53.183414
+   ],
+   "рейтинг": 4.7,
+   "оценок": 2882,
+   "отзывов": 1062,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://service.kia-samara.ru/",
+    "https://promo.kia-samara.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-50-29"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_v_samare/216059659516/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "233515909126",
+   "название": "Формула Кузова",
+   "seoname": "formula_kuzova",
+   "адрес": "пр. Мальцева, 7, корп. 3, Самара",
+   "координаты": [
+    50.247845,
+    53.189647
+   ],
+   "рейтинг": 4.9,
+   "оценок": 337,
+   "отзывов": 204,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://formulakuzova.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 424-83-31"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 11:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр",
+    "автомойка"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "door_repair",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/formula_kuzova/233515909126/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "1028543973",
+   "название": "Дракон-Сервис",
+   "seoname": "drakon_servis",
+   "адрес": "ул. Антонова-Овсеенко, 9А, Самара",
+   "координаты": [
+    50.198396,
+    53.211019
+   ],
+   "рейтинг": 4.4,
+   "оценок": 458,
+   "отзывов": 215,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dragon-service.2gis.biz/",
+    "http://www.ugonov-net.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 222-11-22",
+    "+7 (961) 381-53-65"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–16:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/drakon_servis/1028543973/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "1066147603",
+   "название": "Промгазавтосервис",
+   "seoname": "promgazavtoservis",
+   "адрес": "Стромиловское ш., 11А",
+   "координаты": [
+    50.07899,
+    53.097444
+   ],
+   "рейтинг": 4.5,
+   "оценок": 603,
+   "отзывов": 218,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://pgas63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 330-61-53",
+    "+7 (846) 330-17-15"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/promgazavtoservis/1066147603/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "195793804523",
+   "название": "Станция технического обслуживания Утёвская",
+   "seoname": "stantsiya_tekhnicheskogo_obsluzhivaniya_utyovskaya",
+   "адрес": "Утёвская ул., 20Б",
+   "координаты": [
+    50.106745,
+    53.131015
+   ],
+   "рейтинг": 5,
+   "оценок": 77,
+   "отзывов": 65,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sto-utevskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (936) 543-35-48",
+    "+7 (927) 219-71-78"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stantsiya_tekhnicheskogo_obsluzhivaniya_utyovskaya/195793804523/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "15715560613",
+   "название": "Мобитоп",
+   "seoname": "mobitop",
+   "адрес": "Уральская ул., 38, корп. 1",
+   "координаты": [
+    50.116663,
+    53.13387
+   ],
+   "рейтинг": 4.3,
+   "оценок": 571,
+   "отзывов": 232,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mobitopsam.ru/"
+   ],
+   "телефоны": [
+    "+7 (906) 125-85-19",
+    "+7 (906) 125-85-18",
+    "+7 (906) 125-85-24",
+    "+7 (917) 114-04-02",
+    "+7 (846) 330-16-74"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_polishing",
+    "car_wash",
+    "car_waxing",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mobitop/15715560613/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "164853103581",
+   "название": "Proremont163",
+   "seoname": "proremont163",
+   "адрес": "Главная ул., 20, Самара",
+   "координаты": [
+    50.075337,
+    53.168373
+   ],
+   "рейтинг": 4.7,
+   "оценок": 17,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 665-65-05"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шины и диски"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_servicing",
+    "diesel_service",
+    "disable_captions",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/proremont163/164853103581/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "52015328852",
+   "название": "Car Tech SV",
+   "seoname": "car_tech_sv",
+   "адрес": "Пугачёвский тракт, 13",
+   "координаты": [
+    50.08564,
+    53.11497
+   ],
+   "рейтинг": 4.7,
+   "оценок": 54,
+   "отзывов": 34,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 987-80-08"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/car_tech_sv/52015328852/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "64799398717",
+   "название": "CarTech",
+   "seoname": "cartech",
+   "адрес": "Грозненская ул., 8",
+   "координаты": [
+    50.066201,
+    53.112763
+   ],
+   "рейтинг": 4.2,
+   "оценок": 217,
+   "отзывов": 97,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://cartech116.orgs.biz/"
+   ],
+   "телефоны": [
+    "+7 (917) 973-65-27"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "access_by_agreement",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "commercial_vehicles_repair",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "repair_dsg",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cartech/64799398717/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "83105410153",
+   "название": "Ваш Автосервис",
+   "seoname": "vash_avtoservis",
+   "адрес": "Саратовский пер., 63А, посёлок Соцгород",
+   "координаты": [
+    50.09102,
+    53.126998
+   ],
+   "рейтинг": 4.7,
+   "оценок": 26,
+   "отзывов": 20,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 833-67-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vash_avtoservis/83105410153/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "46694155753",
+   "название": "Еамоторс",
+   "seoname": "yeamotors",
+   "адрес": "Пугачёвский тракт, 82Г",
+   "координаты": [
+    50.089351,
+    53.126506
+   ],
+   "рейтинг": 5,
+   "оценок": 37,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://eamotors.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (846) 277-08-01",
+    "+7 (927) 207-08-01"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "сварочные работы"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "starting_the_car",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yeamotors/46694155753/",
+   "найдено_по": "ремонт автокондиционера Куйбышевский район"
+  },
+  {
+   "id": "160414818619",
+   "название": "NissPro",
+   "seoname": "nisspro",
+   "адрес": "просп. Карла Маркса, 30А",
+   "координаты": [
+    50.152763,
+    53.199654
+   ],
+   "рейтинг": 5,
+   "оценок": 287,
+   "отзывов": 168,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 291-30-30",
+    "+7 (927) 295-30-30"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nisspro/160414818619/",
+   "найдено_по": "ремонт автокондиционера Ленинский район"
+  },
+  {
+   "id": "53457543382",
+   "название": "Мастер Кар",
+   "seoname": "master_kar",
+   "адрес": "просп. Масленникова, 4/1",
+   "координаты": [
+    50.152963,
+    53.214755
+   ],
+   "рейтинг": 5,
+   "оценок": 111,
+   "отзывов": 76,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mastercar-smr.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 019-14-13"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "автоэкспертиза, оценка автомобилей"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_gravity_film",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_valeting",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "glass_polishing",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "registration_SBKTS",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master_kar/53457543382/",
+   "найдено_по": "ремонт автокондиционера Ленинский район"
+  },
+  {
+   "id": "181427161392",
+   "название": "Auto063.ru",
+   "seoname": "auto063_ru",
+   "адрес": "Коммунистическая ул., 4",
+   "координаты": [
+    50.126046,
+    53.196073
+   ],
+   "рейтинг": 4,
+   "оценок": 9,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.auto063.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 972-79-59",
+    "+7 (927) 692-79-59"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/auto063_ru/181427161392/",
+   "найдено_по": "ремонт автокондиционера Ленинский район"
+  },
+  {
+   "id": "2282334077",
+   "название": "Десбо",
+   "seoname": "desbo",
+   "адрес": "ул. Алексея Толстого, 8Б",
+   "координаты": [
+    50.076678,
+    53.178929
+   ],
+   "рейтинг": 4.9,
+   "оценок": 372,
+   "отзывов": 260,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://desbo-ulitsa-vodnikov.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-49-12",
+    "+7 (846) 300-49-16"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/desbo/2282334077/",
+   "найдено_по": "ремонт автокондиционера Ленинский район"
+  },
+  {
+   "id": "1783511282",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Водников, 11, Самара",
+   "координаты": [
+    50.076376,
+    53.178825
+   ],
+   "рейтинг": 4.3,
+   "оценок": 76,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-v-samarskom-rajone.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 424-19-61"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "installing_the_towbar",
+    "repair_of_diesel_engines",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/1783511282/",
+   "найдено_по": "ремонт автокондиционера Ленинский район"
+  },
+  {
+   "id": "186616889454",
+   "название": "Фаэтон",
+   "seoname": "faeton",
+   "адрес": "ул. Мичурина, 21Б",
+   "координаты": [
+    50.141649,
+    53.203894
+   ],
+   "рейтинг": 4.7,
+   "оценок": 156,
+   "отзывов": 91,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 176-44-70"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "kaspi_red",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/faeton/186616889454/",
+   "найдено_по": "ремонт автокондиционера Ленинский район"
+  },
+  {
+   "id": "201874105420",
+   "название": "Дакар",
+   "seoname": "dakar",
+   "адрес": "Дачная ул., 20",
+   "координаты": [
+    50.150591,
+    53.194329
+   ],
+   "рейтинг": 4.3,
+   "оценок": 114,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://dacar163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-04-11",
+    "+7 (917) 015-54-55"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dakar/201874105420/",
+   "найдено_по": "ремонт автокондиционера Ленинский район"
+  },
+  {
+   "id": "1517516298",
+   "название": "Скиф-Авто",
+   "seoname": "skif_avto",
+   "адрес": "просп. Масленникова, 4/1",
+   "координаты": [
+    50.153532,
+    53.215264
+   ],
+   "рейтинг": 4.8,
+   "оценок": 215,
+   "отзывов": 121,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://skifavto63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 205-50-01",
+    "+7 (927) 013-12-77"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_door_closers",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skif_avto/1517516298/",
+   "найдено_по": "ремонт автокондиционера Ленинский район"
+  },
+  {
+   "id": "118205061357",
+   "название": "RedBox",
+   "seoname": "redbox",
+   "адрес": "ул. Ерошевского, 5В",
+   "координаты": [
+    50.158733,
+    53.216551
+   ],
+   "рейтинг": 4.6,
+   "оценок": 166,
+   "отзывов": 78,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 335-29-98"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/redbox/118205061357/",
+   "найдено_по": "ремонт автокондиционера Ленинский район"
+  },
+  {
+   "id": "170685984665",
+   "название": "PandaGarage",
+   "seoname": "pandagarage",
+   "адрес": "Юзовская ул., 1",
+   "координаты": [
+    50.14504,
+    53.184399
+   ],
+   "рейтинг": 4.5,
+   "оценок": 24,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 207-12-80"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pandagarage/170685984665/",
+   "найдено_по": "ремонт автокондиционера Ленинский район"
+  },
+  {
+   "id": "183036594081",
+   "название": "РЛС",
+   "seoname": "rls",
+   "адрес": "ул. Мичурина, 23",
+   "координаты": [
+    50.144042,
+    53.205359
+   ],
+   "рейтинг": 4.3,
+   "оценок": 214,
+   "отзывов": 80,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://g-energy.org/service/ru/station/g-energy-service-samara_RU-0043"
+   ],
+   "телефоны": [
+    "+7 (846) 211-59-38",
+    "+7 (927) 746-87-47"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rls/183036594081/",
+   "найдено_по": "ремонт автокондиционера Ленинский район"
+  },
+  {
+   "id": "106977838684",
+   "название": "Автомир, Haval",
+   "seoname": "avtomir_haval",
+   "адрес": "ул. Авроры, 150Е",
+   "координаты": [
+    50.184771,
+    53.210054
+   ],
+   "рейтинг": 5,
+   "оценок": 2060,
+   "отзывов": 1258,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://smr.avtomir.ru/new-cars/haval/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-20-63"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_haval/106977838684/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "157411799619",
+   "название": "Автомир, Suzuki",
+   "seoname": "avtomir_suzuki",
+   "адрес": "ул. Авроры, 150Е",
+   "координаты": [
+    50.184859,
+    53.210155
+   ],
+   "рейтинг": 4.7,
+   "оценок": 427,
+   "отзывов": 200,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://samara.suzuki-avtomir.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 215-12-86"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_suzuki/157411799619/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "24899562130",
+   "название": "Автомир, Ford",
+   "seoname": "avtomir_ford",
+   "адрес": "ул. Авроры, 150Е",
+   "координаты": [
+    50.184859,
+    53.210155
+   ],
+   "рейтинг": 4.7,
+   "оценок": 973,
+   "отзывов": 429,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.ford-avtomir.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 211-12-97"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_ford/24899562130/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "106817936534",
+   "название": "Автомир, Haval Pro",
+   "seoname": "avtomir_haval_pro",
+   "адрес": "ул. Авроры, 150Е",
+   "координаты": [
+    50.185009,
+    53.210143
+   ],
+   "рейтинг": 5,
+   "оценок": 253,
+   "отзывов": 175,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://smr.avtomir.ru/new-cars/haval-pro/"
+   ],
+   "телефоны": [
+    "+7 (846) 212-98-25"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_haval_pro/106817936534/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "236515706141",
+   "название": "АвтоВыбор",
+   "seoname": "avtovybor",
+   "адрес": "ул. Авроры, 110, корп. 4, Самара",
+   "координаты": [
+    50.189616,
+    53.193645
+   ],
+   "рейтинг": 4.9,
+   "оценок": 77,
+   "отзывов": 53,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.a-parts.ru/",
+    "https://www.a-parts.ru/autoservice"
+   ],
+   "телефоны": [
+    "+7 (963) 115-12-95",
+    "+7 (846) 205-55-14"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtovybor/236515706141/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "1024679522",
+   "название": "Субару центр Самара",
+   "seoname": "subaru_tsentr_samara",
+   "адрес": "Революционная ул., 70Д",
+   "координаты": [
+    50.180253,
+    53.2078
+   ],
+   "рейтинг": 4.7,
+   "оценок": 557,
+   "отзывов": 158,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.subaru.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 233-78-18",
+    "+7 (961) 385-81-74"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/subaru_tsentr_samara/1024679522/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "234386899826",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "5-я просека, 97Б",
+   "координаты": [
+    50.183149,
+    53.243747
+   ],
+   "рейтинг": 4.3,
+   "оценок": 46,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://samara.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 267-09-70"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/234386899826/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "144470152276",
+   "название": "АвтоОкей",
+   "seoname": "avtookey",
+   "адрес": "Революционная ул., 113А",
+   "координаты": [
+    50.1778,
+    53.201769
+   ],
+   "рейтинг": 4.3,
+   "оценок": 1182,
+   "отзывов": 629,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 260-25-41"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtookey/144470152276/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "237059294817",
+   "название": "AVtocar",
+   "seoname": "avtocar",
+   "адрес": "Революционная ул., 101Д, стр. 1",
+   "координаты": [
+    50.173363,
+    53.205905
+   ],
+   "рейтинг": 5,
+   "оценок": 220,
+   "отзывов": 140,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 277-00-55",
+    "+7 (927) 297-00-55"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtocar/237059294817/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "99974452461",
+   "название": "CarVega",
+   "seoname": "carvega",
+   "адрес": "ул. Ерошевского, 3",
+   "координаты": [
+    50.157259,
+    53.217173
+   ],
+   "рейтинг": 4.8,
+   "оценок": 21,
+   "отзывов": 16,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 982-18-02",
+    "+7 (927) 715-67-23"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "good_place",
+    "heater_flushing",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carvega/99974452461/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "57553903720",
+   "название": "КузовОК",
+   "seoname": "kuzovok",
+   "адрес": "ул. Николая Панова, 29, корп. 3",
+   "координаты": [
+    50.162666,
+    53.208378
+   ],
+   "рейтинг": 4.6,
+   "оценок": 277,
+   "отзывов": 139,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://kuzovok63.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 175-84-83",
+    "+7 (937) 070-80-20"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр",
+    "антикоррозийная обработка"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "freight_car_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kuzovok/57553903720/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "74185540460",
+   "название": "Арена-сервис",
+   "seoname": "arena_servis",
+   "адрес": "ул. Советской Армии, 253Д",
+   "координаты": [
+    50.179316,
+    53.240816
+   ],
+   "рейтинг": 4.3,
+   "оценок": 113,
+   "отзывов": 50,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 163-03-03",
+    "+7 (937) 203-27-77"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/arena_servis/74185540460/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "186651360621",
+   "название": "АвтоФокус",
+   "seoname": "avtofokus",
+   "адрес": "ул. Авроры, 150Д",
+   "координаты": [
+    50.185366,
+    53.210549
+   ],
+   "рейтинг": 5,
+   "оценок": 292,
+   "отзывов": 140,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 205-14-13",
+    "+7 (846) 224-30-45",
+    "+7 (846) 989-10-74"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtofokus/186651360621/",
+   "найдено_по": "ремонт автокондиционера Октябрьский район"
+  },
+  {
+   "id": "80507005498",
+   "название": "G-Energy Service Рольф",
+   "seoname": "g_energy_service_rolf",
+   "адрес": "9-я просека 5-я линия, 105, Барбошина Поляна",
+   "координаты": [
+    50.210129,
+    53.264437
+   ],
+   "рейтинг": 4.2,
+   "оценок": 16,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://g-energy.org/",
+    "https://g-energy.org/service/ru/station/g-energy-service-rolf-samara_RU-0001GR"
+   ],
+   "телефоны": [
+    "+7 (846) 211-01-30"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/g_energy_service_rolf/80507005498/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "182148309598",
+   "название": "Бамперок63",
+   "seoname": "bamperok63",
+   "адрес": "6-я просека, 146",
+   "координаты": [
+    50.192476,
+    53.247079
+   ],
+   "рейтинг": 4.8,
+   "оценок": 297,
+   "отзывов": 175,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bamperok63.ru/"
+   ],
+   "телефоны": [
+    "+7 (958) 732-28-01"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "заправка автокондиционеров",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_glass_replacement",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "door_repair",
+    "kaspi_red",
+    "payment_by_credit_card",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bamperok63/182148309598/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "76758543482",
+   "название": "Станция технического обслуживания Вольская",
+   "seoname": "stantsiya_tekhnicheskogo_obsluzhivaniya_volskaya",
+   "адрес": "Вольская ул., 104",
+   "координаты": [
+    50.249223,
+    53.222302
+   ],
+   "рейтинг": 4.8,
+   "оценок": 80,
+   "отзывов": 68,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sto-volskaja.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (937) 989-10-90",
+    "+7 (917) 112-56-46",
+    "+7 (917) 112-56-76"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "disable_photopoi",
+    "generators",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stantsiya_tekhnicheskogo_obsluzhivaniya_volskaya/76758543482/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "102935672229",
+   "название": "Мир Масел",
+   "seoname": "mir_masel",
+   "адрес": "Московское ш., 81Б/1, Самара",
+   "координаты": [
+    50.202264,
+    53.232198
+   ],
+   "рейтинг": 5,
+   "оценок": 372,
+   "отзывов": 261,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mirmasel63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 970-70-17"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_masel/102935672229/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "27251469901",
+   "название": "Мир Масел",
+   "seoname": "mir_masel",
+   "адрес": "Ново-Садовая ул., 325Д, Самара",
+   "координаты": [
+    50.205369,
+    53.248636
+   ],
+   "рейтинг": 5,
+   "оценок": 210,
+   "отзывов": 147,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mirmasel63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 970-70-17"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_masel/27251469901/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "129119671800",
+   "название": "Автомир Богемия, Škoda",
+   "seoname": "avtomir_bogemiya_koda",
+   "адрес": "Московское ш., 262",
+   "координаты": [
+    50.216622,
+    53.248208
+   ],
+   "рейтинг": 4.9,
+   "оценок": 2116,
+   "отзывов": 879,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bogemia-smr.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 215-12-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_bogemiya_koda/129119671800/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "4838428675",
+   "название": "А. N. О. Auto",
+   "seoname": "a_n_o_auto",
+   "адрес": "городской округ Самара, Промышленный район, улица Кирова, 19",
+   "координаты": [
+    50.27075,
+    53.214524
+   ],
+   "рейтинг": 5,
+   "оценок": 160,
+   "отзывов": 81,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://anoauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 992-58-57",
+    "+7 (902) 324-20-18"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/a_n_o_auto/4838428675/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "1040446220",
+   "название": "Фотон",
+   "seoname": "foton",
+   "адрес": "Солнечная ул., 26Б",
+   "координаты": [
+    50.198402,
+    53.249311
+   ],
+   "рейтинг": 4.3,
+   "оценок": 411,
+   "отзывов": 183,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 224-84-48",
+    "+7 (937) 064-40-03"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/foton/1040446220/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "115565385419",
+   "название": "Корейский мастер",
+   "seoname": "koreyskiy_master",
+   "адрес": "ул. Аминева, 18",
+   "координаты": [
+    50.209051,
+    53.247705
+   ],
+   "рейтинг": 5,
+   "оценок": 52,
+   "отзывов": 51,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koreiskimaster163.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 300-47-83"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koreyskiy_master/115565385419/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "1706112184",
+   "название": "ЛогикАвто",
+   "seoname": "logikavto",
+   "адрес": "Силовая ул., 11",
+   "координаты": [
+    50.207457,
+    53.243692
+   ],
+   "рейтинг": 4.7,
+   "оценок": 158,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://logikavto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (846) 972-72-42",
+    "+7 (927) 692-72-42"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "electric car charging station",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/logikavto/1706112184/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "128684960966",
+   "название": "Workshop",
+   "seoname": "workshop",
+   "адрес": "Томашевский тупик, 12",
+   "координаты": [
+    50.247169,
+    53.217508
+   ],
+   "рейтинг": 4.4,
+   "оценок": 23,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (986) 954-38-55",
+    "+7 (927) 752-94-77"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/workshop/128684960966/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "165932517830",
+   "название": "Чемпион",
+   "seoname": "chempion",
+   "адрес": "ул. Александра Матросова, 76А, лит.Г",
+   "координаты": [
+    50.231952,
+    53.217445
+   ],
+   "рейтинг": 4.8,
+   "оценок": 71,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 290-28-28"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chempion/165932517830/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "32472232035",
+   "название": "Витес",
+   "seoname": "vites",
+   "адрес": "городской округ Самара, Промышленный район",
+   "координаты": [
+    50.297663,
+    53.209304
+   ],
+   "рейтинг": 4.2,
+   "оценок": 104,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vites-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 201-96-06",
+    "+7 (987) 959-99-63",
+    "+7 (846) 977-33-23"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vites/32472232035/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "207735824745",
+   "название": "Техно авто сервис",
+   "seoname": "tekhno_avto_servis",
+   "адрес": "Заводское ш., 27",
+   "координаты": [
+    50.274763,
+    53.205398
+   ],
+   "рейтинг": 4.4,
+   "оценок": 13,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 392-70-00",
+    "+7 (927) 264-05-09"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб,вс 09:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "freight_car_service",
+    "generators",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "termobudki",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tekhno_avto_servis/207735824745/",
+   "найдено_по": "ремонт автокондиционера Промышленный район"
+  },
+  {
+   "id": "158864172054",
+   "название": "63 Легион",
+   "seoname": "63_legion",
+   "адрес": "Утёвская ул., 20Б, Самара",
+   "координаты": [
+    50.106084,
+    53.130669
+   ],
+   "рейтинг": 4.6,
+   "оценок": 19,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 735-94-53",
+    "+7 (917) 105-50-61",
+    "+7 (996) 623-63-63"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт МКПП",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/63_legion/158864172054/",
+   "найдено_по": "ремонт автокондиционера Самарский район"
+  },
+  {
+   "id": "193744152862",
+   "название": "Garage tuning",
+   "seoname": "garage_tuning",
+   "адрес": "ул. Фрунзе, 8",
+   "координаты": [
+    50.085845,
+    53.179388
+   ],
+   "рейтинг": 4.3,
+   "оценок": 92,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (846) 922-66-06",
+    "+7 (927) 712-66-06"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garage_tuning/193744152862/",
+   "найдено_по": "ремонт автокондиционера Самарский район"
+  },
+  {
+   "id": "4206170792",
+   "название": "Belka service",
+   "seoname": "belka_service",
+   "адрес": "Уральская ул., 34Б/1, Самара",
+   "координаты": [
+    50.109796,
+    53.131387
+   ],
+   "рейтинг": 5,
+   "оценок": 48,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://belka--servis.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (995) 343-59-33"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "call_button",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "door_repair",
+    "engine_endoscopy",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "home_visit",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "sandblasting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/belka_service/4206170792/",
+   "найдено_по": "ремонт автокондиционера Самарский район"
+  },
+  {
+   "id": "129677102633",
+   "название": "Check Avto",
+   "seoname": "check_avto",
+   "адрес": "Белорусская ул., 75А",
+   "координаты": [
+    50.05294,
+    53.146574
+   ],
+   "рейтинг": 4,
+   "оценок": 3,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "пн-пт 07:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/check_avto/129677102633/",
+   "найдено_по": "ремонт автокондиционера Самарский район"
+  },
+  {
+   "id": "154410611771",
+   "название": "Мир Масел",
+   "seoname": "mir_masel",
+   "адрес": "ул. Промышленности, 279Г, Самара",
+   "координаты": [
+    50.21719,
+    53.19435
+   ],
+   "рейтинг": 5,
+   "оценок": 285,
+   "отзывов": 174,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mirmasel63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 970-70-17"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_masel/154410611771/",
+   "найдено_по": "ремонт автокондиционера Советский район"
+  },
+  {
+   "id": "85059401347",
+   "название": "Мост Люкс",
+   "seoname": "most_lyuks",
+   "адрес": "пр. Мальцева, 3",
+   "координаты": [
+    50.245597,
+    53.188852
+   ],
+   "рейтинг": 4.6,
+   "оценок": 310,
+   "отзывов": 141,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://most-ljuks.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 712-99-80",
+    "+7 (846) 300-45-55"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/most_lyuks/85059401347/",
+   "найдено_по": "ремонт автокондиционера Советский район"
+  },
+  {
+   "id": "57823045564",
+   "название": "TempTune",
+   "seoname": "temptune",
+   "адрес": "Самара, квартал Киркомбинат",
+   "координаты": [
+    50.213305,
+    53.187666
+   ],
+   "рейтинг": 4.4,
+   "оценок": 6,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 033-93-16"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автокондиционеры",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/temptune/57823045564/",
+   "найдено_по": "ремонт автокондиционера Советский район"
+  },
+  {
+   "id": "243224082577",
+   "название": "Автосервис Победы",
+   "seoname": "avtoservis_pobedy",
+   "адрес": "ул. Победы, 4В",
+   "координаты": [
+    50.225521,
+    53.204771
+   ],
+   "рейтинг": 4.3,
+   "оценок": 483,
+   "отзывов": 214,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtookej-pecherskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (977) 092-65-57",
+    "+7 (846) 225-20-50"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_pobedy/243224082577/",
+   "найдено_по": "ремонт автокондиционера Советский район"
+  },
+  {
+   "id": "131745088241",
+   "название": "Автосервис 112",
+   "seoname": "avtoservis_112",
+   "адрес": "ул. Антонова-Овсеенко, 53Б",
+   "координаты": [
+    50.205632,
+    53.211148
+   ],
+   "рейтинг": 4.9,
+   "оценок": 145,
+   "отзывов": 83,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtoservis112.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (903) 300-59-35"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_112/131745088241/",
+   "найдено_по": "ремонт автокондиционера Советский район"
+  },
+  {
+   "id": "134922906616",
+   "название": "МультиБрендовыйСервис",
+   "seoname": "multibrendovyyservis",
+   "адрес": "ул. Промышленности, 120А",
+   "координаты": [
+    50.196157,
+    53.181142
+   ],
+   "рейтинг": 4.5,
+   "оценок": 245,
+   "отзывов": 126,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.cto-bs.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 252-51-12",
+    "+7 (996) 745-24-56"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/multibrendovyyservis/134922906616/",
+   "найдено_по": "ремонт автокондиционера Советский район"
+  },
+  {
+   "id": "153595987740",
+   "название": "АлексАвто",
+   "seoname": "aleksavto",
+   "адрес": "ул. Промышленности, 193",
+   "координаты": [
+    50.205834,
+    53.186897
+   ],
+   "рейтинг": 4.8,
+   "оценок": 157,
+   "отзывов": 80,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://alexauto63.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 419-63-63"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aleksavto/153595987740/",
+   "найдено_по": "ремонт автокондиционера Советский район"
+  },
+  {
+   "id": "203969181654",
+   "название": "Территория холода",
+   "seoname": "territoriya_kholoda",
+   "адрес": "ул. Антонова-Овсеенко, 55Б",
+   "координаты": [
+    50.207394,
+    53.211382
+   ],
+   "рейтинг": 5,
+   "оценок": 30,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://cold63.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (939) 700-40-04"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "field_service",
+    "guarantee",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/territoriya_kholoda/203969181654/",
+   "найдено_по": "ремонт автокондиционера Советский район"
+  },
+  {
+   "id": "215520834242",
+   "название": "Автосила",
+   "seoname": "avtosila",
+   "адрес": "ул. Промышленности, 168, Самара",
+   "координаты": [
+    50.203482,
+    53.186107
+   ],
+   "рейтинг": 4.8,
+   "оценок": 30,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtosila63.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 990-45-05",
+    "+7 (927) 752-50-47"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "termobudki",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosila/215520834242/",
+   "найдено_по": "ремонт автокондиционера Советский район"
+  },
+  {
+   "id": "1725830211",
+   "название": "Теплостар",
+   "seoname": "teplostar",
+   "адрес": "ул. Промышленности, 193, Самара",
+   "координаты": [
+    50.206089,
+    53.186786
+   ],
+   "рейтинг": 4.5,
+   "оценок": 125,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://teplostar163.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 550-69-22",
+    "+7 (927) 768-53-53",
+    "+7 (927) 692-77-82",
+    "+7 (996) 722-23-23"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомобильные отопители",
+    "автокондиционеры",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "delivery",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "repairs",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/teplostar/1725830211/",
+   "найдено_по": "ремонт автокондиционера Советский район"
+  },
+  {
+   "id": "1258638284",
+   "название": "Автоцентр на Заводском",
+   "seoname": "avtotsentr_na_zavodskom",
+   "адрес": "Заводское ш., 14Н, Самара",
+   "координаты": [
+    50.2353,
+    53.195619
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1744,
+   "отзывов": 850,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avnz.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (846) 215-16-92"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "epassport_for_vehicles",
+    "guarantee",
+    "has_chat_with_clients",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "termobudki",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_na_zavodskom/1258638284/",
+   "найдено_по": "ремонт автокондиционера Советский район"
+  }
+ ],
+ "расширено_по_районам": true
+}
