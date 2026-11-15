@@ -1,0 +1,6400 @@
+{
+ "ниша": "Автосалоны",
+ "ключ": "avtosalony",
+ "запросы": [
+  "автосалон"
+ ],
+ "найдено_в_яндексе": {
+  "автосалон": 55,
+  "автосалон Автозаводский район": 30,
+  "автосалон Канавинский район": 45,
+  "автосалон Ленинский район": 42,
+  "автосалон Московский район": 45,
+  "автосалон Нижегородский район": 49,
+  "автосалон Приокский район": 45,
+  "автосалон Советский район": 45,
+  "автосалон Сормовский район": 11
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Нижнему Новгороду (регион 47)",
+ "город": "nizhniy-novgorod",
+ "компании": [
+  {
+   "id": "1780879293",
+   "название": "Юникор, Lada",
+   "seoname": "yunikor_lada",
+   "адрес": "просп. Гагарина, 121Д",
+   "координаты": [
+    43.939158,
+    56.224695
+   ],
+   "рейтинг": 5,
+   "оценок": 4615,
+   "отзывов": 2617,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://unikor.lada.ru/?dealer=549458691"
+   ],
+   "телефоны": [
+    "+7 (831) 282-67-18"
+   ],
+   "часы": "ежедневно, 07:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "ремонт климатических систем",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yunikor_lada/1780879293/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 72,
+   "загружено_дат": 82
+  },
+  {
+   "id": "124836381099",
+   "название": "Нижегородец, Lada",
+   "seoname": "nizhegorodets_lada",
+   "адрес": "Московское ш., 34, Нижний Новгород",
+   "координаты": [
+    43.927434,
+    56.319019
+   ],
+   "рейтинг": 5,
+   "оценок": 2823,
+   "отзывов": 1832,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://lada.nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 280-97-10"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nizhegorodets_lada/124836381099/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 70,
+   "загружено_дат": 83
+  },
+  {
+   "id": "151379800164",
+   "название": "Chery Нижегородец",
+   "seoname": "chery_nizhegorodets",
+   "адрес": "Московское ш., 34, Нижний Новгород",
+   "координаты": [
+    43.927997,
+    56.319045
+   ],
+   "рейтинг": 5,
+   "оценок": 1995,
+   "отзывов": 1230,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://clck.ru/3Wt4Kh"
+   ],
+   "телефоны": [
+    "+7 (831) 266-11-50",
+    "+7 (831) 275-99-11"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_nizhegorodets/151379800164/",
+   "последний_отзыв": "2026-08-18",
+   "отзывов_за_12_мес_из_загруженных": 59,
+   "загружено_дат": 83
+  },
+  {
+   "id": "103998270203",
+   "название": "Нижегородец, Haval",
+   "seoname": "nizhegorodets_haval",
+   "адрес": "Московское ш., 34, Нижний Новгород",
+   "координаты": [
+    43.925939,
+    56.318726
+   ],
+   "рейтинг": 5,
+   "оценок": 1329,
+   "отзывов": 1064,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://haval.nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-03-35"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "self_car_service",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nizhegorodets_haval/103998270203/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 59,
+   "загружено_дат": 68
+  },
+  {
+   "id": "186600726066",
+   "название": "Премьер",
+   "seoname": "premyer",
+   "адрес": "ул. Коминтерна, 31",
+   "координаты": [
+    43.89669,
+    56.344021
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1315,
+   "отзывов": 898,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://new-premier.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 280-31-20",
+    "+7 (831) 280-33-59",
+    "+7 (831) 280-48-17"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/premyer/186600726066/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 64,
+   "загружено_дат": 66
+  },
+  {
+   "id": "13532143472",
+   "название": "Агат, Lada",
+   "seoname": "agat_lada",
+   "адрес": "Комсомольское ш., 7В",
+   "координаты": [
+    43.923296,
+    56.301194
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1814,
+   "отзывов": 854,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://agat.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 282-75-72"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agat_lada/13532143472/",
+   "последний_отзыв": "2026-11-01",
+   "отзывов_за_12_мес_из_загруженных": 67,
+   "загружено_дат": 79
+  },
+  {
+   "id": "1059102610",
+   "название": "Тойота центр Нижний Новгород",
+   "seoname": "toyota_tsentr_nizhniy_novgorod",
+   "адрес": "Московское ш., 94А",
+   "координаты": [
+    43.898514,
+    56.314104
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1980,
+   "отзывов": 800,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://toyotann.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 275-43-34",
+    "+7 (831) 425-85-85"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "cafe",
+    "car_glass_replacement",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "door_repair",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "thickness_gauge_color",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr_nizhniy_novgorod/1059102610/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 45,
+   "загружено_дат": 46
+  },
+  {
+   "id": "23131985004",
+   "название": "Haval Агат на Московском",
+   "seoname": "haval_agat_na_moskovskom",
+   "адрес": "Московское ш., 294Д",
+   "координаты": [
+    43.846823,
+    56.311901
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1601,
+   "отзывов": 740,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.agat-haval.ru/",
+    "https://agat-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 282-68-75"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_agat_na_moskovskom/23131985004/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 59,
+   "загружено_дат": 73
+  },
+  {
+   "id": "1090801328",
+   "название": "Тойота центр Нижний Новгород Юг",
+   "seoname": "toyota_tsentr_nizhniy_novgorod_yug",
+   "адрес": "ул. Ларина, 30",
+   "координаты": [
+    44.017332,
+    56.237011
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1867,
+   "отзывов": 730,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://toyotann.ru/",
+    "https://toyotann.ru/about/dealerships/nizhnij-novgorod/toyota/toiota-tsentr-nizhnii-novgorod-iug"
+   ],
+   "телефоны": [
+    "+7 (831) 425-85-85",
+    "+7 (831) 425-99-99"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr_nizhniy_novgorod_yug/1090801328/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 42
+  },
+  {
+   "id": "1749574205",
+   "название": "Haval, Автоцентр на Гагарина",
+   "seoname": "haval_avtotsentr_na_gagarina",
+   "адрес": "просп. Гагарина, 65А",
+   "координаты": [
+    43.962713,
+    56.245543
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1524,
+   "отзывов": 728,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autocentr-haval.ru/",
+    "https://nnov-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-58-69",
+    "+7 (831) 266-66-48"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_accessories",
+    "car_floor_mats",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "luggage_racks_roof_boxes",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_avtotsentr_na_gagarina/1749574205/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 53,
+   "загружено_дат": 73
+  },
+  {
+   "id": "143321083382",
+   "название": "Haval центр Автолига",
+   "seoname": "haval_tsentr_avtoliga",
+   "адрес": "Магистральная ул., 3, д. Афонино",
+   "координаты": [
+    44.087586,
+    56.271128
+   ],
+   "рейтинг": 5,
+   "оценок": 1541,
+   "отзывов": 682,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoliga-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-66-54"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_tsentr_avtoliga/143321083382/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 68,
+   "загружено_дат": 80
+  },
+  {
+   "id": "46838624558",
+   "название": "Автолига, Chery",
+   "seoname": "avtoliga_chery",
+   "адрес": "Московское ш., 243",
+   "координаты": [
+    43.801679,
+    56.311264
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1383,
+   "отзывов": 559,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://tenet.avtoliga-group.ru/",
+    "https://avtoliga-chery.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 242-97-90"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoliga_chery/46838624558/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 51,
+   "загружено_дат": 88
+  },
+  {
+   "id": "196890749937",
+   "название": "Автомир, Chery",
+   "seoname": "avtomir_chery",
+   "адрес": "Казанское ш., 25, д. Афонино",
+   "координаты": [
+    44.081706,
+    56.279816
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1039,
+   "отзывов": 528,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtomir-nn-chery.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 288-32-09"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_chery/196890749937/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 36,
+   "загружено_дат": 90
+  },
+  {
+   "id": "15207359684",
+   "название": "Omoda Нижегородец",
+   "seoname": "omoda_nizhegorodets",
+   "адрес": "ул. Надежды Сусловой, 28, Нижний Новгород",
+   "координаты": [
+    44.046361,
+    56.303235
+   ],
+   "рейтинг": 5,
+   "оценок": 734,
+   "отзывов": 497,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omoda-nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 288-31-35"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "home_visit",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "self_car_service",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_nizhegorodets/15207359684/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 47,
+   "загружено_дат": 85
+  },
+  {
+   "id": "109480345103",
+   "название": "Geely, Автосалон152",
+   "seoname": "geely_avtosalon152",
+   "адрес": "Московское ш., 52Е, корп. 1",
+   "координаты": [
+    43.908976,
+    56.315457
+   ],
+   "рейтинг": 4.6,
+   "оценок": 996,
+   "отзывов": 490,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-autosalon152.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 234-11-83",
+    "+7 (831) 282-02-02"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_avtosalon152/109480345103/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 43,
+   "загружено_дат": 62
+  },
+  {
+   "id": "1017962305",
+   "название": "Сервисный центр Hyundai Агат на Родионова",
+   "seoname": "servisny_tsentr_hyundai_agat_na_rodionova",
+   "адрес": "ул. Родионова, 203",
+   "координаты": [
+    44.079308,
+    56.299759
+   ],
+   "рейтинг": 4.6,
+   "оценок": 1163,
+   "отзывов": 370,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://agat-group.com/",
+    "https://agat-group.com/",
+    "https://агат.рф/about/contacts/"
+   ],
+   "телефоны": [
+    "+7 (831) 200-00-00"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "diesel_service",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/servisny_tsentr_hyundai_agat_na_rodionova/1017962305/"
+  },
+  {
+   "id": "101440793486",
+   "название": "CarPrice",
+   "seoname": "carprice",
+   "адрес": "Казанское ш., 11",
+   "координаты": [
+    44.073684,
+    56.289955
+   ],
+   "рейтинг": 4.9,
+   "оценок": 455,
+   "отзывов": 306,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://carprice.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 555-07-41"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carprice/101440793486/"
+  },
+  {
+   "id": "189233654668",
+   "название": "Tenet Нижегородец",
+   "seoname": "tenet_nizhegorodets",
+   "адрес": "Московское ш., 34, Нижний Новгород",
+   "координаты": [
+    43.928071,
+    56.319131
+   ],
+   "рейтинг": 5,
+   "оценок": 226,
+   "отзывов": 210,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://clck.ru/3Wt4Kh"
+   ],
+   "телефоны": [
+    "+7 (831) 280-98-11"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tenet_nizhegorodets/189233654668/"
+  },
+  {
+   "id": "11330501292",
+   "название": "Geely Интеравтоцентр",
+   "seoname": "geely_interavtotsentr",
+   "адрес": "Южное ш., 1",
+   "координаты": [
+    43.851185,
+    56.223028
+   ],
+   "рейтинг": 4.8,
+   "оценок": 559,
+   "отзывов": 199,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-nnov.ru/",
+    "http://geely.interautonn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 231-39-85",
+    "+7 (831) 266-89-26"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_interavtotsentr/11330501292/"
+  },
+  {
+   "id": "31275034710",
+   "название": "Лайк Нью",
+   "seoname": "layk_nyu",
+   "адрес": "Комсомольское ш., 7Б",
+   "координаты": [
+    43.922012,
+    56.300711
+   ],
+   "рейтинг": 4.5,
+   "оценок": 347,
+   "отзывов": 167,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://likenew52.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 214-35-35",
+    "8 (800) 350-61-02"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "registration_inspection",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/layk_nyu/31275034710/"
+  },
+  {
+   "id": "242444121136",
+   "название": "Агат, Hongqi",
+   "seoname": "agat_hongqi",
+   "адрес": "Казанское ш., 1А",
+   "координаты": [
+    44.077151,
+    56.298057
+   ],
+   "рейтинг": 5,
+   "оценок": 250,
+   "отзывов": 117,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://hongqi-agat.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-24-65"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agat_hongqi/242444121136/"
+  },
+  {
+   "id": "5724125738",
+   "название": "Gac, Автосалон152",
+   "seoname": "gac_avtosalon152",
+   "адрес": "Московское ш., 52Е, корп. 1",
+   "координаты": [
+    43.909263,
+    56.315505
+   ],
+   "рейтинг": 4.8,
+   "оценок": 245,
+   "отзывов": 116,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gac-nn-autosalon152.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 234-14-13"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gac_avtosalon152/5724125738/"
+  },
+  {
+   "id": "40154762599",
+   "название": "Jaecoo Нижегородец",
+   "seoname": "jaecoo_nizhegorodets",
+   "адрес": "ул. Надежды Сусловой, 28",
+   "координаты": [
+    44.046734,
+    56.303297
+   ],
+   "рейтинг": 5,
+   "оценок": 157,
+   "отзывов": 113,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jaecoo-nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 211-77-51"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_photopoi",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jaecoo_nizhegorodets/40154762599/"
+  },
+  {
+   "id": "121190583060",
+   "название": "Voyah Автолига, официальный дилер",
+   "seoname": "voyah_avtoliga_ofitsialny_diler",
+   "адрес": "Магистральная ул., 1, д. Афонино",
+   "координаты": [
+    44.090189,
+    56.268958
+   ],
+   "рейтинг": 4.4,
+   "оценок": 182,
+   "отзывов": 83,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://voyah-avtoliga.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-51-13",
+    "+7 (831) 266-68-15"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "electric car charging station",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voyah_avtoliga_ofitsialny_diler/121190583060/"
+  },
+  {
+   "id": "240904067325",
+   "название": "Нижегородец, Автомобили с пробегом",
+   "seoname": "nizhegorodets_avtomobili_s_probegom",
+   "адрес": "Комсомольское ш., 14А, корп. 1",
+   "координаты": [
+    43.900095,
+    56.309032
+   ],
+   "рейтинг": 0,
+   "оценок": 1861,
+   "отзывов": 1916,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.nnmotors.ru/cars/used"
+   ],
+   "телефоны": [
+    "+7 (831) 280-83-71"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/nizhegorodets_avtomobili_s_probegom/240904067325/"
+  },
+  {
+   "id": "240842632050",
+   "название": "Nordcross Интеравтоцентр",
+   "seoname": "nordcross_interavtotsentr",
+   "адрес": "Южное ш., 1",
+   "координаты": [
+    43.851737,
+    56.223044
+   ],
+   "рейтинг": 4.3,
+   "оценок": 4,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://interautonn.ru/avto/nordcross"
+   ],
+   "телефоны": [
+    "+7 (831) 200-91-95"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nordcross_interavtotsentr/240842632050/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "159539556583",
+   "название": "Авторитэйл Северный, ГАЗ",
+   "seoname": "avtoriteyl_severny_gaz",
+   "адрес": "просп. Ленина, 88Б, Нижний Новгород",
+   "координаты": [
+    43.904374,
+    56.258286
+   ],
+   "рейтинг": 4.4,
+   "оценок": 264,
+   "отзывов": 85,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tkcgazato.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 234-45-76",
+    "8 (800) 555-28-48",
+    "+7 (831) 253-93-63"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "пункт техосмотра",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adjusting_headlights",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "disable_captions",
+    "disable_photopoi",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoriteyl_severny_gaz/159539556583/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "56682757168",
+   "название": "Tenet Plus, БЦР Моторс",
+   "seoname": "tenet_plus_btsr_motors",
+   "адрес": "ул. Новикова-Прибоя, 2, Нижний Новгород",
+   "координаты": [
+    43.928803,
+    56.260063
+   ],
+   "рейтинг": 4.4,
+   "оценок": 8,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bcr-tenetplus.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-77-09"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tenet_plus_btsr_motors/56682757168/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "120523634426",
+   "название": "Чанган Центр БЦР Моторс",
+   "seoname": "changan_tsentr_btsr_motors",
+   "адрес": "ул. Новикова-Прибоя, 4К",
+   "координаты": [
+    43.927306,
+    56.260923
+   ],
+   "рейтинг": 5,
+   "оценок": 637,
+   "отзывов": 303,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sales.bcr-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-86-02"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_btsr_motors/120523634426/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "94007496348",
+   "название": "БЦР Моторс, Geely",
+   "seoname": "btsr_motors_geely",
+   "адрес": "ул. Новикова-Прибоя, 4",
+   "координаты": [
+    43.928276,
+    56.260384
+   ],
+   "рейтинг": 5,
+   "оценок": 684,
+   "отзывов": 395,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-bcr.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-16-72"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/btsr_motors_geely/94007496348/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "1064177733",
+   "название": "Интеравтоцентр",
+   "seoname": "interavtotsentr",
+   "адрес": "Южное ш., 1",
+   "координаты": [
+    43.851145,
+    56.223003
+   ],
+   "рейтинг": 4.7,
+   "оценок": 853,
+   "отзывов": 357,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nnov-belgee.ru/",
+    "http://comautonn.ru/",
+    "https://geely-nnov.ru/",
+    "https://interautonn.ru/avto/nordcross"
+   ],
+   "телефоны": [
+    "+7 (831) 429-20-20",
+    "+7 (831) 294-46-22"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "страхование автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/interavtotsentr/1064177733/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "8686727140",
+   "название": "АвтоКлаус Центр Volkswagen",
+   "seoname": "avtoklaus_tsentr_volkswagen",
+   "адрес": "просп. Ленина, 93Д, Нижний Новгород",
+   "координаты": [
+    43.903853,
+    56.263319
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1650,
+   "отзывов": 490,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoklaus-nn.ru/",
+    "https://vw-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 220-04-00"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "грузовые автомобили, грузовая техника"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "mobile_tire_service",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoklaus_tsentr_volkswagen/8686727140/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "206382214125",
+   "название": "Нижний центр Авто",
+   "seoname": "nizhniy_tsentr_avto",
+   "адрес": "просп. Гагарина, 123, стр. 1, Нижний Новгород",
+   "координаты": [
+    43.940476,
+    56.226086
+   ],
+   "рейтинг": 5,
+   "оценок": 235,
+   "отзывов": 203,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://nn-center-auto.site/"
+   ],
+   "телефоны": [
+    "+7 (831) 280-44-65"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nizhniy_tsentr_avto/206382214125/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "234944865629",
+   "название": "Best Avto",
+   "seoname": "best_avto",
+   "адрес": "ул. Аркадия Гайдара, 73",
+   "координаты": [
+    43.835621,
+    56.216314
+   ],
+   "рейтинг": 4,
+   "оценок": 55,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (930) 817-78-88",
+    "+7 (920) 051-47-77"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/best_avto/234944865629/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "194533627493",
+   "название": "Автомобильное Решение",
+   "seoname": "avtomobilnoye_resheniye",
+   "адрес": "Борская ул., 17Ф, жилой район Северный",
+   "координаты": [
+    43.891513,
+    56.259553
+   ],
+   "рейтинг": 4.9,
+   "оценок": 31,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://auto-reshenie.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 234-04-33",
+    "+7 (831) 410-88-80"
+   ],
+   "часы": "пн-пт 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "грузовые автомобили, грузовая техника"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "delivery",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomobilnoye_resheniye/194533627493/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "13320916781",
+   "название": "Автотрейд",
+   "seoname": "avtotreyd",
+   "адрес": "Нижний Новгород, улица Переходникова",
+   "координаты": [
+    43.903321,
+    56.263484
+   ],
+   "рейтинг": 4.3,
+   "оценок": 70,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autotrade152.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (999) 393-94-39"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "loan_processing",
+    "parking_disabled",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotreyd/13320916781/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "1072274692",
+   "название": "Belgee Интеравтоцентр",
+   "seoname": "belgee_interavtotsentr",
+   "адрес": "Южное ш., 1",
+   "координаты": [
+    43.851399,
+    56.223006
+   ],
+   "рейтинг": 4.8,
+   "оценок": 131,
+   "отзывов": 56,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nnov-belgee.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 200-91-75",
+    "+7 (831) 266-91-56"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/belgee_interavtotsentr/1072274692/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "4092411495",
+   "название": "БЦР Моторс, Lada",
+   "seoname": "btsr_motors_lada",
+   "адрес": "ул. Новикова-Прибоя, 2, Нижний Новгород",
+   "координаты": [
+    43.928677,
+    56.259818
+   ],
+   "рейтинг": 4.4,
+   "оценок": 2788,
+   "отзывов": 1229,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bcr.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 235-24-59",
+    "+7 (831) 282-75-14"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/btsr_motors_lada/4092411495/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "165221806658",
+   "название": "Прайм-Авто",
+   "seoname": "praym_avto",
+   "адрес": "ул. Юлиуса Фучика, 8А",
+   "координаты": [
+    43.871913,
+    56.238122
+   ],
+   "рейтинг": 4.9,
+   "оценок": 66,
+   "отзывов": 53,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (996) 002-65-75",
+    "+7 (960) 173-44-02"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автосалон",
+    "кредитный брокер"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "gift_certificate",
+    "loan_processing",
+    "motopodbor",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/praym_avto/165221806658/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "133693265339",
+   "название": "Gac БЦР Моторс",
+   "seoname": "gac_btsr_motors",
+   "адрес": "ул. Новикова-Прибоя, 4В",
+   "координаты": [
+    43.927914,
+    56.260592
+   ],
+   "рейтинг": 4.8,
+   "оценок": 179,
+   "отзывов": 72,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gac-nn-bcr.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 262-15-48"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gac_btsr_motors/133693265339/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "5899027522",
+   "название": "Knewstar Интеравтоцентр",
+   "seoname": "knewstar_interavtotsentr",
+   "адрес": "Южное ш., 1",
+   "координаты": [
+    43.851353,
+    56.222983
+   ],
+   "рейтинг": 4.2,
+   "оценок": 14,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 429-20-20"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/knewstar_interavtotsentr/5899027522/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "129336394914",
+   "название": "Kia БЦР Моторс",
+   "seoname": "kia_btsr_motors",
+   "адрес": "ул. Новикова-Прибоя, 4",
+   "координаты": [
+    43.928138,
+    56.260501
+   ],
+   "рейтинг": 4.7,
+   "оценок": 2520,
+   "отзывов": 883,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 282-69-51"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_btsr_motors/129336394914/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "164376990544",
+   "название": "Злата, Skoda",
+   "seoname": "zlata_skoda",
+   "адрес": "просп. Ленина, 93Г",
+   "координаты": [
+    43.912093,
+    56.267787
+   ],
+   "рейтинг": 4.5,
+   "оценок": 1024,
+   "отзывов": 367,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.zlata-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 200-92-06",
+    "+7 (831) 233-11-11"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zlata_skoda/164376990544/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "145159754121",
+   "название": "Ncar",
+   "seoname": "ncar",
+   "адрес": "Кировская ул., 110",
+   "координаты": [
+    43.901756,
+    56.278434
+   ],
+   "рейтинг": 2.9,
+   "оценок": 25,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ncar/145159754121/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "109804327679",
+   "название": "Nordcross БЦР Моторс",
+   "seoname": "nordcross_btsr_motors",
+   "адрес": "ул. Новикова-Прибоя, 4",
+   "координаты": [
+    43.927992,
+    56.260209
+   ],
+   "рейтинг": 4,
+   "оценок": 9,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://nordcross-bcr.ru/?calltouch_tm=yd_c%3A%7Bcampaign_id%7D_gb%3A%7Bgbid%7D_ad%3A%7Bad_id%7D_ph%3A%7Bphrase_id%7D_st%3A%7Bsource_type%7D_pt%3A%7Bposition_type%7D_p%3A%7Bposition%7D_s%3A%7Bsource%7D_dt%3A%7Bdevice_type%7D_reg%3A%7Bregion_id%7D_ret%3A%7Bretargeting_id%7D_apt%3A%7Baddphrasestext%7D"
+   ],
+   "телефоны": [
+    "+7 (831) 266-23-82"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "elevator_wheelchair_accessible",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nordcross_btsr_motors/109804327679/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "2298985637",
+   "название": "Xcite БЦР Моторс",
+   "seoname": "xcite_btsr_motors",
+   "адрес": "ул. Новикова-Прибоя, 2",
+   "координаты": [
+    43.929044,
+    56.259931
+   ],
+   "рейтинг": 3.9,
+   "оценок": 13,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 266-75-73"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/xcite_btsr_motors/2298985637/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "10484452971",
+   "название": "Злата",
+   "seoname": "zlata",
+   "адрес": "просп. Ленина, 93Г",
+   "координаты": [
+    43.91227,
+    56.267902
+   ],
+   "рейтинг": 4.7,
+   "оценок": 36,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 233-11-11"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zlata/10484452971/",
+   "найдено_по": "автосалон Автозаводский район"
+  },
+  {
+   "id": "206818889170",
+   "название": "Первый Коммерческий",
+   "seoname": "pervy_kommercheskiy",
+   "адрес": "Московское ш., 302, корп. 5, стр. 2",
+   "координаты": [
+    43.824727,
+    56.311452
+   ],
+   "рейтинг": 4.2,
+   "оценок": 213,
+   "отзывов": 95,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://первыйкоммерческий.рф/"
+   ],
+   "телефоны": [
+    "+7 (920) 009-00-75"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pervy_kommercheskiy/206818889170/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "159238641480",
+   "название": "Changan центр Автолига",
+   "seoname": "changan_tsentr_avtoliga",
+   "адрес": "Московское ш., 302Г",
+   "координаты": [
+    43.821387,
+    56.311322
+   ],
+   "рейтинг": 4.8,
+   "оценок": 812,
+   "отзывов": 305,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sales.avtoliga-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-20-72",
+    "+7 (831) 288-43-61"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "self_car_service",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_avtoliga/159238641480/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "24862301530",
+   "название": "Нижегородец Москвич",
+   "seoname": "nizhegorodets_moskvich",
+   "адрес": "Комсомольское ш., 14А",
+   "координаты": [
+    43.898925,
+    56.309504
+   ],
+   "рейтинг": 5,
+   "оценок": 582,
+   "отзывов": 339,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://moskvich-nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-71-93"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nizhegorodets_moskvich/24862301530/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "1346558540",
+   "название": "Автосалон № 1",
+   "seoname": "avtosalon_1",
+   "адрес": "Нижний Новгород, 51",
+   "координаты": [
+    43.81643,
+    56.312092
+   ],
+   "рейтинг": 4.4,
+   "оценок": 1445,
+   "отзывов": 858,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autosalonn1.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 059-76-57"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosalon_1/1346558540/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "38274869957",
+   "название": "Авторитэйл, ГАЗ",
+   "seoname": "avtoriteyl_gaz",
+   "адрес": "Московское ш., 294Д",
+   "координаты": [
+    43.846826,
+    56.312444
+   ],
+   "рейтинг": 4.7,
+   "оценок": 244,
+   "отзывов": 109,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoretail.ru/niz?city_id=niz",
+    "http://52.autoretail.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 300-62-78"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "грузовые автомобили, грузовая техника",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "repairs",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoriteyl_gaz/38274869957/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "76965375210",
+   "название": "Агат, авто с пробегом",
+   "seoname": "agat_avto_s_probegom",
+   "адрес": "Комсомольское ш., 7В",
+   "координаты": [
+    43.923207,
+    56.301189
+   ],
+   "рейтинг": 5,
+   "оценок": 81,
+   "отзывов": 67,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://agat.lada.ru/?dealer=43995756"
+   ],
+   "телефоны": [
+    "+7 (831) 288-37-35"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "disable_captions",
+    "disable_photopoi",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agat_avto_s_probegom/76965375210/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "31428862925",
+   "название": "Агат, Haval Pro",
+   "seoname": "agat_haval_pro",
+   "адрес": "Московское ш., 294Г",
+   "координаты": [
+    43.847335,
+    56.312045
+   ],
+   "рейтинг": 4.9,
+   "оценок": 404,
+   "отзывов": 165,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://agat-havalpro.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-94-21"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agat_haval_pro/31428862925/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "1237974134",
+   "название": "Луидор-Авто, Volkswagen",
+   "seoname": "luidor_avto_volkswagen",
+   "адрес": "Московское ш., 86А",
+   "координаты": [
+    43.899812,
+    56.313679
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1552,
+   "отзывов": 554,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://luidor-motors.ru/",
+    "https://crafterbus.vw-luidor.ru/",
+    "https://vans.vw-luidor.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 281-87-63",
+    "+7 (831) 214-01-27",
+    "+7 (831) 215-03-98"
+   ],
+   "часы": "пн-пт 07:50–20:00; сб,вс 07:50–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "removing_dents_without_painting",
+    "sandblasting",
+    "scratch_repair",
+    "service_maintenance",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luidor_avto_volkswagen/1237974134/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "1076087572",
+   "название": "Global cars",
+   "seoname": "global_cars",
+   "адрес": "Мещерский бул., 3, корп. 1, жилой район Мещерское Озеро",
+   "координаты": [
+    43.94338,
+    56.334738
+   ],
+   "рейтинг": 4.3,
+   "оценок": 72,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://global-cars.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 277-79-55"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/global_cars/1076087572/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "42456587389",
+   "название": "Нижегородец Москвич",
+   "seoname": "nizhegorodets_moskvich",
+   "адрес": "Московское ш., 34",
+   "координаты": [
+    43.928006,
+    56.319083
+   ],
+   "рейтинг": 0,
+   "оценок": 245,
+   "отзывов": 209,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.nnmotors.ru/",
+    "https://moskvich.nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-71-93"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/nizhegorodets_moskvich/42456587389/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "8005151233",
+   "название": "Bestune центр",
+   "seoname": "bestune_tsentr",
+   "адрес": "Комсомольское ш., 5",
+   "координаты": [
+    43.9019,
+    56.309034
+   ],
+   "рейтинг": 4.3,
+   "оценок": 54,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://bestune-center.ru/",
+    "https://jetta-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 217-17-07"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bestune_tsentr/8005151233/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "43659333882",
+   "название": "Нижегородский Трейд-ИН центр",
+   "seoname": "nizhegorodskiy_treyd_in_tsentr",
+   "адрес": "Московское ш., 352А, корп. 4",
+   "координаты": [
+    43.797892,
+    56.310193
+   ],
+   "рейтинг": 4.2,
+   "оценок": 182,
+   "отзывов": 55,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nizhegorodskiy_treyd_in_tsentr/43659333882/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "181942694895",
+   "название": "Нижегородец, Baic",
+   "seoname": "nizhegorodets_baic",
+   "адрес": "Комсомольское ш., 14А, Нижний Новгород",
+   "координаты": [
+    43.899733,
+    56.309354
+   ],
+   "рейтинг": 4.7,
+   "оценок": 158,
+   "отзывов": 56,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nnmotors-baic.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 288-35-09"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nizhegorodets_baic/181942694895/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "1038819096",
+   "название": "Компания центр - Официальный дилер Kia",
+   "seoname": "kompaniya_tsentr_ofitsialny_diler_kia",
+   "адрес": "Комсомольское ш., 5",
+   "координаты": [
+    43.901691,
+    56.309192
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1668,
+   "отзывов": 546,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kia-na-komsomolskom.ru/",
+    "https://kia-na-komsomolskom.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 234-39-21"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "diesel_service",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "motorcycle_tire_repair",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kompaniya_tsentr_ofitsialny_diler_kia/1038819096/",
+   "найдено_по": "автосалон Канавинский район"
+  },
+  {
+   "id": "123800379288",
+   "название": "Jeland, Нижегородец",
+   "seoname": "jeland_nizhegorodets",
+   "адрес": "Комсомольское ш., 14А",
+   "координаты": [
+    43.898925,
+    56.309504
+   ],
+   "рейтинг": 5,
+   "оценок": 64,
+   "отзывов": 63,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jeland-nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 242-96-67"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "disable_photopoi",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jeland_nizhegorodets/123800379288/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "64224063853",
+   "название": "Omoda Нижегородец",
+   "seoname": "omoda_nizhegorodets",
+   "адрес": "Комсомольское ш., 14А, Нижний Новгород",
+   "координаты": [
+    43.899494,
+    56.309507
+   ],
+   "рейтинг": 5,
+   "оценок": 756,
+   "отзывов": 575,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omoda-nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-79-71"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "home_visit",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "self_car_service",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_nizhegorodets/64224063853/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "113897517991",
+   "название": "Нижегородец, авто с пробегом",
+   "seoname": "nizhegorodets_avto_s_probegom",
+   "адрес": "Комсомольское ш., 14А, корп. 1, Нижний Новгород",
+   "координаты": [
+    43.900081,
+    56.30902
+   ],
+   "рейтинг": 5,
+   "оценок": 79,
+   "отзывов": 76,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 266-79-98"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "delivery",
+    "diesel_service",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_dsg",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nizhegorodets_avto_s_probegom/113897517991/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "33345133975",
+   "название": "Fresh",
+   "seoname": "fresh",
+   "адрес": "Удмуртская ул., 4В",
+   "координаты": [
+    43.882765,
+    56.291289
+   ],
+   "рейтинг": 5,
+   "оценок": 139,
+   "отзывов": 123,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://52.freshauto.ru/",
+    "https://freshauto.ru/dealers/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-91-87",
+    "+7 (495) 187-15-80"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоподбор"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "payment_by_credit_card",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fresh/33345133975/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "100825470159",
+   "название": "Evolute, Р-Центр",
+   "seoname": "evolute_r_tsentr",
+   "адрес": "Комсомольское ш., 12",
+   "координаты": [
+    43.91794,
+    56.302832
+   ],
+   "рейтинг": 4.7,
+   "оценок": 90,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://evolute-rcentr.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 215-32-20"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/evolute_r_tsentr/100825470159/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "215569401098",
+   "название": "JETOUR, Агат",
+   "seoname": "jetour_agat",
+   "адрес": "Комсомольское ш., 7Г",
+   "координаты": [
+    43.922569,
+    56.301609
+   ],
+   "рейтинг": 5,
+   "оценок": 258,
+   "отзывов": 156,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://jetour-agat-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 242-97-76"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jetour_agat/215569401098/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "38628208787",
+   "название": "Belgee БЦР Моторс",
+   "seoname": "belgee_btsr_motors",
+   "адрес": "ул. Новикова-Прибоя, 4, Нижний Новгород",
+   "координаты": [
+    43.927977,
+    56.260398
+   ],
+   "рейтинг": 4.9,
+   "оценок": 224,
+   "отзывов": 81,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://belgee-bcr.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 282-76-83"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "preliminary_registration",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/belgee_btsr_motors/38628208787/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "175603017501",
+   "название": "Злата 4х4",
+   "seoname": "zlata_4kh4",
+   "адрес": "просп. Ленина, 93Г",
+   "координаты": [
+    43.912379,
+    56.268206
+   ],
+   "рейтинг": 4.4,
+   "оценок": 162,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://uaznn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 233-01-11",
+    "+7 (831) 233-01-11"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zlata_4kh4/175603017501/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "204141289919",
+   "название": "Автосалон",
+   "seoname": "avtosalon",
+   "адрес": "Деревообделочная ул., 2",
+   "координаты": [
+    43.947798,
+    56.301003
+   ],
+   "рейтинг": 4,
+   "оценок": 6,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (910) 140-77-75",
+    "+7 (831) 291-70-07"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosalon/204141289919/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "114595350000",
+   "название": "Jac Motors",
+   "seoname": "jac_motors",
+   "адрес": "Комсомольское ш., 12",
+   "координаты": [
+    43.917659,
+    56.303122
+   ],
+   "рейтинг": 4.4,
+   "оценок": 260,
+   "отзывов": 94,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://jac-nn.ru/",
+    "https://jac-rcentr.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 215-22-55",
+    "+7 (930) 273-04-74"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jac_motors/114595350000/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "233079632724",
+   "название": "ТСС Авто",
+   "seoname": "tss_avto",
+   "адрес": "Удмуртская ул., 4В, Нижний Новгород",
+   "координаты": [
+    43.883225,
+    56.291609
+   ],
+   "рейтинг": 4.7,
+   "оценок": 192,
+   "отзывов": 78,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://tssauto.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 500-60-90",
+    "+7 (831) 257-60-50"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tss_avto/233079632724/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "225368698991",
+   "название": "УАЗцентр НН",
+   "seoname": "uaztsentr_nn",
+   "адрес": "Комсомольское ш., 12",
+   "координаты": [
+    43.917961,
+    56.302832
+   ],
+   "рейтинг": 3,
+   "оценок": 36,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://uazcenter-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 215-21-60"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/uaztsentr_nn/225368698991/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "140315030898",
+   "название": "OMODA Автолига на Московском",
+   "seoname": "omoda_avtoliga_na_moskovskom",
+   "адрес": "Московское ш., 243",
+   "координаты": [
+    43.801724,
+    56.311451
+   ],
+   "рейтинг": 4.8,
+   "оценок": 94,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omoda-avtoliga.ru/",
+    "https://omoda.avtoliga-group.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 288-44-67"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_avtoliga_na_moskovskom/140315030898/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "56746789572",
+   "название": "Belgee Автолига",
+   "seoname": "belgee_avtoliga",
+   "адрес": "Московское ш., 247",
+   "координаты": [
+    43.791292,
+    56.310977
+   ],
+   "рейтинг": 5,
+   "оценок": 176,
+   "отзывов": 156,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://belgee.avtoliga-group.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-00-45"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "electric car charging station",
+    "guarantee",
+    "loan_processing",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/belgee_avtoliga/56746789572/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "47080027224",
+   "название": "Tenet Автолига на Московском",
+   "seoname": "tenet_avtoliga_na_moskovskom",
+   "адрес": "Московское ш., 243",
+   "координаты": [
+    43.801796,
+    56.311402
+   ],
+   "рейтинг": 4.6,
+   "оценок": 33,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenet-avtoliga.ru/",
+    "https://chery.avtoliga-group.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 262-95-48"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tenet_avtoliga_na_moskovskom/47080027224/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "242012196612",
+   "название": "Jaecoo Автолига на Московском",
+   "seoname": "jaecoo_avtoliga_na_moskovskom",
+   "адрес": "Московское ш., 243",
+   "координаты": [
+    43.801779,
+    56.311457
+   ],
+   "рейтинг": 4.5,
+   "оценок": 49,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jaecoo-avtoliga.ru/",
+    "https://jaecoo.avtoliga-group.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 288-45-06"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jaecoo_avtoliga_na_moskovskom/242012196612/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "141927069672",
+   "название": "Voyah Плаза",
+   "seoname": "voyah_plaza",
+   "адрес": "Сормовское ш., 11А",
+   "координаты": [
+    43.923443,
+    56.322332
+   ],
+   "рейтинг": 4.1,
+   "оценок": 11,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://voyah-plaza-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 282-10-10"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voyah_plaza/141927069672/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "53487799986",
+   "название": "Hongqi Автолига",
+   "seoname": "hongqi_avtoliga",
+   "адрес": "Московское ш., 247",
+   "координаты": [
+    43.791277,
+    56.311255
+   ],
+   "рейтинг": 4.8,
+   "оценок": 25,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://autoliga.hongqi.ru/",
+    "https://avtoliga-hongqi.ru/",
+    "http://avtoliga-group.ru/brand/hongqi"
+   ],
+   "телефоны": [
+    "+7 (831) 266-89-91",
+    "+7 (831) 266-74-72"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "payment_by_credit_card",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/hongqi_avtoliga/53487799986/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "61713640341",
+   "название": "Next",
+   "seoname": "next",
+   "адрес": "Московское ш., 356",
+   "координаты": [
+    43.758076,
+    56.308796
+   ],
+   "рейтинг": 4.2,
+   "оценок": 93,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (920) 023-60-00"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/next/61713640341/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "148303422546",
+   "название": "SV-Auto",
+   "seoname": "sv_auto",
+   "адрес": "Московское ш., 304А, корп. 4",
+   "координаты": [
+    43.814499,
+    56.312087
+   ],
+   "рейтинг": 4.8,
+   "оценок": 63,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autovikup152.ru/"
+   ],
+   "телефоны": [
+    "+7 (929) 053-77-07",
+    "+7 (831) 423-77-07"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–19:00; вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Выкуп автомобилей",
+    "автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "brokencars",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sv_auto/148303422546/",
+   "найдено_по": "автосалон Московский район"
+  },
+  {
+   "id": "171504209348",
+   "название": "Азия Экспресс Авто",
+   "seoname": "aziya_ekspress_avto",
+   "адрес": "Верхне-Печёрская ул., 7Б",
+   "координаты": [
+    44.067613,
+    56.28831
+   ],
+   "рейтинг": 5,
+   "оценок": 80,
+   "отзывов": 76,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://asiaexpressauto.ru/",
+    "https://msng.link/o?asia_express_auto+=ig"
+   ],
+   "телефоны": [
+    "+7 (987) 748-45-55"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автоподбор"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aziya_ekspress_avto/171504209348/",
+   "найдено_по": "автосалон Нижегородский район"
+  },
+  {
+   "id": "195364171831",
+   "название": "EXEED центр Нижегородец",
+   "seoname": "exeed_tsentr_nizhegorodets",
+   "адрес": "ул. Надежды Сусловой, 28",
+   "координаты": [
+    44.046813,
+    56.303293
+   ],
+   "рейтинг": 5,
+   "оценок": 827,
+   "отзывов": 494,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://esteo.nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 231-36-40",
+    "+7 (831) 266-70-26"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_photopoi",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/exeed_tsentr_nizhegorodets/195364171831/",
+   "найдено_по": "автосалон Нижегородский район"
+  },
+  {
+   "id": "47064746268",
+   "название": "Агат, Lada",
+   "seoname": "agat_lada",
+   "адрес": "ул. Родионова, 203",
+   "координаты": [
+    44.078879,
+    56.299587
+   ],
+   "рейтинг": 4.8,
+   "оценок": 997,
+   "отзывов": 496,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://agat.lada.ru/?dealer=588901354"
+   ],
+   "телефоны": [
+    "+7 (831) 288-34-93"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agat_lada/47064746268/",
+   "найдено_по": "автосалон Нижегородский район"
+  },
+  {
+   "id": "1062699153",
+   "название": "Автомобили Баварии, BMW",
+   "seoname": "avtomobili_bavarii_bmw",
+   "адрес": "ул. Бринского, 12",
+   "координаты": [
+    44.063165,
+    56.300315
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1388,
+   "отзывов": 431,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bmw-abnn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 200-91-40",
+    "+7 (831) 266-82-75"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "bumper_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "sandblasting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomobili_bavarii_bmw/1062699153/",
+   "найдено_по": "автосалон Нижегородский район"
+  },
+  {
+   "id": "1091385811",
+   "название": "Джейкар официальный дилер Mazda",
+   "seoname": "dzheykar_ofitsialny_diler_mazda",
+   "адрес": "ул. Бринского, 12А",
+   "координаты": [
+    44.061959,
+    56.300411
+   ],
+   "рейтинг": 5,
+   "оценок": 1516,
+   "отзывов": 638,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.mazdann.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 282-68-32"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dzheykar_ofitsialny_diler_mazda/1091385811/",
+   "найдено_по": "автосалон Нижегородский район"
+  },
+  {
+   "id": "1031441609",
+   "название": "Артан Моторс",
+   "seoname": "artan_motors",
+   "адрес": "ул. Бринского, 17",
+   "координаты": [
+    44.058612,
+    56.300787
+   ],
+   "рейтинг": 4.4,
+   "оценок": 727,
+   "отзывов": 242,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://vw-artan.ru/",
+    "http://dongfeng-artan.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 422-02-20"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/artan_motors/1031441609/",
+   "найдено_по": "автосалон Нижегородский район"
+  },
+  {
+   "id": "31820510682",
+   "название": "Geely Агат в Афонино",
+   "seoname": "geely_agat_v_afonino",
+   "адрес": "Зелёная ул., 70, д. Афонино",
+   "координаты": [
+    44.087069,
+    56.272914
+   ],
+   "рейтинг": 4.8,
+   "оценок": 861,
+   "отзывов": 377,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-agat52.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-74-39"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_agat_v_afonino/31820510682/",
+   "найдено_по": "автосалон Нижегородский район"
+  },
+  {
+   "id": "203495770283",
+   "название": "БорисХоф Печерская",
+   "seoname": "boriskhof_pecherskaya",
+   "адрес": "Большая Печёрская ул., 26",
+   "координаты": [
+    44.023759,
+    56.325499
+   ],
+   "рейтинг": 4.6,
+   "оценок": 76,
+   "отзывов": 65,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://used-cars.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 280-85-88"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/boriskhof_pecherskaya/203495770283/",
+   "найдено_по": "автосалон Нижегородский район"
+  },
+  {
+   "id": "105474527281",
+   "название": "Jac центр Нижегородец",
+   "seoname": "jac_tsentr_nizhegorodets",
+   "адрес": "ул. Ларина, 28Б",
+   "координаты": [
+    44.014703,
+    56.237097
+   ],
+   "рейтинг": 5,
+   "оценок": 212,
+   "отзывов": 198,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jac.nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 288-43-28"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jac_tsentr_nizhegorodets/105474527281/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "203729112307",
+   "название": "Нижегородец, Tenet",
+   "seoname": "nizhegorodets_tenet",
+   "адрес": "ул. Ларина, 28Б",
+   "координаты": [
+    44.015126,
+    56.23703
+   ],
+   "рейтинг": 4.9,
+   "оценок": 34,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://clck.ru/3WeNFt"
+   ],
+   "телефоны": [
+    "+7 (831) 280-31-24"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "delivery",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nizhegorodets_tenet/203729112307/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "1781620959",
+   "название": "Агат, автомобили с пробегом",
+   "seoname": "agat_avtomobili_s_probegom",
+   "адрес": "ул. Ларина, 23Г",
+   "координаты": [
+    44.018024,
+    56.23529
+   ],
+   "рейтинг": 4.6,
+   "оценок": 440,
+   "отзывов": 208,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://агат.рф/"
+   ],
+   "телефоны": [
+    "+7 (831) 282-66-37"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "disable_captions",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agat_avtomobili_s_probegom/1781620959/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "1038322630",
+   "название": "Луидор Трейд Suzuki",
+   "seoname": "luidor_treyd_suzuki",
+   "адрес": "ул. Ларина, 30А",
+   "координаты": [
+    44.01602,
+    56.237382
+   ],
+   "рейтинг": 4.6,
+   "оценок": 332,
+   "отзывов": 107,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sale.suzukinn.ru/avto-dnia"
+   ],
+   "телефоны": [
+    "+7 (831) 422-22-22"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luidor_treyd_suzuki/1038322630/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "193516574049",
+   "название": "АвтоДромиум",
+   "seoname": "avtodromium",
+   "адрес": "просп. Гагарина, 65Б",
+   "координаты": [
+    43.962374,
+    56.245383
+   ],
+   "рейтинг": 5,
+   "оценок": 112,
+   "отзывов": 102,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "авторынок",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "brokencars",
+    "cafe",
+    "call_button",
+    "car_park",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodromium/193516574049/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "70273403209",
+   "название": "Omoda Агат на Ларина",
+   "seoname": "omoda_agat_na_larina",
+   "адрес": "ул. Ларина, 23Г",
+   "координаты": [
+    44.018042,
+    56.235405
+   ],
+   "рейтинг": 5,
+   "оценок": 452,
+   "отзывов": 191,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omoda-agat-nn.ru/",
+    "https://omoda-jaecoo-agat-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 288-32-78"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_agat_na_larina/70273403209/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "55398173713",
+   "название": "Baic Луидор",
+   "seoname": "baic_luidor",
+   "адрес": "ул. Ларина, 30",
+   "координаты": [
+    44.017299,
+    56.236878
+   ],
+   "рейтинг": 4.7,
+   "оценок": 50,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 425-80-00"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/baic_luidor/55398173713/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "100769095943",
+   "название": "Артан-Jetour",
+   "seoname": "artan_jetour",
+   "адрес": "просп. Гагарина, 59А",
+   "координаты": [
+    43.965753,
+    56.247589
+   ],
+   "рейтинг": 4.4,
+   "оценок": 1134,
+   "отзывов": 399,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jetour-artan.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 296-00-96"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/artan_jetour/100769095943/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "1008204350",
+   "название": "Луидор",
+   "seoname": "luidor",
+   "адрес": "ул. Ларина, 18, корп. 1",
+   "координаты": [
+    43.99904,
+    56.239535
+   ],
+   "рейтинг": 4.5,
+   "оценок": 1848,
+   "отзывов": 610,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.luidorauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 275-96-01"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luidor/1008204350/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "105376382451",
+   "название": "Qing Long Auto",
+   "seoname": "qing_long_auto",
+   "адрес": "просп. Гагарина, 35, корп. 1, Нижний Новгород",
+   "координаты": [
+    43.979739,
+    56.286655
+   ],
+   "рейтинг": 4.8,
+   "оценок": 43,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://lazure-dragon.ru/"
+   ],
+   "телефоны": [
+    "+7 (920) 040-09-00"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/qing_long_auto/105376382451/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "82853166104",
+   "название": "Jaecoo Агат на Ларина",
+   "seoname": "jaecoo_agat_na_larina",
+   "адрес": "ул. Ларина, 23Г",
+   "координаты": [
+    44.017759,
+    56.23544
+   ],
+   "рейтинг": 4.7,
+   "оценок": 147,
+   "отзывов": 60,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jaecoo-agat-nn.ru/",
+    "http://omoda-jaecoo-agat-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 420-41-17"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jaecoo_agat_na_larina/82853166104/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "89211336326",
+   "название": "Луидор-Эксперт",
+   "seoname": "luidor_ekspert",
+   "адрес": "ул. Ларина, 30",
+   "координаты": [
+    44.018763,
+    56.236767
+   ],
+   "рейтинг": 4.7,
+   "оценок": 475,
+   "отзывов": 196,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://luidor-expert.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 281-80-07",
+    "8 (800) 200-24-02"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luidor_ekspert/89211336326/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "1256319749",
+   "название": "Kia Нижегородец",
+   "seoname": "kia_nizhegorodets",
+   "адрес": "ул. Ларина, 28Б",
+   "координаты": [
+    44.014605,
+    56.237085
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1801,
+   "отзывов": 916,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nnmotors-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 280-99-74",
+    "+7 (831) 275-99-11"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_nizhegorodets/1256319749/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "192887967259",
+   "название": "Авто материк",
+   "seoname": "avto_materik",
+   "адрес": "ул. Ларина, 7",
+   "координаты": [
+    43.974826,
+    56.241772
+   ],
+   "рейтинг": 4,
+   "оценок": 44,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (969) 600-05-00"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоподбор",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "brokencars",
+    "cafe",
+    "car_park",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_materik/192887967259/",
+   "найдено_по": "автосалон Приокский район"
+  },
+  {
+   "id": "121658354338",
+   "название": "Jeland, Нижегородец",
+   "seoname": "jeland_nizhegorodets",
+   "адрес": "ул. Надежды Сусловой, 28",
+   "координаты": [
+    44.04677,
+    56.303292
+   ],
+   "рейтинг": 4.3,
+   "оценок": 4,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jeland-nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 275-99-11"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "disable_photopoi",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jeland_nizhegorodets/121658354338/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "160696400754",
+   "название": "Агат, Solaris",
+   "seoname": "agat_solaris",
+   "адрес": "ул. Родионова, 203",
+   "координаты": [
+    44.078899,
+    56.299401
+   ],
+   "рейтинг": 4.6,
+   "оценок": 60,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://solaris-agat-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-01-20"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agat_solaris/160696400754/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "66744958027",
+   "название": "Агат, автомобили с пробегом",
+   "seoname": "agat_avtomobili_s_probegom",
+   "адрес": "Магистральная ул., 137Б/1, д. Афонино",
+   "координаты": [
+    44.09622,
+    56.254629
+   ],
+   "рейтинг": 5,
+   "оценок": 518,
+   "отзывов": 334,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://агат.рф/"
+   ],
+   "телефоны": [
+    "+7 (831) 282-66-39"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "disable_captions",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agat_avtomobili_s_probegom/66744958027/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "133627462197",
+   "название": "БЦР Моторс, Avatr",
+   "seoname": "btsr_motors_avatr",
+   "адрес": "просп. Гагарина, 29Д",
+   "координаты": [
+    43.981184,
+    56.290584
+   ],
+   "рейтинг": 4.7,
+   "оценок": 27,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avatr-bcr.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-97-74"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/btsr_motors_avatr/133627462197/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "19011129382",
+   "название": "Esteo центр Нижегородец",
+   "seoname": "esteo_tsentr_nizhegorodets",
+   "адрес": "ул. Надежды Сусловой, 28, Нижний Новгород",
+   "координаты": [
+    44.04677,
+    56.303292
+   ],
+   "рейтинг": 4.4,
+   "оценок": 9,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://esteo.nnmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-93-58"
+   ],
+   "часы": "ежедневно, 07:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_photopoi",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/esteo_tsentr_nizhegorodets/19011129382/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "141639885266",
+   "название": "БЦР Моторс, Volga",
+   "seoname": "btsr_motors_volga",
+   "адрес": "Казанское ш., 6Б, Нижний Новгород",
+   "координаты": [
+    44.076073,
+    56.292792
+   ],
+   "рейтинг": 4.7,
+   "оценок": 17,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://volga-bcr.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 200-92-19"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "elevator_wheelchair_accessible",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/btsr_motors_volga/141639885266/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "96868977761",
+   "название": "JETOUR АГАТ на Казанском",
+   "seoname": "jetour_agat_na_kazanskom",
+   "адрес": "Казанское ш., 1А",
+   "координаты": [
+    44.077124,
+    56.298052
+   ],
+   "рейтинг": 5,
+   "оценок": 87,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jetour-agat-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-16-92"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jetour_agat_na_kazanskom/96868977761/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "205838010477",
+   "название": "Автосалон № 1",
+   "seoname": "avtosalon_1",
+   "адрес": "Магистральная ул., с107, д. Афонино",
+   "координаты": [
+    44.091959,
+    56.267872
+   ],
+   "рейтинг": 4.3,
+   "оценок": 350,
+   "отзывов": 179,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autosalonn3.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 358-00-03"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosalon_1/205838010477/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "76591557942",
+   "название": "Автомир",
+   "seoname": "avtomir",
+   "адрес": "Окский съезд, 8",
+   "координаты": [
+    43.978462,
+    56.305125
+   ],
+   "рейтинг": 4.2,
+   "оценок": 17,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir/76591557942/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "190774577175",
+   "название": "НН Импорт",
+   "seoname": "nn_import",
+   "адрес": "ул. Тимирязева, 9, корп. 2",
+   "координаты": [
+    43.999456,
+    56.307067
+   ],
+   "рейтинг": 4.3,
+   "оценок": 12,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nn-import.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 397-77-01"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nn_import/190774577175/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "107617454707",
+   "название": "Haval Pro, Автолига",
+   "seoname": "haval_pro_avtoliga",
+   "адрес": "ул. Бринского, 11",
+   "координаты": [
+    44.064404,
+    56.30037
+   ],
+   "рейтинг": 5,
+   "оценок": 138,
+   "отзывов": 107,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoliga-havalpro.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 288-34-91"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_pro_avtoliga/107617454707/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "75392281475",
+   "название": "Weilin Auto",
+   "seoname": "weilin_auto",
+   "адрес": "ул. Бринского, 8, Нижний Новгород",
+   "координаты": [
+    44.076431,
+    56.299305
+   ],
+   "рейтинг": 4.8,
+   "оценок": 20,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://weilin.ru/"
+   ],
+   "телефоны": [
+    "+7 (910) 123-88-85",
+    "+7 (910) 888-44-44"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/weilin_auto/75392281475/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "30470539660",
+   "название": "Агат, Belgee",
+   "seoname": "agat_belgee",
+   "адрес": "Магистральная ул., 137Б, д. Афонино",
+   "координаты": [
+    44.095819,
+    56.255715
+   ],
+   "рейтинг": 4.8,
+   "оценок": 184,
+   "отзывов": 94,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://belgee-agat52.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 242-99-45"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "disable_captions",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agat_belgee/30470539660/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "22058143754",
+   "название": "Выкуп авто",
+   "seoname": "vykup_avto",
+   "адрес": "ул. Ванеева, 110Д",
+   "координаты": [
+    44.037033,
+    56.288797
+   ],
+   "рейтинг": 5,
+   "оценок": 283,
+   "отзывов": 239,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avto-skupka-dorogo.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 423-01-10",
+    "+7 (920) 021-24-25"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Выкуп автомобилей",
+    "автосалон",
+    "автоэкспертиза, оценка автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "brokencars",
+    "car_park",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "street_entrance",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vykup_avto/22058143754/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "94659140165",
+   "название": "Агат, Москвич",
+   "seoname": "agat_moskvich",
+   "адрес": "ул. Родионова, 203",
+   "координаты": [
+    44.078912,
+    56.299606
+   ],
+   "рейтинг": 4.4,
+   "оценок": 11,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://агат.рф/",
+    "http://cars.moskvich-agat52.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 418-01-91"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agat_moskvich/94659140165/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "11406333409",
+   "название": "ИнтерАМИК",
+   "seoname": "interamik",
+   "адрес": "Торфяная ул., 31А, Нижний Новгород",
+   "координаты": [
+    43.818383,
+    56.347181
+   ],
+   "рейтинг": 4.2,
+   "оценок": 16,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://interamik.ru/"
+   ],
+   "телефоны": [
+    "+7 (920) 253-28-11",
+    "+7 (831) 413-28-11",
+    "+7 (495) 231-60-99"
+   ],
+   "часы": "ежедневно, 08:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "спецтехника и спецавтомобили"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "epassport_for_vehicles",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/interamik/11406333409/",
+   "найдено_по": "автосалон Сормовский район"
+  },
+  {
+   "id": "1808103500",
+   "название": "Субару центр Нижний Новгород",
+   "seoname": "subaru_tsentr_nizhniy_novgorod",
+   "адрес": "ул. Куйбышева, 30Б",
+   "координаты": [
+    43.919691,
+    56.333346
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1292,
+   "отзывов": 418,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://nnsubaru.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 280-95-02"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб 08:00–19:00; вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "детейлинг",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "cars_for_order",
+    "ceiling_cleaning",
+    "certified_service",
+    "diesel_service",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "ozonation",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "registration_inspection",
+    "removing_dents_without_painting",
+    "sandblasting",
+    "scratch_repair",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/subaru_tsentr_nizhniy_novgorod/1808103500/",
+   "найдено_по": "автосалон Сормовский район"
+  },
+  {
+   "id": "69029108658",
+   "название": "Первый Дилерский центр Suzuki",
+   "seoname": "pervy_dilerskiy_tsentr_suzuki",
+   "адрес": "ул. Куйбышева, 30Б, Нижний Новгород",
+   "координаты": [
+    43.920098,
+    56.333356
+   ],
+   "рейтинг": 4.7,
+   "оценок": 680,
+   "отзывов": 234,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://suzuki-nn.com/"
+   ],
+   "телефоны": [
+    "+7 (831) 220-08-33"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб 08:00–19:00; вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автомойка"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "access_by_agreement",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "cars_for_order",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "doubloons_loyalty_card",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "registration_inspection",
+    "sandblasting",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pervy_dilerskiy_tsentr_suzuki/69029108658/",
+   "найдено_по": "автосалон Сормовский район"
+  },
+  {
+   "id": "154780078564",
+   "название": "Автостайл",
+   "seoname": "avtostayl",
+   "адрес": "Бурнаковская ул., 51А",
+   "координаты": [
+    43.915624,
+    56.340365
+   ],
+   "рейтинг": 4,
+   "оценок": 13,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.autostyle-nnov.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 544-30-40"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автошкола",
+    "автосалон"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "toilet_for_disabled"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtostayl/154780078564/",
+   "найдено_по": "автосалон Сормовский район"
+  }
+ ],
+ "расширено_по_районам": true
+}

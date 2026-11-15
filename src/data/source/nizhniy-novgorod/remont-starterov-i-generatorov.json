@@ -1,0 +1,4426 @@
+{
+ "ниша": "Ремонт стартеров и генераторов",
+ "ключ": "remont-starterov-i-generatorov",
+ "запросы": [
+  "ремонт стартеров и генераторов"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт стартеров и генераторов": 6,
+  "ремонт стартеров и генераторов Автозаводский район": 20,
+  "ремонт стартеров и генераторов Канавинский район": 15,
+  "ремонт стартеров и генераторов Ленинский район": 10,
+  "ремонт стартеров и генераторов Московский район": 23,
+  "ремонт стартеров и генераторов Нижегородский район": 43,
+  "ремонт стартеров и генераторов Приокский район": 13,
+  "ремонт стартеров и генераторов Советский район": 27,
+  "ремонт стартеров и генераторов Сормовский район": 21
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Нижнему Новгороду (регион 47)",
+ "город": "nizhniy-novgorod",
+ "компании": [
+  {
+   "id": "134746687969",
+   "название": "Вольт-сервис",
+   "seoname": "volt_servis",
+   "адрес": "Заозёрная ул., 20",
+   "координаты": [
+    43.909444,
+    56.285638
+   ],
+   "рейтинг": 4.9,
+   "оценок": 302,
+   "отзывов": 182,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 053-86-46"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт стартеров и генераторов",
+    "заправка автокондиционеров",
+    "ремонт климатических систем"
+   ],
+   "признаки": [
+    "disable_captions",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/volt_servis/134746687969/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 87
+  },
+  {
+   "id": "200976723347",
+   "название": "Вольтаж",
+   "seoname": "voltazh",
+   "адрес": "ул. Кузьмина, 1А",
+   "координаты": [
+    43.836313,
+    56.348814
+   ],
+   "рейтинг": 4.7,
+   "оценок": 114,
+   "отзывов": 80,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nn.voltag.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 260-12-46",
+    "+7 (950) 343-00-92"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт стартеров и генераторов",
+    "заправка автокондиционеров",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voltazh/200976723347/",
+   "последний_отзыв": "2026-08-05",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 76
+  },
+  {
+   "id": "1131216460",
+   "название": "Elcar",
+   "seoname": "elcar",
+   "адрес": "Яблоневая ул., 28В",
+   "координаты": [
+    44.056787,
+    56.313792
+   ],
+   "рейтинг": 4.8,
+   "оценок": 119,
+   "отзывов": 63,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://elcar-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 602-47-61",
+    "+7 (831) 414-63-62",
+    "+7 (831) 414-47-61",
+    "+7 (903) 602-63-62"
+   ],
+   "часы": "пн-пт 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт электрооборудования",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/elcar/1131216460/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 84
+  },
+  {
+   "id": "62661309564",
+   "название": "Стартер'ок",
+   "seoname": "starter_ok",
+   "адрес": "Московское ш., 219А",
+   "координаты": [
+    43.859907,
+    56.313638
+   ],
+   "рейтинг": 4.8,
+   "оценок": 95,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (909) 296-30-40",
+    "+7 (831) 414-78-07"
+   ],
+   "часы": "пн-пт 09:00–16:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт стартеров и генераторов",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "pickup",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/starter_ok/62661309564/",
+   "последний_отзыв": "2026-06-16",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 38
+  },
+  {
+   "id": "75089395558",
+   "название": "Ремонт стартеров и генераторов",
+   "seoname": "remont_starterov_i_generatorov",
+   "адрес": "Суздальская ул., 70",
+   "координаты": [
+    43.939457,
+    56.252727
+   ],
+   "рейтинг": 4.9,
+   "оценок": 19,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://gensek.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (933) 412-32-68"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт стартеров и генераторов"
+   ],
+   "признаки": [
+    "certified_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remont_starterov_i_generatorov/75089395558/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 13
+  },
+  {
+   "id": "219658112659",
+   "название": "Детализатор",
+   "seoname": "detalizator",
+   "адрес": "Лесосечный пер., 1, посёлок Стахановский",
+   "координаты": [
+    43.83407,
+    56.216486
+   ],
+   "рейтинг": 4.8,
+   "оценок": 160,
+   "отзывов": 84,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://detalizator.com/"
+   ],
+   "телефоны": [
+    "+7 (987) 544-07-44",
+    "+7 (831) 424-07-44"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/detalizator/219658112659/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "143778020502",
+   "название": "Твой Автосервис",
+   "seoname": "tvoy_avtoservis",
+   "адрес": "ул. Мельникова, 30А, Нижний Новгород",
+   "координаты": [
+    43.902507,
+    56.265105
+   ],
+   "рейтинг": 5,
+   "оценок": 62,
+   "отзывов": 53,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tvoj-avtoservis-ulitsa-melnikova.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (903) 059-68-31",
+    "+7 (903) 059-68-31"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tvoy_avtoservis/143778020502/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "1157916196",
+   "название": "АвтоТехЦентр",
+   "seoname": "avtotekhtsentr",
+   "адрес": "Комсомольская ул., 38А, микрорайон Соцгород-1, жилой район Соцгород",
+   "координаты": [
+    43.85027,
+    56.253563
+   ],
+   "рейтинг": 4.4,
+   "оценок": 498,
+   "отзывов": 197,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.autocentrenn.ru/"
+   ],
+   "телефоны": [
+    "+7 (930) 045-44-44"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotekhtsentr/1157916196/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "239936485007",
+   "название": "Престиж",
+   "seoname": "prestizh",
+   "адрес": "ул. Юлиуса Фучика, 50",
+   "координаты": [
+    43.879516,
+    56.232489
+   ],
+   "рейтинг": 5,
+   "оценок": 76,
+   "отзывов": 73,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (986) 189-56-56"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prestizh/239936485007/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "181884160210",
+   "название": "Abc_52",
+   "seoname": "abc_52",
+   "адрес": "городской округ Нижний Новгород, Автозаводский район",
+   "координаты": [
+    43.837266,
+    56.254244
+   ],
+   "рейтинг": 4.6,
+   "оценок": 38,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 169-15-68"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "onsite_diagnostics_cars",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/abc_52/181884160210/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "235135296627",
+   "название": "ДалиПогонять",
+   "seoname": "dalipogonyat",
+   "адрес": "ул. Переходникова, 22",
+   "координаты": [
+    43.897688,
+    56.260572
+   ],
+   "рейтинг": 5,
+   "оценок": 80,
+   "отзывов": 63,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dalipogonyat.ru/"
+   ],
+   "телефоны": [
+    "+7 (904) 904-66-95",
+    "+7 (831) 280-53-72"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Ремонт АКПП",
+    "ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "injector_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dalipogonyat/235135296627/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "218184348451",
+   "название": "Автодом",
+   "seoname": "avtodom",
+   "адрес": "ул. Патриотов, 22",
+   "координаты": [
+    43.825287,
+    56.21593
+   ],
+   "рейтинг": 4.9,
+   "оценок": 192,
+   "отзывов": 88,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autodom-nn.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (920) 253-41-43",
+    "+7 (920) 253-46-26"
+   ],
+   "часы": "пн-пт 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "truck_tire_service",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodom/218184348451/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "87216331643",
+   "название": "Борн",
+   "seoname": "born",
+   "адрес": "Мончегорская ул., 12А, корп. 2, микрорайон Мончегорский, Нижний Новгород",
+   "координаты": [
+    43.828987,
+    56.232566
+   ],
+   "рейтинг": 4.6,
+   "оценок": 535,
+   "отзывов": 227,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://born-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (901) 248-11-35"
+   ],
+   "часы": "пн-пт 08:00–18:00; сб,вс 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/born/87216331643/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "90619722023",
+   "название": "Garage 52",
+   "seoname": "garage_52",
+   "адрес": "ул. Красных Партизан, 29А",
+   "координаты": [
+    43.838627,
+    56.251818
+   ],
+   "рейтинг": 4.8,
+   "оценок": 238,
+   "отзывов": 145,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://garage52-carservice-krasnyh-partizan.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (908) 233-60-64"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garage_52/90619722023/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "1104689942",
+   "название": "ЛеМан",
+   "seoname": "leman",
+   "адрес": "просп. Ленина, 96, Нижний Новгород",
+   "координаты": [
+    43.871086,
+    56.243071
+   ],
+   "рейтинг": 4.7,
+   "оценок": 724,
+   "отзывов": 306,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://леманс-нн.рф/"
+   ],
+   "телефоны": [
+    "+7 (910) 790-57-15",
+    "+7 (910) 790-15-87",
+    "+7 (910) 790-57-16"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/leman/1104689942/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "106006969289",
+   "название": "Бруклин гараж 52",
+   "seoname": "bruklin_garazh_52",
+   "адрес": "городской округ Нижний Новгород, Автозаводский район",
+   "координаты": [
+    43.792315,
+    56.208856
+   ],
+   "рейтинг": 4.1,
+   "оценок": 4,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (920) 068-60-86"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "heater_flushing",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bruklin_garazh_52/106006969289/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "142225913722",
+   "название": "АвтоКлуб",
+   "seoname": "avtoklub",
+   "адрес": "Лесная ул., 44Д",
+   "координаты": [
+    43.901675,
+    56.266335
+   ],
+   "рейтинг": 4.8,
+   "оценок": 291,
+   "отзывов": 203,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoclub-lesnaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (906) 364-36-63"
+   ],
+   "часы": "пн-пт 13:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoklub/142225913722/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "162651019857",
+   "название": "АвтоСпец",
+   "seoname": "avtospets",
+   "адрес": "ул. Героя Советского Союза Поющева, 12А",
+   "координаты": [
+    43.869517,
+    56.249268
+   ],
+   "рейтинг": 4.8,
+   "оценок": 59,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (929) 043-59-59"
+   ],
+   "часы": "пн-пт 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtospets/162651019857/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "25569834827",
+   "название": "UnderCar",
+   "seoname": "undercar",
+   "адрес": "Игарская ул., 48А",
+   "координаты": [
+    43.897369,
+    56.281885
+   ],
+   "рейтинг": 4.4,
+   "оценок": 210,
+   "отзывов": 117,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://undercar.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (962) 510-85-60"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "home_visit",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/undercar/25569834827/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "203679615919",
+   "название": "Авторемонт",
+   "seoname": "avtoremont",
+   "адрес": "Замковая ул., 14",
+   "координаты": [
+    43.908394,
+    56.277852
+   ],
+   "рейтинг": 4.5,
+   "оценок": 118,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (920) 037-35-37",
+    "+7 (920) 043-77-81",
+    "+7 (831) 251-07-63"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoremont/203679615919/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "206030375917",
+   "название": "Bull",
+   "seoname": "bull",
+   "адрес": "Снежная ул., 50/1",
+   "координаты": [
+    43.914366,
+    56.282669
+   ],
+   "рейтинг": 4.7,
+   "оценок": 104,
+   "отзывов": 62,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 231-49-59",
+    "+7 (908) 752-66-05"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "diesel_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bull/206030375917/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "234351825822",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Рельсовая ул., 19В",
+   "координаты": [
+    43.783582,
+    56.206287
+   ],
+   "рейтинг": 4.2,
+   "оценок": 4,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 903-77-06"
+   ],
+   "часы": "пн-пт 07:00–17:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_photopoi",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/234351825822/",
+   "найдено_по": "ремонт стартеров и генераторов Автозаводский район"
+  },
+  {
+   "id": "1056507977",
+   "название": "Стагер",
+   "seoname": "stager",
+   "адрес": "Сормовское ш., 24Р",
+   "координаты": [
+    43.888427,
+    56.336141
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1917,
+   "отзывов": 855,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://stagernn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 275-92-22",
+    "+7 (910) 873-90-22",
+    "+7 (987) 540-85-24",
+    "+7 (910) 876-65-85",
+    "+7 (910) 872-54-84",
+    "+7 (910) 870-25-80"
+   ],
+   "часы": "пн-пт 08:00–18:00; сб 08:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "generators",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stager/1056507977/",
+   "найдено_по": "ремонт стартеров и генераторов Канавинский район"
+  },
+  {
+   "id": "124549490867",
+   "название": "ЕвроАвто",
+   "seoname": "yevroavto",
+   "адрес": "Сормовское ш., 20А, корп. 2, Нижний Новгород",
+   "координаты": [
+    43.922344,
+    56.321361
+   ],
+   "рейтинг": 5,
+   "оценок": 44,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nizhniy-novgorod.euroauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 280-79-88",
+    "+7 (902) 786-96-93"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "моторные масла",
+    "ремонт автоэлектрики",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "coffee_to_go",
+    "engine_endoscopy",
+    "guarantee",
+    "has_chat_with_clients",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "kaspi_red",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repair_dsg",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yevroavto/124549490867/",
+   "найдено_по": "ремонт стартеров и генераторов Канавинский район"
+  },
+  {
+   "id": "143129331285",
+   "название": "Mechanik",
+   "seoname": "mechanik",
+   "адрес": "Электровозная ул., 7, корп. 3",
+   "координаты": [
+    43.870224,
+    56.29978
+   ],
+   "рейтинг": 4.7,
+   "оценок": 52,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://mechanik.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (915) 940-44-54"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mechanik/143129331285/",
+   "найдено_по": "ремонт стартеров и генераторов Канавинский район"
+  },
+  {
+   "id": "138016355914",
+   "название": "Авто ТО",
+   "seoname": "avto_to",
+   "адрес": "ул. Маршала Воронова, 18А",
+   "координаты": [
+    43.922488,
+    56.325909
+   ],
+   "рейтинг": 4.7,
+   "оценок": 15,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avto-to-1776750484209.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (999) 138-74-88"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_to/138016355914/",
+   "найдено_по": "ремонт стартеров и генераторов Канавинский район"
+  },
+  {
+   "id": "228547799523",
+   "название": "Техпрофи",
+   "seoname": "tekhprofi",
+   "адрес": "Московское ш., 85В",
+   "координаты": [
+    43.917677,
+    56.318355
+   ],
+   "рейтинг": 4.5,
+   "оценок": 77,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://техпрофи-нн.рф/"
+   ],
+   "телефоны": [
+    "+7 (910) 105-61-20"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tekhprofi/228547799523/",
+   "найдено_по": "ремонт стартеров и генераторов Канавинский район"
+  },
+  {
+   "id": "101988370202",
+   "название": "Везет-НН",
+   "seoname": "vezet_nn",
+   "адрес": "ул. Николая Пахомова, 19",
+   "координаты": [
+    43.924514,
+    56.3133
+   ],
+   "рейтинг": 4.9,
+   "оценок": 99,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 210-41-04",
+    "+7 (951) 918-36-36"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vezet_nn/101988370202/",
+   "найдено_по": "ремонт стартеров и генераторов Канавинский район"
+  },
+  {
+   "id": "53071705856",
+   "название": "SV-Service",
+   "seoname": "sv_service",
+   "адрес": "ул. Чаадаева, 3, корп. 1",
+   "координаты": [
+    43.857482,
+    56.328942
+   ],
+   "рейтинг": 4.8,
+   "оценок": 392,
+   "отзывов": 184,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://sv-service.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (920) 071-23-39",
+    "+7 (831) 288-35-98"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sv_service/53071705856/",
+   "найдено_по": "ремонт стартеров и генераторов Канавинский район"
+  },
+  {
+   "id": "171597489058",
+   "название": "Премьер",
+   "seoname": "premyer",
+   "адрес": "ул. Маршала Воронова, 3Р, Нижний Новгород",
+   "координаты": [
+    43.923744,
+    56.323251
+   ],
+   "рейтинг": 4.7,
+   "оценок": 160,
+   "отзывов": 75,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.premiernn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 415-06-75",
+    "+7 (831) 415-49-75"
+   ],
+   "часы": "пн-чт 07:00–22:00; пт 07:00–20:00; сб 08:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "guarantee",
+    "injectors_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "turbine repair"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/premyer/171597489058/",
+   "найдено_по": "ремонт стартеров и генераторов Канавинский район"
+  },
+  {
+   "id": "1097492688",
+   "название": "Лорри центр",
+   "seoname": "lorri_tsentr",
+   "адрес": "Комсомольское ш., 5Г",
+   "координаты": [
+    43.90383,
+    56.308128
+   ],
+   "рейтинг": 4.2,
+   "оценок": 13,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (930) 291-01-01",
+    "+7 (920) 111-30-21"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "запчасти для грузовых автомобилей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "guarantee",
+    "hinged_equipment",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_chains",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lorri_tsentr/1097492688/",
+   "найдено_по": "ремонт стартеров и генераторов Канавинский район"
+  },
+  {
+   "id": "12229386186",
+   "название": "Авто-Партнер",
+   "seoname": "avto_partner",
+   "адрес": "Удмуртская ул., 37А",
+   "координаты": [
+    43.887539,
+    56.291068
+   ],
+   "рейтинг": 4.7,
+   "оценок": 119,
+   "отзывов": 59,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autopartner52.ru/",
+    "https://autopartner-motors.ru/"
+   ],
+   "телефоны": [
+    "+7 (986) 755-85-79",
+    "+7 (831) 291-17-22",
+    "+7 (906) 556-02-22",
+    "+7 (920) 020-42-43"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_partner/12229386186/",
+   "найдено_по": "ремонт стартеров и генераторов Ленинский район"
+  },
+  {
+   "id": "1806274418",
+   "название": "Dmg service",
+   "seoname": "dmg_service",
+   "адрес": "Горная ул., 2",
+   "координаты": [
+    43.972452,
+    56.255834
+   ],
+   "рейтинг": 4.3,
+   "оценок": 208,
+   "отзывов": 84,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dmg-service.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (953) 415-63-73",
+    "+7 (952) 464-56-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "certified_service",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "turbine repair",
+    "welding_works",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dmg_service/1806274418/",
+   "найдено_по": "ремонт стартеров и генераторов Ленинский район"
+  },
+  {
+   "id": "157975441945",
+   "название": "Автомастер",
+   "seoname": "avtomaster",
+   "адрес": "Московское ш., 304А, корп. 3",
+   "координаты": [
+    43.814746,
+    56.312021
+   ],
+   "рейтинг": 5,
+   "оценок": 112,
+   "отзывов": 86,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtomaster-autoservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (910) 134-88-33",
+    "+7 (831) 423-50-08",
+    "+7 (910) 136-58-33"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "injectors_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomaster/157975441945/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "125200237467",
+   "название": "Автосервис НижегородАвто",
+   "seoname": "avtoservis_nizhegorodavto",
+   "адрес": "Бурнаковская ул., 1К2, Нижний Новгород",
+   "координаты": [
+    43.921491,
+    56.339946
+   ],
+   "рейтинг": 5,
+   "оценок": 77,
+   "отзывов": 71,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://navto52.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 059-92-63",
+    "+7 (903) 059-92-63"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_diesel_engines",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "turbine repair",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_nizhegorodavto/125200237467/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "106155071616",
+   "название": "Реномаг",
+   "seoname": "renomag",
+   "адрес": "Бурнаковская ул., 3",
+   "координаты": [
+    43.92056,
+    56.341191
+   ],
+   "рейтинг": 5,
+   "оценок": 314,
+   "отзывов": 201,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://renomag-nn.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 350-00-12",
+    "+7 (831) 281-97-08",
+    "+7 (910) 128-61-99"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "injector_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/renomag/106155071616/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "158601563907",
+   "название": "ФранКор",
+   "seoname": "frankor",
+   "адрес": "Бурнаковский пр., 1/1",
+   "координаты": [
+    43.898851,
+    56.317151
+   ],
+   "рейтинг": 4.8,
+   "оценок": 329,
+   "отзывов": 139,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://frankor.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 424-80-24",
+    "+7 (831) 424-70-24"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/frankor/158601563907/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "35278781569",
+   "название": "БестВей",
+   "seoname": "bestvey",
+   "адрес": "ул. Куйбышева, 32, Нижний Новгород",
+   "координаты": [
+    43.918374,
+    56.331583
+   ],
+   "рейтинг": 5,
+   "оценок": 132,
+   "отзывов": 129,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bestwayservice.ru/",
+    "https://bestvej-kuibysheva.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (831) 420-41-79",
+    "+7 (831) 242-98-02",
+    "+7 (831) 420-41-76"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bestvey/35278781569/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "1008950127",
+   "название": "Автомастерская",
+   "seoname": "avtomasterskaya",
+   "адрес": "ул. Николая Гастелло, 1К2",
+   "координаты": [
+    43.884735,
+    56.317936
+   ],
+   "рейтинг": 4.6,
+   "оценок": 47,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 410-41-09",
+    "+7 (910) 790-41-09"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "пункт выдачи",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomasterskaya/1008950127/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "74515465248",
+   "название": "БестВей",
+   "seoname": "bestvey",
+   "адрес": "ул. Коминтерна, 47А1, Нижний Новгород",
+   "координаты": [
+    43.876621,
+    56.342922
+   ],
+   "рейтинг": 4.9,
+   "оценок": 984,
+   "отзывов": 691,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.bestwayservice.ru/",
+    "https://bestvej-kominterna.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (831) 242-97-89",
+    "+7 (831) 420-41-76",
+    "+7 (831) 420-41-79"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "cylinder_blocks_boring",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "injector_repair",
+    "injectors_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "torque_converter_repair",
+    "turbine repair",
+    "variator_repair",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bestvey/74515465248/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "227189259982",
+   "название": "Радуга",
+   "seoname": "raduga",
+   "адрес": "Бурнаковская ул., 83Б",
+   "координаты": [
+    43.908501,
+    56.341742
+   ],
+   "рейтинг": 4.3,
+   "оценок": 139,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://raduga-1761138527756.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (930) 666-97-77"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "tire_fitting",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/raduga/227189259982/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "30464763918",
+   "название": "АутоНик",
+   "seoname": "autonik",
+   "адрес": "Светлоярская ул., 46",
+   "координаты": [
+    43.828401,
+    56.359871
+   ],
+   "рейтинг": 5,
+   "оценок": 66,
+   "отзывов": 51,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (930) 709-46-66"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/autonik/30464763918/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "1054778071",
+   "название": "Техцентр Приволжский",
+   "seoname": "tekhtsentr_privolzhskiy",
+   "адрес": "Базовый пр., 3, корп. 2, Нижний Новгород",
+   "координаты": [
+    43.868079,
+    56.303777
+   ],
+   "рейтинг": 4.4,
+   "оценок": 142,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://привоил.рф/"
+   ],
+   "телефоны": [
+    "+7 (831) 414-66-99",
+    "+7 (903) 602-66-99"
+   ],
+   "часы": "пн-чт 09:00–18:00; пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tekhtsentr_privolzhskiy/1054778071/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "1108548456",
+   "название": "АвтоСервисЦентр",
+   "seoname": "avtoservistsentr",
+   "адрес": "ул. Гаугеля, 2Б",
+   "координаты": [
+    43.805497,
+    56.357118
+   ],
+   "рейтинг": 4.3,
+   "оценок": 352,
+   "отзывов": 146,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 222-09-92"
+   ],
+   "часы": "пн-пт 08:30–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservistsentr/1108548456/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "194161162065",
+   "название": "Автосервис Автогарант",
+   "seoname": "avtoservis_avtogarant",
+   "адрес": "ул. Свободы, 22, Нижний Новгород",
+   "координаты": [
+    43.867332,
+    56.360204
+   ],
+   "рейтинг": 4.9,
+   "оценок": 349,
+   "отзывов": 219,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://avtogarant52.ru/"
+   ],
+   "телефоны": [
+    "+7 (980) 114-92-73",
+    "+7 (980) 114-92-73"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "hybrid_car_repair",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_avtogarant/194161162065/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "7140811895",
+   "название": "АвтоДокНН",
+   "seoname": "avtodoknn",
+   "адрес": "ул. Коминтерна, 43А, корп. 2, Нижний Новгород",
+   "координаты": [
+    43.885329,
+    56.344879
+   ],
+   "рейтинг": 4.7,
+   "оценок": 97,
+   "отзывов": 49,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.avtodoknn.ru/"
+   ],
+   "телефоны": [
+    "+7 (904) 063-47-83",
+    "+7 (930) 214-03-05",
+    "+7 (831) 224-14-63"
+   ],
+   "часы": "пн-пт 08:30–18:00; сб 08:30–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосервисное и гаражное оборудование",
+    "автомойка"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodoknn/7140811895/",
+   "найдено_по": "ремонт стартеров и генераторов Московский район"
+  },
+  {
+   "id": "93741302216",
+   "название": "ВостокАвто",
+   "seoname": "vostokavto",
+   "адрес": "ул. Родионова, 35, Нижний Новгород",
+   "координаты": [
+    44.063698,
+    56.314736
+   ],
+   "рейтинг": 5,
+   "оценок": 96,
+   "отзывов": 58,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vostok-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 234-46-97",
+    "+7 (910) 058-72-27"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "coffee_to_go",
+    "diesel_service",
+    "engine_endoscopy",
+    "generators",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vostokavto/93741302216/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "1255533257",
+   "название": "Стагер",
+   "seoname": "stager",
+   "адрес": "просп. Гагарина, 178",
+   "координаты": [
+    43.967144,
+    56.245259
+   ],
+   "рейтинг": 4.4,
+   "оценок": 321,
+   "отзывов": 117,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://stagernn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 469-39-90",
+    "+7 (910) 880-26-31",
+    "+7 (910) 880-26-48",
+    "+7 (831) 410-48-86"
+   ],
+   "часы": "пн-пт 08:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт электрооборудования",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "car_park",
+    "delivery",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stager/1255533257/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "67257136483",
+   "название": "Да сервис",
+   "seoname": "da_servis",
+   "адрес": "Яблоневая ул., 18М",
+   "координаты": [
+    44.056555,
+    56.310189
+   ],
+   "рейтинг": 4.6,
+   "оценок": 17,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 152-11-88"
+   ],
+   "часы": "пн-пт 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "disable_captions",
+    "engine_endoscopy",
+    "generators",
+    "guarantee",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/da_servis/67257136483/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "186403153430",
+   "название": "Автотехник",
+   "seoname": "avtotekhnik",
+   "адрес": "Казанское ш., 12, корп. 1, Нижний Новгород",
+   "координаты": [
+    44.077904,
+    56.288479
+   ],
+   "рейтинг": 5,
+   "оценок": 53,
+   "отзывов": 43,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 291-38-71",
+    "+7 (904) 924-23-22"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotekhnik/186403153430/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "204732699538",
+   "название": "Ангел-сервис",
+   "seoname": "angel_servis",
+   "адрес": "пер. Нартова, 2Б, корп. 1",
+   "координаты": [
+    44.002306,
+    56.28724
+   ],
+   "рейтинг": 4.9,
+   "оценок": 124,
+   "отзывов": 57,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://angelservice-nn.ru/",
+    "http://ремонт-рулевых-реек-в-нижнем-новгороде.рф/"
+   ],
+   "телефоны": [
+    "+7 (951) 905-36-73",
+    "+7 (950) 615-82-22"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "disable_photopoi",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/angel_servis/204732699538/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "166137344556",
+   "название": "АБС",
+   "seoname": "abs",
+   "адрес": "Республиканская ул., 24",
+   "координаты": [
+    44.034011,
+    56.314792
+   ],
+   "рейтинг": 4.9,
+   "оценок": 28,
+   "отзывов": 26,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://abc-52.ru/"
+   ],
+   "телефоны": [
+    "+7 (920) 013-23-48"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт турбин",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/abs/166137344556/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "23198030493",
+   "название": "СервисБокс",
+   "seoname": "servisboks",
+   "адрес": "ул. Родионова, 181А",
+   "координаты": [
+    44.069318,
+    56.306896
+   ],
+   "рейтинг": 5,
+   "оценок": 202,
+   "отзывов": 109,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://servicebox52.ru/osago"
+   ],
+   "телефоны": [
+    "+7 (905) 666-15-16",
+    "+7 (831) 416-15-16"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/servisboks/23198030493/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "174084988019",
+   "название": "Pro-сто",
+   "seoname": "pro_sto",
+   "адрес": "ул. Родионова, 134К",
+   "координаты": [
+    44.065692,
+    56.317759
+   ],
+   "рейтинг": 4.6,
+   "оценок": 102,
+   "отзывов": 58,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 558-58-11",
+    "+7 (933) 422-58-11"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pro_sto/174084988019/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "55078040631",
+   "название": "Автомастерская",
+   "seoname": "avtomasterskaya",
+   "адрес": "ул. им. О. Чачиной, 36/1",
+   "координаты": [
+    44.011522,
+    56.301255
+   ],
+   "рейтинг": 4.9,
+   "оценок": 141,
+   "отзывов": 91,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtomaster-na-chachinoy.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (920) 005-42-18",
+    "+7 (996) 007-52-00"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_russification",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "transponders",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomasterskaya/55078040631/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "35650395337",
+   "название": "Автодиагноз",
+   "seoname": "avtodiagnoz",
+   "адрес": "Магистральная ул., 25, д. Афонино",
+   "координаты": [
+    44.089676,
+    56.269617
+   ],
+   "рейтинг": 5,
+   "оценок": 47,
+   "отзывов": 34,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtodiagnoz52.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 746-06-95",
+    "+7 (987) 553-07-87"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "kaspi_red",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "sandblasting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodiagnoz/35650395337/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "1028815582",
+   "название": "Топавто",
+   "seoname": "topavto",
+   "адрес": "Казанское ш., 12, корп. 1",
+   "координаты": [
+    44.077302,
+    56.288186
+   ],
+   "рейтинг": 4.5,
+   "оценок": 120,
+   "отзывов": 60,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://topauto-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 059-39-67",
+    "+7 (831) 220-20-40"
+   ],
+   "часы": "пн-пт 08:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/topavto/1028815582/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "34838764862",
+   "название": "AV Diagnostic",
+   "seoname": "av_diagnostic",
+   "адрес": "ул. Прокофьева, 21/32",
+   "координаты": [
+    43.950006,
+    56.31861
+   ],
+   "рейтинг": 4.7,
+   "оценок": 15,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (930) 806-03-04",
+    "+7 (999) 139-14-21"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт автоэлектрики",
+    "автодиагностика",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/av_diagnostic/34838764862/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "1051629814",
+   "название": "Реномаг",
+   "seoname": "renomag",
+   "адрес": "Ошарская ул., 78А",
+   "координаты": [
+    44.018602,
+    56.310645
+   ],
+   "рейтинг": 4.8,
+   "оценок": 886,
+   "отзывов": 513,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://renomag-nn.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 350-00-12",
+    "+7 (910) 878-94-47",
+    "+7 (831) 281-97-08"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "generators",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "repair_of_refrigerated_trucks",
+    "service_maintenance",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/renomag/1051629814/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "32225295013",
+   "название": "Якорь",
+   "seoname": "yakor",
+   "адрес": "Высоковский пр., 60",
+   "координаты": [
+    44.043635,
+    56.308222
+   ],
+   "рейтинг": 4.7,
+   "оценок": 421,
+   "отзывов": 150,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 212-90-08",
+    "+7 (963) 232-90-04",
+    "+7 (831) 410-15-04",
+    "+7 (963) 232-90-08",
+    "+7 (831) 212-90-04"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "vulcanization",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yakor/32225295013/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "58648437830",
+   "название": "Автотехплюс",
+   "seoname": "avtotekhplyus",
+   "адрес": "Деловая ул., 7Т, Нижний Новгород",
+   "координаты": [
+    44.063981,
+    56.306955
+   ],
+   "рейтинг": 4.4,
+   "оценок": 92,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (920) 026-93-37",
+    "+7 (831) 283-54-82",
+    "+7 (831) 283-54-81"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotekhplyus/58648437830/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "218024856081",
+   "название": "Автофизика",
+   "seoname": "avtofizika",
+   "адрес": "просп. Гагарина, 9, Нижний Новгород",
+   "координаты": [
+    43.983056,
+    56.305116
+   ],
+   "рейтинг": 5,
+   "оценок": 737,
+   "отзывов": 443,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автофизика.рф/",
+    "https://автофизика-акпп.рф/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-70-13"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtofizika/218024856081/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "232379976585",
+   "название": "Легор",
+   "seoname": "legor",
+   "адрес": "ул. Нартова, 6, корп. 2",
+   "координаты": [
+    43.99549,
+    56.283788
+   ],
+   "рейтинг": 4.4,
+   "оценок": 143,
+   "отзывов": 70,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 215-51-52",
+    "+7 (903) 054-52-90",
+    "+7 (903) 603-75-50"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/legor/232379976585/",
+   "найдено_по": "ремонт стартеров и генераторов Нижегородский район"
+  },
+  {
+   "id": "1281910927",
+   "название": "Пеликан",
+   "seoname": "pelikan",
+   "адрес": "просп. Гагарина, 69Б",
+   "координаты": [
+    43.964321,
+    56.244974
+   ],
+   "рейтинг": 4.3,
+   "оценок": 192,
+   "отзывов": 83,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.atc-pelican.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 410-67-70",
+    "+7 (910) 790-47-70",
+    "+7 (831) 410-47-70",
+    "+7 (930) 283-67-70",
+    "+7 (910) 790-67-70"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pelikan/1281910927/",
+   "найдено_по": "ремонт стартеров и генераторов Приокский район"
+  },
+  {
+   "id": "1310846531",
+   "название": "Шестеренка",
+   "seoname": "shesterenka",
+   "адрес": "ул. Ларина, 13",
+   "координаты": [
+    43.993939,
+    56.238887
+   ],
+   "рейтинг": 4.3,
+   "оценок": 451,
+   "отзывов": 157,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://shesterenka.ru/",
+    "http://service.shesterenka.ru/contacts",
+    "http://service.shesterenka.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 466-60-73",
+    "+7 (831) 466-39-30"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "смазочные материалы",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shesterenka/1310846531/",
+   "найдено_по": "ремонт стартеров и генераторов Приокский район"
+  },
+  {
+   "id": "44817494969",
+   "название": "Проремонт",
+   "seoname": "proremont",
+   "адрес": "Нижний Новгород, улица Студгородок ГСХИ",
+   "координаты": [
+    43.955553,
+    56.244976
+   ],
+   "рейтинг": 5,
+   "оценок": 37,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://proremontnn.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (910) 793-11-35",
+    "+7 (952) 465-11-93"
+   ],
+   "часы": "пн-пт 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "engine_endoscopy",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "urea",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/proremont/44817494969/",
+   "найдено_по": "ремонт стартеров и генераторов Приокский район"
+  },
+  {
+   "id": "143115497658",
+   "название": "Восток-Авто",
+   "seoname": "vostok_avto",
+   "адрес": "просп. Гагарина, 121Б, корп. 3, Нижний Новгород",
+   "координаты": [
+    43.939286,
+    56.225051
+   ],
+   "рейтинг": 4.4,
+   "оценок": 465,
+   "отзывов": 202,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.vostok-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 234-39-26",
+    "+7 (910) 898-07-00"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "automotive_products",
+    "car_park",
+    "car_polishing",
+    "car_wash",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "generators",
+    "guarantee",
+    "pickup",
+    "piston_groups",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vostok_avto/143115497658/",
+   "найдено_по": "ремонт стартеров и генераторов Приокский район"
+  },
+  {
+   "id": "63282334093",
+   "название": "АвтоРемСервис",
+   "seoname": "avtoremservis",
+   "адрес": "ул. Нартова, 6, корп. 4",
+   "координаты": [
+    43.997401,
+    56.284694
+   ],
+   "рейтинг": 4.5,
+   "оценок": 70,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 413-63-38",
+    "+7 (920) 040-94-44",
+    "+7 (920) 253-63-38"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосигнализация",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoremservis/63282334093/",
+   "найдено_по": "ремонт стартеров и генераторов Приокский район"
+  },
+  {
+   "id": "1138915463",
+   "название": "Автоэлектрик",
+   "seoname": "avtoelektrik",
+   "адрес": "ул. Тропинина, 81",
+   "координаты": [
+    43.949013,
+    56.237033
+   ],
+   "рейтинг": 4.3,
+   "оценок": 31,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 605-56-28",
+    "+7 (930) 703-60-08"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoelektrik/1138915463/",
+   "найдено_по": "ремонт стартеров и генераторов Приокский район"
+  },
+  {
+   "id": "154255738937",
+   "название": "Алекс Авто",
+   "seoname": "aleks_avto",
+   "адрес": "Артельная ул., 19А",
+   "координаты": [
+    44.005657,
+    56.298532
+   ],
+   "рейтинг": 4.7,
+   "оценок": 922,
+   "отзывов": 371,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://alexavtonn.ru/about"
+   ],
+   "телефоны": [
+    "+7 (831) 214-05-00"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб 08:00–18:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aleks_avto/154255738937/",
+   "найдено_по": "ремонт стартеров и генераторов Советский район"
+  },
+  {
+   "id": "16710382675",
+   "название": "Чисто-Сервис",
+   "seoname": "chisto_servis",
+   "адрес": "ул. Надежды Сусловой, 17А",
+   "координаты": [
+    44.04713,
+    56.30279
+   ],
+   "рейтинг": 5,
+   "оценок": 538,
+   "отзывов": 447,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://чистосервис-нн.рф/"
+   ],
+   "телефоны": [
+    "+7 (831) 420-40-84"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chisto_servis/16710382675/",
+   "найдено_по": "ремонт стартеров и генераторов Советский район"
+  },
+  {
+   "id": "163739106167",
+   "название": "Точка",
+   "seoname": "tochka",
+   "адрес": "ул. Ванеева, 155",
+   "координаты": [
+    44.032295,
+    56.298458
+   ],
+   "рейтинг": 4.3,
+   "оценок": 312,
+   "отзывов": 150,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://auto-servis-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 468-34-50",
+    "+7 (905) 666-48-16"
+   ],
+   "часы": "пн-сб 09:00–18:00; вс 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "disable_photopoi",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka/163739106167/",
+   "найдено_по": "ремонт стартеров и генераторов Советский район"
+  },
+  {
+   "id": "22081777247",
+   "название": "Totachi",
+   "seoname": "totachi",
+   "адрес": "ул. Нартова, 6, корп. 3",
+   "координаты": [
+    43.998076,
+    56.284656
+   ],
+   "рейтинг": 4.4,
+   "оценок": 459,
+   "отзывов": 256,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://totachi52-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 413-66-96",
+    "+7 (920) 077-78-85"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/totachi/22081777247/",
+   "найдено_по": "ремонт стартеров и генераторов Советский район"
+  },
+  {
+   "id": "1140091119",
+   "название": "Джиэнэр авто",
+   "seoname": "dzhiener_avto",
+   "адрес": "просп. Гагарина, 25ВлитА4",
+   "координаты": [
+    43.975354,
+    56.295688
+   ],
+   "рейтинг": 4.6,
+   "оценок": 106,
+   "отзывов": 50,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 465-05-74",
+    "+7 (904) 904-79-97",
+    "+7 (953) 415-61-09"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт климатических систем",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "injector_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dzhiener_avto/1140091119/",
+   "найдено_по": "ремонт стартеров и генераторов Советский район"
+  },
+  {
+   "id": "106560120085",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "Полтавская ул., 30Б",
+   "координаты": [
+    44.029576,
+    56.313868
+   ],
+   "рейтинг": 4.7,
+   "оценок": 984,
+   "отзывов": 608,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nnov.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 203-00-04"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/106560120085/",
+   "найдено_по": "ремонт стартеров и генераторов Советский район"
+  },
+  {
+   "id": "28351399831",
+   "название": "Витамин",
+   "seoname": "vitamin",
+   "адрес": "ул. Тимирязева, 27А",
+   "координаты": [
+    43.992637,
+    56.306347
+   ],
+   "рейтинг": 4.2,
+   "оценок": 216,
+   "отзывов": 109,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (910) 127-36-36",
+    "+7 (953) 415-64-12"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "coffee_to_go",
+    "diesel_service",
+    "generators",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vitamin/28351399831/",
+   "найдено_по": "ремонт стартеров и генераторов Советский район"
+  },
+  {
+   "id": "144486624538",
+   "название": "Регион 52",
+   "seoname": "region_52",
+   "адрес": "Полтавская ул., 22А",
+   "координаты": [
+    44.027426,
+    56.314985
+   ],
+   "рейтинг": 4.7,
+   "оценок": 182,
+   "отзывов": 79,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://region-52.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (908) 236-43-85",
+    "+7 (953) 574-29-11",
+    "+7 (908) 161-90-98"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "mobile_tire_service",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "truck_tire_service",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/region_52/144486624538/",
+   "найдено_по": "ремонт стартеров и генераторов Советский район"
+  },
+  {
+   "id": "135000877495",
+   "название": "Сити Моторс",
+   "seoname": "siti_motors",
+   "адрес": "Окский пер., 8",
+   "координаты": [
+    43.979033,
+    56.305382
+   ],
+   "рейтинг": 5,
+   "оценок": 313,
+   "отзывов": 221,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://city-motor.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 396-43-99"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "diesel_service",
+    "freight_car_service",
+    "good_place",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/siti_motors/135000877495/",
+   "найдено_по": "ремонт стартеров и генераторов Советский район"
+  },
+  {
+   "id": "233565646630",
+   "название": "Asd",
+   "seoname": "asd",
+   "адрес": "Окский съезд, 8",
+   "координаты": [
+    43.978694,
+    56.30529
+   ],
+   "рейтинг": 5,
+   "оценок": 269,
+   "отзывов": 131,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 423-81-15"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/asd/233565646630/",
+   "найдено_по": "ремонт стартеров и генераторов Советский район"
+  },
+  {
+   "id": "38618613679",
+   "название": "Про. Сервис152",
+   "seoname": "pro_servis152",
+   "адрес": "Станционная ул., 76",
+   "координаты": [
+    43.869146,
+    56.354422
+   ],
+   "рейтинг": 5,
+   "оценок": 44,
+   "отзывов": 41,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (910) 130-22-55",
+    "+7 (961) 631-13-88"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pro_servis152/38618613679/",
+   "найдено_по": "ремонт стартеров и генераторов Сормовский район"
+  },
+  {
+   "id": "1110585868",
+   "название": "Конкурент",
+   "seoname": "konkurent",
+   "адрес": "ул. Коминтерна, 39Б",
+   "координаты": [
+    43.890937,
+    56.347164
+   ],
+   "рейтинг": 4.9,
+   "оценок": 564,
+   "отзывов": 249,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://konkurent-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 230-37-38",
+    "+7 (904) 904-37-38",
+    "+7 (950) 621-62-17"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/konkurent/1110585868/",
+   "найдено_по": "ремонт стартеров и генераторов Сормовский район"
+  },
+  {
+   "id": "171776936203",
+   "название": "АвтоСТО",
+   "seoname": "avtosto",
+   "адрес": "Торфяная ул., 9Б",
+   "координаты": [
+    43.83104,
+    56.349867
+   ],
+   "рейтинг": 4.7,
+   "оценок": 24,
+   "отзывов": 16,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtosto-1708762434.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (915) 935-11-44"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "generators",
+    "good_place",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosto/171776936203/",
+   "найдено_по": "ремонт стартеров и генераторов Сормовский район"
+  },
+  {
+   "id": "176405908782",
+   "название": "Торгово -сервисный центр",
+   "seoname": "torgovo_servisny_tsentr",
+   "адрес": "ул. Гаугеля, 2А/2",
+   "координаты": [
+    43.804979,
+    56.357779
+   ],
+   "рейтинг": 4.3,
+   "оценок": 6,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 225-92-72"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/torgovo_servisny_tsentr/176405908782/",
+   "найдено_по": "ремонт стартеров и генераторов Сормовский район"
+  },
+  {
+   "id": "152048897440",
+   "название": "Точка ремонта",
+   "seoname": "tochka_remonta",
+   "адрес": "ул. Гаугеля, 2Д",
+   "координаты": [
+    43.8019,
+    56.357948
+   ],
+   "рейтинг": 4.3,
+   "оценок": 6,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (999) 120-48-29"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tochka_remonta/152048897440/",
+   "найдено_по": "ремонт стартеров и генераторов Сормовский район"
+  },
+  {
+   "id": "1000487413",
+   "название": "Vag-Service",
+   "seoname": "vag_service",
+   "адрес": "Торфяная ул., 42",
+   "координаты": [
+    43.828641,
+    56.350816
+   ],
+   "рейтинг": 4.4,
+   "оценок": 144,
+   "отзывов": 66,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://vag-service-torfjanaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (831) 413-13-16",
+    "+7 (920) 253-13-16",
+    "+7 (920) 257-25-25"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "авторазбор",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "payment_by_credit_card",
+    "pickup",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vag_service/1000487413/",
+   "найдено_по": "ремонт стартеров и генераторов Сормовский район"
+  },
+  {
+   "id": "1119014244",
+   "название": "Автокомплекс",
+   "seoname": "avtokompleks",
+   "адрес": "ул. Коминтерна, 45, корп. 2",
+   "координаты": [
+    43.891146,
+    56.34703
+   ],
+   "рейтинг": 3.8,
+   "оценок": 33,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (831) 275-93-37",
+    "+7 (908) 767-06-26",
+    "+7 (953) 415-22-95"
+   ],
+   "часы": "пн-сб 09:00–18:00; вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "car_park",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokompleks/1119014244/",
+   "найдено_по": "ремонт стартеров и генераторов Сормовский район"
+  }
+ ],
+ "расширено_по_районам": true
+}

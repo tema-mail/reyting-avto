@@ -1,0 +1,2141 @@
+{
+ "ниша": "Сервис Voyah",
+ "ключ": "servis-voyah",
+ "запросы": [
+  "voyah сервис",
+  "voyah ремонт",
+  "voyah техническое обслуживание"
+ ],
+ "найдено_в_яндексе": {
+  "voyah сервис": 12,
+  "voyah ремонт": 30,
+  "voyah техническое обслуживание": 45
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Нижнему Новгороду (регион 47)",
+ "город": "nizhniy-novgorod",
+ "компании": [
+  {
+   "id": "1226407534",
+   "название": "Санрено",
+   "seoname": "sanreno",
+   "адрес": "ул. Литвинова, 87",
+   "координаты": [
+    43.946491,
+    56.315264
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1602,
+   "отзывов": 924,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sanreno-kuzov.ru/service/",
+    "https://hyundai-nnov.ru/",
+    "https://kia52.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 280-99-08",
+    "+7 (908) 725-07-98"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "flywheel_repair",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "torque_converter_repair",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sanreno/1226407534/",
+   "последний_отзыв": "2026-09-22",
+   "отзывов_за_12_мес_из_загруженных": 47,
+   "загружено_дат": 72
+  },
+  {
+   "id": "15575514265",
+   "название": "Чисто-Сервис",
+   "seoname": "chisto_servis",
+   "адрес": "ул. Родионова, 23Б",
+   "координаты": [
+    44.059025,
+    56.316847
+   ],
+   "рейтинг": 5,
+   "оценок": 970,
+   "отзывов": 666,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://чистосервис-нн.рф/"
+   ],
+   "телефоны": [
+    "+7 (831) 420-40-84"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "car_park",
+    "chip_tuning",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chisto_servis/15575514265/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 50,
+   "загружено_дат": 84
+  },
+  {
+   "id": "1537926289",
+   "название": "БестВей",
+   "seoname": "bestvey",
+   "адрес": "ул. Академика Сахарова, 3, Нижний Новгород",
+   "координаты": [
+    44.035532,
+    56.28081
+   ],
+   "рейтинг": 4.4,
+   "оценок": 832,
+   "отзывов": 482,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bestwayservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 420-41-76",
+    "+7 (831) 420-41-79"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "flywheel_repair",
+    "guarantee",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "torque_converter_repair",
+    "variator_repair",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bestvey/1537926289/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 45,
+   "загружено_дат": 87
+  },
+  {
+   "id": "16710382675",
+   "название": "Чисто-Сервис",
+   "seoname": "chisto_servis",
+   "адрес": "ул. Надежды Сусловой, 17А",
+   "координаты": [
+    44.04713,
+    56.30279
+   ],
+   "рейтинг": 5,
+   "оценок": 538,
+   "отзывов": 447,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://чистосервис-нн.рф/"
+   ],
+   "телефоны": [
+    "+7 (831) 420-40-84"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chisto_servis/16710382675/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 58,
+   "загружено_дат": 78
+  },
+  {
+   "id": "1012299995",
+   "название": "АвтоГеометрия",
+   "seoname": "avtogeometriya",
+   "адрес": "Магистральная ул., 21А, д. Афонино",
+   "координаты": [
+    44.087685,
+    56.269934
+   ],
+   "рейтинг": 5,
+   "оценок": 624,
+   "отзывов": 365,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autogeometry.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 231-34-82",
+    "+7 (929) 053-32-92"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "антикоррозийная обработка",
+    "покраска автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "bumper_repair",
+    "certified_service",
+    "disable_captions",
+    "door_repair",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_color",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtogeometriya/1012299995/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 51,
+   "загружено_дат": 86
+  },
+  {
+   "id": "39886362635",
+   "название": "Геликон",
+   "seoname": "gelikon",
+   "адрес": "Ошарская ул., 95/2",
+   "координаты": [
+    44.022413,
+    56.303995
+   ],
+   "рейтинг": 4.8,
+   "оценок": 603,
+   "отзывов": 323,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gelikonservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 280-43-09"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gelikon/39886362635/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 92
+  },
+  {
+   "id": "47499210175",
+   "название": "АА, Voyah",
+   "seoname": "aa_voyah",
+   "адрес": "Мытная ул., 66, Москва",
+   "координаты": [
+    37.620693,
+    55.713173
+   ],
+   "рейтинг": 5,
+   "оценок": 547,
+   "отзывов": 316,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://voyah-moscow.ru/"
+   ],
+   "телефоны": [
+    "+7 (495) 157-28-36",
+    "+7 (495) 154-91-86"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aa_voyah/47499210175/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 55,
+   "загружено_дат": 82
+  },
+  {
+   "id": "150843494165",
+   "название": "Санрено",
+   "seoname": "sanreno",
+   "адрес": "Московское ш., 85В",
+   "координаты": [
+    43.917525,
+    56.318422
+   ],
+   "рейтинг": 5,
+   "оценок": 413,
+   "отзывов": 295,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://haval-nnov.ru/",
+    "https://техпрофи-нн.рф/"
+   ],
+   "телефоны": [
+    "+7 (831) 420-62-08"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bumper_repair",
+    "car_glass_replacement",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sanreno/150843494165/",
+   "последний_отзыв": "2026-10-08",
+   "отзывов_за_12_мес_из_загруженных": 58,
+   "загружено_дат": 75
+  },
+  {
+   "id": "19142724344",
+   "название": "Автолига Сервис",
+   "seoname": "avtoliga_servis",
+   "адрес": "Магистральная ул., 1, д. Афонино",
+   "координаты": [
+    44.089911,
+    56.269276
+   ],
+   "рейтинг": 4.9,
+   "оценок": 926,
+   "отзывов": 282,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoliga-group.ru/autoservice/center/avtoliga-service-afonino1"
+   ],
+   "телефоны": [
+    "+7 (831) 262-16-59"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoliga_servis/19142724344/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 79
+  },
+  {
+   "id": "1081901223",
+   "название": "Гибрид-Центр",
+   "seoname": "gibrid_tsentr",
+   "адрес": "ул. Бориса Панина, 7Б, Нижний Новгород",
+   "координаты": [
+    44.028873,
+    56.308775
+   ],
+   "рейтинг": 4.7,
+   "оценок": 430,
+   "отзывов": 231,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://гибрид-центр.рф/"
+   ],
+   "телефоны": [
+    "+7 (831) 420-45-51",
+    "+7 (904) 915-22-11",
+    "+7 (831) 415-22-11"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gibrid_tsentr/1081901223/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 39,
+   "загружено_дат": 57
+  },
+  {
+   "id": "97738728988",
+   "название": "Ksk Auto",
+   "seoname": "ksk_auto",
+   "адрес": "ул. Шаляпина, 2В, Нижний Новгород",
+   "координаты": [
+    43.918853,
+    56.324786
+   ],
+   "рейтинг": 5,
+   "оценок": 414,
+   "отзывов": 220,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://ksk-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 231-35-26",
+    "+7 (930) 665-65-62"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ksk_auto/97738728988/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 69
+  },
+  {
+   "id": "18020476238",
+   "название": "Панавто Запад, Voyah",
+   "seoname": "panavto_zapad_voyah",
+   "адрес": "Торговая ул., 4, стр. 1, п. г. т. Заречье",
+   "координаты": [
+    37.413529,
+    55.685142
+   ],
+   "рейтинг": 5,
+   "оценок": 551,
+   "отзывов": 211,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://voyah-panavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (495) 292-75-68",
+    "+7 (495) 292-77-19"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_door_closers",
+    "car_floor_mats",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "delivery",
+    "disable_captions",
+    "electric car charging station",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "eva_mats",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/panavto_zapad_voyah/18020476238/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 59,
+   "загружено_дат": 87
+  },
+  {
+   "id": "188220027934",
+   "название": "Интерпласт. Про",
+   "seoname": "interplast_pro",
+   "адрес": "ул. Куйбышева, 30Б",
+   "координаты": [
+    43.920475,
+    56.333086
+   ],
+   "рейтинг": 5,
+   "оценок": 475,
+   "отзывов": 201,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://interplast-pro.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 288-33-91"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб 08:00–19:00; вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "authorized_service",
+    "autovinil",
+    "basic_service",
+    "body_repair",
+    "car_armoring",
+    "car_body_film",
+    "car_door_closers",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "carbon_fiber_lamination",
+    "ceiling_cleaning",
+    "certified_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "glass_polishing",
+    "glass_tinting",
+    "guarantee",
+    "installing_the_towbar",
+    "leather_repair",
+    "ozonation",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "sandblasting",
+    "scratch_repair",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "tuning_deflectors",
+    "tuning_of_motor_vehicles",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/interplast_pro/188220027934/",
+   "последний_отзыв": "2026-07-10",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 82
+  },
+  {
+   "id": "198975071532",
+   "название": "Ледремонт",
+   "seoname": "ledremont",
+   "адрес": "ул. Александра Хохлова, 19",
+   "координаты": [
+    44.06727,
+    56.30102
+   ],
+   "рейтинг": 5,
+   "оценок": 256,
+   "отзывов": 191,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://led-remont.ru/"
+   ],
+   "телефоны": [
+    "+7 (914) 539-57-62"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосвет",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "additional_equipment_installation",
+    "autovinil",
+    "car_door_closers",
+    "chip_tuning",
+    "delivery",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tuning_of_motor_vehicles",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ledremont/198975071532/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 81
+  },
+  {
+   "id": "225091645896",
+   "название": "ГеоАвтоСервис",
+   "seoname": "geoavtoservis",
+   "адрес": "Мурашкинская ул., 22",
+   "координаты": [
+    43.950255,
+    56.326487
+   ],
+   "рейтинг": 5,
+   "оценок": 274,
+   "отзывов": 178,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geoautoservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 234-19-84",
+    "+7 (930) 802-75-61"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geoavtoservis/225091645896/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 39,
+   "загружено_дат": 79
+  },
+  {
+   "id": "24664084056",
+   "название": "Voyah БорисХоф Юг",
+   "seoname": "voyah_boriskhof_yug",
+   "адрес": "село Булатниково, территория МКАД, 29-й километр, вл1Б",
+   "координаты": [
+    37.673078,
+    55.571409
+   ],
+   "рейтинг": 5,
+   "оценок": 251,
+   "отзывов": 138,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://voyah-borishof.ru/"
+   ],
+   "телефоны": [
+    "+7 (495) 183-28-64"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автомойка",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voyah_boriskhof_yug/24664084056/"
+  },
+  {
+   "id": "35278781569",
+   "название": "БестВей",
+   "seoname": "bestvey",
+   "адрес": "ул. Куйбышева, 32, Нижний Новгород",
+   "координаты": [
+    43.918374,
+    56.331583
+   ],
+   "рейтинг": 5,
+   "оценок": 132,
+   "отзывов": 129,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bestwayservice.ru/",
+    "https://bestvej-kuibysheva.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (831) 420-41-79",
+    "+7 (831) 242-98-02",
+    "+7 (831) 420-41-76"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bestvey/35278781569/"
+  },
+  {
+   "id": "1144901569",
+   "название": "Вмятиноф.рф",
+   "seoname": "vmyatinof_rf",
+   "адрес": "ул. Тимирязева, 15, корп. 2",
+   "координаты": [
+    44.003683,
+    56.30825
+   ],
+   "рейтинг": 4.9,
+   "оценок": 198,
+   "отзывов": 122,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://вмятиноф.рф/"
+   ],
+   "телефоны": [
+    "+7 (929) 053-05-00",
+    "+7 (831) 423-05-00"
+   ],
+   "часы": "пн-пт 09:30–18:00; сб 09:30–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "покраска автомобилей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbrushing",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "bike_parking",
+    "bumper_repair",
+    "car_armoring",
+    "car_body_film",
+    "car_glass_replacement",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "carbon_fiber_lamination",
+    "ceiling_cleaning",
+    "certified_service",
+    "chrome_plating",
+    "disk_maintenance",
+    "door_repair",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "ramp",
+    "raptor_painting",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "thickness_gauge_color",
+    "toilet",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vmyatinof_rf/1144901569/"
+  },
+  {
+   "id": "129447178074",
+   "название": "Чисто-Сервис",
+   "seoname": "chisto_servis",
+   "адрес": "ул. Долгополова, 77, стр. 6",
+   "координаты": [
+    43.943032,
+    56.315236
+   ],
+   "рейтинг": 5,
+   "оценок": 112,
+   "отзывов": 106,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://чисто-сервис.рф/"
+   ],
+   "телефоны": [
+    "+7 (914) 539-58-20",
+    "+7 (920) 295-14-95"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chisto_servis/129447178074/"
+  },
+  {
+   "id": "179536250635",
+   "название": "Олдгараж",
+   "seoname": "oldgarazh",
+   "адрес": "ул. Чайковского, 18А, Бор",
+   "координаты": [
+    44.072301,
+    56.3611
+   ],
+   "рейтинг": 4.9,
+   "оценок": 178,
+   "отзывов": 93,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://oldgarage.pro/"
+   ],
+   "телефоны": [
+    "+7 (831) 291-65-61",
+    "+7 (953) 554-73-87"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oldgarazh/179536250635/"
+  },
+  {
+   "id": "55078040631",
+   "название": "Автомастерская",
+   "seoname": "avtomasterskaya",
+   "адрес": "ул. им. О. Чачиной, 36/1",
+   "координаты": [
+    44.011522,
+    56.301255
+   ],
+   "рейтинг": 4.9,
+   "оценок": 141,
+   "отзывов": 91,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtomaster-na-chachinoy.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (920) 005-42-18",
+    "+7 (996) 007-52-00"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_russification",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "transponders",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomasterskaya/55078040631/"
+  },
+  {
+   "id": "121190583060",
+   "название": "Voyah Автолига, официальный дилер",
+   "seoname": "voyah_avtoliga_ofitsialny_diler",
+   "адрес": "Магистральная ул., 1, д. Афонино",
+   "координаты": [
+    44.090189,
+    56.268958
+   ],
+   "рейтинг": 4.4,
+   "оценок": 182,
+   "отзывов": 83,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://voyah-avtoliga.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 266-51-13",
+    "+7 (831) 266-68-15"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "electric car charging station",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voyah_avtoliga_ofitsialny_diler/121190583060/"
+  },
+  {
+   "id": "180956168102",
+   "название": "БестВей",
+   "seoname": "bestvey",
+   "адрес": "ул. Родионова, 163, Нижний Новгород",
+   "координаты": [
+    44.068815,
+    56.31552
+   ],
+   "рейтинг": 5,
+   "оценок": 83,
+   "отзывов": 74,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bestwayservice.ru/",
+    "https://vkvideo.ru/@bestwayservice"
+   ],
+   "телефоны": [
+    "+7 (831) 420-41-76",
+    "+7 (831) 262-15-65",
+    "+7 (831) 420-41-79"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "service_maintenance",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "torque_converter_repair",
+    "variator_repair",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bestvey/180956168102/"
+  },
+  {
+   "id": "219314818714",
+   "название": "А+",
+   "seoname": "a_",
+   "адрес": "ул. Генкиной, 15",
+   "координаты": [
+    44.006357,
+    56.309244
+   ],
+   "рейтинг": 5,
+   "оценок": 115,
+   "отзывов": 68,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.aplusnn.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 603-57-68"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "good_place",
+    "heater_flushing",
+    "injectors_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/a_/219314818714/"
+  },
+  {
+   "id": "227189259982",
+   "название": "Радуга",
+   "seoname": "raduga",
+   "адрес": "Бурнаковская ул., 83Б",
+   "координаты": [
+    43.908501,
+    56.341742
+   ],
+   "рейтинг": 4.3,
+   "оценок": 139,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://raduga-1761138527756.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (930) 666-97-77"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "tire_fitting",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/raduga/227189259982/"
+  },
+  {
+   "id": "215064639280",
+   "название": "Voyah",
+   "seoname": "voyah",
+   "адрес": "МКАД, 61-й километр, с1, д. Раздоры",
+   "координаты": [
+    37.367758,
+    55.767031
+   ],
+   "рейтинг": 4.7,
+   "оценок": 218,
+   "отзывов": 55,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://voyah-rublevskiy.ru/"
+   ],
+   "телефоны": [
+    "+7 (495) 292-83-15"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "elevator_wheelchair_accessible",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voyah/215064639280/"
+  },
+  {
+   "id": "14134809069",
+   "название": "Про СТО",
+   "seoname": "pro_sto",
+   "адрес": "Овражная ул., 56",
+   "координаты": [
+    44.048486,
+    56.308673
+   ],
+   "рейтинг": 5,
+   "оценок": 74,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://prostonn.ru/",
+    "https://prostonn.ru/remont/provedenie-gto-za-30-min",
+    "https://pro-sto-ovrazhnaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (910) 878-64-74",
+    "+7 (903) 043-88-00"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "пункт техосмотра"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adjusting_headlights",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pro_sto/14134809069/"
+  },
+  {
+   "id": "108277248487",
+   "название": "Voyah",
+   "seoname": "voyah",
+   "адрес": "Ленинградское ш., 23А, Химки",
+   "координаты": [
+    37.409798,
+    55.907744
+   ],
+   "рейтинг": 4.7,
+   "оценок": 70,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (495) 187-07-64"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voyah/108277248487/"
+  },
+  {
+   "id": "38618613679",
+   "название": "Про. Сервис152",
+   "seoname": "pro_servis152",
+   "адрес": "Станционная ул., 76",
+   "координаты": [
+    43.869146,
+    56.354422
+   ],
+   "рейтинг": 5,
+   "оценок": 44,
+   "отзывов": 41,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (910) 130-22-55",
+    "+7 (961) 631-13-88"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pro_servis152/38618613679/"
+  },
+  {
+   "id": "35650395337",
+   "название": "Автодиагноз",
+   "seoname": "avtodiagnoz",
+   "адрес": "Магистральная ул., 25, д. Афонино",
+   "координаты": [
+    44.089676,
+    56.269617
+   ],
+   "рейтинг": 5,
+   "оценок": 47,
+   "отзывов": 34,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtodiagnoz52.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 746-06-95",
+    "+7 (987) 553-07-87"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "kaspi_red",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "sandblasting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodiagnoz/35650395337/"
+  },
+  {
+   "id": "166137344556",
+   "название": "АБС",
+   "seoname": "abs",
+   "адрес": "Республиканская ул., 24",
+   "координаты": [
+    44.034011,
+    56.314792
+   ],
+   "рейтинг": 4.9,
+   "оценок": 28,
+   "отзывов": 26,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://abc-52.ru/"
+   ],
+   "телефоны": [
+    "+7 (920) 013-23-48"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт турбин",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/abs/166137344556/"
+  },
+  {
+   "id": "138016355914",
+   "название": "Авто ТО",
+   "seoname": "avto_to",
+   "адрес": "ул. Маршала Воронова, 18А",
+   "координаты": [
+    43.922488,
+    56.325909
+   ],
+   "рейтинг": 4.7,
+   "оценок": 15,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avto-to-1776750484209.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (999) 138-74-88"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_to/138016355914/"
+  },
+  {
+   "id": "141927069672",
+   "название": "Voyah Плаза",
+   "seoname": "voyah_plaza",
+   "адрес": "Сормовское ш., 11А",
+   "координаты": [
+    43.923443,
+    56.322332
+   ],
+   "рейтинг": 4.1,
+   "оценок": 11,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://voyah-plaza-nn.ru/"
+   ],
+   "телефоны": [
+    "+7 (831) 282-10-10"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voyah_plaza/141927069672/"
+  },
+  {
+   "id": "190516547143",
+   "название": "Petrocars Сервис",
+   "seoname": "petrocars_servis",
+   "адрес": "ул. Академика Опарина, 4А, Москва",
+   "координаты": [
+    37.500718,
+    55.646342
+   ],
+   "рейтинг": 4.4,
+   "оценок": 16,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.petrocars.ru/"
+   ],
+   "телефоны": [
+    "+7 (968) 068-08-26"
+   ],
+   "часы": "пн-пт 10:00–18:30; сб,вс 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "delivery",
+    "electric car charging station",
+    "gift_certificate",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/petrocars_servis/190516547143/"
+  },
+  {
+   "id": "23202282526",
+   "название": "Атлас, Voyah",
+   "seoname": "atlas_voyah",
+   "адрес": "д. Коляново, территория Загородная, 6",
+   "координаты": [
+    40.974271,
+    56.948754
+   ],
+   "рейтинг": 4.3,
+   "оценок": 29,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://voyah-atlas-ivanovo.ru/"
+   ],
+   "телефоны": [
+    "+7 (4932) 33-44-44"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "diesel_service",
+    "disable_captions",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/atlas_voyah/23202282526/"
+  },
+  {
+   "id": "214469494352",
+   "название": "Voyah Автотракт",
+   "seoname": "voyah_avtotrakt",
+   "адрес": "ул. Куйбышева, 28, Владимир",
+   "координаты": [
+    40.414256,
+    56.170944
+   ],
+   "рейтинг": 4.4,
+   "оценок": 32,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (4922) 47-47-47"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "loan_processing",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voyah_avtotrakt/214469494352/"
+  }
+ ]
+}
