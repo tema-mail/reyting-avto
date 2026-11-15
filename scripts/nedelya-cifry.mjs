@@ -54,7 +54,7 @@ async function gsc(w) {
   const GH = { Authorization: `Bearer ${t.access_token}`, 'Content-Type': 'application/json' };
   const site = 'sc-domain:avtoball.ru';
   const q = async ([d1, d2], dimensions, extra = {}) => {
-    const r = await fetch(`https://www.googleapis.com/webmasters/v3/sites/${encodeURIComponent(site)}/searchAnalytics/query`, { method: 'POST', headers: GH, body: JSON.stringify({ startDate: d1, endDate: d2, dimensions, rowLimit: 500, ...extra }) });
+    const r = await fetch(`https://www.googleapis.com/webmasters/v3/sites/${encodeURIComponent(site)}/searchAnalytics/query`, { method: 'POST', headers: GH, body: JSON.stringify({ startDate: d1, endDate: d2, dimensions, rowLimit: dimensions[0] === 'page' ? 25000 : 500, ...extra }) });
     const j = await r.json().catch(() => ({}));
     if (!r.ok) return { status: 'не собрано', code: r.status, error: j.error?.message };
     return (j.rows || []).map((x) => ({ key: (x.keys || []).join(' · '), clicks: x.clicks, impressions: x.impressions, ctr: +(x.ctr * 100).toFixed(1), position: +x.position.toFixed(1) }));
@@ -66,8 +66,13 @@ async function gsc(w) {
     const poGorodam = {};
     if (Array.isArray(pages)) for (const p of pages) { const g = GORODA.find((c) => p.key.includes(`/${c}/`)) || (p.key.includes('/blog/') ? 'blog-obshchiy' : 'prochee'); const a = (poGorodam[g] ||= { clicks: 0, impressions: 0 }); a.clicks += p.clicks; a.impressions += p.impressions; }
     const blog = Array.isArray(pages) ? pages.filter((p) => p.key.includes('/blog/')).reduce((a, p) => ({ clicks: a.clicks + p.clicks, impressions: a.impressions + p.impressions, stranic: a.stranic + 1 }), { clicks: 0, impressions: 0, stranic: 0 }) : pages;
-    out[k2] = { period: `${dates[0]} – ${dates[1]}`, itogo: Array.isArray(itogo) ? itogo[0] || { clicks: 0, impressions: 0 } : itogo, po_gorodam: poGorodam, blog, zaprosy_top: Array.isArray(await q(dates, ['query'])) ? (await q(dates, ['query'])).slice(0, 25) : 'не собрано', po_dnyam: await q(dates, ['date']) };
+    out[k2] = { period: `${dates[0]} – ${dates[1]}`, stranic_s_pokazami: Array.isArray(pages) ? pages.length : 'не собрано', itogo: Array.isArray(itogo) ? itogo[0] || { clicks: 0, impressions: 0 } : itogo, po_gorodam: poGorodam, blog, zaprosy_top: Array.isArray(await q(dates, ['query'])) ? (await q(dates, ['query'])).slice(0, 25) : 'не собрано', po_dnyam: await q(dates, ['date']) };
   }
+  // индексация Google (владелец 15.11): точного счётчика в API нет – sitemap (submitted/indexed, отстаёт) и страницы с показами за 28 дней
+  const sm = await fetch(`https://www.googleapis.com/webmasters/v3/sites/${encodeURIComponent(site)}/sitemaps`, { headers: GH }).then((r) => r.json()).catch(() => ({}));
+  out.sitemap = (sm.sitemap || []).map((s) => ({ path: s.path, lastDownloaded: s.lastDownloaded, submitted: s.contents?.[0]?.submitted, indexed: s.contents?.[0]?.indexed, errors: s.errors, warnings: s.warnings }));
+  const p28 = await q([day(30), day(3)], ['page']);
+  out.stranic_s_pokazami_28_dney = Array.isArray(p28) ? p28.length : p28;
   return out;
 }
 
