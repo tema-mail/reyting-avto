@@ -1,0 +1,5504 @@
+{
+ "ниша": "Ремонт радиаторов",
+ "ключ": "remont-radiatorov",
+ "запросы": [
+  "ремонт радиатора автомобиля",
+  "ремонт системы охлаждения автомобиля"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт радиатора автомобиля": 55,
+  "ремонт системы охлаждения автомобиля": 66,
+  "ремонт радиатора автомобиля Калининский район": 34,
+  "ремонт радиатора автомобиля Курчатовский район": 27,
+  "ремонт радиатора автомобиля Ленинский район": 17,
+  "ремонт радиатора автомобиля Металлургический район": 31,
+  "ремонт радиатора автомобиля Советский район": 29,
+  "ремонт радиатора автомобиля Тракторозаводский район": 15,
+  "ремонт радиатора автомобиля Центральный район": 43
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Челябинску (регион 56)",
+ "город": "chelyabinsk",
+ "компании": [
+  {
+   "id": "94121474572",
+   "название": "Выхлопофф",
+   "seoname": "vykhlopoff",
+   "адрес": "Механическая ул., 101, Челябинск",
+   "координаты": [
+    61.430093,
+    55.191656
+   ],
+   "рейтинг": 5,
+   "оценок": 1110,
+   "отзывов": 751,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vyhlopof.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 600-86-27"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "toilet_for_disabled",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vykhlopoff/94121474572/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 54
+  },
+  {
+   "id": "118152548996",
+   "название": "WillDrive",
+   "seoname": "willdrive",
+   "адрес": "Свердловский тракт, 9",
+   "координаты": [
+    61.389093,
+    55.198439
+   ],
+   "рейтинг": 5,
+   "оценок": 864,
+   "отзывов": 524,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://willdrive.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 210-56-16"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/willdrive/118152548996/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 48
+  },
+  {
+   "id": "1017829832",
+   "название": "Регинас Kia",
+   "seoname": "reginas_kia",
+   "адрес": "Свердловский тракт, 5Р, стр. 2, Челябинск",
+   "координаты": [
+    61.382514,
+    55.214555
+   ],
+   "рейтинг": 4.5,
+   "оценок": 1026,
+   "отзывов": 374,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 211-10-02",
+    "+7 (351) 211-75-75"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reginas_kia/1017829832/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 80
+  },
+  {
+   "id": "1157835758",
+   "название": "Планета Авто",
+   "seoname": "planeta_avto",
+   "адрес": "Копейское ш., 82",
+   "координаты": [
+    61.44745,
+    55.148178
+   ],
+   "рейтинг": 4.3,
+   "оценок": 823,
+   "отзывов": 248,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservice.planeta-avto.ru/vostok"
+   ],
+   "телефоны": [
+    "+7 (351) 700-94-63"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planeta_avto/1157835758/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 59
+  },
+  {
+   "id": "23195891905",
+   "название": "Правый поворот",
+   "seoname": "pravy_povorot",
+   "адрес": "Артиллерийская ул., 24",
+   "координаты": [
+    61.423624,
+    55.186813
+   ],
+   "рейтинг": 4.7,
+   "оценок": 477,
+   "отзывов": 215,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://сто100.рф/"
+   ],
+   "телефоны": [
+    "+7 (351) 210-42-49"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pravy_povorot/23195891905/",
+   "последний_отзыв": "2026-06-29",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 90
+  },
+  {
+   "id": "1186041380",
+   "название": "Стандарт-Авто",
+   "seoname": "standart_avto",
+   "адрес": "Каслинская ул., 3А, корп. 1",
+   "координаты": [
+    61.393655,
+    55.19385
+   ],
+   "рейтинг": 4.8,
+   "оценок": 280,
+   "отзывов": 188,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://standart-avto74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 277-90-58",
+    "+7 (909) 076-74-48"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "bumper_repair",
+    "call_button",
+    "parking_disabled",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/standart_avto/1186041380/",
+   "последний_отзыв": "2026-10-31",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 76
+  },
+  {
+   "id": "189993986236",
+   "название": "G-Energy",
+   "seoname": "g_energy",
+   "адрес": "Линейная ул., 86, корп. 4, Челябинск",
+   "координаты": [
+    61.498774,
+    55.157899
+   ],
+   "рейтинг": 5,
+   "оценок": 250,
+   "отзывов": 178,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://g-energy.org/"
+   ],
+   "телефоны": [
+    "+7 (900) 027-75-10",
+    "+7 (351) 217-45-47"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "payment_by_credit_card",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/g_energy/189993986236/",
+   "последний_отзыв": "2026-09-27",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 87
+  },
+  {
+   "id": "1213137617",
+   "название": "Лаборатория сварки Аргон",
+   "seoname": "laboratoriya_svarki_argon",
+   "адрес": "Механическая ул., 24, корп. 8",
+   "координаты": [
+    61.444918,
+    55.195823
+   ],
+   "рейтинг": 4.9,
+   "оценок": 368,
+   "отзывов": 162,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://argon74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-20-69",
+    "+7 (904) 947-72-96",
+    "+7 (351) 278-87-45"
+   ],
+   "часы": "пн-чт 09:00–18:00; пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Сварочные работы",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "freight_car_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/laboratoriya_svarki_argon/1213137617/",
+   "последний_отзыв": "2026-08-07",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 89
+  },
+  {
+   "id": "184566125795",
+   "название": "Carточка",
+   "seoname": "cartochka",
+   "адрес": "ул. Профинтерна, 32",
+   "координаты": [
+    61.400154,
+    55.134899
+   ],
+   "рейтинг": 5,
+   "оценок": 230,
+   "отзывов": 161,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 116-55-24",
+    "+7 (992) 504-41-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "self_car_service",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cartochka/184566125795/",
+   "последний_отзыв": "2026-10-17",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 53
+  },
+  {
+   "id": "1080788410",
+   "название": "Альпина",
+   "seoname": "alpina",
+   "адрес": "ул. Кулибина, 5Б, Челябинск",
+   "координаты": [
+    61.476106,
+    55.173114
+   ],
+   "рейтинг": 4.6,
+   "оценок": 406,
+   "отзывов": 154,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://alpinacenter.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 211-43-43",
+    "+7 (922) 707-70-76"
+   ],
+   "часы": "ежедневно, 08:30–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alpina/1080788410/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 65
+  },
+  {
+   "id": "1681590055",
+   "название": "AG Автомастер",
+   "seoname": "ag_avtomaster",
+   "адрес": "Артиллерийская ул., 83А",
+   "координаты": [
+    61.433875,
+    55.172743
+   ],
+   "рейтинг": 4.4,
+   "оценок": 359,
+   "отзывов": 147,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://автомастер-74.рф/",
+    "http://automaster174.ru/",
+    "http://ремонт-рулевых-реек74.рф/"
+   ],
+   "телефоны": [
+    "+7 (908) 571-25-25",
+    "+7 (908) 588-27-77",
+    "+7 (351) 225-14-53",
+    "+7 (351) 200-27-75",
+    "+7 (904) 818-61-13"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ag_avtomaster/1681590055/",
+   "последний_отзыв": "2026-09-02",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 50
+  },
+  {
+   "id": "71007872690",
+   "название": "Технический центр 3/8",
+   "seoname": "tekhnicheskiy_tsentr_3_8",
+   "адрес": "Каслинская ул., 3А, Челябинск",
+   "координаты": [
+    61.389856,
+    55.193793
+   ],
+   "рейтинг": 4.6,
+   "оценок": 281,
+   "отзывов": 136,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 027-91-72"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tekhnicheskiy_tsentr_3_8/71007872690/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 78
+  },
+  {
+   "id": "44075884182",
+   "название": "Главная Деталь",
+   "seoname": "glavnaya_detal",
+   "адрес": "ул. Косарева, 6, корп. 4, Челябинск",
+   "координаты": [
+    61.371254,
+    55.193571
+   ],
+   "рейтинг": 4.9,
+   "оценок": 331,
+   "отзывов": 133,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 462-78-50"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/glavnaya_detal/44075884182/",
+   "последний_отзыв": "2026-09-11",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 83
+  },
+  {
+   "id": "15622544533",
+   "название": "АвтоЕвропа",
+   "seoname": "avtoyevropa",
+   "адрес": "Комсомольский просп., 16/4, Челябинск",
+   "координаты": [
+    61.369393,
+    55.192582
+   ],
+   "рейтинг": 4.7,
+   "оценок": 192,
+   "отзывов": 90,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://autoeuropa74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-46-86",
+    "+7 (351) 700-79-86"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "preliminary_registration",
+    "sandblasting",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoyevropa/15622544533/",
+   "последний_отзыв": "2026-10-15",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 67
+  },
+  {
+   "id": "224392956707",
+   "название": "Фараон",
+   "seoname": "faraon",
+   "адрес": "Механическая ул., 14/1",
+   "координаты": [
+    61.445261,
+    55.197175
+   ],
+   "рейтинг": 4.6,
+   "оценок": 213,
+   "отзывов": 88,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autoservischel.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 777-70-58"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "грузовые автомобили, грузовая техника",
+    "производство автозапчастей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repairs",
+    "sale",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/faraon/224392956707/",
+   "последний_отзыв": "2026-04-23",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 81
+  },
+  {
+   "id": "1754877332",
+   "название": "УралТехЦентр",
+   "seoname": "uraltekhtsentr",
+   "адрес": "Братская ул., 2А",
+   "координаты": [
+    61.369258,
+    55.128862
+   ],
+   "рейтинг": 4.7,
+   "оценок": 214,
+   "отзывов": 85,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://toyota-chel.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 019-13-51",
+    "+7 (351) 724-44-44"
+   ],
+   "часы": "ежедневно, 09:00–20:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/uraltekhtsentr/1754877332/"
+  },
+  {
+   "id": "150546764098",
+   "название": "Неотложка",
+   "seoname": "neotlozhka",
+   "адрес": "Кожзаводская ул., 96Б/2",
+   "координаты": [
+    61.399424,
+    55.192393
+   ],
+   "рейтинг": 4.4,
+   "оценок": 164,
+   "отзывов": 85,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sto3.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 270-00-77",
+    "+7 (904) 930-00-77",
+    "+7 (904) 930-00-44"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "sandblasting",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/neotlozhka/150546764098/"
+  },
+  {
+   "id": "86998999429",
+   "название": "Альт. АвтоСервис",
+   "seoname": "alt_avtoservis",
+   "адрес": "Витебская ул., 4/1",
+   "координаты": [
+    61.372762,
+    55.154048
+   ],
+   "рейтинг": 4.8,
+   "оценок": 147,
+   "отзывов": 83,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://alt-as-chel.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 218-77-18"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосвет",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "additional_equipment_installation",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "repairs",
+    "sandblasting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alt_avtoservis/86998999429/"
+  },
+  {
+   "id": "146294649791",
+   "название": "Ваг Авто",
+   "seoname": "vag_avto",
+   "адрес": "ул. Бажова, 35, корп. 2",
+   "координаты": [
+    61.466031,
+    55.190354
+   ],
+   "рейтинг": 4.8,
+   "оценок": 178,
+   "отзывов": 80,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://vagavto74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 755-51-55",
+    "+7 (919) 353-62-17"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "flywheel_repair",
+    "good_place",
+    "guarantee",
+    "hydroblock_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vag_avto/146294649791/"
+  },
+  {
+   "id": "25093266786",
+   "название": "Нива ремонт 174",
+   "seoname": "niva_remont_174",
+   "адрес": "Свердловский просп., 38",
+   "координаты": [
+    61.386734,
+    55.17029
+   ],
+   "рейтинг": 5,
+   "оценок": 114,
+   "отзывов": 74,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://superlevenochek4.wixsite.com/nivaremont174"
+   ],
+   "телефоны": [
+    "+7 (951) 804-02-54"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "Ремонт МКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "good_place",
+    "guarantee",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/niva_remont_174/25093266786/"
+  },
+  {
+   "id": "36049153729",
+   "название": "Das Auto",
+   "seoname": "das_auto",
+   "адрес": "Артиллерийская ул., 29",
+   "координаты": [
+    61.425363,
+    55.184197
+   ],
+   "рейтинг": 5,
+   "оценок": 152,
+   "отзывов": 68,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://das-auto74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 946-10-74",
+    "+7 (952) 517-88-44"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "injector_repair",
+    "injectors_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/das_auto/36049153729/"
+  },
+  {
+   "id": "173735069068",
+   "название": "Механик",
+   "seoname": "mekhanik",
+   "адрес": "Каслинская ул., 1, корп. 2",
+   "координаты": [
+    61.389547,
+    55.195736
+   ],
+   "рейтинг": 4.4,
+   "оценок": 138,
+   "отзывов": 67,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 274-43-43",
+    "+7 (968) 128-74-91"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "street_entrance",
+    "tire_fitting",
+    "torque_converter_repair",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mekhanik/173735069068/"
+  },
+  {
+   "id": "1390601334",
+   "название": "Интервал",
+   "seoname": "interval",
+   "адрес": "ул. Татьяничевой, 13, Челябинск",
+   "координаты": [
+    61.368633,
+    55.149509
+   ],
+   "рейтинг": 4.3,
+   "оценок": 175,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (902) 894-55-50",
+    "+7 (351) 261-18-99",
+    "+7 (351) 261-27-88"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "engine_endoscopy",
+    "generators",
+    "guarantee",
+    "heater_flushing",
+    "home_visit",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/interval/1390601334/"
+  },
+  {
+   "id": "204630719340",
+   "название": "Японский мастер",
+   "seoname": "yaponskiy_master",
+   "адрес": "Артиллерийская ул., 83А",
+   "координаты": [
+    61.433973,
+    55.172774
+   ],
+   "рейтинг": 4.4,
+   "оценок": 143,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://yaponskimaster174.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 200-27-75"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yaponskiy_master/204630719340/"
+  },
+  {
+   "id": "213873563288",
+   "название": "Аспект",
+   "seoname": "aspekt",
+   "адрес": "ул. Дзержинского, 130, корп. 1",
+   "координаты": [
+    61.425199,
+    55.134448
+   ],
+   "рейтинг": 4.3,
+   "оценок": 110,
+   "отзывов": 55,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 020-43-74",
+    "+7 (951) 128-51-16",
+    "+7 (922) 710-83-07",
+    "+7 (351) 247-83-07"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aspekt/213873563288/"
+  },
+  {
+   "id": "187741807166",
+   "название": "Gbox",
+   "seoname": "gbox",
+   "адрес": "Свердловский тракт, 3Н, Челябинск",
+   "координаты": [
+    61.381206,
+    55.217691
+   ],
+   "рейтинг": 4.9,
+   "оценок": 75,
+   "отзывов": 50,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://g-box.su/"
+   ],
+   "телефоны": [
+    "+7 (351) 242-01-53"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–18:00; вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gbox/187741807166/"
+  },
+  {
+   "id": "188022986480",
+   "название": "АМ-Сервис",
+   "seoname": "am_servis",
+   "адрес": "50-я ул., 1264, СНТ Вишнёвый",
+   "координаты": [
+    61.257327,
+    55.129923
+   ],
+   "рейтинг": 4.4,
+   "оценок": 65,
+   "отзывов": 50,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://amservice74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-73-06"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/am_servis/188022986480/"
+  },
+  {
+   "id": "214340219128",
+   "название": "Север-Скан Авто",
+   "seoname": "sever_skan_avto",
+   "адрес": "2-я Потребительская ул., 6",
+   "координаты": [
+    61.382611,
+    55.101684
+   ],
+   "рейтинг": 4.3,
+   "оценок": 160,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://severscan-kamaz.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 729-84-33"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Грузовые автомобили, грузовая техника",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "freight_car_service",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "trailer_repair",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sever_skan_avto/214340219128/"
+  },
+  {
+   "id": "67100516771",
+   "название": "Французский мастер",
+   "seoname": "frantsuzskiy_master",
+   "адрес": "Красноармейская ул., 61",
+   "координаты": [
+    61.41409,
+    55.167347
+   ],
+   "рейтинг": 4.7,
+   "оценок": 71,
+   "отзывов": 45,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://francuzskimaster174.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 200-27-74"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/frantsuzskiy_master/67100516771/"
+  },
+  {
+   "id": "225420062978",
+   "название": "Радиатор74",
+   "seoname": "radiator74",
+   "адрес": "Плотничный пер., 9, Челябинск",
+   "координаты": [
+    61.474077,
+    55.163399
+   ],
+   "рейтинг": 5,
+   "оценок": 72,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 465-15-50"
+   ],
+   "часы": "вт-сб 10:00–18:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "заправка автокондиционеров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/radiator74/225420062978/"
+  },
+  {
+   "id": "186966603438",
+   "название": "Автосервис V 2.0",
+   "seoname": "avtoservis_v_2_0",
+   "адрес": "Цинковая ул., 2А/2",
+   "координаты": [
+    61.38036,
+    55.1941
+   ],
+   "рейтинг": 4.9,
+   "оценок": 62,
+   "отзывов": 37,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 770-70-06"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_v_2_0/186966603438/"
+  },
+  {
+   "id": "57777723029",
+   "название": "Корейский мастер",
+   "seoname": "koreyskiy_master",
+   "адрес": "ул. Гагарина, 7Б",
+   "координаты": [
+    61.444208,
+    55.142211
+   ],
+   "рейтинг": 4.3,
+   "оценок": 63,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koreiskimaster174.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 242-54-82"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–18:00; вс 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koreyskiy_master/57777723029/"
+  },
+  {
+   "id": "39879757780",
+   "название": "Ховер сервис",
+   "seoname": "khover_servis",
+   "адрес": "Челябинск, территория ГСК № 401, 785",
+   "координаты": [
+    61.477191,
+    55.168706
+   ],
+   "рейтинг": 4.9,
+   "оценок": 67,
+   "отзывов": 34,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://garage-74.ru/"
+   ],
+   "телефоны": [
+    "+7 (906) 867-08-47",
+    "+7 (351) 216-47-27"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "good_place",
+    "preliminary_registration",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/khover_servis/39879757780/"
+  },
+  {
+   "id": "15726829247",
+   "название": "Автотехцентр",
+   "seoname": "avtotekhtsentr",
+   "адрес": "Турбинная ул., 47",
+   "координаты": [
+    61.431481,
+    55.186724
+   ],
+   "рейтинг": 4.4,
+   "оценок": 46,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtotehtsentr-turbinnaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (351) 773-36-04",
+    "+7 (351) 775-60-63"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "body_repair",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotekhtsentr/15726829247/"
+  },
+  {
+   "id": "147448525136",
+   "название": "Профсервис",
+   "seoname": "profservis",
+   "адрес": "Валдайская ул., 4Г, Челябинск",
+   "координаты": [
+    61.447438,
+    55.204689
+   ],
+   "рейтинг": 5,
+   "оценок": 25,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://profservis74.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (951) 111-42-92"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_service_car_wash",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/profservis/147448525136/"
+  },
+  {
+   "id": "129006716928",
+   "название": "ТопАвто",
+   "seoname": "topavto",
+   "адрес": "ул. Спорта, 45",
+   "координаты": [
+    61.377877,
+    55.176738
+   ],
+   "рейтинг": 4.9,
+   "оценок": 22,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://topauto74.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 835-67-39",
+    "+7 (951) 120-69-71"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "заправка автокондиционеров"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/topavto/129006716928/"
+  },
+  {
+   "id": "186220826318",
+   "название": "Ремонт авто",
+   "seoname": "remont_avto",
+   "адрес": "территория ГСК № 211, 291",
+   "координаты": [
+    61.356416,
+    55.105717
+   ],
+   "рейтинг": 4.6,
+   "оценок": 11,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 784-56-81"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remont_avto/186220826318/"
+  },
+  {
+   "id": "188299627606",
+   "название": "Про Китай Авто",
+   "seoname": "pro_kitay_avto",
+   "адрес": "ул. Братьев Кашириных, 147А, Челябинск",
+   "координаты": [
+    61.297357,
+    55.168742
+   ],
+   "рейтинг": 4.6,
+   "оценок": 18,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://prokitavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 210-56-18"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_for_order",
+    "delivery",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pro_kitay_avto/188299627606/"
+  },
+  {
+   "id": "49789780818",
+   "название": "Vit-Avto74",
+   "seoname": "vit_avto74",
+   "адрес": "ул. Фёдорова, 1Д",
+   "координаты": [
+    61.402652,
+    55.135119
+   ],
+   "рейтинг": 4.4,
+   "оценок": 8,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://vit-avto74.ru/"
+   ],
+   "телефоны": [
+    "+7 (919) 334-28-88"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vit_avto74/49789780818/"
+  },
+  {
+   "id": "206726119375",
+   "название": "Моторс",
+   "seoname": "motors",
+   "адрес": "гаражно-строительный кооператив Турист, 2540",
+   "координаты": [
+    61.433869,
+    55.218739
+   ],
+   "рейтинг": 4.4,
+   "оценок": 8,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://motors-1777462674904.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (963) 080-06-89"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motors/206726119375/"
+  },
+  {
+   "id": "1404015850",
+   "название": "Лада-Нива",
+   "seoname": "lada_niva",
+   "адрес": "ул. Героев Танкограда, 71П, стр. 18",
+   "координаты": [
+    61.438807,
+    55.202344
+   ],
+   "рейтинг": 4.5,
+   "оценок": 105,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ladaniva74.clients.site/",
+    "https://mrqz.me/69674d91d6f37b001921da53"
+   ],
+   "телефоны": [
+    "+7 (977) 093-89-05",
+    "+7 (922) 718-71-86"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "engine_endoscopy",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "termobudki",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada_niva/1404015850/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "48107535259",
+   "название": "Газель Сервис",
+   "seoname": "gazel_servis",
+   "адрес": "Радонежская ул., 10, корп. 2, Челябинск",
+   "координаты": [
+    61.358307,
+    55.225373
+   ],
+   "рейтинг": 4.6,
+   "оценок": 39,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 727-72-07"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gazel_servis/48107535259/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "96473393783",
+   "название": "Кореа Про",
+   "seoname": "korea_pro",
+   "адрес": "ул. Дарвина, 10А, Челябинск",
+   "координаты": [
+    61.377059,
+    55.122375
+   ],
+   "рейтинг": 5,
+   "оценок": 135,
+   "отзывов": 87,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://koreapro.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (919) 301-00-66",
+    "+7 (919) 301-00-99"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/korea_pro/96473393783/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "1766713871",
+   "название": "Гольфстрим",
+   "seoname": "golfstrim",
+   "адрес": "ул. Братьев Кашириных, 126, Челябинск",
+   "координаты": [
+    61.303379,
+    55.173539
+   ],
+   "рейтинг": 4.6,
+   "оценок": 1239,
+   "отзывов": 413,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://planeta-avto.ru/",
+    "https://avtoservice.planeta-avto.ru/vag"
+   ],
+   "телефоны": [
+    "+7 (351) 210-58-49"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/golfstrim/1766713871/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "234222480119",
+   "название": "Луидор, сервис",
+   "seoname": "luidor_servis",
+   "адрес": "Валдайская ул., 17Б",
+   "координаты": [
+    61.454241,
+    55.202759
+   ],
+   "рейтинг": 4.5,
+   "оценок": 202,
+   "отзывов": 102,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sto.kamaz-chel.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 216-01-90"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "termobudki",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luidor_servis/234222480119/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "230606144443",
+   "название": "Регинас Сервис",
+   "seoname": "reginas_servis",
+   "адрес": "ул. Братьев Кашириных, 141Б",
+   "координаты": [
+    61.300115,
+    55.17024
+   ],
+   "рейтинг": 4.9,
+   "оценок": 154,
+   "отзывов": 107,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://service.reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 239-52-09"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reginas_servis/230606144443/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "56195024534",
+   "название": "Ваг Драйв",
+   "seoname": "vag_drayv",
+   "адрес": "ул. Братьев Кашириных, 143А, Челябинск",
+   "координаты": [
+    61.299086,
+    55.16996
+   ],
+   "рейтинг": 5,
+   "оценок": 359,
+   "отзывов": 172,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vagdrive.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 751-41-51"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vag_drayv/56195024534/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "65046707328",
+   "название": "Аквагрупп",
+   "seoname": "akvagrupp",
+   "адрес": "ул. Кудрявцева, 5Б, Челябинск",
+   "координаты": [
+    61.421684,
+    55.189255
+   ],
+   "рейтинг": 4,
+   "оценок": 13,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 687-03-33",
+    "+7 (919) 320-34-70"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "mobile_tire_service",
+    "payment_by_credit_card",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akvagrupp/65046707328/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "225153241857",
+   "название": "СПС Инжиниринг",
+   "seoname": "sps_inzhiniring",
+   "адрес": "Валдайская ул., 17, корп. 1",
+   "координаты": [
+    61.455303,
+    55.205271
+   ],
+   "рейтинг": 4.6,
+   "оценок": 20,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sps-74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 216-04-90"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sps_inzhiniring/225153241857/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "91105654957",
+   "название": "Авангард",
+   "seoname": "avangard",
+   "адрес": "ул. Игуменка, 23А",
+   "координаты": [
+    61.424986,
+    55.148423
+   ],
+   "рейтинг": 4.6,
+   "оценок": 14,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avangard-sto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (904) 930-55-73"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_from_car",
+    "preliminary_registration",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avangard/91105654957/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "143811033306",
+   "название": "Сварочные системы",
+   "seoname": "svarochnyye_sistemy",
+   "адрес": "ул. Героев Танкограда, 24П/к2",
+   "координаты": [
+    61.434911,
+    55.217198
+   ],
+   "рейтинг": 4.7,
+   "оценок": 18,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 333-02-03"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Сварочные работы",
+    "ремонт климатических систем",
+    "автомобильные радиаторы"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "delivery",
+    "disable_photopoi",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "service_maintenance",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/svarochnyye_sistemy/143811033306/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "163190859561",
+   "название": "Планета Авто",
+   "seoname": "planeta_avto",
+   "адрес": "ул. Братьев Кашириных, 137",
+   "координаты": [
+    61.301597,
+    55.171098
+   ],
+   "рейтинг": 4,
+   "оценок": 25,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtoservice.planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-94-35"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planeta_avto/163190859561/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "110104691941",
+   "название": "Автолаб",
+   "seoname": "avtolab",
+   "адрес": "ул. Северный Луч, 12/1",
+   "координаты": [
+    61.433285,
+    55.218143
+   ],
+   "рейтинг": 4.4,
+   "оценок": 48,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.avtolab74.ru/"
+   ],
+   "телефоны": [
+    "+7 (919) 317-32-32",
+    "+7 (919) 317-23-23"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "self_car_service",
+    "tire_fitting",
+    "trailer_repair",
+    "turbine repair",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtolab/110104691941/",
+   "найдено_по": "ремонт радиатора автомобиля Калининский район"
+  },
+  {
+   "id": "127208794994",
+   "название": "Мс-сервис",
+   "seoname": "ms_servis",
+   "адрес": "ул. Умельцев, 10",
+   "координаты": [
+    61.318983,
+    55.223165
+   ],
+   "рейтинг": 5,
+   "оценок": 38,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://service.ms-truck.com/"
+   ],
+   "телефоны": [
+    "+7 (904) 819-95-56",
+    "+7 (932) 301-69-79"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "heater_flushing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ms_servis/127208794994/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "1124308303",
+   "название": "Автосервис74",
+   "seoname": "avtoservis74",
+   "адрес": "Звенигородская ул., 23/2, Челябинск",
+   "координаты": [
+    61.26945,
+    55.188916
+   ],
+   "рейтинг": 4.2,
+   "оценок": 51,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://auto-service74.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 585-95-35"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт мототехники",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "diesel_service",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis74/1124308303/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "189307871865",
+   "название": "Порше центр Челябинск",
+   "seoname": "porshe_tsentr_chelyabinsk",
+   "адрес": "ул. Братьев Кашириных, 135, корп. 2, Челябинск",
+   "координаты": [
+    61.303862,
+    55.171433
+   ],
+   "рейтинг": 4.7,
+   "оценок": 189,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.chelyabinsk-porsche.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 799-79-11"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "electric car charging station",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/porshe_tsentr_chelyabinsk/189307871865/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "136350795893",
+   "название": "СТ моторс",
+   "seoname": "st_motors",
+   "адрес": "Челябинский городской округ, Курчатовский район",
+   "координаты": [
+    61.314902,
+    55.215782
+   ],
+   "рейтинг": 4.3,
+   "оценок": 6,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (982) 369-79-70"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/st_motors/136350795893/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "16184431855",
+   "название": "Арсенал-Авто",
+   "seoname": "arsenal_avto",
+   "адрес": "ул. Умельцев, 8",
+   "координаты": [
+    61.318588,
+    55.222991
+   ],
+   "рейтинг": 4.3,
+   "оценок": 6,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.arsenalavto.ru/servis.html"
+   ],
+   "телефоны": [
+    "+7 (351) 726-59-32",
+    "+7 (919) 339-90-19"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "запчасти для грузовых автомобилей",
+    "запчасти для спецтехники"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "freight_car_service",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "starters",
+    "thickness_gauge_checking",
+    "tire_chains",
+    "toilet",
+    "trailer_repair",
+    "transportation_storage_dangerous_goods",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/arsenal_avto/16184431855/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "64798787416",
+   "название": "Маленькая Франция",
+   "seoname": "malenkaya_frantsiya",
+   "адрес": "Свердловский просп., 7А, корп. 1",
+   "координаты": [
+    61.388192,
+    55.189135
+   ],
+   "рейтинг": 4.4,
+   "оценок": 71,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://маленькая-франция.рф/"
+   ],
+   "телефоны": [
+    "+7 (912) 302-99-99"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "hybrid_car_repair",
+    "injector_repair",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "variator_repair",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/malenkaya_frantsiya/64798787416/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "1763533051",
+   "название": "Sherby Ваг Профи",
+   "seoname": "sherby_vag_profi",
+   "адрес": "ул. Бейвеля, 7А",
+   "координаты": [
+    61.278474,
+    55.196019
+   ],
+   "рейтинг": 0,
+   "оценок": 83,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 309-11-79"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "engine_endoscopy",
+    "flywheel_repair",
+    "guarantee",
+    "hydroblock_repair",
+    "injector_repair",
+    "injectors_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "service_maintenance",
+    "thickness_gauge_checking",
+    "torque_converter_repair",
+    "variator_repair",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/sherby_vag_profi/1763533051/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "5579647278",
+   "название": "Авто Гуд",
+   "seoname": "avto_gud",
+   "адрес": "Гродненская ул., 21/1",
+   "координаты": [
+    61.338383,
+    55.198942
+   ],
+   "рейтинг": 4.5,
+   "оценок": 39,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://utek74.ru/"
+   ],
+   "телефоны": [
+    "+7 (968) 300-83-83",
+    "+7 (912) 313-09-90"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_gud/5579647278/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "187685974332",
+   "название": "АИР-Партс",
+   "seoname": "air_parts",
+   "адрес": "2-я Первомайская ул., 55",
+   "координаты": [
+    61.337215,
+    55.228355
+   ],
+   "рейтинг": 5,
+   "оценок": 54,
+   "отзывов": 25,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 897-99-79",
+    "+7 (951) 446-04-96"
+   ],
+   "часы": "вт-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "delivery",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "heater_flushing",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/air_parts/187685974332/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "74162926846",
+   "название": "Авторемонт 174",
+   "seoname": "avtoremont_174",
+   "адрес": "Краснопольский просп., 1/2",
+   "координаты": [
+    61.30478,
+    55.209114
+   ],
+   "рейтинг": 4.5,
+   "оценок": 38,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 078-33-83"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "street_entrance",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoremont_174/74162926846/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "1201499226",
+   "название": "Инжектор",
+   "seoname": "inzhektor",
+   "адрес": "ш. Металлургов, 59Б, корп. 1",
+   "координаты": [
+    61.367157,
+    55.242873
+   ],
+   "рейтинг": 4.8,
+   "оценок": 656,
+   "отзывов": 264,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 269-47-88",
+    "+7 (351) 726-06-01"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "disable_captions",
+    "disable_photopoi",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/inzhektor/1201499226/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "33095758023",
+   "название": "Авторемонт",
+   "seoname": "avtoremont",
+   "адрес": "просп. Победы, 295Б",
+   "координаты": [
+    61.318353,
+    55.187766
+   ],
+   "рейтинг": 2.2,
+   "оценок": 17,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 711-90-09",
+    "+7 (922) 631-78-63"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoremont/33095758023/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "127924247917",
+   "название": "АвтоАс",
+   "seoname": "avtoas",
+   "адрес": "ул. Комаровского, 10Б",
+   "координаты": [
+    61.372322,
+    55.241209
+   ],
+   "рейтинг": 4.4,
+   "оценок": 9,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 723-77-90"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoas/127924247917/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "1332715765",
+   "название": "Контроль-Авто",
+   "seoname": "kontrol_avto",
+   "адрес": "Свердловский тракт, 3Е",
+   "координаты": [
+    61.385017,
+    55.226112
+   ],
+   "рейтинг": 4.3,
+   "оценок": 42,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 327-12-92"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_refrigerated_trucks",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kontrol_avto/1332715765/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "152140100814",
+   "название": "Stimul",
+   "seoname": "stimul",
+   "адрес": "Полтавская ул., 3Б",
+   "координаты": [
+    61.377586,
+    55.256615
+   ],
+   "рейтинг": 4.2,
+   "оценок": 14,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 083-14-83",
+    "+7 (951) 111-96-16"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stimul/152140100814/",
+   "найдено_по": "ремонт радиатора автомобиля Курчатовский район"
+  },
+  {
+   "id": "128416065522",
+   "название": "Geely центр на Копейском",
+   "seoname": "geely_tsentr_na_kopeyskom",
+   "адрес": "Копейское ш., 33А, Челябинск",
+   "координаты": [
+    61.464203,
+    55.134281
+   ],
+   "рейтинг": 5,
+   "оценок": 431,
+   "отзывов": 241,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://promo.geely-kop.ru/",
+    "https://geely-kop.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-77-86"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_tsentr_na_kopeyskom/128416065522/",
+   "найдено_по": "ремонт радиатора автомобиля Ленинский район"
+  },
+  {
+   "id": "1002057505",
+   "название": "Бовид-Сервис",
+   "seoname": "bovid_servis",
+   "адрес": "Линейная ул., 98Б, Челябинск",
+   "координаты": [
+    61.487148,
+    55.161126
+   ],
+   "рейтинг": 4.3,
+   "оценок": 172,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://bovidtruck.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 200-27-46"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "запчасти для спецтехники",
+    "ремонт спецтехники"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bovid_servis/1002057505/",
+   "найдено_по": "ремонт радиатора автомобиля Ленинский район"
+  },
+  {
+   "id": "217756960355",
+   "название": "Belgee центр на Копейском",
+   "seoname": "belgee_tsentr_na_kopeyskom",
+   "адрес": "Копейское ш., 33А",
+   "координаты": [
+    61.464595,
+    55.134011
+   ],
+   "рейтинг": 5,
+   "оценок": 224,
+   "отзывов": 150,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://belgee-kop.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-74-43",
+    "+7 (351) 700-79-41"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/belgee_tsentr_na_kopeyskom/217756960355/",
+   "найдено_по": "ремонт радиатора автомобиля Ленинский район"
+  },
+  {
+   "id": "64201173489",
+   "название": "Японский мастер",
+   "seoname": "yaponskiy_master",
+   "адрес": "ул. Машиностроителей, 6/1",
+   "координаты": [
+    61.475335,
+    55.126457
+   ],
+   "рейтинг": 4.3,
+   "оценок": 75,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://yaponskimaster174.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 200-27-76",
+    "+7 (351) 278-56-92"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yaponskiy_master/64201173489/",
+   "найдено_по": "ремонт радиатора автомобиля Ленинский район"
+  },
+  {
+   "id": "169864342339",
+   "название": "Bg632",
+   "seoname": "bg632",
+   "адрес": "Копейское ш., 34",
+   "координаты": [
+    61.492403,
+    55.126189
+   ],
+   "рейтинг": 4.9,
+   "оценок": 49,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (982) 363-26-32"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autovinil",
+    "basic_service",
+    "body_repair",
+    "car_noise_insulation",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "glass_tinting",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "tuning_deflectors",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bg632/169864342339/",
+   "найдено_по": "ремонт радиатора автомобиля Ленинский район"
+  },
+  {
+   "id": "204500296536",
+   "название": "Автокомплекс AutoCartel",
+   "seoname": "avtokompleks_autocartel",
+   "адрес": "Кольцевой пер., 29, посёлок Сухомесово",
+   "координаты": [
+    61.484049,
+    55.07403
+   ],
+   "рейтинг": 4.3,
+   "оценок": 10,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autocartel-premium-auto.lovable.app/"
+   ],
+   "телефоны": [
+    "+7 (908) 047-37-77"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "field_service",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokompleks_autocartel/204500296536/",
+   "найдено_по": "ремонт радиатора автомобиля Ленинский район"
+  },
+  {
+   "id": "1393352522",
+   "название": "Авто-семь",
+   "seoname": "avto_sem",
+   "адрес": "Копейское ш., 36Б",
+   "координаты": [
+    61.489689,
+    55.129996
+   ],
+   "рейтинг": 4.8,
+   "оценок": 101,
+   "отзывов": 34,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 230-59-12",
+    "+7 (351) 270-90-01"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомобильные отопители",
+    "автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "guarantee",
+    "heater_flushing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "stove_radiator_washing",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_sem/1393352522/",
+   "найдено_по": "ремонт радиатора автомобиля Ленинский район"
+  },
+  {
+   "id": "1075802980",
+   "название": "Тойота центр Челябинск Восток",
+   "seoname": "toyota_tsentr_chelyabinsk_vostok",
+   "адрес": "просп. Ленина, 3Е",
+   "координаты": [
+    61.463598,
+    55.158895
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1374,
+   "отзывов": 393,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://toyotachel.ru/"
+   ],
+   "телефоны": [
+    "+7 (958) 740-14-51"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "generators",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "ramp",
+    "spare_parts",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr_chelyabinsk_vostok/1075802980/",
+   "найдено_по": "ремонт радиатора автомобиля Ленинский район"
+  },
+  {
+   "id": "91443086390",
+   "название": "Ремонт французских автомобилей",
+   "seoname": "remont_frantsuzskikh_avtomobiley",
+   "адрес": "Копейское ш., 31/3, Челябинск",
+   "координаты": [
+    61.473197,
+    55.129767
+   ],
+   "рейтинг": 4.2,
+   "оценок": 23,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://remont-frantsuzskih.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (951) 252-79-28"
+   ],
+   "часы": "ср-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "антикоррозийная обработка"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remont_frantsuzskikh_avtomobiley/91443086390/",
+   "найдено_по": "ремонт радиатора автомобиля Ленинский район"
+  },
+  {
+   "id": "72918333066",
+   "название": "Скорпион",
+   "seoname": "skorpion",
+   "адрес": "Копейское ш., 36/7",
+   "координаты": [
+    61.494667,
+    55.12655
+   ],
+   "рейтинг": 4.3,
+   "оценок": 77,
+   "отзывов": 32,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 979-42-42"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "motorcycle_tire_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skorpion/72918333066/",
+   "найдено_по": "ремонт радиатора автомобиля Ленинский район"
+  },
+  {
+   "id": "146412244530",
+   "название": "Планета Авто",
+   "seoname": "planeta_avto",
+   "адрес": "Копейское ш., 82",
+   "координаты": [
+    61.447117,
+    55.148204
+   ],
+   "рейтинг": 4.6,
+   "оценок": 29,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 200-36-01"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "trailer_repair",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planeta_avto/146412244530/",
+   "найдено_по": "ремонт радиатора автомобиля Ленинский район"
+  },
+  {
+   "id": "25498007415",
+   "название": "Автоцех № 1",
+   "seoname": "avtotsekh_1",
+   "адрес": "ул. 32-й Годовщины Октября, 27",
+   "координаты": [
+    61.396023,
+    55.238942
+   ],
+   "рейтинг": 4.6,
+   "оценок": 41,
+   "отзывов": 21,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtotseh-1.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (904) 936-20-10",
+    "+7 (908) 709-10-32"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "good_place",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsekh_1/25498007415/",
+   "найдено_по": "ремонт радиатора автомобиля Металлургический район"
+  },
+  {
+   "id": "8398148887",
+   "название": "Автолидер",
+   "seoname": "avtolider",
+   "адрес": "Хлебозаводская ул., 33Б",
+   "координаты": [
+    61.417088,
+    55.242037
+   ],
+   "рейтинг": 4.5,
+   "оценок": 443,
+   "отзывов": 128,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtolider-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (901) 245-03-26"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "armoring_headlights",
+    "authorized_service",
+    "basic_service",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "glass_tinting",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "self_service_car_wash",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtolider/8398148887/",
+   "найдено_по": "ремонт радиатора автомобиля Металлургический район"
+  },
+  {
+   "id": "199578140636",
+   "название": "КингСервис",
+   "seoname": "kingservis",
+   "адрес": "ш. Металлургов, 88, стр. 4",
+   "координаты": [
+    61.367425,
+    55.246122
+   ],
+   "рейтинг": 4.8,
+   "оценок": 97,
+   "отзывов": 49,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 547-47-87"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "моторные масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kingservis/199578140636/",
+   "найдено_по": "ремонт радиатора автомобиля Металлургический район"
+  },
+  {
+   "id": "116994851337",
+   "название": "КиК сервис",
+   "seoname": "kik_servis",
+   "адрес": "Челябинск, улица Куйбышева",
+   "координаты": [
+    61.373995,
+    55.196409
+   ],
+   "рейтинг": 5,
+   "оценок": 217,
+   "отзывов": 122,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://киксервис74.рф/",
+    "https://n2335041.yclients.ru/"
+   ],
+   "телефоны": [
+    "+7 (992) 505-35-65"
+   ],
+   "часы": "пн-пт 08:30–18:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kik_servis/116994851337/",
+   "найдено_по": "ремонт радиатора автомобиля Металлургический район"
+  },
+  {
+   "id": "155007478633",
+   "название": "Na-avtogaz74",
+   "seoname": "na_avtogaz74",
+   "адрес": "ул. Героев Танкограда, 24П, Челябинск",
+   "координаты": [
+    61.433049,
+    55.219991
+   ],
+   "рейтинг": 4.4,
+   "оценок": 8,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 110-55-74"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "home_visit",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "toilet",
+    "toilet_for_disabled",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/na_avtogaz74/155007478633/",
+   "найдено_по": "ремонт радиатора автомобиля Металлургический район"
+  },
+  {
+   "id": "205702204731",
+   "название": "Ural Customs Garage",
+   "seoname": "ural_customs_garage",
+   "адрес": "2-я Павелецкая ул., 22А/1",
+   "координаты": [
+    61.405338,
+    55.266579
+   ],
+   "рейтинг": 4.1,
+   "оценок": 5,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (992) 515-23-84"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ural_customs_garage/205702204731/",
+   "найдено_по": "ремонт радиатора автомобиля Металлургический район"
+  },
+  {
+   "id": "14020511395",
+   "название": "Taga-сервис",
+   "seoname": "taga_servis",
+   "адрес": "ул. Богдана Хмельницкого, 40",
+   "координаты": [
+    61.366068,
+    55.258718
+   ],
+   "рейтинг": 3.8,
+   "оценок": 7,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 454-35-43"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/taga_servis/14020511395/",
+   "найдено_по": "ремонт радиатора автомобиля Металлургический район"
+  },
+  {
+   "id": "6919556854",
+   "название": "АвтоПарадиз",
+   "seoname": "avtoparadiz",
+   "адрес": "ул. Харлова, 5А, Челябинск",
+   "координаты": [
+    61.442211,
+    55.147829
+   ],
+   "рейтинг": 4.9,
+   "оценок": 273,
+   "отзывов": 110,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtoparadiz.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (919) 321-02-02",
+    "+7 (919) 323-02-02"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoparadiz/6919556854/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "177615786686",
+   "название": "Шин Точка",
+   "seoname": "shin_tochka",
+   "адрес": "Учебная ул., 1В",
+   "координаты": [
+    61.37666,
+    55.136773
+   ],
+   "рейтинг": 4.1,
+   "оценок": 24,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://shintochka174.ru/"
+   ],
+   "телефоны": [
+    "+7 (951) 478-24-43"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shin_tochka/177615786686/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "193372951596",
+   "название": "Автосервис на Троицком",
+   "seoname": "avtoservis_na_troitskom",
+   "адрес": "Троицкий тракт, 7А",
+   "координаты": [
+    61.382734,
+    55.121928
+   ],
+   "рейтинг": 4.4,
+   "оценок": 50,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://natroickom.ru/"
+   ],
+   "телефоны": [
+    "+7 (951) 777-73-93"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "field_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_na_troitskom/193372951596/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "39687085575",
+   "название": "НК Моторс",
+   "seoname": "nk_motors",
+   "адрес": "Троицкая ул., 2Г",
+   "координаты": [
+    61.3761,
+    55.125587
+   ],
+   "рейтинг": 4.9,
+   "оценок": 58,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (982) 313-74-74"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injectors_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nk_motors/39687085575/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "114532106777",
+   "название": "Ремонт автомобилей",
+   "seoname": "remont_avtomobiley",
+   "адрес": "ул. 8 Марта, 1Г, посёлок Новосинеглазово",
+   "координаты": [
+    61.384048,
+    55.02975
+   ],
+   "рейтинг": 4.7,
+   "оценок": 28,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 118-00-71"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remont_avtomobiley/114532106777/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "1683742828",
+   "название": "Кузовной центр Turbo",
+   "seoname": "kuzovnoy_tsentr_turbo",
+   "адрес": "Маслобазовая ул., 5/4",
+   "координаты": [
+    61.357296,
+    55.100856
+   ],
+   "рейтинг": 3.9,
+   "оценок": 19,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 800-77-85",
+    "+7 (908) 704-38-00"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр",
+    "автоэмали, автомобильные краски"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kuzovnoy_tsentr_turbo/1683742828/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "144234490200",
+   "название": "Гараж 74",
+   "seoname": "garazh_74",
+   "адрес": "ул. Колсанова, 17А",
+   "координаты": [
+    61.393713,
+    55.137109
+   ],
+   "рейтинг": 4.1,
+   "оценок": 27,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (950) 733-39-37",
+    "+7 (902) 760-36-86"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garazh_74/144234490200/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "1081372129",
+   "название": "Японец, Jac Motors",
+   "seoname": "yaponets_jac_motors",
+   "адрес": "Троицкий тракт, 25И",
+   "координаты": [
+    61.386213,
+    55.088053
+   ],
+   "рейтинг": 4.5,
+   "оценок": 196,
+   "отзывов": 68,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://jac174.ru/"
+   ],
+   "телефоны": [
+    "+7 (904) 812-84-64",
+    "+7 (982) 109-40-06",
+    "+7 (351) 700-02-29",
+    "+7 (351) 700-02-29"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр",
+    "запчасти для грузовых автомобилей"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "field_service",
+    "freight_car_service",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "starters",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yaponets_jac_motors/1081372129/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "223403613486",
+   "название": "Грузовой автосервис Добрый",
+   "seoname": "gruzovoy_avtoservis_dobry",
+   "адрес": "Телеграфная ул., 48",
+   "координаты": [
+    61.359659,
+    55.100798
+   ],
+   "рейтинг": 4,
+   "оценок": 15,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 974-57-76"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "diesel_service",
+    "freight_car_service",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "repair_of_refrigerated_trucks",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzovoy_avtoservis_dobry/223403613486/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "27986818398",
+   "название": "Аспект",
+   "seoname": "aspekt",
+   "адрес": "ул. Татьяничевой, 13, корп. 1",
+   "координаты": [
+    61.368413,
+    55.149798
+   ],
+   "рейтинг": 4.1,
+   "оценок": 31,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://aspekt-74.orgs.biz/"
+   ],
+   "телефоны": [
+    "+7 (922) 233-56-24"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aspekt/27986818398/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "103381536387",
+   "название": "Автопоинт",
+   "seoname": "avtopoint",
+   "адрес": "Центральная ул., 3БК1, посёлок Шершни",
+   "координаты": [
+    61.303871,
+    55.151453
+   ],
+   "рейтинг": 4.3,
+   "оценок": 86,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 225-73-36"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "engine_endoscopy",
+    "flywheel_repair",
+    "freight_car_service",
+    "guarantee",
+    "heater_flushing",
+    "hydroblock_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "repair_of_refrigerated_trucks",
+    "service_maintenance",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "torque_converter_repair",
+    "urea",
+    "variator_repair",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtopoint/103381536387/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "113592421146",
+   "название": "Connect Ev",
+   "seoname": "connect_ev",
+   "адрес": "Трактовая ул., 26А, посёлок Шершни",
+   "координаты": [
+    61.308987,
+    55.147683
+   ],
+   "рейтинг": 4.3,
+   "оценок": 32,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 777-42-47",
+    "+7 (951) 472-31-16"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "электромобили, продажа и сервис"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/connect_ev/113592421146/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "1042568950",
+   "название": "ПланАвто",
+   "seoname": "planavto",
+   "адрес": "ул. Артёма, 187/1",
+   "координаты": [
+    61.408107,
+    55.108649
+   ],
+   "рейтинг": 4.5,
+   "оценок": 42,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://planauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (963) 082-87-88",
+    "+7 (351) 225-80-50"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planavto/1042568950/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "193736771190",
+   "название": "Автоклуб",
+   "seoname": "avtoklub",
+   "адрес": "Троицкий тракт, 20А/1",
+   "координаты": [
+    61.392351,
+    55.122632
+   ],
+   "рейтинг": 4.6,
+   "оценок": 23,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 060-80-80",
+    "+7 (351) 777-56-07"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoklub/193736771190/",
+   "найдено_по": "ремонт радиатора автомобиля Советский район"
+  },
+  {
+   "id": "166727687029",
+   "название": "Рембаза № 1",
+   "seoname": "rembaza_1",
+   "адрес": "Шадринская ул., 76/1",
+   "координаты": [
+    61.424687,
+    55.187583
+   ],
+   "рейтинг": 4.3,
+   "оценок": 13,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 223-86-06"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rembaza_1/166727687029/",
+   "найдено_по": "ремонт радиатора автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "113021082224",
+   "название": "АльянсАвтоГрупп",
+   "seoname": "alyansavtogrupp",
+   "адрес": "ул. 3-го Интернационала, 90/1, Челябинск",
+   "координаты": [
+    61.419999,
+    55.166269
+   ],
+   "рейтинг": 4.6,
+   "оценок": 37,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://alyansavtogrupp.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-83-62"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "field_service",
+    "glass_polishing",
+    "guarantee",
+    "heater_flushing",
+    "injectors_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alyansavtogrupp/113021082224/",
+   "найдено_по": "ремонт радиатора автомобиля Центральный район"
+  },
+  {
+   "id": "66508047304",
+   "название": "Fixauto Сервис",
+   "seoname": "fixauto_servis",
+   "адрес": "ул. Энтузиастов, 15Г",
+   "координаты": [
+    61.377481,
+    55.15248
+   ],
+   "рейтинг": 4.2,
+   "оценок": 35,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://fixauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 247-77-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fixauto_servis/66508047304/",
+   "найдено_по": "ремонт радиатора автомобиля Центральный район"
+  },
+  {
+   "id": "132411872520",
+   "название": "AutoCity",
+   "seoname": "autocity",
+   "адрес": "Покровская ул., 10/4, посёлок Шершни",
+   "координаты": [
+    61.293714,
+    55.150268
+   ],
+   "рейтинг": 4.7,
+   "оценок": 49,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://autocity174.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 216-44-45",
+    "+7 (962) 485-62-23",
+    "+7 (351) 750-48-64",
+    "+7 (962) 485-44-45"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "эвакуация автомобилей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/autocity/132411872520/",
+   "найдено_по": "ремонт радиатора автомобиля Центральный район"
+  },
+  {
+   "id": "139692090339",
+   "название": "А-Бренд",
+   "seoname": "a_brend",
+   "адрес": "Радонежская ул., 12",
+   "координаты": [
+    61.356161,
+    55.225252
+   ],
+   "рейтинг": 0,
+   "оценок": 60,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://abrandservice74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-64-17"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/a_brend/139692090339/",
+   "найдено_по": "ремонт радиатора автомобиля Центральный район"
+  },
+  {
+   "id": "56547167268",
+   "название": "Корейский мастер",
+   "seoname": "koreyskiy_master",
+   "адрес": "ул. Куйбышева, 1, Челябинск",
+   "координаты": [
+    61.383661,
+    55.195108
+   ],
+   "рейтинг": 4.4,
+   "оценок": 48,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koreiskimaster174.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 272-40-34"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–18:00; вс 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koreyskiy_master/56547167268/",
+   "найдено_по": "ремонт радиатора автомобиля Центральный район"
+  },
+  {
+   "id": "118124103104",
+   "название": "ЛевАВТО",
+   "seoname": "levavto",
+   "адрес": "ул. Вострецова, 23",
+   "координаты": [
+    61.374311,
+    55.190486
+   ],
+   "рейтинг": 4.8,
+   "оценок": 107,
+   "отзывов": 44,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://levavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 777-77-63",
+    "+7 (351) 248-67-63"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "car_park",
+    "car_valeting",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "electric car charging station",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/levavto/118124103104/",
+   "найдено_по": "ремонт радиатора автомобиля Центральный район"
+  }
+ ],
+ "расширено_по_районам": true
+}

@@ -1,0 +1,5553 @@
+{
+ "ниша": "Химчистка салона",
+ "ключ": "khimchistka-salona",
+ "запросы": [
+  "химчистка салона автомобиля"
+ ],
+ "найдено_в_яндексе": {
+  "химчистка салона автомобиля": 86,
+  "химчистка салона автомобиля Калининский район": 86,
+  "химчистка салона автомобиля Курчатовский район": 47,
+  "химчистка салона автомобиля Ленинский район": 35,
+  "химчистка салона автомобиля Металлургический район": 35,
+  "химчистка салона автомобиля Советский район": 50,
+  "химчистка салона автомобиля Тракторозаводский район": 39,
+  "химчистка салона автомобиля Центральный район": 80
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Челябинску (регион 56)",
+ "город": "chelyabinsk",
+ "компании": [
+  {
+   "id": "1090611011",
+   "название": "Городской автомоечный комплекс",
+   "seoname": "gorodskoy_avtomoyechny_kompleks",
+   "адрес": "ул. Чичерина, 24",
+   "координаты": [
+    61.289524,
+    55.183877
+   ],
+   "рейтинг": 4.6,
+   "оценок": 851,
+   "отзывов": 346,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://автомой74.рф/"
+   ],
+   "телефоны": [
+    "+7 (351) 225-11-99",
+    "+7 (985) 255-11-99"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cafe",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gorodskoy_avtomoyechny_kompleks/1090611011/",
+   "последний_отзыв": "2026-09-11",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 53
+  },
+  {
+   "id": "1686897032",
+   "название": "На Потёмкина",
+   "seoname": "na_potyomkina",
+   "адрес": "ул. Потёмкина, 58/1",
+   "координаты": [
+    61.427714,
+    55.181389
+   ],
+   "рейтинг": 5,
+   "оценок": 460,
+   "отзывов": 188,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 800-22-33"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "cafe",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/na_potyomkina/1686897032/",
+   "последний_отзыв": "2026-08-26",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 50
+  },
+  {
+   "id": "177630896232",
+   "название": "ПРОмойавто",
+   "seoname": "promoyavto",
+   "адрес": "ул. Курчатова, 22В",
+   "координаты": [
+    61.389048,
+    55.15049
+   ],
+   "рейтинг": 4.3,
+   "оценок": 354,
+   "отзывов": 138,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://promojavto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (904) 977-54-85",
+    "+7 (351) 777-19-93"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "access_by_agreement",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "glass_polishing",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/promoyavto/177630896232/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 69
+  },
+  {
+   "id": "28552731009",
+   "название": "Солнечный",
+   "seoname": "solnechny",
+   "адрес": "Солнечная ул., 7/1",
+   "координаты": [
+    61.319933,
+    55.199623
+   ],
+   "рейтинг": 4.9,
+   "оценок": 321,
+   "отзывов": 132,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (929) 239-86-65",
+    "+7 (351) 751-29-36"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "cafe",
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solnechny/28552731009/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 50
+  },
+  {
+   "id": "1152559036",
+   "название": "Авто Смак",
+   "seoname": "avto_smak",
+   "адрес": "просп. Победы, 293А, корп. 2",
+   "координаты": [
+    61.321147,
+    55.18762
+   ],
+   "рейтинг": 5,
+   "оценок": 293,
+   "отзывов": 121,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autosmak74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 233-63-36",
+    "+7 (351) 233-32-81",
+    "+7 (912) 777-85-85"
+   ],
+   "часы": "пн-сб 09:30–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Тонирование автостёкол",
+    "детейлинг",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "armoring_headlights",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "ceiling_cleaning",
+    "chrome_plating",
+    "delivery",
+    "disk_maintenance",
+    "gift_certificate",
+    "glass_polishing",
+    "installation",
+    "leather_repair",
+    "ozonation",
+    "payment_by_credit_card",
+    "pickup",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_smak/1152559036/",
+   "последний_отзыв": "2026-08-28",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 79
+  },
+  {
+   "id": "156647143703",
+   "название": "CleanAuto",
+   "seoname": "cleanauto",
+   "адрес": "Лесопарковая ул., 7К",
+   "координаты": [
+    61.367343,
+    55.154804
+   ],
+   "рейтинг": 4.6,
+   "оценок": 258,
+   "отзывов": 112,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cleanauto74.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 017-01-78"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "access_by_agreement",
+    "car_valeting",
+    "car_waxing",
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cleanauto/156647143703/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 77
+  },
+  {
+   "id": "1209137283",
+   "название": "Akwalina",
+   "seoname": "akwalina",
+   "адрес": "ул. Блюхера, 123В",
+   "координаты": [
+    61.35044,
+    55.105876
+   ],
+   "рейтинг": 4.7,
+   "оценок": 341,
+   "отзывов": 111,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://akwalina-74.orgs.biz/"
+   ],
+   "телефоны": [
+    "+7 (922) 633-55-22"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг",
+    "химчистка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "glass_polishing",
+    "good_place",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akwalina/1209137283/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 67
+  },
+  {
+   "id": "43061176773",
+   "название": "ВК авто",
+   "seoname": "vk_avto",
+   "адрес": "2-я Осташковская ул., 17/1",
+   "координаты": [
+    61.335525,
+    55.199355
+   ],
+   "рейтинг": 5,
+   "оценок": 170,
+   "отзывов": 101,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://bkauto74.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 751-29-07"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "тонирование автостёкол",
+    "автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "armoring_headlights",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "bike_parking",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "ceiling_cleaning",
+    "gift_certificate",
+    "glass_tinting",
+    "good_place",
+    "installation",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vk_avto/43061176773/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 93
+  },
+  {
+   "id": "124415312451",
+   "название": "Renzacci",
+   "seoname": "renzacci",
+   "адрес": "Артиллерийская ул., 83А",
+   "координаты": [
+    61.434095,
+    55.172831
+   ],
+   "рейтинг": 4.4,
+   "оценок": 219,
+   "отзывов": 92,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (999) 589-66-59",
+    "+7 (963) 085-01-53"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "автохимчистка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/renzacci/124415312451/",
+   "последний_отзыв": "2026-08-10",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 73
+  },
+  {
+   "id": "217692354964",
+   "название": "Rds",
+   "seoname": "rds",
+   "адрес": "ул. Университетская Набережная, 68, стр. 3",
+   "координаты": [
+    61.30514,
+    55.169745
+   ],
+   "рейтинг": 5,
+   "оценок": 126,
+   "отзывов": 76,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://rds74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 750-04-50",
+    "+7 (908) 093-64-74"
+   ],
+   "часы": "пн-пт 09:30–19:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "оклейка машин",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "antichrome",
+    "aquablasting",
+    "arches_noise_insulation",
+    "autovinil",
+    "bike_parking",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "ceiling_cleaning",
+    "disk_maintenance",
+    "gift_certificate",
+    "glass_polishing",
+    "leather_repair",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rds/217692354964/",
+   "последний_отзыв": "2026-10-03",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 67
+  },
+  {
+   "id": "165991964002",
+   "название": "Самомой",
+   "seoname": "samomoy",
+   "адрес": "Актюбинская ул., 36, посёлок Колхозный",
+   "координаты": [
+    61.353479,
+    55.179481
+   ],
+   "рейтинг": 4.3,
+   "оценок": 155,
+   "отзывов": 68,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 123-01-96"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samomoy/165991964002/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 54
+  },
+  {
+   "id": "91652214142",
+   "название": "Ре-стайлинг. про",
+   "seoname": "re_stayling_pro",
+   "адрес": "ул. 250-летия Челябинска, 27",
+   "координаты": [
+    61.29044,
+    55.173439
+   ],
+   "рейтинг": 5,
+   "оценок": 151,
+   "отзывов": 63,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://re-styling.pro/"
+   ],
+   "телефоны": [
+    "+7 (906) 864-09-25"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Оклейка машин",
+    "детейлинг",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "autovinil",
+    "car_body_film",
+    "car_door_closers",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "cars_russification",
+    "ceiling_cleaning",
+    "gift_certificate",
+    "glass_tinting",
+    "good_place",
+    "leather_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/re_stayling_pro/91652214142/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 73
+  },
+  {
+   "id": "75054550230",
+   "название": "Мокрые бандиты",
+   "seoname": "mokryye_bandity",
+   "адрес": "ул. Труда, 183, корп. 1",
+   "координаты": [
+    61.375398,
+    55.168218
+   ],
+   "рейтинг": 4.9,
+   "оценок": 94,
+   "отзывов": 58,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 437-78-85",
+    "+7 (351) 250-50-11"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "good_place",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mokryye_bandity/75054550230/",
+   "последний_отзыв": "2026-09-06",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 61
+  },
+  {
+   "id": "34334123109",
+   "название": "ВС Студия",
+   "seoname": "vs_studiya",
+   "адрес": "Гражданская ул., 14А",
+   "координаты": [
+    61.421957,
+    55.137821
+   ],
+   "рейтинг": 5,
+   "оценок": 56,
+   "отзывов": 54,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 111-11-44",
+    "+7 (952) 522-30-22"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "bike_parking",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "ceiling_cleaning",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "tire_blacking",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vs_studiya/34334123109/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 74
+  },
+  {
+   "id": "24307079677",
+   "название": "Автомойка на Татьяничевой",
+   "seoname": "avtomoyka_na_tatyanichevoy",
+   "адрес": "ул. Татьяничевой, 16",
+   "координаты": [
+    61.367994,
+    55.148178
+   ],
+   "рейтинг": 4.3,
+   "оценок": 146,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 096-95-48"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka_na_tatyanichevoy/24307079677/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 72
+  },
+  {
+   "id": "102795372339",
+   "название": "АльфаГараж",
+   "seoname": "alfagarazh",
+   "адрес": "Пограничная ул., 25А",
+   "координаты": [
+    61.426168,
+    55.144963
+   ],
+   "рейтинг": 4.7,
+   "оценок": 103,
+   "отзывов": 51,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://alfa-garage74.ru/"
+   ],
+   "телефоны": [
+    "+7 (981) 079-42-33"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автоателье",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "ceiling_cleaning",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "leather_repair",
+    "ozonation",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alfagarazh/102795372339/"
+  },
+  {
+   "id": "1719271233",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "Гражданская ул., 14А/1",
+   "координаты": [
+    61.422288,
+    55.138222
+   ],
+   "рейтинг": 4.3,
+   "оценок": 120,
+   "отзывов": 49,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (961) 797-70-77"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "химчистка"
+   ],
+   "признаки": [
+    "car_polishing",
+    "car_valeting",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/1719271233/"
+  },
+  {
+   "id": "223787354348",
+   "название": "Depo Detailing",
+   "seoname": "depo_detailing",
+   "адрес": "Артиллерийская ул., 117",
+   "координаты": [
+    61.436368,
+    55.164388
+   ],
+   "рейтинг": 5,
+   "оценок": 103,
+   "отзывов": 45,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 015-10-01"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автохимчистка",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "call_button",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/depo_detailing/223787354348/"
+  },
+  {
+   "id": "183327682404",
+   "название": "ЭстетикБро",
+   "seoname": "estetikbro",
+   "адрес": "ул. Худякова, 10",
+   "координаты": [
+    61.375159,
+    55.148433
+   ],
+   "рейтинг": 5,
+   "оценок": 36,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.esteticbro.ru/"
+   ],
+   "телефоны": [
+    "+7 (951) 777-78-89"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "кузовной ремонт",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "antichrome",
+    "autovinil",
+    "bike_parking",
+    "bumper_repair",
+    "car_armoring",
+    "car_interior_re_lighting",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "disable_photopoi",
+    "gift_certificate",
+    "glass_tinting",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/estetikbro/183327682404/"
+  },
+  {
+   "id": "13151504118",
+   "название": "Black Duck",
+   "seoname": "black_duck",
+   "адрес": "Артиллерийская ул., 117/10",
+   "координаты": [
+    61.436037,
+    55.162689
+   ],
+   "рейтинг": 5,
+   "оценок": 58,
+   "отзывов": 32,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 305-00-15"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автохимчистка",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/black_duck/13151504118/"
+  },
+  {
+   "id": "5670778263",
+   "название": "СколОФФ. про",
+   "seoname": "skoloff_pro",
+   "адрес": "ул. Чайковского, 75",
+   "координаты": [
+    61.361932,
+    55.189013
+   ],
+   "рейтинг": 5,
+   "оценок": 39,
+   "отзывов": 30,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://skoloff.pro/",
+    "http://taplink.cc/skoloff.pro"
+   ],
+   "телефоны": [
+    "+7 (351) 210-43-90",
+    "+7 (951) 814-49-71",
+    "+7 (908) 066-32-29"
+   ],
+   "часы": "пн-пт 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "autovinil",
+    "car_armoring",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "gift_certificate",
+    "glass_tinting",
+    "good_place",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skoloff_pro/5670778263/"
+  },
+  {
+   "id": "221820464295",
+   "название": "Победа",
+   "seoname": "pobeda",
+   "адрес": "ул. Елькина, 85, стр. 1",
+   "координаты": [
+    61.400011,
+    55.148278
+   ],
+   "рейтинг": 4.4,
+   "оценок": 54,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 247-85-14"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг",
+    "чистка ковров"
+   ],
+   "признаки": [
+    "car_valeting",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pobeda/221820464295/"
+  },
+  {
+   "id": "158160996572",
+   "название": "АвтоЕвропа",
+   "seoname": "avtoyevropa",
+   "адрес": "Комсомольский просп., 16/3, Челябинск",
+   "координаты": [
+    61.368893,
+    55.192813
+   ],
+   "рейтинг": 4.5,
+   "оценок": 43,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://autoeuropa74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-46-86"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "автохимчистка"
+   ],
+   "признаки": [
+    "cafe",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoyevropa/158160996572/"
+  },
+  {
+   "id": "161902066727",
+   "название": "At Detailing",
+   "seoname": "at_detailing",
+   "адрес": "ул. Колсанова, 11",
+   "координаты": [
+    61.394999,
+    55.137883
+   ],
+   "рейтинг": 4.8,
+   "оценок": 33,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (996) 228-59-87",
+    "+7 (922) 018-10-10"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "оклейка машин",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "autovinil",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "leather_repair",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "street_entrance",
+    "tire_blacking"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/at_detailing/161902066727/"
+  },
+  {
+   "id": "4617018177",
+   "название": "Автоэстетика",
+   "seoname": "avtoestetika",
+   "адрес": "ул. Воровского, 6",
+   "координаты": [
+    61.395098,
+    55.157428
+   ],
+   "рейтинг": 4.4,
+   "оценок": 15,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (909) 077-55-88"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoestetika/4617018177/"
+  },
+  {
+   "id": "42140256327",
+   "название": "Империя",
+   "seoname": "imperiya",
+   "адрес": "ул. Спорта, 44",
+   "координаты": [
+    61.377543,
+    55.176991
+   ],
+   "рейтинг": 4.3,
+   "оценок": 8,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://impcareauto.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (919) 128-88-79"
+   ],
+   "часы": "ежедневно, 09:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "оклейка машин",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "antichrome",
+    "aquablasting",
+    "arches_noise_insulation",
+    "automatic_door",
+    "bike_parking",
+    "call_button",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "ceiling_cleaning",
+    "disable_captions",
+    "disk_maintenance",
+    "gift_certificate",
+    "glass_polishing",
+    "leather_repair",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "tire_blacking",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/imperiya/42140256327/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "25370160026",
+   "название": "BroAuto",
+   "seoname": "broauto",
+   "адрес": "Каслинская ул., 1Г",
+   "координаты": [
+    61.389768,
+    55.196393
+   ],
+   "рейтинг": 4.7,
+   "оценок": 219,
+   "отзывов": 92,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (909) 091-54-33"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/broauto/25370160026/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "1027876870",
+   "название": "Керхер",
+   "seoname": "kerkher",
+   "адрес": "ул. Братьев Кашириных, 86, стр. 1",
+   "координаты": [
+    61.336936,
+    55.179192
+   ],
+   "рейтинг": 4.4,
+   "оценок": 178,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 778-09-09",
+    "+7 (912) 316-33-68"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_valeting",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kerkher/1027876870/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "207585258793",
+   "название": "CleanSkill",
+   "seoname": "cleanskill",
+   "адрес": "ул. Чайковского, 109",
+   "координаты": [
+    61.358455,
+    55.186242
+   ],
+   "рейтинг": 4.9,
+   "оценок": 74,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (993) 545-70-57"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "студия тюнинга",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "access_by_agreement",
+    "anti_gravity_film",
+    "aquablasting",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "chrome_plating",
+    "disable_captions",
+    "gift_certificate",
+    "glass_polishing",
+    "kaspi_red",
+    "leather_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cleanskill/207585258793/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "243869791367",
+   "название": "Каширинский",
+   "seoname": "kashirinskiy",
+   "адрес": "ул. Братьев Кашириных, 129Б/1",
+   "координаты": [
+    61.317869,
+    55.178163
+   ],
+   "рейтинг": 4.4,
+   "оценок": 150,
+   "отзывов": 80,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://автомойка174.рф/"
+   ],
+   "телефоны": [
+    "+7 (351) 776-00-89",
+    "+7 (908) 059-82-33"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг",
+    "клининговые услуги"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "car_valeting",
+    "car_waxing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_service",
+    "self_service_car_wash",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kashirinskiy/243869791367/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "17393948246",
+   "название": "АвтоSpa",
+   "seoname": "avtospa",
+   "адрес": "Каслинская ул., 62Б",
+   "координаты": [
+    61.39419,
+    55.175117
+   ],
+   "рейтинг": 4.4,
+   "оценок": 43,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 454-22-55"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtospa/17393948246/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "54943971953",
+   "название": "Форс Кар",
+   "seoname": "fors_kar",
+   "адрес": "ул. Игнатия Вандышева, уч23",
+   "координаты": [
+    61.344496,
+    55.186421
+   ],
+   "рейтинг": 4.1,
+   "оценок": 10,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://forcecar74.ru/"
+   ],
+   "телефоны": [
+    "+7 (952) 518-07-17"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "carbon_fiber_lamination",
+    "gift_certificate",
+    "leather_repair",
+    "ozonation",
+    "parking_disabled",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fors_kar/54943971953/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "22119860250",
+   "название": "Lm Detail",
+   "seoname": "lm_detail",
+   "адрес": "Актюбинская ул., 28, посёлок Колхозный",
+   "координаты": [
+    61.353488,
+    55.180151
+   ],
+   "рейтинг": 4.9,
+   "оценок": 24,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 474-70-00"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "оклейка машин",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "aquaprint",
+    "autovinil",
+    "car_armoring",
+    "car_interior_re_lighting",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "gift_certificate",
+    "glass_polishing",
+    "glass_tinting",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "taxi_car_wrapping",
+    "tuning_deflectors",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lm_detail/22119860250/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "136547019753",
+   "название": "МойАвтоРай",
+   "seoname": "moyavtoray",
+   "адрес": "Стартовая ул., 34/4",
+   "координаты": [
+    61.362773,
+    55.183687
+   ],
+   "рейтинг": 4.9,
+   "оценок": 100,
+   "отзывов": 55,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 234-30-68"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "commercial_vehicles_repair",
+    "motorcycle_tire_repair",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "self_car_service",
+    "starting_the_car",
+    "street_entrance",
+    "tire_blacking",
+    "tire_fitting",
+    "toilet",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moyavtoray/136547019753/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "1048753733",
+   "название": "Авто-Блик",
+   "seoname": "avto_blik",
+   "адрес": "просп. Победы, 305Д",
+   "координаты": [
+    61.308744,
+    55.188095
+   ],
+   "рейтинг": 4.4,
+   "оценок": 284,
+   "отзывов": 114,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 779-99-96"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_blik/1048753733/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "46269612017",
+   "название": "МойкаНаПаркинге",
+   "seoname": "moykanaparkinge",
+   "адрес": "ул. Молодогвардейцев, 31, корп. 1",
+   "координаты": [
+    61.334681,
+    55.188312
+   ],
+   "рейтинг": 4.8,
+   "оценок": 21,
+   "отзывов": 19,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (993) 548-12-51"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "good_place",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moykanaparkinge/46269612017/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "108284624911",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "просп. Победы, 302, корп. 2",
+   "координаты": [
+    61.349101,
+    55.18859
+   ],
+   "рейтинг": 4.3,
+   "оценок": 111,
+   "отзывов": 58,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 465-31-12"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "химчистка",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/108284624911/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "98135014320",
+   "название": "Мой комфорт",
+   "seoname": "moy_komfort",
+   "адрес": "Шенкурская ул., 7",
+   "координаты": [
+    61.398123,
+    55.191111
+   ],
+   "рейтинг": 4.4,
+   "оценок": 11,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 703-75-95"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "payment_from_car",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moy_komfort/98135014320/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "143192043601",
+   "название": "Автомоечный комплекс",
+   "seoname": "avtomoyechny_kompleks",
+   "адрес": "ул. 40-летия Победы, 31В/1",
+   "координаты": [
+    61.306965,
+    55.18399
+   ],
+   "рейтинг": 4.6,
+   "оценок": 90,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 215-09-49",
+    "+7 (908) 820-31-87"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyechny_kompleks/143192043601/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "50464130933",
+   "название": "Aquanika",
+   "seoname": "aquanika",
+   "адрес": "ул. Братьев Кашириных, 133/6",
+   "координаты": [
+    61.304574,
+    55.172953
+   ],
+   "рейтинг": 4.4,
+   "оценок": 602,
+   "отзывов": 248,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://aquanika.su/tproduct/1-792448524928-bratev-kashirinih-133"
+   ],
+   "телефоны": [
+    "+7 (351) 750-90-60",
+    "8 (800) 222-76-55",
+    "+7 (922) 633-33-35",
+    "+7 (351) 750-17-17",
+    "+7 (922) 750-90-60"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_polishing",
+    "car_waxing",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aquanika/50464130933/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "194521917591",
+   "название": "Империя",
+   "seoname": "imperiya",
+   "адрес": "Валдайская ул., 1А, корп. 1",
+   "координаты": [
+    61.442879,
+    55.207736
+   ],
+   "рейтинг": 4,
+   "оценок": 34,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtomoechnyj-kompleks-imperija.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (993) 657-39-25"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "грузовая автомойка"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/imperiya/194521917591/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "1257778054",
+   "название": "Респект",
+   "seoname": "respekt",
+   "адрес": "Отрадная ул., 25, стр. 2",
+   "координаты": [
+    61.342892,
+    55.180087
+   ],
+   "рейтинг": 4.4,
+   "оценок": 125,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 796-33-99",
+    "+7 (951) 485-74-74",
+    "+7 (351) 796-33-55"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/respekt/1257778054/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "75272861320",
+   "название": "Dr. Detailing",
+   "seoname": "dr_detailing",
+   "адрес": "Комсомольский просп., 60Б",
+   "координаты": [
+    61.326378,
+    55.196747
+   ],
+   "рейтинг": 5,
+   "оценок": 58,
+   "отзывов": 25,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://детейлинг-челябинск.рф/"
+   ],
+   "телефоны": [
+    "+7 (962) 485-49-29",
+    "+7 (351) 216-49-29"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автохимчистка",
+    "нанесение покрытий"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dr_detailing/75272861320/",
+   "найдено_по": "химчистка салона автомобиля Калининский район"
+  },
+  {
+   "id": "147745394470",
+   "название": "Green Park",
+   "seoname": "green_park",
+   "адрес": "Краснопольский просп., 5И",
+   "координаты": [
+    61.299538,
+    55.207669
+   ],
+   "рейтинг": 4.4,
+   "оценок": 224,
+   "отзывов": 81,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://greenpark1.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 570-79-99"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/green_park/147745394470/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "53094742052",
+   "название": "Элит Детейлинг",
+   "seoname": "elit_deteyling",
+   "адрес": "Комсомольский просп., 70Б",
+   "координаты": [
+    61.318507,
+    55.195385
+   ],
+   "рейтинг": 4.9,
+   "оценок": 101,
+   "отзывов": 56,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://elitedeteiling.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 233-54-54",
+    "+7 (908) 080-04-54"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "кузовной ремонт",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "authorized_service",
+    "bumper_repair",
+    "cafe",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "ceiling_cleaning",
+    "certified_service",
+    "chrome_plating",
+    "disable_captions",
+    "disk_maintenance",
+    "door_repair",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "leather_repair",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "thickness_gauge_color",
+    "tire_blacking",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/elit_deteyling/53094742052/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "172458829327",
+   "название": "Мой Сам",
+   "seoname": "moy_sam",
+   "адрес": "Шагольская ул., 6А/2",
+   "координаты": [
+    61.308471,
+    55.235
+   ],
+   "рейтинг": 5,
+   "оценок": 58,
+   "отзывов": 34,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtomojka-samoobsluzhivanija-1697482619.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (951) 454-62-53",
+    "+7 (951) 462-68-88"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "car_park",
+    "car_valeting",
+    "car_waxing",
+    "disable_captions",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moy_sam/172458829327/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "60978774879",
+   "название": "Dp Detailing",
+   "seoname": "dp_detailing",
+   "адрес": "Челябинский городской округ, Курчатовский район",
+   "координаты": [
+    61.345627,
+    55.201032
+   ],
+   "рейтинг": 4.4,
+   "оценок": 8,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 473-54-38"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "покраска автомобилей"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "arches_noise_insulation",
+    "car_armoring",
+    "car_body_film",
+    "car_polishing",
+    "car_valeting",
+    "ceiling_cleaning",
+    "glass_polishing",
+    "ozonation",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "scratch_repair",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dp_detailing/60978774879/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "67739788996",
+   "название": "Кристалл",
+   "seoname": "kristall",
+   "адрес": "ул. Молодогвардейцев, 15Д",
+   "координаты": [
+    61.329119,
+    55.201328
+   ],
+   "рейтинг": 4.3,
+   "оценок": 53,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (964) 495-43-94",
+    "+7 (991) 898-36-96",
+    "+7 (908) 581-11-72"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kristall/67739788996/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "57567917956",
+   "название": "АТС",
+   "seoname": "ats",
+   "адрес": "Городская ул., 29Г",
+   "координаты": [
+    61.27127,
+    55.181789
+   ],
+   "рейтинг": 4.7,
+   "оценок": 14,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (950) 030-07-13",
+    "+7 (993) 930-57-13"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "химчистка",
+    "автомойка"
+   ],
+   "признаки": [
+    "payment_from_car",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ats/57567917956/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "34499422681",
+   "название": "DetailPro",
+   "seoname": "detailpro",
+   "адрес": "Городская ул., 72, Челябинск",
+   "координаты": [
+    61.266082,
+    55.184556
+   ],
+   "рейтинг": 4.7,
+   "оценок": 39,
+   "отзывов": 25,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 099-98-46"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "оклейка машин",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "autovinil",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "taxi_car_wrapping",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/detailpro/34499422681/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "79659426351",
+   "название": "moicar174",
+   "seoname": "moicar174",
+   "адрес": "Звенигородская ул., 25",
+   "координаты": [
+    61.278399,
+    55.193267
+   ],
+   "рейтинг": 4.6,
+   "оценок": 257,
+   "отзывов": 103,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://moicar174.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (951) 465-31-12"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "химчистка"
+   ],
+   "признаки": [
+    "car_park",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "self_service_car_wash"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moicar174/79659426351/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "229661964548",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "ул. Косарева, 2, корп. 4",
+   "координаты": [
+    61.370483,
+    55.19697
+   ],
+   "рейтинг": 4.4,
+   "оценок": 330,
+   "отзывов": 103,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://aquanika.su/tproduct/1-411637690507-kosareva-2-k7"
+   ],
+   "телефоны": [
+    "8 (800) 222-76-55"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_waxing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_blacking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/229661964548/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "10539484433",
+   "название": "Kazak Detail",
+   "seoname": "kazak_detail",
+   "адрес": "ул. Куйбышева, 38",
+   "координаты": [
+    61.351191,
+    55.1987
+   ],
+   "рейтинг": 4.2,
+   "оценок": 5,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 023-18-23"
+   ],
+   "часы": "вт-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автохимчистка",
+    "тонирование автостёкол",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "armoring_headlights",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kazak_detail/10539484433/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "45956704681",
+   "название": "Krash detailing",
+   "seoname": "krash_detailing",
+   "адрес": "ул. Косарева, 2",
+   "координаты": [
+    61.370596,
+    55.194896
+   ],
+   "рейтинг": 4.6,
+   "оценок": 25,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 753-05-81"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/krash_detailing/45956704681/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "81153813398",
+   "название": "Мойка",
+   "seoname": "moyka",
+   "адрес": "ул. Косарева, 1А/2",
+   "координаты": [
+    61.372779,
+    55.196608
+   ],
+   "рейтинг": 4.5,
+   "оценок": 46,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://delta-ooo-avtoservis-vs.orgs.biz/"
+   ],
+   "телефоны": [
+    "+7 (351) 790-21-47"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "химчистка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moyka/81153813398/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "1899976043",
+   "название": "Шагольская",
+   "seoname": "shagolskaya",
+   "адрес": "Загородная ул., 13/1, посёлок Челябэнерго",
+   "координаты": [
+    61.286682,
+    55.231528
+   ],
+   "рейтинг": 4.4,
+   "оценок": 143,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (902) 601-81-12"
+   ],
+   "часы": "ежедневно, 09:00–20:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "Установка ГБО"
+   ],
+   "признаки": [
+    "car_valeting",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shagolskaya/1899976043/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "196737953789",
+   "название": "Neon",
+   "seoname": "neon",
+   "адрес": "ул. Молодогвардейцев, 1",
+   "координаты": [
+    61.32122,
+    55.207736
+   ],
+   "рейтинг": 4.3,
+   "оценок": 8,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 971-83-55",
+    "+7 (952) 509-66-73"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг"
+   ],
+   "признаки": [
+    "car_park",
+    "car_valeting",
+    "gift_certificate",
+    "glass_polishing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/neon/196737953789/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "2471339320",
+   "название": "Аква Лига",
+   "seoname": "akva_liga",
+   "адрес": "Челябинский городской округ, Курчатовский район",
+   "координаты": [
+    61.299747,
+    55.219074
+   ],
+   "рейтинг": 4.1,
+   "оценок": 9,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "payment_from_car"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akva_liga/2471339320/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "129911470755",
+   "название": "Aquanika",
+   "seoname": "aquanika",
+   "адрес": "ул. Молодогвардейцев, 2Б",
+   "координаты": [
+    61.316549,
+    55.207778
+   ],
+   "рейтинг": 4.3,
+   "оценок": 290,
+   "отзывов": 100,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://aquanika.su/tproduct/1-185900418311-molodogvardeitsev-2-b"
+   ],
+   "телефоны": [
+    "8 (800) 222-76-55"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_waxing",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "street_entrance",
+    "tire_blacking"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aquanika/129911470755/",
+   "найдено_по": "химчистка салона автомобиля Курчатовский район"
+  },
+  {
+   "id": "95628354749",
+   "название": "Аквамарт",
+   "seoname": "akvamart",
+   "адрес": "Копейское ш., 58",
+   "координаты": [
+    61.453048,
+    55.142466
+   ],
+   "рейтинг": 5,
+   "оценок": 44,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://aquamart.maslomart.com/"
+   ],
+   "телефоны": [
+    "8 (800) 511-02-92"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_waxing",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akvamart/95628354749/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "5615419826",
+   "название": "Мойавто",
+   "seoname": "moyavto",
+   "адрес": "Грозненская ул., 5, Челябинск",
+   "координаты": [
+    61.458786,
+    55.122544
+   ],
+   "рейтинг": 5,
+   "оценок": 380,
+   "отзывов": 129,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://mojavto-groznenskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (908) 061-90-24"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_waxing",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moyavto/5615419826/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "39766253582",
+   "название": "Авто ленинский",
+   "seoname": "avto_leninskiy",
+   "адрес": "ул. Коммунаров, 12/1",
+   "координаты": [
+    61.437267,
+    55.140754
+   ],
+   "рейтинг": 4.4,
+   "оценок": 84,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://leninskiyautodetailing.ru.tilda.ws/",
+    "http://leninskiyautodetailing.ru.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (932) 017-66-69",
+    "+7 (932) 234-05-52",
+    "+7 (993) 935-30-33"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "bike_parking",
+    "call_button",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "disable_captions",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "guarantee",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "ramp",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "toilet_for_disabled",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_leninskiy/39766253582/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "242650027138",
+   "название": "Мой сам",
+   "seoname": "moy_sam",
+   "адрес": "Челябинский городской округ, Ленинский район",
+   "координаты": [
+    61.443222,
+    55.117235
+   ],
+   "рейтинг": 4.4,
+   "оценок": 100,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 704-70-48",
+    "+7 (908) 046-10-76"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moy_sam/242650027138/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "155036266566",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "ул. Трубников, 40",
+   "координаты": [
+    61.454526,
+    55.13924
+   ],
+   "рейтинг": 4.3,
+   "оценок": 336,
+   "отзывов": 135,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://molodejniy.wixsite.com/trubnikoff40"
+   ],
+   "телефоны": [
+    "+7 (951) 800-50-31",
+    "+7 (351) 777-65-37"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/155036266566/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "83653571917",
+   "название": "Moika Otido",
+   "seoname": "moika_otido",
+   "адрес": "ул. Луценко, 2/1",
+   "координаты": [
+    61.437045,
+    55.151005
+   ],
+   "рейтинг": 5,
+   "оценок": 629,
+   "отзывов": 232,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 014-36-05"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "кофейня",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [
+    "automatic_door",
+    "breakfast",
+    "cafe",
+    "car_waxing",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "disable_photopoi",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "self_service_car_wash",
+    "street_entrance",
+    "takeaway"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moika_otido/83653571917/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "171540920605",
+   "название": "ProМойка",
+   "seoname": "promoyka",
+   "адрес": "Дербентская ул., 49А",
+   "координаты": [
+    61.48693,
+    55.097677
+   ],
+   "рейтинг": 4.3,
+   "оценок": 7,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 943-02-47",
+    "+7 (904) 943-99-57"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "self_service_car_wash",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/promoyka/171540920605/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "1030432651",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "ул. Машиностроителей, 6А",
+   "координаты": [
+    61.475746,
+    55.126719
+   ],
+   "рейтинг": 4.9,
+   "оценок": 137,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 122-93-65"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/1030432651/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "6919556854",
+   "название": "АвтоПарадиз",
+   "seoname": "avtoparadiz",
+   "адрес": "ул. Харлова, 5А",
+   "координаты": [
+    61.442211,
+    55.147829
+   ],
+   "рейтинг": 4.9,
+   "оценок": 273,
+   "отзывов": 110,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtoparadiz.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (919) 321-02-02",
+    "+7 (919) 323-02-02"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoparadiz/6919556854/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "174636168588",
+   "название": "Престиж Авто",
+   "seoname": "prestizh_avto",
+   "адрес": "Артиллерийская ул., 117/8, Челябинск",
+   "координаты": [
+    61.434535,
+    55.162779
+   ],
+   "рейтинг": 5,
+   "оценок": 85,
+   "отзывов": 79,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://prestigeauto74.ru/"
+   ],
+   "телефоны": [
+    "+7 (951) 466-81-16"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "car_wash",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prestizh_avto/174636168588/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "147719296089",
+   "название": "PitStop",
+   "seoname": "pitstop",
+   "адрес": "ул. Энергетиков, 21Б/7, Челябинск",
+   "координаты": [
+    61.454768,
+    55.134887
+   ],
+   "рейтинг": 4.2,
+   "оценок": 67,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pit100p.ru/wash/chelyabinsk/ul-energetikov-21b-7"
+   ],
+   "телефоны": [
+    "8 (800) 201-62-77"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pitstop/147719296089/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "146197094616",
+   "название": "5 Минут",
+   "seoname": "5_minut",
+   "адрес": "ул. Барбюса, 179",
+   "координаты": [
+    61.429613,
+    55.134528
+   ],
+   "рейтинг": 4.1,
+   "оценок": 433,
+   "отзывов": 150,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 582-89-76"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/5_minut/146197094616/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "147950017338",
+   "название": "Автомойка 777",
+   "seoname": "avtomoyka_777",
+   "адрес": "ул. Игуменка, 85/5",
+   "координаты": [
+    61.415364,
+    55.1165
+   ],
+   "рейтинг": 4.4,
+   "оценок": 114,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 750-16-10"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_waxing",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "self_service_car_wash",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka_777/147950017338/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "16819286689",
+   "название": "Ideal auto",
+   "seoname": "ideal_auto",
+   "адрес": "ул. Луценко, 6",
+   "координаты": [
+    61.440201,
+    55.14993
+   ],
+   "рейтинг": 4.4,
+   "оценок": 57,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://idealauto774.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 270-60-70",
+    "+7 (351) 270-60-20",
+    "+7 (351) 270-60-10"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ideal_auto/16819286689/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "118863234621",
+   "название": "Мой сам",
+   "seoname": "moy_sam",
+   "адрес": "Копейское ш., 27И",
+   "координаты": [
+    61.472935,
+    55.130784
+   ],
+   "рейтинг": 4.2,
+   "оценок": 170,
+   "отзывов": 69,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 074-85-15"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moy_sam/118863234621/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "198392121360",
+   "название": "Аквастар",
+   "seoname": "akvastar",
+   "адрес": "Артиллерийская ул., 117/3",
+   "координаты": [
+    61.435663,
+    55.162702
+   ],
+   "рейтинг": 5,
+   "оценок": 453,
+   "отзывов": 375,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://carwash-74.ru/"
+   ],
+   "телефоны": [
+    "+7 (982) 300-84-74"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "car_waxing",
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akvastar/198392121360/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "109860248379",
+   "название": "Аврора",
+   "seoname": "avrora",
+   "адрес": "ул. Баталова, 17",
+   "координаты": [
+    61.443941,
+    55.128147
+   ],
+   "рейтинг": 4.1,
+   "оценок": 11,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 115-08-29",
+    "+7 (908) 589-66-15"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "car_valeting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avrora/109860248379/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "42193562153",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "территория ГСК № 306, 801А",
+   "координаты": [
+    61.4178,
+    55.118941
+   ],
+   "рейтинг": 4.2,
+   "оценок": 76,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг",
+    "чистка ковров"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/42193562153/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "1356605092",
+   "название": "Чистый кот",
+   "seoname": "chisty_kot",
+   "адрес": "ул. Труда, 3Б",
+   "координаты": [
+    61.427453,
+    55.167377
+   ],
+   "рейтинг": 4.6,
+   "оценок": 184,
+   "отзывов": 71,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 405-23-10"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб,вс 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "клининговое оборудование и инвентарь"
+   ],
+   "признаки": [
+    "car_valeting",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chisty_kot/1356605092/",
+   "найдено_по": "химчистка салона автомобиля Ленинский район"
+  },
+  {
+   "id": "154352788741",
+   "название": "Автомоечный комплекс",
+   "seoname": "avtomoyechny_kompleks",
+   "адрес": "ул. Сталеваров, 5Д",
+   "координаты": [
+    61.405752,
+    55.262663
+   ],
+   "рейтинг": 4.8,
+   "оценок": 145,
+   "отзывов": 63,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 325-36-16"
+   ],
+   "часы": "пн-сб 08:00–21:00; вс 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyechny_kompleks/154352788741/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "1123975649",
+   "название": "Партнер",
+   "seoname": "partner",
+   "адрес": "ш. Металлургов, 1Б",
+   "координаты": [
+    61.4084,
+    55.250261
+   ],
+   "рейтинг": 4.8,
+   "оценок": 141,
+   "отзывов": 55,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 099-12-39"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/partner/1123975649/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "127473170373",
+   "название": "Мою сам",
+   "seoname": "moyu_sam",
+   "адрес": "Хлебозаводская ул., 16/2",
+   "координаты": [
+    61.409304,
+    55.246919
+   ],
+   "рейтинг": 5,
+   "оценок": 633,
+   "отзывов": 186,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (932) 230-51-32",
+    "+7 (922) 742-60-03"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "payment_from_car"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moyu_sam/127473170373/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "34971363519",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "Краснооктябрьская ул., 26А",
+   "координаты": [
+    61.382218,
+    55.25105
+   ],
+   "рейтинг": 4.1,
+   "оценок": 31,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/34971363519/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "32190377352",
+   "название": "AutoSPA Мою сам",
+   "seoname": "autospa_moyu_sam",
+   "адрес": "ул. Сурикова, 2Б",
+   "координаты": [
+    61.369617,
+    55.253258
+   ],
+   "рейтинг": 4.9,
+   "оценок": 155,
+   "отзывов": 84,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 075-73-76",
+    "+7 (908) 075-74-45"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/autospa_moyu_sam/32190377352/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "176535145442",
+   "название": "Clean&Go",
+   "seoname": "clean_go",
+   "адрес": "ул. 50-летия ВЛКСМ, 10А",
+   "координаты": [
+    61.385779,
+    55.245371
+   ],
+   "рейтинг": 3.9,
+   "оценок": 19,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 093-93-09"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/clean_go/176535145442/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "8398148887",
+   "название": "Автолидер",
+   "seoname": "avtolider",
+   "адрес": "Хлебозаводская ул., 33Б",
+   "координаты": [
+    61.417088,
+    55.242037
+   ],
+   "рейтинг": 4.5,
+   "оценок": 443,
+   "отзывов": 128,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtolider-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (901) 245-03-26"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "armoring_headlights",
+    "authorized_service",
+    "basic_service",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "glass_tinting",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "self_service_car_wash",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtolider/8398148887/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "1216313463",
+   "название": "Автомойка Водомерка",
+   "seoname": "avtomoyka_vodomerka",
+   "адрес": "Байкальская ул., 35/5",
+   "координаты": [
+    61.363897,
+    55.248813
+   ],
+   "рейтинг": 4,
+   "оценок": 42,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (993) 934-33-90"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "antichrome",
+    "cafe",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "ceiling_cleaning",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka_vodomerka/1216313463/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "106080667674",
+   "название": "Автомойка самообслуживания",
+   "seoname": "avtomoyka_samoobsluzhivaniya",
+   "адрес": "ш. Металлургов, 61А/2",
+   "координаты": [
+    61.363119,
+    55.243815
+   ],
+   "рейтинг": 4.5,
+   "оценок": 341,
+   "отзывов": 89,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka_samoobsluzhivaniya/106080667674/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "59729174958",
+   "название": "Марти",
+   "seoname": "marti",
+   "адрес": "ул. 60-летия Октября, 1А",
+   "координаты": [
+    61.40593,
+    55.264284
+   ],
+   "рейтинг": 4.3,
+   "оценок": 60,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (982) 108-18-05",
+    "+7 (950) 740-05-10"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "автосервис, автотехцентр",
+    "кафе"
+   ],
+   "признаки": [
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/marti/59729174958/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "6490449029",
+   "название": "Байкал",
+   "seoname": "baykal",
+   "адрес": "Байкальская ул., 35Е",
+   "координаты": [
+    61.364031,
+    55.248295
+   ],
+   "рейтинг": 4,
+   "оценок": 79,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 470-35-53"
+   ],
+   "часы": "ежедневно, 12:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "car_waxing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/baykal/6490449029/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "1146551878",
+   "название": "База Авто",
+   "seoname": "baza_avto",
+   "адрес": "ул. Героев Танкограда, 20/4",
+   "координаты": [
+    61.438522,
+    55.191551
+   ],
+   "рейтинг": 4,
+   "оценок": 89,
+   "отзывов": 32,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://chelyabinsk.gilmon.ru/acvaplys_11/"
+   ],
+   "телефоны": [
+    "+7 (912) 316-00-60",
+    "+7 (900) 070-03-02"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "car_polishing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/baza_avto/1146551878/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "178575004578",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "ш. Металлургов, 25П",
+   "координаты": [
+    61.408827,
+    55.252294
+   ],
+   "рейтинг": 4.1,
+   "оценок": 14,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/178575004578/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "22516253974",
+   "название": "Мой сам",
+   "seoname": "moy_sam",
+   "адрес": "Челябинский городской округ, Курчатовский район",
+   "координаты": [
+    61.379159,
+    55.22854
+   ],
+   "рейтинг": 4.1,
+   "оценок": 206,
+   "отзывов": 83,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://мой-сам.рф/"
+   ],
+   "телефоны": [
+    "+7 (922) 704-70-48",
+    "+7 (495) 664-41-99"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "payment_from_car",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moy_sam/22516253974/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "2485141712",
+   "название": "Звезда",
+   "seoname": "zvezda",
+   "адрес": "Автодорожная ул., 12А, Челябинск",
+   "координаты": [
+    61.360285,
+    55.208645
+   ],
+   "рейтинг": 4.4,
+   "оценок": 247,
+   "отзывов": 80,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://zvezda-avtodorozhnaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (922) 754-86-22"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "грузовая автомойка",
+    "автохимчистка"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zvezda/2485141712/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "206690177588",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "ул. Бажова, 2А",
+   "координаты": [
+    61.464549,
+    55.191089
+   ],
+   "рейтинг": 4.1,
+   "оценок": 139,
+   "отзывов": 56,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://staravto.narod.ru/"
+   ],
+   "телефоны": [],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/206690177588/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "137420334113",
+   "название": "Чисто - Быстро",
+   "seoname": "chisto_bystro",
+   "адрес": "Механическая ул., 34Г",
+   "координаты": [
+    61.424527,
+    55.192757
+   ],
+   "рейтинг": 4.3,
+   "оценок": 280,
+   "отзывов": 92,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 225-10-50"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "payment_from_car"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chisto_bystro/137420334113/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "84575180624",
+   "название": "MoyCar",
+   "seoname": "moycar",
+   "адрес": "Артиллерийская ул., 4А",
+   "координаты": [
+    61.422835,
+    55.190373
+   ],
+   "рейтинг": 4.9,
+   "оценок": 49,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 441-20-21"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "автомоечное оборудование"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "self_service_car_wash",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moycar/84575180624/",
+   "найдено_по": "химчистка салона автомобиля Металлургический район"
+  },
+  {
+   "id": "139771255066",
+   "название": "Стандарт чистоты",
+   "seoname": "standart_chistoty",
+   "адрес": "2-я Базовая ул., 56",
+   "координаты": [
+    61.354152,
+    55.101087
+   ],
+   "рейтинг": 5,
+   "оценок": 52,
+   "отзывов": 50,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://стандарт-чистоты74.рф/"
+   ],
+   "телефоны": [
+    "+7 (922) 737-08-08"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "грузовая автомойка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cafe",
+    "call_button",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "ceiling_cleaning",
+    "disk_maintenance",
+    "gift_certificate",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/standart_chistoty/139771255066/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "140612923663",
+   "название": "Грузовая автомойка",
+   "seoname": "gruzovaya_avtomoyka",
+   "адрес": "Троицкий тракт, 17/2",
+   "координаты": [
+    61.385914,
+    55.098469
+   ],
+   "рейтинг": 4,
+   "оценок": 90,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 710-84-43",
+    "+7 (351) 247-84-43"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "химчистка",
+    "грузовые автомобили, грузовая техника"
+   ],
+   "признаки": [
+    "car_polishing",
+    "car_valeting",
+    "payment_by_credit_card",
+    "tire_blacking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzovaya_avtomoyka/140612923663/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "1239468330",
+   "название": "Чистый город",
+   "seoname": "chisty_gorod",
+   "адрес": "ул. Блюхера, 94В",
+   "координаты": [
+    61.359334,
+    55.116368
+   ],
+   "рейтинг": 4.4,
+   "оценок": 126,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://chisty-gorod74.mozello.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 250-50-05",
+    "+7 (908) 089-50-05"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "бытовая химия оптом",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chisty_gorod/1239468330/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "232329251663",
+   "название": "Кристалл",
+   "seoname": "kristall",
+   "адрес": "ул. Блюхера, 121Е/2",
+   "координаты": [
+    61.352044,
+    55.104908
+   ],
+   "рейтинг": 4.3,
+   "оценок": 21,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 408-74-55"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kristall/232329251663/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "234561489668",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "Челябинская ул., 54",
+   "координаты": [
+    61.381327,
+    55.050788
+   ],
+   "рейтинг": 3.5,
+   "оценок": 154,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 123-03-38"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/234561489668/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "103952168647",
+   "название": "369 Detail Studio",
+   "seoname": "369_detail_studio",
+   "адрес": "ул. Шаумяна, 86",
+   "координаты": [
+    61.388066,
+    55.137174
+   ],
+   "рейтинг": 4.9,
+   "оценок": 21,
+   "отзывов": 16,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://detail369.ru/"
+   ],
+   "телефоны": [
+    "+7 (912) 474-17-12",
+    "+7 (919) 345-12-98"
+   ],
+   "часы": "пн-сб 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "gift_certificate",
+    "good_place",
+    "leather_repair",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "self_service",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/369_detail_studio/103952168647/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "151317953855",
+   "название": "На Колющенко",
+   "seoname": "na_kolyushchenko",
+   "адрес": "ул. Доватора, 1Г",
+   "координаты": [
+    61.403263,
+    55.136164
+   ],
+   "рейтинг": 4.4,
+   "оценок": 94,
+   "отзывов": 51,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/na_kolyushchenko/151317953855/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "103925416062",
+   "название": "Евромойка",
+   "seoname": "yevromoyka",
+   "адрес": "ул. Доватора, 12А",
+   "координаты": [
+    61.40118,
+    55.139972
+   ],
+   "рейтинг": 3.8,
+   "оценок": 68,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yevromoyka/103925416062/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "1727562776",
+   "название": "Победа",
+   "seoname": "pobeda",
+   "адрес": "ул. Рылеева, 20/1",
+   "координаты": [
+    61.385258,
+    55.125922
+   ],
+   "рейтинг": 4,
+   "оценок": 81,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 247-85-13"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pobeda/1727562776/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "197606361579",
+   "название": "Мой Сам",
+   "seoname": "moy_sam",
+   "адрес": "Станционная ул., 1В, посёлок Новосинеглазово",
+   "координаты": [
+    61.36541,
+    55.035285
+   ],
+   "рейтинг": 4.9,
+   "оценок": 75,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (950) 742-91-28",
+    "+7 (908) 820-52-06"
+   ],
+   "часы": "ежедневно, 06:30–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moy_sam/197606361579/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "1101929149",
+   "название": "Parkavto",
+   "seoname": "parkavto",
+   "адрес": "ул. Либкнехта, 2А",
+   "координаты": [
+    61.401434,
+    55.155724
+   ],
+   "рейтинг": 4.2,
+   "оценок": 58,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 078-21-19",
+    "+7 (351) 220-02-10"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/parkavto/1101929149/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "122007668921",
+   "название": "BossAvto",
+   "seoname": "bossavto",
+   "адрес": "ул. Елькина, 81/2",
+   "координаты": [
+    61.400292,
+    55.14959
+   ],
+   "рейтинг": 4.2,
+   "оценок": 4,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 027-08-15"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bossavto/122007668921/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "24445133469",
+   "название": "Clear Work",
+   "seoname": "clear_work",
+   "адрес": "ул. Сулимова, 49",
+   "координаты": [
+    61.384525,
+    55.140131
+   ],
+   "рейтинг": 3.4,
+   "оценок": 24,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 099-00-75",
+    "+49 (89) 5177-70577",
+    "+7 (900) 074-76-70"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/clear_work/24445133469/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "1005117649",
+   "название": "Евгения",
+   "seoname": "yevgeniya",
+   "адрес": "ул. Елькина, 95",
+   "координаты": [
+    61.401086,
+    55.14444
+   ],
+   "рейтинг": 2.1,
+   "оценок": 116,
+   "отзывов": 50,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 261-48-10",
+    "+7 (351) 775-19-26",
+    "+7 (351) 270-94-46"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_valeting",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yevgeniya/1005117649/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "192089968588",
+   "название": "Chel. Kar",
+   "seoname": "chel_kar",
+   "адрес": "Новороссийская ул., 122, корп. 2",
+   "координаты": [
+    61.440688,
+    55.117184
+   ],
+   "рейтинг": 4.7,
+   "оценок": 14,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chelkar.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (980) 024-28-85"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "автохимчистка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chel_kar/192089968588/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "48489973667",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "Заболотная ул., 18/3",
+   "координаты": [
+    61.401919,
+    55.129891
+   ],
+   "рейтинг": 4.4,
+   "оценок": 226,
+   "отзывов": 90,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (952) 526-06-49"
+   ],
+   "часы": "пн-сб 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/48489973667/",
+   "найдено_по": "химчистка салона автомобиля Советский район"
+  },
+  {
+   "id": "97031701434",
+   "название": "Oil Bank",
+   "seoname": "oil_bank",
+   "адрес": "ул. Марченко, 24",
+   "координаты": [
+    61.456803,
+    55.165124
+   ],
+   "рейтинг": 4.9,
+   "оценок": 20,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ob-detailing.ru/"
+   ],
+   "телефоны": [
+    "+7 (906) 867-08-36",
+    "+7 (982) 100-82-00"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "оклейка машин",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "bike_parking",
+    "call_button",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "carbon_fiber_lamination",
+    "ceiling_cleaning",
+    "chrome_plating",
+    "disk_maintenance",
+    "gift_certificate",
+    "glass_polishing",
+    "kaspi_red",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "ramp",
+    "scratch_repair",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oil_bank/97031701434/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "134560288284",
+   "название": "Big Boss Detailing",
+   "seoname": "big_boss_detailing",
+   "адрес": "ул. Героев Танкограда, 85",
+   "координаты": [
+    61.452997,
+    55.165262
+   ],
+   "рейтинг": 4.8,
+   "оценок": 16,
+   "отзывов": 14,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 806-71-26"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автомойка",
+    "автосвет"
+   ],
+   "признаки": [
+    "good_place"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/big_boss_detailing/134560288284/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "77750544421",
+   "название": "Clean&Go",
+   "seoname": "clean_go",
+   "адрес": "ул. Хохрякова, 31",
+   "координаты": [
+    61.488139,
+    55.176118
+   ],
+   "рейтинг": 4.5,
+   "оценок": 134,
+   "отзывов": 65,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 094-09-78",
+    "+7 (919) 404-76-47"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/clean_go/77750544421/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "208809459087",
+   "название": "Bkf Service",
+   "seoname": "bkf_service",
+   "адрес": "Артиллерийская ул., 136, корп. 3",
+   "координаты": [
+    61.43102,
+    55.165638
+   ],
+   "рейтинг": 5,
+   "оценок": 625,
+   "отзывов": 501,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.volnamoyka.ru/",
+    "https://bkfcarwash.ru/"
+   ],
+   "телефоны": [
+    "+7 (911) 925-45-65"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cafe",
+    "call_button",
+    "car_polishing",
+    "car_waxing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bkf_service/208809459087/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "15589932456",
+   "название": "Профф-студия",
+   "seoname": "proff_studiya",
+   "адрес": "Артиллерийская ул., 117/8, Челябинск",
+   "координаты": [
+    61.434435,
+    55.162875
+   ],
+   "рейтинг": 5,
+   "оценок": 73,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://proff-studio.ru/"
+   ],
+   "телефоны": [
+    "+7 (951) 776-73-77",
+    "+7 (908) 570-69-49"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "тонирование автостёкол",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_park",
+    "car_valeting",
+    "gift_certificate",
+    "glass_polishing",
+    "installation",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repairs",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/proff_studiya/15589932456/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "242635859068",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "ул. Танкистов, 159",
+   "координаты": [
+    61.473202,
+    55.174842
+   ],
+   "рейтинг": 4.9,
+   "оценок": 161,
+   "отзывов": 66,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 815-30-14"
+   ],
+   "часы": "пн,вт,чт,пт,сб,вс 07:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/242635859068/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "106064478562",
+   "название": "White Fox",
+   "seoname": "white_fox",
+   "адрес": "ул. Кулибина, 5/2",
+   "координаты": [
+    61.473082,
+    55.173311
+   ],
+   "рейтинг": 4.6,
+   "оценок": 13,
+   "отзывов": 11,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 024-15-13"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "автохимчистка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "good_place",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_blacking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/white_fox/106064478562/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "102989632978",
+   "название": "ЧистыElementS",
+   "seoname": "chistyelements",
+   "адрес": "Артиллерийская ул., 136/8",
+   "координаты": [
+    61.4319,
+    55.165587
+   ],
+   "рейтинг": 1.3,
+   "оценок": 48,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 016-37-17"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chistyelements/102989632978/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "170882878573",
+   "название": "Твой Авто",
+   "seoname": "tvoy_avto",
+   "адрес": "ул. Бажова, 35, корп. 2",
+   "координаты": [
+    61.46608,
+    55.190199
+   ],
+   "рейтинг": 4.4,
+   "оценок": 31,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 794-71-52",
+    "+7 (900) 020-03-19"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tvoy_avto/170882878573/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "208270308293",
+   "название": "Мою сам",
+   "seoname": "moyu_sam",
+   "адрес": "ул. Марченко, 28А",
+   "координаты": [
+    61.456727,
+    55.163518
+   ],
+   "рейтинг": 4.4,
+   "оценок": 180,
+   "отзывов": 59,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 236-66-68"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/moyu_sam/208270308293/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "48615090259",
+   "название": "Goodмойning",
+   "seoname": "goodmoyning",
+   "адрес": "ул. Героев Танкограда, 7",
+   "координаты": [
+    61.441249,
+    55.191661
+   ],
+   "рейтинг": 4.7,
+   "оценок": 116,
+   "отзывов": 52,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 792-82-40"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "payment_from_car",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/goodmoyning/48615090259/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "1725468818",
+   "название": "Автомойка",
+   "seoname": "avtomoyka",
+   "адрес": "просп. Ленина, 26А, корп. 1",
+   "координаты": [
+    61.430504,
+    55.161878
+   ],
+   "рейтинг": 1.6,
+   "оценок": 34,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 775-45-09"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyka/1725468818/",
+   "найдено_по": "химчистка салона автомобиля Тракторозаводский район"
+  },
+  {
+   "id": "3026753512",
+   "название": "Бумеранг",
+   "seoname": "bumerang",
+   "адрес": "Тенистая ул., 2",
+   "координаты": [
+    61.293238,
+    55.149358
+   ],
+   "рейтинг": 5,
+   "оценок": 34,
+   "отзывов": 23,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 086-44-33",
+    "+7 (908) 570-80-50"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "автохимчистка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "chrome_plating",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bumerang/3026753512/",
+   "найдено_по": "химчистка салона автомобиля Центральный район"
+  },
+  {
+   "id": "146175187339",
+   "название": "Delta",
+   "seoname": "delta",
+   "адрес": "ул. Блюхера, 92А",
+   "координаты": [
+    61.360886,
+    55.118415
+   ],
+   "рейтинг": 4.9,
+   "оценок": 712,
+   "отзывов": 253,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 239-79-60"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/delta/146175187339/",
+   "найдено_по": "химчистка салона автомобиля Центральный район"
+  },
+  {
+   "id": "173003632128",
+   "название": "LuxDetail",
+   "seoname": "luxdetail",
+   "адрес": "Свердловский просп., 62А",
+   "координаты": [
+    61.388172,
+    55.161347
+   ],
+   "рейтинг": 4.3,
+   "оценок": 10,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "оклейка машин"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_armoring",
+    "car_park",
+    "car_valeting",
+    "gift_certificate",
+    "glass_polishing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luxdetail/173003632128/",
+   "найдено_по": "химчистка салона автомобиля Центральный район"
+  },
+  {
+   "id": "177398264926",
+   "название": "Aquarius",
+   "seoname": "aquarius",
+   "адрес": "ул. Елькина, 5/1",
+   "координаты": [
+    61.398489,
+    55.166963
+   ],
+   "рейтинг": 4.2,
+   "оценок": 9,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 123-27-57",
+    "+7 (951) 462-71-26",
+    "+7 (351) 223-27-57"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автомойка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "access_by_agreement",
+    "bike_parking",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "glass_polishing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aquarius/177398264926/",
+   "найдено_по": "химчистка салона автомобиля Центральный район"
+  },
+  {
+   "id": "41125715450",
+   "название": "Аквастар",
+   "seoname": "akvastar",
+   "адрес": "Свердловский просп., 53, Челябинск",
+   "координаты": [
+    61.389966,
+    55.166891
+   ],
+   "рейтинг": 4,
+   "оценок": 91,
+   "отзывов": 32,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://carwash-74.ru/"
+   ],
+   "телефоны": [
+    "+7 (982) 300-73-83"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка",
+    "автохимчистка",
+    "химчистка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_waxing",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_blacking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akvastar/41125715450/",
+   "найдено_по": "химчистка салона автомобиля Центральный район"
+  },
+  {
+   "id": "1148709027",
+   "название": "Времена года",
+   "seoname": "vremena_goda",
+   "адрес": "ул. Труда, 166/1",
+   "координаты": [
+    61.373269,
+    55.171446
+   ],
+   "рейтинг": 4.4,
+   "оценок": 285,
+   "отзывов": 140,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 249-69-99",
+    "+7 (351) 269-69-99",
+    "+7 (951) 481-90-24"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "cafe",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_blacking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vremena_goda/1148709027/",
+   "найдено_по": "химчистка салона автомобиля Центральный район"
+  },
+  {
+   "id": "33866431770",
+   "название": "Мерея",
+   "seoname": "mereya",
+   "адрес": "Северная ул., 54, посёлок Шершни",
+   "координаты": [
+    61.300431,
+    55.156847
+   ],
+   "рейтинг": 4.7,
+   "оценок": 20,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mereya174.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 711-35-50"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "autovinil",
+    "car_armoring",
+    "car_door_closers",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "gift_certificate",
+    "glass_polishing",
+    "glass_tinting",
+    "leather_repair",
+    "ozonation",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mereya/33866431770/",
+   "найдено_по": "химчистка салона автомобиля Центральный район"
+  },
+  {
+   "id": "223204311636",
+   "название": "Тёплая",
+   "seoname": "tyoplaya",
+   "адрес": "ул. Университетская Набережная, 116",
+   "координаты": [
+    61.315845,
+    55.154303
+   ],
+   "рейтинг": 4.9,
+   "оценок": 689,
+   "отзывов": 261,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 082-17-14"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автомойка"
+   ],
+   "признаки": [
+    "car_waxing",
+    "payment_from_car",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tyoplaya/223204311636/",
+   "найдено_по": "химчистка салона автомобиля Центральный район"
+  },
+  {
+   "id": "99414162888",
+   "название": "G13",
+   "seoname": "g13",
+   "адрес": "ул. Клары Цеткин, 13В",
+   "координаты": [
+    61.383877,
+    55.16505
+   ],
+   "рейтинг": 3.9,
+   "оценок": 27,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 705-67-68"
+   ],
+   "часы": "пн-пт 09:30–20:00; сб 11:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "ozonation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "scratch_repair",
+    "street_entrance",
+    "tire_blacking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/g13/99414162888/",
+   "найдено_по": "химчистка салона автомобиля Центральный район"
+  }
+ ],
+ "расширено_по_районам": true
+}

@@ -1,0 +1,829 @@
+{
+ "ниша": "Сервис Toyota и Lexus",
+ "ключ": "servis-toyota",
+ "запросы": [
+  "ремонт тойота",
+  "ремонт лексус"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт тойота": 48,
+  "ремонт лексус": 1
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Челябинску (регион 56)",
+ "город": "chelyabinsk",
+ "компании": [
+  {
+   "id": "118152548996",
+   "название": "WillDrive",
+   "seoname": "willdrive",
+   "адрес": "Свердловский тракт, 9",
+   "координаты": [
+    61.389093,
+    55.198439
+   ],
+   "рейтинг": 5,
+   "оценок": 864,
+   "отзывов": 524,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://willdrive.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 210-56-16"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/willdrive/118152548996/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 48
+  },
+  {
+   "id": "206897624094",
+   "название": "Тойота центр",
+   "seoname": "toyota_tsentr",
+   "адрес": "Черкасская ул., 19",
+   "координаты": [
+    61.375093,
+    55.228169
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1135,
+   "отзывов": 450,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://chel.toyota-avtomir.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-97-15"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr/206897624094/",
+   "последний_отзыв": null,
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 0
+  },
+  {
+   "id": "1075802980",
+   "название": "Тойота центр Челябинск Восток",
+   "seoname": "toyota_tsentr_chelyabinsk_vostok",
+   "адрес": "просп. Ленина, 3Е",
+   "координаты": [
+    61.463598,
+    55.158895
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1374,
+   "отзывов": 393,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://toyotachel.ru/"
+   ],
+   "телефоны": [
+    "+7 (958) 740-14-51"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "generators",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "ramp",
+    "spare_parts",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr_chelyabinsk_vostok/1075802980/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 72
+  },
+  {
+   "id": "50499890139",
+   "название": "Локавто",
+   "seoname": "lokavto",
+   "адрес": "Артиллерийская ул., 24",
+   "координаты": [
+    61.423849,
+    55.186827
+   ],
+   "рейтинг": 4.9,
+   "оценок": 459,
+   "отзывов": 280,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chelyabinsk.locavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 218-24-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт"
+   ],
+   "признаки": [
+    "authorized_service",
+    "good_place",
+    "parking_disabled",
+    "preliminary_registration",
+    "ramp",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lokavto/50499890139/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 39,
+   "загружено_дат": 76
+  },
+  {
+   "id": "127040277139",
+   "название": "Rs-Выхлоп",
+   "seoname": "rs_vykhlop",
+   "адрес": "ул. Косарева, 42",
+   "координаты": [
+    61.37194,
+    55.182577
+   ],
+   "рейтинг": 5,
+   "оценок": 372,
+   "отзывов": 262,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://rs-vyhlop.ru/"
+   ],
+   "телефоны": [
+    "+7 (995) 222-80-60"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "tuning_deflectors",
+    "tuning_of_motor_vehicles",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rs_vykhlop/127040277139/",
+   "последний_отзыв": "2026-10-03",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 76
+  },
+  {
+   "id": "28217159842",
+   "название": "Агрегатка",
+   "seoname": "agregatka",
+   "адрес": "Копейское ш., 48ЕС1",
+   "координаты": [
+    61.465314,
+    55.135828
+   ],
+   "рейтинг": 4.9,
+   "оценок": 439,
+   "отзывов": 251,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://akpp74.agregatka.ru/"
+   ],
+   "телефоны": [
+    "+7 (991) 200-79-30"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "car_park",
+    "good_place",
+    "preliminary_registration",
+    "repair_dsg",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agregatka/28217159842/",
+   "последний_отзыв": "2026-09-18",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 89
+  },
+  {
+   "id": "1686662040",
+   "название": "Навита",
+   "seoname": "navita",
+   "адрес": "Копейское ш., 35Б, Челябинск",
+   "координаты": [
+    61.458502,
+    55.1378
+   ],
+   "рейтинг": 4.8,
+   "оценок": 195,
+   "отзывов": 97,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://navita.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 200-33-11"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/navita/1686662040/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 82
+  },
+  {
+   "id": "1754877332",
+   "название": "УралТехЦентр",
+   "seoname": "uraltekhtsentr",
+   "адрес": "Братская ул., 2А",
+   "координаты": [
+    61.369258,
+    55.128862
+   ],
+   "рейтинг": 4.7,
+   "оценок": 214,
+   "отзывов": 85,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://toyota-chel.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 019-13-51",
+    "+7 (351) 724-44-44"
+   ],
+   "часы": "ежедневно, 09:00–20:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/uraltekhtsentr/1754877332/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 80
+  },
+  {
+   "id": "1118976553",
+   "название": "Сход-развал Центральный",
+   "seoname": "skhod_razval_tsentralny",
+   "адрес": "ул. Татьяничевой, 12Г/2",
+   "координаты": [
+    61.366569,
+    55.148669
+   ],
+   "рейтинг": 4.7,
+   "оценок": 150,
+   "отзывов": 79,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://shod-razval-tsentralnyj.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (912) 899-25-61",
+    "+7 (951) 467-28-13"
+   ],
+   "часы": "вт-сб 08:00–19:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Развал-схождение",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skhod_razval_tsentralny/1118976553/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 87
+  },
+  {
+   "id": "36049153729",
+   "название": "Das Auto",
+   "seoname": "das_auto",
+   "адрес": "Артиллерийская ул., 29, Челябинск",
+   "координаты": [
+    61.425363,
+    55.184197
+   ],
+   "рейтинг": 5,
+   "оценок": 152,
+   "отзывов": 68,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://das-auto74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 946-10-74",
+    "+7 (952) 517-88-44"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "injector_repair",
+    "injectors_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "turbine repair",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/das_auto/36049153729/",
+   "последний_отзыв": "2025-12-16",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 62
+  },
+  {
+   "id": "158459197342",
+   "название": "Дизель Мастер",
+   "seoname": "dizel_master",
+   "адрес": "ул. Героев Танкограда, 71П, стр. 9, Челябинск",
+   "координаты": [
+    61.438408,
+    55.200259
+   ],
+   "рейтинг": 4.4,
+   "оценок": 81,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://дизмастер.рф/"
+   ],
+   "телефоны": [
+    "+7 (351) 248-48-72"
+   ],
+   "часы": "пн-пт 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dizel_master/158459197342/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 45
+  },
+  {
+   "id": "213130746646",
+   "название": "Лексус-Челябинск",
+   "seoname": "leksus_chelyabinsk",
+   "адрес": "просп. Ленина, 3Е",
+   "координаты": [
+    61.464007,
+    55.158508
+   ],
+   "рейтинг": 5,
+   "оценок": 29,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://lexus-chel.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 779-91-23",
+    "+7 (351) 779-91-45",
+    "+7 (351) 779-91-53",
+    "+7 (351) 779-99-99",
+    "+7 (351) 779-91-35"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/leksus_chelyabinsk/213130746646/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 26
+  },
+  {
+   "id": "147448525136",
+   "название": "Профсервис",
+   "seoname": "profservis",
+   "адрес": "Валдайская ул., 4Г, Челябинск",
+   "координаты": [
+    61.447438,
+    55.204689
+   ],
+   "рейтинг": 5,
+   "оценок": 25,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://profservis74.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (951) 111-42-92"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_service_car_wash",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/profservis/147448525136/",
+   "последний_отзыв": "2026-11-08",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 23
+  },
+  {
+   "id": "67338615158",
+   "название": "Тойота",
+   "seoname": "toyota",
+   "адрес": "Актюбинская ул., 27, посёлок Колхозный",
+   "координаты": [
+    61.354078,
+    55.179255
+   ],
+   "рейтинг": 4.4,
+   "оценок": 54,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.ct-74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 215-50-42",
+    "+7 (351) 798-93-09",
+    "+7 (351) 798-93-08",
+    "+7 (902) 863-50-42"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–16:00, перерыв 13:00–13:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota/67338615158/",
+   "последний_отзыв": "2026-05-25",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 38
+  },
+  {
+   "id": "48107535259",
+   "название": "Газель Сервис",
+   "seoname": "gazel_servis",
+   "адрес": "Радонежская ул., 10, корп. 2, Челябинск",
+   "координаты": [
+    61.358307,
+    55.225373
+   ],
+   "рейтинг": 4.6,
+   "оценок": 39,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 727-72-07"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gazel_servis/48107535259/",
+   "последний_отзыв": "2026-06-22",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 19
+  },
+  {
+   "id": "158354549179",
+   "название": "АвтоExpert",
+   "seoname": "avtoexpert",
+   "адрес": "ул. 3-го Интернационала, 90/1",
+   "координаты": [
+    61.42014,
+    55.166235
+   ],
+   "рейтинг": 4.3,
+   "оценок": 31,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (905) 838-40-33",
+    "+7 (351) 216-39-40"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoexpert/158354549179/"
+  }
+ ]
+}

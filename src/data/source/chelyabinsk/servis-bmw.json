@@ -1,0 +1,762 @@
+{
+ "ниша": "Сервис BMW",
+ "ключ": "servis-bmw",
+ "запросы": [
+  "ремонт бмв"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт бмв": 59
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Челябинску (регион 56)",
+ "город": "chelyabinsk",
+ "компании": [
+  {
+   "id": "118152548996",
+   "название": "WillDrive",
+   "seoname": "willdrive",
+   "адрес": "Свердловский тракт, 9",
+   "координаты": [
+    61.389093,
+    55.198439
+   ],
+   "рейтинг": 5,
+   "оценок": 864,
+   "отзывов": 524,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://willdrive.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 210-56-16"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/willdrive/118152548996/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 48
+  },
+  {
+   "id": "1702748776",
+   "название": "Stuttgart-service",
+   "seoname": "stuttgart_service",
+   "адрес": "Бугурусланский пер., 6А",
+   "координаты": [
+    61.487115,
+    55.108277
+   ],
+   "рейтинг": 4.9,
+   "оценок": 504,
+   "отзывов": 243,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://амортизатор.net/",
+    "http://stuttgart-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 734-72-16",
+    "+7 (922) 014-99-69",
+    "+7 (939) 732-17-77",
+    "+7 (900) 027-89-49",
+    "+7 (922) 706-77-70"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт турбин",
+    "авторазбор"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_wash",
+    "delivery",
+    "street_entrance",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stuttgart_service/1702748776/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 88
+  },
+  {
+   "id": "1050105232",
+   "название": "М-Сервис",
+   "seoname": "m_servis",
+   "адрес": "ул. Братьев Кашириных, 139, Челябинск",
+   "координаты": [
+    61.300176,
+    55.170918
+   ],
+   "рейтинг": 4.7,
+   "оценок": 745,
+   "отзывов": 192,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bmw-mservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 242-58-46"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/m_servis/1050105232/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 31,
+   "загружено_дат": 94
+  },
+  {
+   "id": "1186041380",
+   "название": "Стандарт-Авто",
+   "seoname": "standart_avto",
+   "адрес": "Каслинская ул., 3А, корп. 1",
+   "координаты": [
+    61.393655,
+    55.19385
+   ],
+   "рейтинг": 4.8,
+   "оценок": 280,
+   "отзывов": 188,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://standart-avto74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 277-90-58",
+    "+7 (909) 076-74-48"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "bumper_repair",
+    "call_button",
+    "parking_disabled",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/standart_avto/1186041380/",
+   "последний_отзыв": "2026-10-31",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 76
+  },
+  {
+   "id": "152065584580",
+   "название": "Nordwest",
+   "seoname": "nordwest",
+   "адрес": "Тополиная ул., 13",
+   "координаты": [
+    61.304096,
+    55.156928
+   ],
+   "рейтинг": 4.8,
+   "оценок": 238,
+   "отзывов": 119,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pervyj-servis-topolinaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (922) 209-72-72"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Установка ГБО"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nordwest/152065584580/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 72
+  },
+  {
+   "id": "1801557711",
+   "название": "BMW-сила",
+   "seoname": "bmw_sila",
+   "адрес": "ул. Кузнецова, 1/3",
+   "координаты": [
+    61.358392,
+    55.117288
+   ],
+   "рейтинг": 4.6,
+   "оценок": 244,
+   "отзывов": 83,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://bmw-sila.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (351) 270-22-22",
+    "+7 (992) 512-22-22"
+   ],
+   "часы": "пн-сб 10:00–20:00; вс 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bmw_sila/1801557711/",
+   "последний_отзыв": "2026-05-05",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 50
+  },
+  {
+   "id": "1118976553",
+   "название": "Сход-развал Центральный",
+   "seoname": "skhod_razval_tsentralny",
+   "адрес": "ул. Татьяничевой, 12Г/2",
+   "координаты": [
+    61.366569,
+    55.148669
+   ],
+   "рейтинг": 4.7,
+   "оценок": 150,
+   "отзывов": 79,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://shod-razval-tsentralnyj.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (912) 899-25-61",
+    "+7 (951) 467-28-13"
+   ],
+   "часы": "вт-сб 08:00–19:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Развал-схождение",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skhod_razval_tsentralny/1118976553/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 87
+  },
+  {
+   "id": "89085034516",
+   "название": "Пдр Сервис",
+   "seoname": "pdr_servis",
+   "адрес": "Большой Западный пр., 14/1, Челябинск",
+   "координаты": [
+    61.363243,
+    55.212272
+   ],
+   "рейтинг": 5,
+   "оценок": 128,
+   "отзывов": 74,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://pdrservice74.ru/",
+    "https://ydalenievmyatin.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 630-63-74",
+    "+7 (932) 301-28-89"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_armoring",
+    "car_body_film",
+    "car_glass_replacement",
+    "car_park",
+    "car_polishing",
+    "certified_service",
+    "door_repair",
+    "good_place",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "thickness_gauge_checking",
+    "toilet",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pdr_servis/89085034516/",
+   "последний_отзыв": "2026-09-17",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 97
+  },
+  {
+   "id": "1241905089",
+   "название": "БМВ-Гараж",
+   "seoname": "bmv_garazh",
+   "адрес": "ул. 1-й Участок Мелькомбината 2, 43",
+   "координаты": [
+    61.342986,
+    55.169976
+   ],
+   "рейтинг": 4.8,
+   "оценок": 191,
+   "отзывов": 52,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 435-30-90",
+    "+7 (922) 704-55-66",
+    "+7 (351) 751-24-21",
+    "+7 (922) 233-24-21"
+   ],
+   "часы": "пн-пт 11:00–19:00; сб 12:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автоэкспертиза, оценка автомобилей",
+    "шины и диски"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bmv_garazh/1241905089/",
+   "последний_отзыв": "2026-07-09",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 49
+  },
+  {
+   "id": "188171066655",
+   "название": "Nord West",
+   "seoname": "nord_west",
+   "адрес": "ул. Молодогвардейцев, 1Д",
+   "координаты": [
+    61.323325,
+    55.207512
+   ],
+   "рейтинг": 4.7,
+   "оценок": 86,
+   "отзывов": 41,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 801-79-79",
+    "+7 (932) 411-01-01"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nord_west/188171066655/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 63
+  },
+  {
+   "id": "158459197342",
+   "название": "Дизель Мастер",
+   "seoname": "dizel_master",
+   "адрес": "ул. Героев Танкограда, 71П, стр. 9, Челябинск",
+   "координаты": [
+    61.438408,
+    55.200259
+   ],
+   "рейтинг": 4.4,
+   "оценок": 81,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://дизмастер.рф/"
+   ],
+   "телефоны": [
+    "+7 (351) 248-48-72"
+   ],
+   "часы": "пн-пт 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dizel_master/158459197342/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 45
+  },
+  {
+   "id": "147448525136",
+   "название": "Профсервис",
+   "seoname": "profservis",
+   "адрес": "Валдайская ул., 4Г, Челябинск",
+   "координаты": [
+    61.447438,
+    55.204689
+   ],
+   "рейтинг": 5,
+   "оценок": 25,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://profservis74.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (951) 111-42-92"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_service_car_wash",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/profservis/147448525136/",
+   "последний_отзыв": "2026-11-08",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 23
+  },
+  {
+   "id": "133381858445",
+   "название": "Авто-двигатель174",
+   "seoname": "avto_dvigatel174",
+   "адрес": "Индивидуальная ул., 82, Челябинск",
+   "координаты": [
+    61.34799,
+    55.240749
+   ],
+   "рейтинг": 4.6,
+   "оценок": 55,
+   "отзывов": 25,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ремонт-деталей-двигателя.рф/"
+   ],
+   "телефоны": [
+    "+7 (906) 867-10-82",
+    "+7 (922) 708-27-55"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 11:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "металлообработка"
+   ],
+   "признаки": [
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "machining_process",
+    "milling",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_dvigatel174/133381858445/",
+   "последний_отзыв": "2026-08-21",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 25
+  },
+  {
+   "id": "154120969306",
+   "название": "Автосервис БМВ",
+   "seoname": "avtoservis_bmv",
+   "адрес": "Копейск, 40К",
+   "координаты": [
+    61.636626,
+    55.119255
+   ],
+   "рейтинг": 4.3,
+   "оценок": 56,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 460-66-55"
+   ],
+   "часы": "пн-сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_bmv/154120969306/",
+   "последний_отзыв": "2026-08-11",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 18
+  },
+  {
+   "id": "188299627606",
+   "название": "Про Китай Авто",
+   "seoname": "pro_kitay_avto",
+   "адрес": "ул. Братьев Кашириных, 147А, Челябинск",
+   "координаты": [
+    61.297357,
+    55.168742
+   ],
+   "рейтинг": 4.6,
+   "оценок": 18,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://prokitavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 210-56-18"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_for_order",
+    "delivery",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pro_kitay_avto/188299627606/",
+   "последний_отзыв": "2025-10-27",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 13
+  }
+ ]
+}

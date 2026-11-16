@@ -1,0 +1,5240 @@
+{
+ "ниша": "Автосалоны",
+ "ключ": "avtosalony",
+ "запросы": [
+  "автосалон"
+ ],
+ "найдено_в_яндексе": {
+  "автосалон": 63,
+  "автосалон Калининский район": 50,
+  "автосалон Курчатовский район": 45,
+  "автосалон Ленинский район": 34,
+  "автосалон Металлургический район": 43,
+  "автосалон Советский район": 41,
+  "автосалон Тракторозаводский район": 37,
+  "автосалон Центральный район": 45
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Челябинску (регион 56)",
+ "город": "chelyabinsk",
+ "компании": [
+  {
+   "id": "1773223767",
+   "название": "Киа центр на Копейском",
+   "seoname": "kia_tsentr_na_kopeyskom",
+   "адрес": "Копейское ш., 33А, Челябинск",
+   "координаты": [
+    61.464038,
+    55.134246
+   ],
+   "рейтинг": 4.6,
+   "оценок": 2383,
+   "отзывов": 937,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 725-77-91",
+    "+7 (351) 274-40-44",
+    "+7 (351) 274-40-40"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_tsentr_na_kopeyskom/1773223767/",
+   "последний_отзыв": "2026-09-29",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 93
+  },
+  {
+   "id": "19582161555",
+   "название": "Crystal Motors",
+   "seoname": "crystal_motors",
+   "адрес": "ул. Кузнецова, 1А",
+   "координаты": [
+    61.36081,
+    55.117557
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1205,
+   "отзывов": 886,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chel.crystal-motors.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 255-55-62"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "авторынок"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "disable_captions",
+    "gift_certificate",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/crystal_motors/19582161555/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 58,
+   "загружено_дат": 64
+  },
+  {
+   "id": "55495451650",
+   "название": "Июль Лада",
+   "seoname": "iyul_lada",
+   "адрес": "Копейское ш., 88/5",
+   "координаты": [
+    61.449991,
+    55.14764
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1452,
+   "отзывов": 715,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tsa-chelyabinsk.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 242-57-80"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/iyul_lada/55495451650/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 52,
+   "загружено_дат": 88
+  },
+  {
+   "id": "1025833656",
+   "название": "УТЦ Lada",
+   "seoname": "utts_lada",
+   "адрес": "ул. Братьев Кашириных, 147, Челябинск",
+   "координаты": [
+    61.296512,
+    55.168601
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1024,
+   "отзывов": 517,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://utc.lada.ru/",
+    "https://restart.auto/dealers/utc"
+   ],
+   "телефоны": [
+    "+7 (351) 272-40-98"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "тонирование автостёкол",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/utts_lada/1025833656/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 66,
+   "загружено_дат": 74
+  },
+  {
+   "id": "59319250349",
+   "название": "Сатурн, Lada",
+   "seoname": "saturn_lada",
+   "адрес": "ул. Блюхера, 123А",
+   "координаты": [
+    61.348386,
+    55.105169
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1263,
+   "отзывов": 487,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://saturn-2.lada.ru/?dealer=555345544",
+    "https://restart.auto/dealers/saturn-chelyabinsk-blyukhera"
+   ],
+   "телефоны": [
+    "+7 (351) 225-73-72",
+    "+7 (351) 255-57-07"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/saturn_lada/59319250349/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 50,
+   "загружено_дат": 78
+  },
+  {
+   "id": "1105500410",
+   "название": "Сатурн, Lada",
+   "seoname": "saturn_lada",
+   "адрес": "Свердловский тракт, 15Б",
+   "координаты": [
+    61.387284,
+    55.199286
+   ],
+   "рейтинг": 4.6,
+   "оценок": 1182,
+   "отзывов": 465,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://saturn-2.lada.ru/?dealer=42796629",
+    "https://restart.auto/dealers/saturn-chelyabinsk-na-sverdlovskom"
+   ],
+   "телефоны": [
+    "+7 (351) 225-70-48",
+    "+7 (351) 210-08-09"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/saturn_lada/1105500410/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 85
+  },
+  {
+   "id": "206897624094",
+   "название": "Тойота центр",
+   "seoname": "toyota_tsentr",
+   "адрес": "Черкасская ул., 19",
+   "координаты": [
+    61.375093,
+    55.228169
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1135,
+   "отзывов": 450,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://chel.toyota-avtomir.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-97-15"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr/206897624094/",
+   "последний_отзыв": "2026-09-14",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 86
+  },
+  {
+   "id": "1075802980",
+   "название": "Тойота центр Челябинск Восток",
+   "seoname": "toyota_tsentr_chelyabinsk_vostok",
+   "адрес": "просп. Ленина, 3Е",
+   "координаты": [
+    61.463598,
+    55.158895
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1374,
+   "отзывов": 393,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://toyotachel.ru/"
+   ],
+   "телефоны": [
+    "+7 (958) 740-14-51"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "generators",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "ramp",
+    "spare_parts",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr_chelyabinsk_vostok/1075802980/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 72
+  },
+  {
+   "id": "1058834131",
+   "название": "Восток Лада",
+   "seoname": "vostok_lada",
+   "адрес": "ул. Труда, 22",
+   "координаты": [
+    61.426709,
+    55.168459
+   ],
+   "рейтинг": 4.5,
+   "оценок": 857,
+   "отзывов": 383,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vostok.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-01-15"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vostok_lada/1058834131/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 56,
+   "загружено_дат": 81
+  },
+  {
+   "id": "44270005368",
+   "название": "Регинас, Haval City",
+   "seoname": "reginas_haval_city",
+   "адрес": "ул. Братьев Кашириных, 141",
+   "координаты": [
+    61.299385,
+    55.170715
+   ],
+   "рейтинг": 5,
+   "оценок": 718,
+   "отзывов": 376,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.reginas-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-93-01"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "diesel_service",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reginas_haval_city/44270005368/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 58,
+   "загружено_дат": 80
+  },
+  {
+   "id": "1077843121",
+   "название": "Сатурн, официальный дилер Renault",
+   "seoname": "saturn_ofitsialny_diler_renault",
+   "адрес": "ул. Блюхера, 123",
+   "координаты": [
+    61.347354,
+    55.104495
+   ],
+   "рейтинг": 4.6,
+   "оценок": 941,
+   "отзывов": 282,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://renault.saturn2.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 255-58-00",
+    "+7 (351) 220-16-09",
+    "+7 (351) 220-16-18"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/saturn_ofitsialny_diler_renault/1077843121/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 91
+  },
+  {
+   "id": "1056239148",
+   "название": "Автоцентр Керг",
+   "seoname": "avtotsentr_kerg",
+   "адрес": "Новоэлеваторная ул., 49",
+   "координаты": [
+    61.353227,
+    55.105274
+   ],
+   "рейтинг": 4.7,
+   "оценок": 909,
+   "отзывов": 279,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.kerg.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 259-68-68"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_kerg/1056239148/",
+   "последний_отзыв": "2026-10-08",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 84
+  },
+  {
+   "id": "17444765884",
+   "название": "Geely Регинас",
+   "seoname": "geely_reginas",
+   "адрес": "Свердловский тракт, 5Р, стр. 3",
+   "координаты": [
+    61.382983,
+    55.213311
+   ],
+   "рейтинг": 4.7,
+   "оценок": 606,
+   "отзывов": 263,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-74-53"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_reginas/17444765884/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 84
+  },
+  {
+   "id": "134287271808",
+   "название": "Сатурн, Lada",
+   "seoname": "saturn_lada",
+   "адрес": "ул. Молодогвардейцев, 2",
+   "координаты": [
+    61.321468,
+    55.204798
+   ],
+   "рейтинг": 4.9,
+   "оценок": 494,
+   "отзывов": 254,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://saturn-2.lada.ru/?dealer=594629880"
+   ],
+   "телефоны": [
+    "+7 (351) 200-26-71",
+    "+7 (351) 280-08-99"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/saturn_lada/134287271808/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 69
+  },
+  {
+   "id": "128416065522",
+   "название": "Geely центр на Копейском",
+   "seoname": "geely_tsentr_na_kopeyskom",
+   "адрес": "Копейское ш., 33А, Челябинск",
+   "координаты": [
+    61.464203,
+    55.134281
+   ],
+   "рейтинг": 5,
+   "оценок": 431,
+   "отзывов": 241,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://promo.geely-kop.ru/",
+    "https://geely-kop.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-77-86"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_tsentr_na_kopeyskom/128416065522/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 51,
+   "загружено_дат": 83
+  },
+  {
+   "id": "1088543107",
+   "название": "Регинас Hyundai",
+   "seoname": "reginas_hyundai",
+   "адрес": "ул. Братьев Кашириных, 141Б",
+   "координаты": [
+    61.299084,
+    55.17042
+   ],
+   "рейтинг": 4.4,
+   "оценок": 624,
+   "отзывов": 236,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://hyundai-reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 225-80-28",
+    "+7 (351) 239-52-07",
+    "+7 (351) 239-52-20"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reginas_hyundai/1088543107/"
+  },
+  {
+   "id": "197852990627",
+   "название": "Kia центр на Кашириных",
+   "seoname": "kia_tsentr_na_kashirinykh",
+   "адрес": "ул. Братьев Кашириных, 129Д",
+   "координаты": [
+    61.314514,
+    55.177325
+   ],
+   "рейтинг": 4.9,
+   "оценок": 424,
+   "отзывов": 195,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://kia-kop.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 274-40-04"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "disable_captions",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_tsentr_na_kashirinykh/197852990627/"
+  },
+  {
+   "id": "150474704668",
+   "название": "Black Rock",
+   "seoname": "black_rock",
+   "адрес": "ул. Свободы, 91, корп. 1А",
+   "координаты": [
+    61.413446,
+    55.163288
+   ],
+   "рейтинг": 4.9,
+   "оценок": 85,
+   "отзывов": 59,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://blackrockchel.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 277-88-23"
+   ],
+   "часы": "пн-пт 10:00–19:30; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "street_entrance",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/black_rock/150474704668/"
+  },
+  {
+   "id": "199295184287",
+   "название": "Планета Авто Восток, JETOUR",
+   "seoname": "planeta_avto_vostok_jetour",
+   "адрес": "Копейское ш., 82",
+   "координаты": [
+    61.446563,
+    55.148516
+   ],
+   "рейтинг": 4.8,
+   "оценок": 83,
+   "отзывов": 53,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jetour-planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 210-58-26"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planeta_avto_vostok_jetour/199295184287/"
+  },
+  {
+   "id": "13118957506",
+   "название": "Jetour Планета авто",
+   "seoname": "jetour_planeta_avto",
+   "адрес": "ул. Братьев Кашириных, 137, корп. 1",
+   "координаты": [
+    61.301978,
+    55.171637
+   ],
+   "рейтинг": 4.7,
+   "оценок": 71,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jetour-planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-64-21"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jetour_planeta_avto/13118957506/"
+  },
+  {
+   "id": "50858161629",
+   "название": "Tenet Регинас",
+   "seoname": "tenet_reginas",
+   "адрес": "Свердловский тракт, 5Р, стр. 2, Челябинск",
+   "координаты": [
+    61.382709,
+    55.214152
+   ],
+   "рейтинг": 4.8,
+   "оценок": 22,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://promo.tenet-reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 210-43-66"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "certified_service",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tenet_reginas/50858161629/"
+  },
+  {
+   "id": "45481570945",
+   "название": "Сатурн, Tenet",
+   "seoname": "saturn_tenet",
+   "адрес": "ул. Блюхера, 123, Челябинск",
+   "координаты": [
+    61.347011,
+    55.10428
+   ],
+   "рейтинг": 4.7,
+   "оценок": 25,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenet-saturn.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 725-77-81",
+    "+7 (351) 255-58-80"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/saturn_tenet/45481570945/"
+  },
+  {
+   "id": "178528763881",
+   "название": "Регинас, Jetour",
+   "seoname": "reginas_jetour",
+   "адрес": "Свердловский тракт, 5Р, стр. 3",
+   "координаты": [
+    61.383213,
+    55.213639
+   ],
+   "рейтинг": 4.4,
+   "оценок": 41,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jetour-reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 211-03-87"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reginas_jetour/178528763881/"
+  },
+  {
+   "id": "177557118005",
+   "название": "Mercedes-Benz Планета Авто",
+   "seoname": "mercedes_benz_planeta_avto",
+   "адрес": "ул. Братьев Кашириных, 143",
+   "координаты": [
+    61.298172,
+    55.170134
+   ],
+   "рейтинг": 4,
+   "оценок": 5,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://premium-planeta-avto.ru/mercedes-benz",
+    "https://premium-planeta-avto.ru/mercedes-benz",
+    "https://premium-planeta-avto.ru/deepal"
+   ],
+   "телефоны": [
+    "+7 (351) 700-01-10"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автодиагностика",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mercedes_benz_planeta_avto/177557118005/"
+  },
+  {
+   "id": "16122637727",
+   "название": "Omoda Планета Авто",
+   "seoname": "omoda_planeta_avto",
+   "адрес": "ул. Братьев Кашириных, 126, стр. 1, Челябинск",
+   "координаты": [
+    61.302999,
+    55.174028
+   ],
+   "рейтинг": 4.7,
+   "оценок": 56,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omoda-planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 210-43-92"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_planeta_avto/16122637727/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "65476013727",
+   "название": "Solaris центр",
+   "seoname": "solaris_tsentr",
+   "адрес": "ул. Братьев Кашириных, 129Д, Челябинск",
+   "координаты": [
+    61.314763,
+    55.177426
+   ],
+   "рейтинг": 5,
+   "оценок": 137,
+   "отзывов": 105,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://solaris-fragment.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 274-40-04"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solaris_tsentr/65476013727/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "73461230402",
+   "название": "Gac центр",
+   "seoname": "gac_tsentr",
+   "адрес": "ул. Братьев Кашириных, 129Д",
+   "координаты": [
+    61.314833,
+    55.177051
+   ],
+   "рейтинг": 4.5,
+   "оценок": 23,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://gac-chel-kashirin.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 274-40-04"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gac_tsentr/73461230402/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "194612470950",
+   "название": "Geely, Планета Авто",
+   "seoname": "geely_planeta_avto",
+   "адрес": "ул. Братьев Кашириных, 137",
+   "координаты": [
+    61.301627,
+    55.171356
+   ],
+   "рейтинг": 4.7,
+   "оценок": 429,
+   "отзывов": 170,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 200-25-78"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_planeta_avto/194612470950/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "21368771252",
+   "название": "Level Cars",
+   "seoname": "level_cars",
+   "адрес": "ул. Университетская Набережная, 66А/2",
+   "координаты": [
+    61.306213,
+    55.170056
+   ],
+   "рейтинг": 4.8,
+   "оценок": 92,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://levelcars.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 234-17-17"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "заказ автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "cars_for_order",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/level_cars/21368771252/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "77221553991",
+   "название": "Этаж-Авто",
+   "seoname": "etazh_avto",
+   "адрес": "Отрадная ул., 25",
+   "координаты": [
+    61.342807,
+    55.180414
+   ],
+   "рейтинг": 4.9,
+   "оценок": 42,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://etauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 777-25-53"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/etazh_avto/77221553991/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "1766713871",
+   "название": "Гольфстрим",
+   "seoname": "golfstrim",
+   "адрес": "ул. Братьев Кашириных, 126",
+   "координаты": [
+    61.303379,
+    55.173539
+   ],
+   "рейтинг": 4.6,
+   "оценок": 1239,
+   "отзывов": 413,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://planeta-avto.ru/",
+    "https://avtoservice.planeta-avto.ru/vag"
+   ],
+   "телефоны": [
+    "+7 (351) 210-58-49"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/golfstrim/1766713871/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "144651374415",
+   "название": "Автопро74",
+   "seoname": "avtopro74",
+   "адрес": "ул. Университетская Набережная, 68",
+   "координаты": [
+    61.304382,
+    55.169336
+   ],
+   "рейтинг": 5,
+   "оценок": 147,
+   "отзывов": 129,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtopro74.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 711-14-31"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtopro74/144651374415/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "205215791226",
+   "название": "Каи центр на Кашириных",
+   "seoname": "kai_tsentr_na_kashirinykh",
+   "адрес": "ул. Братьев Кашириных, 129Д",
+   "координаты": [
+    61.314611,
+    55.177362
+   ],
+   "рейтинг": 4.4,
+   "оценок": 19,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 274-40-04",
+    "+7 (919) 325-77-13"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kai_tsentr_na_kashirinykh/205215791226/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "161088251825",
+   "название": "Chery Планета Авто Запад",
+   "seoname": "chery_planeta_avto_zapad",
+   "адрес": "ул. Братьев Кашириных, 137, Челябинск",
+   "координаты": [
+    61.301231,
+    55.171272
+   ],
+   "рейтинг": 4.7,
+   "оценок": 374,
+   "отзывов": 135,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chery-planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-99-46"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "страхование автомобилей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_purchase_agreement",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_planeta_avto_zapad/161088251825/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "1066275266",
+   "название": "Ауди Сервис",
+   "seoname": "audi_servis",
+   "адрес": "ул. Чичерина, 52",
+   "координаты": [
+    61.30741,
+    55.170965
+   ],
+   "рейтинг": 4.7,
+   "оценок": 670,
+   "отзывов": 193,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://as-chelyabinsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 247-75-75",
+    "+7 (351) 247-00-00"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/audi_servis/1066275266/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "239162528454",
+   "название": "Луидор эксперт",
+   "seoname": "luidor_ekspert",
+   "адрес": "ул. Братьев Кашириных, 135, корп. 5",
+   "координаты": [
+    61.304765,
+    55.170983
+   ],
+   "рейтинг": 0,
+   "оценок": 95,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://chel.luidor-expert.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-92-29"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/luidor_ekspert/239162528454/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "39116535315",
+   "название": "Планета Авто Коллекция",
+   "seoname": "planeta_avto_kollektsiya",
+   "адрес": "ул. Братьев Кашириных, 143, Челябинск",
+   "координаты": [
+    61.298172,
+    55.170134
+   ],
+   "рейтинг": 4.3,
+   "оценок": 102,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://premium-planeta-avto.ru/",
+    "https://planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-01-10"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planeta_avto_kollektsiya/39116535315/",
+   "найдено_по": "автосалон Калининский район"
+  },
+  {
+   "id": "6242737695",
+   "название": "Jac, официальный дилер Сатурн",
+   "seoname": "jac_ofitsialny_diler_saturn",
+   "адрес": "ул. Молодогвардейцев, 2",
+   "координаты": [
+    61.321799,
+    55.204485
+   ],
+   "рейтинг": 4.4,
+   "оценок": 24,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://promo.jac-saturn2.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 278-02-39",
+    "+7 (351) 701-73-80"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jac_ofitsialny_diler_saturn/6242737695/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "1017829832",
+   "название": "Регинас Kia",
+   "seoname": "reginas_kia",
+   "адрес": "Свердловский тракт, 5Р, стр. 2",
+   "координаты": [
+    61.382514,
+    55.214555
+   ],
+   "рейтинг": 4.5,
+   "оценок": 1026,
+   "отзывов": 374,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 211-10-02"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reginas_kia/1017829832/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "115519927972",
+   "название": "Haval Pro Регинас",
+   "seoname": "haval_pro_reginas",
+   "адрес": "Свердловский тракт, 5Р, стр. 2",
+   "координаты": [
+    61.382588,
+    55.214448
+   ],
+   "рейтинг": 4.8,
+   "оценок": 143,
+   "отзывов": 63,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://haval-pro-reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-95-61",
+    "+7 (351) 255-54-95"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "certified_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_pro_reginas/115519927972/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "69359755195",
+   "название": "Автомир, EXEED",
+   "seoname": "avtomir_exeed",
+   "адрес": "Черкасская ул., 19",
+   "координаты": [
+    61.374967,
+    55.228285
+   ],
+   "рейтинг": 5,
+   "оценок": 254,
+   "отзывов": 147,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chel.avtomir.ru/new-cars/exeed/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-75-12"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomir_exeed/69359755195/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "39349591978",
+   "название": "Мир моторов",
+   "seoname": "mir_motorov",
+   "адрес": "ул. Молодогвардейцев, 2",
+   "координаты": [
+    61.322429,
+    55.204341
+   ],
+   "рейтинг": 4.3,
+   "оценок": 437,
+   "отзывов": 152,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://mir-motorov.com/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-16-64",
+    "+7 (351) 220-16-99"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_motorov/39349591978/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "49815006957",
+   "название": "Сатурн, официальный дилер Москвич",
+   "seoname": "saturn_ofitsialny_diler_moskvich",
+   "адрес": "ул. Молодогвардейцев, 2",
+   "координаты": [
+    61.321867,
+    55.20414
+   ],
+   "рейтинг": 4.9,
+   "оценок": 347,
+   "отзывов": 126,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://promo.moskvich-saturn2.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-68-64"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/saturn_ofitsialny_diler_moskvich/49815006957/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "233988830032",
+   "название": "Chery Регинас",
+   "seoname": "chery_reginas",
+   "адрес": "Свердловский тракт, 5Р, стр. 2",
+   "координаты": [
+    61.382648,
+    55.214259
+   ],
+   "рейтинг": 4.6,
+   "оценок": 584,
+   "отзывов": 216,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://reginas-chery.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 242-58-01",
+    "+7 (351) 211-10-06"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_reginas/233988830032/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "11749322562",
+   "название": "Haval City Регинас",
+   "seoname": "haval_city_reginas",
+   "адрес": "Свердловский тракт, 5Р, стр. 1",
+   "координаты": [
+    61.382234,
+    55.215305
+   ],
+   "рейтинг": 4.8,
+   "оценок": 850,
+   "отзывов": 398,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://haval-auto-reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-75-69"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_city_reginas/11749322562/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "67285735924",
+   "название": "Сатурн, Jaecoo",
+   "seoname": "saturn_jaecoo",
+   "адрес": "ул. Молодогвардейцев, 2, Челябинск",
+   "координаты": [
+    61.322396,
+    55.203534
+   ],
+   "рейтинг": 4.5,
+   "оценок": 48,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://jaecoo-saturn2.ru/",
+    "https://promo.jaecoo-saturn2.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-98-81"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/saturn_jaecoo/67285735924/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "226926832558",
+   "название": "Changan Регинас",
+   "seoname": "changan_reginas",
+   "адрес": "Свердловский тракт, 5Р",
+   "координаты": [
+    61.381958,
+    55.216047
+   ],
+   "рейтинг": 4.8,
+   "оценок": 380,
+   "отзывов": 202,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sales.reginas74-changanauto.ru/",
+    "https://sales.deepal-reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-64-49"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_reginas/226926832558/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "67357539263",
+   "название": "Omoda Регинас",
+   "seoname": "omoda_reginas",
+   "адрес": "Свердловский тракт, 5Р, стр. 3",
+   "координаты": [
+    61.383327,
+    55.213667
+   ],
+   "рейтинг": 4.5,
+   "оценок": 241,
+   "отзывов": 92,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://omoda-reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 211-66-11",
+    "+7 (351) 211-22-32"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "certified_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "leasing_registration",
+    "loan_processing",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_reginas/67357539263/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "1000217358",
+   "название": "Регинас Профи",
+   "seoname": "reginas_profi",
+   "адрес": "Свердловский тракт, 5Р",
+   "координаты": [
+    61.381942,
+    55.215966
+   ],
+   "рейтинг": 4.4,
+   "оценок": 1365,
+   "отзывов": 551,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://reginas.pro/"
+   ],
+   "телефоны": [
+    "+7 (351) 211-61-16"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "авторынок",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reginas_profi/1000217358/",
+   "найдено_по": "автосалон Курчатовский район"
+  },
+  {
+   "id": "125520046404",
+   "название": "7 Авто",
+   "seoname": "7_avto",
+   "адрес": "Батумская ул., 1",
+   "координаты": [
+    61.477442,
+    55.12879
+   ],
+   "рейтинг": 4.7,
+   "оценок": 21,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://auto774.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 059-34-87"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автоаукцион"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "japanese_car_auctions",
+    "leasing_registration",
+    "loan_processing",
+    "motorcycle_auction",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/7_avto/125520046404/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "138951539667",
+   "название": "Авторитэйл, ГАЗ",
+   "seoname": "avtoriteyl_gaz",
+   "адрес": "Копейское ш., 27Ж",
+   "координаты": [
+    61.473465,
+    55.13065
+   ],
+   "рейтинг": 4.4,
+   "оценок": 232,
+   "отзывов": 100,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://74.autoretail.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 300-63-28"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "грузовые автомобили, грузовая техника",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoriteyl_gaz/138951539667/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "202274673947",
+   "название": "Solaris центр на Копейском",
+   "seoname": "solaris_tsentr_na_kopeyskom",
+   "адрес": "Копейское ш., 33А",
+   "координаты": [
+    61.46311,
+    55.134468
+   ],
+   "рейтинг": 4.9,
+   "оценок": 25,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://solaris-fragment.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 274-40-44"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "bumper_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "removing_dents_without_painting",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solaris_tsentr_na_kopeyskom/202274673947/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "217756960355",
+   "название": "Belgee центр на Копейском",
+   "seoname": "belgee_tsentr_na_kopeyskom",
+   "адрес": "Копейское ш., 33А",
+   "координаты": [
+    61.464595,
+    55.134011
+   ],
+   "рейтинг": 5,
+   "оценок": 224,
+   "отзывов": 150,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://belgee-kop.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-74-43",
+    "+7 (351) 700-79-41"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/belgee_tsentr_na_kopeyskom/217756960355/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "142035552517",
+   "название": "Бэст Авто",
+   "seoname": "best_avto",
+   "адрес": "ул. Гагарина, 7А",
+   "координаты": [
+    61.443436,
+    55.142432
+   ],
+   "рейтинг": 4.4,
+   "оценок": 81,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://uralbest.ru/ys"
+   ],
+   "телефоны": [
+    "+7 (351) 214-30-20"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/best_avto/142035552517/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "213130746646",
+   "название": "Лексус-Челябинск",
+   "seoname": "leksus_chelyabinsk",
+   "адрес": "просп. Ленина, 3Е",
+   "координаты": [
+    61.464007,
+    55.158508
+   ],
+   "рейтинг": 5,
+   "оценок": 29,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://lexus-chel.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 779-91-23",
+    "+7 (351) 779-91-45",
+    "+7 (351) 779-91-53",
+    "+7 (351) 779-99-99",
+    "+7 (351) 779-91-35"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/leksus_chelyabinsk/213130746646/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "197474240098",
+   "название": "Chery, Планета Авто Восток",
+   "seoname": "chery_planeta_avto_vostok",
+   "адрес": "Копейское ш., 84, Челябинск",
+   "координаты": [
+    61.445455,
+    55.149391
+   ],
+   "рейтинг": 4.5,
+   "оценок": 469,
+   "отзывов": 144,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chery-planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-00-32"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "cars_russification",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_planeta_avto_vostok/197474240098/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "191164575404",
+   "название": "Планета Авто Эксперт",
+   "seoname": "planeta_avto_ekspert",
+   "адрес": "Копейское ш., 82",
+   "координаты": [
+    61.44725,
+    55.148097
+   ],
+   "рейтинг": 4.4,
+   "оценок": 485,
+   "отзывов": 160,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-75-87"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "payment_by_credit_card",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planeta_avto_ekspert/191164575404/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "180776382864",
+   "название": "TENET Планета Авто Восток",
+   "seoname": "tenet_planeta_avto_vostok",
+   "адрес": "Копейское ш., 84",
+   "координаты": [
+    61.445852,
+    55.149311
+   ],
+   "рейтинг": 4.4,
+   "оценок": 24,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenet-planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 272-43-18",
+    "+7 (351) 700-71-18"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "trailer_repair",
+    "vibrationstand",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tenet_planeta_avto_vostok/180776382864/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "146412244530",
+   "название": "Планета Авто",
+   "seoname": "planeta_avto",
+   "адрес": "Копейское ш., 82",
+   "координаты": [
+    61.447117,
+    55.148204
+   ],
+   "рейтинг": 4.6,
+   "оценок": 29,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 200-36-01"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "trailer_repair",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planeta_avto/146412244530/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "25695118509",
+   "название": "Автогалерея",
+   "seoname": "avtogalereya",
+   "адрес": "ул. Трубников, 20",
+   "координаты": [
+    61.462694,
+    55.134793
+   ],
+   "рейтинг": 4.2,
+   "оценок": 107,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 470-98-38",
+    "+7 (908) 570-59-18"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtogalereya/25695118509/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "89943214593",
+   "название": "Oting Планета Авто",
+   "seoname": "oting_planeta_avto",
+   "адрес": "Копейское ш., 82",
+   "координаты": [
+    61.447214,
+    55.148291
+   ],
+   "рейтинг": 4.2,
+   "оценок": 19,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 272-07-20"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oting_planeta_avto/89943214593/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "8952011877",
+   "название": "Планета Авто",
+   "seoname": "planeta_avto",
+   "адрес": "Копейское ш., 82",
+   "координаты": [
+    61.447221,
+    55.148119
+   ],
+   "рейтинг": 4.2,
+   "оценок": 52,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://planeta-avto.biz/",
+    "http://planeta-avto.biz/o-kompan/plzapchastej/"
+   ],
+   "телефоны": [
+    "+7 (351) 272-07-20"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planeta_avto/8952011877/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "1004060355",
+   "название": "Bovid",
+   "seoname": "bovid",
+   "адрес": "просп. Ленина, 26А, стр. 2",
+   "координаты": [
+    61.429745,
+    55.161611
+   ],
+   "рейтинг": 4.6,
+   "оценок": 208,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://bovidcars.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 775-11-11",
+    "+7 (351) 240-25-40",
+    "+7 (351) 775-01-01"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bovid/1004060355/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "1028295648",
+   "название": "АВС-Моторс",
+   "seoname": "avs_motors",
+   "адрес": "Копейское ш., 52, корп. 1",
+   "координаты": [
+    61.45914,
+    55.138892
+   ],
+   "рейтинг": 4.4,
+   "оценок": 296,
+   "отзывов": 127,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.avsmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 245-00-45"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "diesel_service",
+    "freight_car_service",
+    "leasing_registration",
+    "loan_processing",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "self_car_service",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "transportation_storage_dangerous_goods",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avs_motors/1028295648/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "191218062662",
+   "название": "Планета авто",
+   "seoname": "planeta_avto",
+   "адрес": "Копейское ш., 64",
+   "координаты": [
+    61.453379,
+    55.145868
+   ],
+   "рейтинг": 4.1,
+   "оценок": 26,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://planetavto.ru/",
+    "https://planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 272-07-20",
+    "+7 (351) 749-09-00"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planeta_avto/191218062662/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "107888285214",
+   "название": "Автомобили с пробегом",
+   "seoname": "avtomobili_s_probegom",
+   "адрес": "Копейское ш., 33А",
+   "координаты": [
+    61.46405,
+    55.134214
+   ],
+   "рейтинг": 4.1,
+   "оценок": 54,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 274-40-40"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон",
+    "авторынок"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomobili_s_probegom/107888285214/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "85070882044",
+   "название": "Carbat",
+   "seoname": "carbat",
+   "адрес": "ул. Харлова, 10/4",
+   "координаты": [
+    61.437253,
+    55.148728
+   ],
+   "рейтинг": 4.3,
+   "оценок": 5,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://chlb.carbat.ru/",
+    "https://carbat.ru/chelyabinsk"
+   ],
+   "телефоны": [
+    "+7 (995) 651-32-92",
+    "8 (800) 500-03-91"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "cars_for_order",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carbat/85070882044/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "128171200194",
+   "название": "Vgv",
+   "seoname": "vgv",
+   "адрес": "просп. Ленина, 3Е",
+   "координаты": [
+    61.464007,
+    55.158508
+   ],
+   "рейтинг": 4.4,
+   "оценок": 17,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 799-79-90"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vgv/128171200194/",
+   "найдено_по": "автосалон Ленинский район"
+  },
+  {
+   "id": "1681539923",
+   "название": "УТЦ",
+   "seoname": "utts",
+   "адрес": "Свердловский тракт, 16Б",
+   "координаты": [
+    61.376368,
+    55.224223
+   ],
+   "рейтинг": 4.7,
+   "оценок": 902,
+   "отзывов": 251,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://utc-garant.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-00-03",
+    "+7 (351) 700-00-02",
+    "+7 (912) 329-93-21"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "body_repair",
+    "cafe",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/utts/1681539923/",
+   "найдено_по": "автосалон Металлургический район"
+  },
+  {
+   "id": "1024604898",
+   "название": "Истен Моторс, официальный дилер Hyundai",
+   "seoname": "isten_motors_ofitsialny_diler_hyundai",
+   "адрес": "Свердловский тракт, 5Р",
+   "координаты": [
+    61.382041,
+    55.215988
+   ],
+   "рейтинг": 4.4,
+   "оценок": 554,
+   "отзывов": 215,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://hyundai-reginas.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 225-80-51",
+    "+7 (351) 211-17-00"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "spare_parts",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/isten_motors_ofitsialny_diler_hyundai/1024604898/",
+   "найдено_по": "автосалон Металлургический район"
+  },
+  {
+   "id": "32317128694",
+   "название": "Регинас профи",
+   "seoname": "reginas_profi",
+   "адрес": "ул. Братьев Кашириных, 141Б",
+   "координаты": [
+    61.299109,
+    55.170326
+   ],
+   "рейтинг": 4.8,
+   "оценок": 314,
+   "отзывов": 179,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://reginas.pro/"
+   ],
+   "телефоны": [
+    "+7 (351) 239-52-22",
+    "+7 (351) 239-52-09"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "авторынок",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "loan_processing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reginas_profi/32317128694/",
+   "найдено_по": "автосалон Металлургический район"
+  },
+  {
+   "id": "1040547727",
+   "название": "УралАвтоХаус",
+   "seoname": "uralavtokhaus",
+   "адрес": "просп. Победы, 71, Копейск",
+   "координаты": [
+    61.544708,
+    55.118631
+   ],
+   "рейтинг": 5,
+   "оценок": 459,
+   "отзывов": 133,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 255-56-66"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/uralavtokhaus/1040547727/",
+   "найдено_по": "автосалон Металлургический район"
+  },
+  {
+   "id": "181259403641",
+   "название": "Сатурн, Чанган",
+   "seoname": "saturn_changan",
+   "адрес": "ул. Блюхера, 123",
+   "координаты": [
+    61.346762,
+    55.10416
+   ],
+   "рейтинг": 4.7,
+   "оценок": 14,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://saturn-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 272-26-13",
+    "+7 (351) 214-68-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/saturn_changan/181259403641/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "17322019710",
+   "название": "Автостайл",
+   "seoname": "avtostayl",
+   "адрес": "Троицкий тракт, 24, Челябинск",
+   "координаты": [
+    61.386797,
+    55.119229
+   ],
+   "рейтинг": 4.3,
+   "оценок": 222,
+   "отзывов": 136,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://ac-avtostyle.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 725-79-45"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtostayl/17322019710/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "87838467327",
+   "название": "АвтоХаус",
+   "seoname": "avtokhaus",
+   "адрес": "ул. Блюхера, 96",
+   "координаты": [
+    61.358008,
+    55.114815
+   ],
+   "рейтинг": 4.8,
+   "оценок": 506,
+   "отзывов": 357,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 200-54-58"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokhaus/87838467327/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "101181307281",
+   "название": "Chery, Сатурн",
+   "seoname": "chery_saturn",
+   "адрес": "ул. Блюхера, 123",
+   "координаты": [
+    61.347267,
+    55.104298
+   ],
+   "рейтинг": 4.9,
+   "оценок": 506,
+   "отзывов": 193,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://saturn-chery.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 200-29-42"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_saturn/101181307281/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "210639198727",
+   "название": "Авторитэйл, ГАЗ",
+   "seoname": "avtoriteyl_gaz",
+   "адрес": "1-я Томинская ул., 1",
+   "координаты": [
+    61.390965,
+    55.123085
+   ],
+   "рейтинг": 4.5,
+   "оценок": 185,
+   "отзывов": 84,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autoretail.ru/che?city_id=che"
+   ],
+   "телефоны": [
+    "8 (800) 300-63-28"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "грузовые автомобили, грузовая техника",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "freight_car_service",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "pickup",
+    "registration_inspection",
+    "repairs",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoriteyl_gaz/210639198727/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "32161387812",
+   "название": "Планета Авто",
+   "seoname": "planeta_avto",
+   "адрес": "ул. Блюхера, 100",
+   "координаты": [
+    61.355924,
+    55.112771
+   ],
+   "рейтинг": 4.5,
+   "оценок": 280,
+   "отзывов": 106,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://planeta-avto.ru/",
+    "https://avtoservice.planeta-avto.ru/",
+    "https://planeta-avto.ru/dealers/planeta-avto-blyuhera-100"
+   ],
+   "телефоны": [
+    "+7 (351) 200-25-78",
+    "+7 (351) 749-09-00"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planeta_avto/32161387812/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "35242973445",
+   "название": "Сильвер, Lada",
+   "seoname": "silver_lada",
+   "адрес": "ул. Игуменка, 185",
+   "координаты": [
+    61.390525,
+    55.081076
+   ],
+   "рейтинг": 4.8,
+   "оценок": 52,
+   "отзывов": 45,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://silver-lada-chelyabinsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-95-34",
+    "+7 (351) 725-78-62"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/silver_lada/35242973445/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "73333716579",
+   "название": "Сильвер. Select",
+   "seoname": "silver_select",
+   "адрес": "ул. Игуменка, 185",
+   "координаты": [
+    61.390489,
+    55.081189
+   ],
+   "рейтинг": 4.5,
+   "оценок": 668,
+   "отзывов": 324,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 700-96-49"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "disable_captions",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/silver_select/73333716579/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "155206552019",
+   "название": "Сильвер. Gac",
+   "seoname": "silver_gac",
+   "адрес": "ул. Игуменка, 173, стр. 1",
+   "координаты": [
+    61.394341,
+    55.084166
+   ],
+   "рейтинг": 4.4,
+   "оценок": 144,
+   "отзывов": 67,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://silver-gac.ru/"
+   ],
+   "телефоны": [],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/silver_gac/155206552019/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "20578082984",
+   "название": "Geely Сильвер",
+   "seoname": "geely_silver",
+   "адрес": "ул. Игуменка, 173, стр. 1",
+   "координаты": [
+    61.394138,
+    55.084437
+   ],
+   "рейтинг": 4.7,
+   "оценок": 471,
+   "отзывов": 236,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.geely-silver.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 958-39-67"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_silver/20578082984/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "105668506649",
+   "название": "Belgee, Сильвер",
+   "seoname": "belgee_silver",
+   "адрес": "ул. Игуменка, 173, стр. 1, Челябинск",
+   "координаты": [
+    61.394487,
+    55.08427
+   ],
+   "рейтинг": 4.9,
+   "оценок": 117,
+   "отзывов": 74,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://silver-belgee.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-72-29"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "diesel_service",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/belgee_silver/105668506649/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "153764072936",
+   "название": "Сильвер, Hyundai",
+   "seoname": "silver_hyundai",
+   "адрес": "ул. Игуменка, 173, стр. 1",
+   "координаты": [
+    61.394178,
+    55.084331
+   ],
+   "рейтинг": 4.4,
+   "оценок": 310,
+   "отзывов": 109,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 200-27-02",
+    "+7 (351) 939-38-08"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "electric car charging station",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/silver_hyundai/153764072936/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "136976979581",
+   "название": "Sollers Планета Авто",
+   "seoname": "sollers_planeta_avto",
+   "адрес": "ул. Блюхера, 100",
+   "координаты": [
+    61.355958,
+    55.112872
+   ],
+   "рейтинг": 4.3,
+   "оценок": 60,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sollers-planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 700-98-74"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sollers_planeta_avto/136976979581/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "11305062308",
+   "название": "Планета Авто",
+   "seoname": "planeta_avto",
+   "адрес": "ул. Блюхера, 100",
+   "координаты": [
+    61.355915,
+    55.112891
+   ],
+   "рейтинг": 4.1,
+   "оценок": 5,
+   "отзывов": 0,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 272-03-04",
+    "+7 (351) 749-09-10"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/planeta_avto/11305062308/",
+   "найдено_по": "автосалон Советский район"
+  },
+  {
+   "id": "6591983296",
+   "название": "Кристал Моторс",
+   "seoname": "kristal_motors",
+   "адрес": "просп. Ленина, 3Е, стр. 1",
+   "координаты": [
+    61.462525,
+    55.158601
+   ],
+   "рейтинг": 4.7,
+   "оценок": 21,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chel.crystal-motors.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-77-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "car_park",
+    "cars_for_order",
+    "disable_captions",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kristal_motors/6591983296/",
+   "найдено_по": "автосалон Тракторозаводский район"
+  },
+  {
+   "id": "243717182191",
+   "название": "Haval City Июль",
+   "seoname": "haval_city_iyul",
+   "адрес": "Копейское ш., 88/9",
+   "координаты": [
+    61.452024,
+    55.147752
+   ],
+   "рейтинг": 5,
+   "оценок": 122,
+   "отзывов": 100,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://july-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-71-59",
+    "+7 (351) 200-26-94"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_city_iyul/243717182191/",
+   "найдено_по": "автосалон Тракторозаводский район"
+  },
+  {
+   "id": "93834488090",
+   "название": "Луидор эксперт",
+   "seoname": "luidor_ekspert",
+   "адрес": "Механическая ул., 14/5",
+   "координаты": [
+    61.446436,
+    55.196685
+   ],
+   "рейтинг": 4.7,
+   "оценок": 116,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://chel.luidor-expert.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-92-29"
+   ],
+   "часы": "пн-пт 07:00–18:00; сб,вс 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/luidor_ekspert/93834488090/",
+   "найдено_по": "автосалон Тракторозаводский район"
+  },
+  {
+   "id": "105975826684",
+   "название": "Evolute Официальный дилер Бовид",
+   "seoname": "evolute_ofitsialny_diler_bovid",
+   "адрес": "просп. Ленина, 26А, стр. 2",
+   "координаты": [
+    61.429692,
+    55.161774
+   ],
+   "рейтинг": 4.2,
+   "оценок": 11,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://evolute-chelyabinsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 755-55-57"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/evolute_ofitsialny_diler_bovid/105975826684/",
+   "найдено_по": "автосалон Тракторозаводский район"
+  },
+  {
+   "id": "52981119656",
+   "название": "Бовид Land Rover",
+   "seoname": "bovid_land_rover",
+   "адрес": "просп. Ленина, 26А, стр. 2",
+   "координаты": [
+    61.429744,
+    55.16158
+   ],
+   "рейтинг": 4.7,
+   "оценок": 129,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.bovidavto.ru/",
+    "http://bovidlandrover.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 755-55-57",
+    "+7 (351) 240-25-40"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bovid_land_rover/52981119656/",
+   "найдено_по": "автосалон Тракторозаводский район"
+  },
+  {
+   "id": "5292794621",
+   "название": "Voyah Официальный дилер Бовид",
+   "seoname": "voyah_ofitsialny_diler_bovid",
+   "адрес": "просп. Ленина, 26А, стр. 2, Челябинск",
+   "координаты": [
+    61.429692,
+    55.161774
+   ],
+   "рейтинг": 4.5,
+   "оценок": 136,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://voyah-bovid-chelyabinsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 755-55-57"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voyah_ofitsialny_diler_bovid/5292794621/",
+   "найдено_по": "автосалон Тракторозаводский район"
+  },
+  {
+   "id": "52645289455",
+   "название": "Jaecoo Планета Авто",
+   "seoname": "jaecoo_planeta_avto",
+   "адрес": "ул. Братьев Кашириных, 126, стр. 1, Челябинск",
+   "координаты": [
+    61.302824,
+    55.174137
+   ],
+   "рейтинг": 4.4,
+   "оценок": 33,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jaecoo-planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 210-43-91"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jaecoo_planeta_avto/52645289455/",
+   "найдено_по": "автосалон Центральный район"
+  },
+  {
+   "id": "218333778897",
+   "название": "BestChinaCars",
+   "seoname": "bestchinacars",
+   "адрес": "ул. Академика Сахарова, 11, Челябинск",
+   "координаты": [
+    61.298217,
+    55.158561
+   ],
+   "рейтинг": 4.8,
+   "оценок": 20,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bcc174.ru/"
+   ],
+   "телефоны": [
+    "+7 (904) 301-52-13",
+    "+7 (351) 250-60-60"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб,вс 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bestchinacars/218333778897/",
+   "найдено_по": "автосалон Центральный район"
+  },
+  {
+   "id": "207761180024",
+   "название": "Tenet Планета Авто",
+   "seoname": "tenet_planeta_avto",
+   "адрес": "ул. Братьев Кашириных, 137, Челябинск",
+   "координаты": [
+    61.301114,
+    55.171232
+   ],
+   "рейтинг": 4.7,
+   "оценок": 13,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenet-planeta-avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 220-95-88",
+    "+7 (351) 700-72-51"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tenet_planeta_avto/207761180024/",
+   "найдено_по": "автосалон Центральный район"
+  },
+  {
+   "id": "195969712188",
+   "название": "Changan Регинас на Кашириных",
+   "seoname": "changan_reginas_na_kashirinykh",
+   "адрес": "ул. Братьев Кашириных, 141А, Челябинск",
+   "координаты": [
+    61.300101,
+    55.170252
+   ],
+   "рейтинг": 4.9,
+   "оценок": 303,
+   "отзывов": 159,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.reginas74-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (351) 701-63-67"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_reginas_na_kashirinykh/195969712188/",
+   "найдено_по": "автосалон Центральный район"
+  },
+  {
+   "id": "47461808598",
+   "название": "Амр Моторс",
+   "seoname": "amr_motors",
+   "адрес": "ул. Пушкина, 5",
+   "координаты": [
+    61.408986,
+    55.167249
+   ],
+   "рейтинг": 4.1,
+   "оценок": 122,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (351) 750-02-05",
+    "+7 (922) 750-02-05",
+    "+7 (922) 730-77-05",
+    "+7 (922) 730-77-14"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "brokencars",
+    "car_park",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/amr_motors/47461808598/",
+   "найдено_по": "автосалон Центральный район"
+  }
+ ],
+ "расширено_по_районам": true
+}
