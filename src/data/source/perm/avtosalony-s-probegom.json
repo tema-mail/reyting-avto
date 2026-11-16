@@ -1,0 +1,3514 @@
+{
+ "ниша": "Автосалоны с пробегом",
+ "ключ": "avtosalony-s-probegom",
+ "запросы": [
+  "автосалон с пробегом"
+ ],
+ "найдено_в_яндексе": {
+  "автосалон с пробегом": 49,
+  "автосалон с пробегом Дзержинский район": 27,
+  "автосалон с пробегом Индустриальный район": 32,
+  "автосалон с пробегом Кировский район": 36,
+  "автосалон с пробегом Ленинский район": 31,
+  "автосалон с пробегом Мотовилихинский район": 28,
+  "автосалон с пробегом Орджоникидзевский район": 15,
+  "автосалон с пробегом Свердловский район": 19
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Перми (регион 50)",
+ "город": "perm",
+ "компании": [
+  {
+   "id": "1109674465",
+   "название": "Форвард-Авто, Lada",
+   "seoname": "forvard_avto_lada",
+   "адрес": "ул. Решетникова, 5",
+   "координаты": [
+    56.20538,
+    58.011426
+   ],
+   "рейтинг": 4.8,
+   "оценок": 3218,
+   "отзывов": 1620,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://forward59.lada.ru/",
+    "https://forvard-lada-prm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 239-59-63"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "good_place",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forvard_avto_lada/1109674465/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 67,
+   "загружено_дат": 86
+  },
+  {
+   "id": "44517500031",
+   "название": "Брайт Парк",
+   "seoname": "brayt_park",
+   "адрес": "Пушкарская ул., 138",
+   "координаты": [
+    56.30693,
+    57.997452
+   ],
+   "рейтинг": 4.9,
+   "оценок": 2511,
+   "отзывов": 1486,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://brightpark.ru/perm/",
+    "https://restart.auto/dealers/brightpark-perm/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-04-05",
+    "+7 (342) 248-00-32"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/brayt_park/44517500031/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 51,
+   "загружено_дат": 79
+  },
+  {
+   "id": "20754440722",
+   "название": "Crystal Motors",
+   "seoname": "crystal_motors",
+   "адрес": "ул. Спешилова, 101А",
+   "координаты": [
+    56.2013,
+    58.034246
+   ],
+   "рейтинг": 5,
+   "оценок": 1713,
+   "отзывов": 1471,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://perm.crystal-motors.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 200-88-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "авторынок",
+    "автосалон"
+   ],
+   "признаки": [
+    "cars_for_order",
+    "disable_captions",
+    "gift_certificate",
+    "loan_processing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/crystal_motors/20754440722/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 62,
+   "загружено_дат": 62
+  },
+  {
+   "id": "112619516318",
+   "название": "Карлссон",
+   "seoname": "karlsson",
+   "адрес": "ул. Спешилова, 107",
+   "координаты": [
+    56.199023,
+    58.034994
+   ],
+   "рейтинг": 5,
+   "оценок": 2131,
+   "отзывов": 1443,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://karlsson.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 201-51-50"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/karlsson/112619516318/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 67,
+   "загружено_дат": 81
+  },
+  {
+   "id": "1489906635",
+   "название": "Лада центр Пермь",
+   "seoname": "lada_tsentr_perm",
+   "адрес": "ул. Спешилова, 105",
+   "координаты": [
+    56.200273,
+    58.034564
+   ],
+   "рейтинг": 5,
+   "оценок": 1727,
+   "отзывов": 966,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ladacenter.lada.ru/",
+    "https://ladacenter59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-36-45"
+   ],
+   "часы": "пн-сб 09:00–21:00; вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada_tsentr_perm/1489906635/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 64,
+   "загружено_дат": 64
+  },
+  {
+   "id": "120625576777",
+   "название": "Haval City Сатурн-Р-Авто",
+   "seoname": "haval_city_saturn_r_avto",
+   "адрес": "ул. Героев Хасана, 109Б, Пермь",
+   "координаты": [
+    56.26606,
+    57.956571
+   ],
+   "рейтинг": 5,
+   "оценок": 1087,
+   "отзывов": 608,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://sales.saturn-r-haval.ru/",
+    "https://saturn-r-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-40-86"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_city_saturn_r_avto/120625576777/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 36,
+   "загружено_дат": 72
+  },
+  {
+   "id": "186381027011",
+   "название": "Икспорт",
+   "seoname": "iksport",
+   "адрес": "Стахановская ул., 54П",
+   "координаты": [
+    56.20665,
+    57.988898
+   ],
+   "рейтинг": 5,
+   "оценок": 571,
+   "отзывов": 529,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://xportperm.ru/"
+   ],
+   "телефоны": [
+    "+7 (965) 550-80-86"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/iksport/186381027011/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 43,
+   "загружено_дат": 45
+  },
+  {
+   "id": "112407146016",
+   "название": "Сатурн-Р-авто, автомобили с пробегом",
+   "seoname": "saturn_r_avto_avtomobili_s_probegom",
+   "адрес": "ш. Космонавтов, 368Д, д. Песьянка",
+   "координаты": [
+    56.068289,
+    57.943917
+   ],
+   "рейтинг": 5,
+   "оценок": 905,
+   "отзывов": 511,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://restart.auto/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-54-52"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "brokencars",
+    "cafe",
+    "car_park",
+    "loan_processing",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/saturn_r_avto_avtomobili_s_probegom/112407146016/",
+   "последний_отзыв": "2026-10-07",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 68
+  },
+  {
+   "id": "209045241709",
+   "название": "Сильвер Моторс Hyundai",
+   "seoname": "silver_motors_hyundai",
+   "адрес": "ул. Спешилова, 109",
+   "координаты": [
+    56.194038,
+    58.036337
+   ],
+   "рейтинг": 4.5,
+   "оценок": 1096,
+   "отзывов": 403,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://solaris-silver.ru/",
+    "https://www.hyundai-silver.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 239-59-58",
+    "+7 (342) 248-38-01",
+    "+7 (342) 204-00-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "electric car charging station",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/silver_motors_hyundai/209045241709/",
+   "последний_отзыв": "2026-09-07",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 77
+  },
+  {
+   "id": "1083618266",
+   "название": "Автосервис Экскурс",
+   "seoname": "avtoservis_ekskurs",
+   "адрес": "ш. Космонавтов, 381, Пермь",
+   "координаты": [
+    56.124847,
+    57.953651
+   ],
+   "рейтинг": 4.6,
+   "оценок": 879,
+   "отзывов": 309,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://volkswagen-perm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 201-51-14"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_ekskurs/1083618266/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 95
+  },
+  {
+   "id": "1001125301",
+   "название": "Verra Автомобили с пробегом",
+   "seoname": "verra_avtomobili_s_probegom",
+   "адрес": "ул. Героев Хасана, 81Б",
+   "координаты": [
+    56.263866,
+    57.976533
+   ],
+   "рейтинг": 4.7,
+   "оценок": 821,
+   "отзывов": 298,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://verra.ru/cars/used?cities=perm&companies=6823&filterOrder=companies&order=price"
+   ],
+   "телефоны": [
+    "+7 (347) 279-81-27",
+    "+7 (342) 211-88-31",
+    "+7 (342) 248-23-90"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автоэкспертиза, оценка автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/verra_avtomobili_s_probegom/1001125301/",
+   "последний_отзыв": "2026-11-07",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 92
+  },
+  {
+   "id": "199533254240",
+   "название": "Omoda Сатурн-Р Авто",
+   "seoname": "omoda_saturn_r_avto",
+   "адрес": "ул. Спешилова, 104А/1, Пермь",
+   "координаты": [
+    56.197827,
+    58.036534
+   ],
+   "рейтинг": 5,
+   "оценок": 444,
+   "отзывов": 257,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://omoda-saturn-r.ru/",
+    "https://lp.omoda-saturn-r.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 255-43-26"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "authorized_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omoda_saturn_r_avto/199533254240/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 74
+  },
+  {
+   "id": "210960590422",
+   "название": "Автопрестиж, Geely",
+   "seoname": "avtoprestizh_geely",
+   "адрес": "ул. Спешилова, 107Б",
+   "координаты": [
+    56.196253,
+    58.036099
+   ],
+   "рейтинг": 4.9,
+   "оценок": 450,
+   "отзывов": 200,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.geely-autoprestige.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-57-30",
+    "+7 (342) 248-35-90"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprestizh_geely/210960590422/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 90
+  },
+  {
+   "id": "1019917917",
+   "название": "BMW Автомобили Баварии",
+   "seoname": "bmw_avtomobili_bavarii",
+   "адрес": "ш. Космонавтов, 380, д. Большое Савино",
+   "координаты": [
+    56.010116,
+    57.923133
+   ],
+   "рейтинг": 4.9,
+   "оценок": 568,
+   "отзывов": 192,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bmw-abperm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-24-57"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bmw_avtomobili_bavarii/1019917917/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 87
+  },
+  {
+   "id": "1717943653",
+   "название": "Майкар",
+   "seoname": "maykar",
+   "адрес": "ш. Космонавтов, 180",
+   "координаты": [
+    56.14153,
+    57.965199
+   ],
+   "рейтинг": 4.7,
+   "оценок": 429,
+   "отзывов": 190,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mycar-auto.com/"
+   ],
+   "телефоны": [
+    "+7 (909) 732-86-21",
+    "+7 (963) 016-88-37"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/maykar/1717943653/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 52,
+   "загружено_дат": 72
+  },
+  {
+   "id": "105716194371",
+   "название": "Автопрестиж",
+   "seoname": "avtoprestizh",
+   "адрес": "ул. Маршала Жукова, 51",
+   "координаты": [
+    56.196089,
+    58.035626
+   ],
+   "рейтинг": 4.8,
+   "оценок": 314,
+   "отзывов": 175,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.autoprestige.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-04-91"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprestizh/105716194371/"
+  },
+  {
+   "id": "82574620622",
+   "название": "Автопрестиж Про",
+   "seoname": "avtoprestizh_pro",
+   "адрес": "ул. Спешилова, 111/3",
+   "координаты": [
+    56.191195,
+    58.036477
+   ],
+   "рейтинг": 4.8,
+   "оценок": 104,
+   "отзывов": 90,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 235-78-75"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "выкуп автомобилей",
+    "автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprestizh_pro/82574620622/"
+  },
+  {
+   "id": "239880105619",
+   "название": "Дав-авто",
+   "seoname": "dav_avto",
+   "адрес": "Бродовский тракт, 9, Пермь",
+   "координаты": [
+    56.275978,
+    57.956713
+   ],
+   "рейтинг": 4.3,
+   "оценок": 172,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://probeg.dav-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 201-61-47"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dav_avto/239880105619/"
+  },
+  {
+   "id": "242601412693",
+   "название": "Финлайн-Автотрейд",
+   "seoname": "finlayn_avtotreyd",
+   "адрес": "Торфяная ул., 110",
+   "координаты": [
+    56.217736,
+    58.029484
+   ],
+   "рейтинг": 5,
+   "оценок": 62,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://finlineauto159.ru/"
+   ],
+   "телефоны": [
+    "+7 (912) 882-74-82",
+    "+7 (342) 225-02-05"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/finlayn_avtotreyd/242601412693/"
+  },
+  {
+   "id": "29152207328",
+   "название": "Автопрестиж, Белджи",
+   "seoname": "avtoprestizh_beldzhi",
+   "адрес": "ул. Спешилова, 107Б, Пермь",
+   "координаты": [
+    56.196026,
+    58.036078
+   ],
+   "рейтинг": 5,
+   "оценок": 54,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.belgee-autoprestige.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 230-82-83",
+    "+7 (342) 211-84-53",
+    "+7 (342) 248-41-27"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprestizh_beldzhi/29152207328/"
+  },
+  {
+   "id": "206189554126",
+   "название": "Prime Motors",
+   "seoname": "prime_motors",
+   "адрес": "Екатерининская ул., 10",
+   "координаты": [
+    56.261507,
+    58.016353
+   ],
+   "рейтинг": 5,
+   "оценок": 52,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://primemotors.pro/"
+   ],
+   "телефоны": [
+    "+7 (912) 061-96-96"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prime_motors/206189554126/"
+  },
+  {
+   "id": "240989137994",
+   "название": "Сильвер Моторс",
+   "seoname": "silver_motors",
+   "адрес": "ул. Спешилова, 109",
+   "координаты": [
+    56.194544,
+    58.036204
+   ],
+   "рейтинг": 4.7,
+   "оценок": 37,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://silver-probeg.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 204-00-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/silver_motors/240989137994/"
+  },
+  {
+   "id": "233463993400",
+   "название": "Магазин автомобилей с пробегом",
+   "seoname": "magazin_avtomobiley_s_probegom",
+   "адрес": "Парковый просп., 64",
+   "координаты": [
+    56.172754,
+    57.996744
+   ],
+   "рейтинг": 4.7,
+   "оценок": 32,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoshop59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-22-93"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/magazin_avtomobiley_s_probegom/233463993400/"
+  },
+  {
+   "id": "168672687894",
+   "название": "Lauto24",
+   "seoname": "lauto24",
+   "адрес": "бул. Гагарина, 65А",
+   "координаты": [
+    56.285585,
+    58.005964
+   ],
+   "рейтинг": 4.4,
+   "оценок": 10,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://lauto24.ru/"
+   ],
+   "телефоны": [
+    "+7 (919) 484-77-35"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "brokencars",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "disable_captions",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lauto24/168672687894/"
+  },
+  {
+   "id": "1210730388",
+   "название": "Avto-Max",
+   "seoname": "avto_max",
+   "адрес": "городской округ Пермь, Свердловский район",
+   "координаты": [
+    56.259567,
+    57.98517
+   ],
+   "рейтинг": 3.8,
+   "оценок": 51,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 700-09-99",
+    "+7 (904) 842-33-24"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_max/1210730388/"
+  },
+  {
+   "id": "44964278997",
+   "название": "Changan Юни, Демидыч",
+   "seoname": "changan_yuni_demidych",
+   "адрес": "Уральская ул., 119, Пермь",
+   "координаты": [
+    56.273524,
+    58.018316
+   ],
+   "рейтинг": 5,
+   "оценок": 110,
+   "отзывов": 101,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://perm-uni.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 258-36-86"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "prayer_room",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_yuni_demidych/44964278997/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "89607040503",
+   "название": "Автопрестиж, официальный дилер Gac",
+   "seoname": "avtoprestizh_ofitsialny_diler_gac",
+   "адрес": "ул. Маршала Жукова, 51",
+   "координаты": [
+    56.196532,
+    58.035624
+   ],
+   "рейтинг": 5,
+   "оценок": 150,
+   "отзывов": 79,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gacperm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 259-56-48",
+    "+7 (342) 292-14-71",
+    "+7 (342) 248-06-77"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprestizh_ofitsialny_diler_gac/89607040503/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "130129006190",
+   "название": "Changan, центр Демидыч",
+   "seoname": "changan_tsentr_demidych",
+   "адрес": "Уральская ул., 119, Пермь",
+   "координаты": [
+    56.273721,
+    58.018436
+   ],
+   "рейтинг": 5,
+   "оценок": 1384,
+   "отзывов": 998,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://demidich-changanauto.ru/",
+    "https://changan-perm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 258-36-86"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "field_service",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "prayer_room",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_demidych/130129006190/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "36145852045",
+   "название": "Чанган центр Автопрестиж",
+   "seoname": "changan_tsentr_avtoprestizh",
+   "адрес": "ул. Спешилова, 77",
+   "координаты": [
+    56.211621,
+    58.030818
+   ],
+   "рейтинг": 5,
+   "оценок": 98,
+   "отзывов": 77,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.autoprestige-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 256-39-44",
+    "+7 (342) 248-24-19",
+    "+7 (342) 248-59-03"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_avtoprestizh/36145852045/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "170728205175",
+   "название": "Прохор",
+   "seoname": "prokhor",
+   "адрес": "ул. Спешилова, 87, Пермь",
+   "координаты": [
+    56.206581,
+    58.032564
+   ],
+   "рейтинг": 5,
+   "оценок": 1241,
+   "отзывов": 1109,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://prohorimport.ru/",
+    "https://prohorauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 255-48-88"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prokhor/170728205175/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "44222847279",
+   "название": "Форвард Про",
+   "seoname": "forvard_pro",
+   "адрес": "ул. Решетникова, 5",
+   "координаты": [
+    56.205115,
+    58.011367
+   ],
+   "рейтинг": 4.9,
+   "оценок": 595,
+   "отзывов": 346,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 270-00-07"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forvard_pro/44222847279/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "17345554792",
+   "название": "Tenet Экскурс",
+   "seoname": "tenet_ekskurs",
+   "адрес": "Парковый просп., 64",
+   "координаты": [
+    56.172616,
+    57.996806
+   ],
+   "рейтинг": 5,
+   "оценок": 79,
+   "отзывов": 74,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenet-exkurs.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 254-05-10"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tenet_ekskurs/17345554792/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "45158249308",
+   "название": "Пермь Авто Импорт",
+   "seoname": "perm_avto_import",
+   "адрес": "Подлесная ул., 47А, Пермь",
+   "координаты": [
+    56.171654,
+    57.995963
+   ],
+   "рейтинг": 4.9,
+   "оценок": 31,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://permautoimport.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 388-99-90"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Выкуп автомобилей",
+    "автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/perm_avto_import/45158249308/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "71393840932",
+   "название": "Демидыч, Tenet",
+   "seoname": "demidych_tenet",
+   "адрес": "ул. Спешилова, 61",
+   "координаты": [
+    56.215088,
+    58.029655
+   ],
+   "рейтинг": 5,
+   "оценок": 140,
+   "отзывов": 125,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenet-demidich.ru/",
+    "https://tenetperm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 258-01-80"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/demidych_tenet/71393840932/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "109360396337",
+   "название": "Эксперт Авто",
+   "seoname": "ekspert_avto",
+   "адрес": "ул. Спешилова, 105",
+   "координаты": [
+    56.200242,
+    58.034432
+   ],
+   "рейтинг": 4.9,
+   "оценок": 72,
+   "отзывов": 50,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ladacenter59.ru/company/kontakty/"
+   ],
+   "телефоны": [
+    "+7 (342) 270-05-66",
+    "+7 (992) 212-13-22"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekspert_avto/109360396337/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "48264252539",
+   "название": "Solaris Сильвер Моторс",
+   "seoname": "solaris_silver_motors",
+   "адрес": "ул. Спешилова, 109",
+   "координаты": [
+    56.193807,
+    58.036426
+   ],
+   "рейтинг": 5,
+   "оценок": 91,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://solaris-silver.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 239-59-58"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solaris_silver_motors/48264252539/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "30568422135",
+   "название": "Друзья",
+   "seoname": "druzya",
+   "адрес": "ул. Юрша, 1В",
+   "координаты": [
+    56.305577,
+    58.012406
+   ],
+   "рейтинг": 5,
+   "оценок": 80,
+   "отзывов": 66,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/druzya/30568422135/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "96370068438",
+   "название": "Карлссон",
+   "seoname": "karlsson",
+   "адрес": "ул. Спешилова, 105А",
+   "координаты": [
+    56.199368,
+    58.034606
+   ],
+   "рейтинг": 5,
+   "оценок": 54,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 214-84-11"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/karlsson/96370068438/",
+   "найдено_по": "автосалон с пробегом Дзержинский район"
+  },
+  {
+   "id": "15941848812",
+   "название": "Тандем Авто",
+   "seoname": "tandem_avto",
+   "адрес": "1-я Замулянская ул., 7",
+   "координаты": [
+    56.134094,
+    57.958455
+   ],
+   "рейтинг": 4.1,
+   "оценок": 69,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tandem-avto-vykup-obmen.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (922) 322-54-07",
+    "+7 (922) 322-54-17",
+    "+7 (902) 837-60-80"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "brokencars",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tandem_avto/15941848812/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "232097680087",
+   "название": "Автосалон Кит",
+   "seoname": "avtosalon_kit",
+   "адрес": "ш. Космонавтов, 356",
+   "координаты": [
+    56.075273,
+    57.944942
+   ],
+   "рейтинг": 4.7,
+   "оценок": 18,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kit-auto18.ru/perm"
+   ],
+   "телефоны": [
+    "+7 (952) 406-22-55",
+    "+7 (952) 406-22-77"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosalon_kit/232097680087/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "95767190351",
+   "название": "Автопрестиж, JETOUR",
+   "seoname": "avtoprestizh_jetour",
+   "адрес": "ш. Космонавтов, 361",
+   "координаты": [
+    56.126649,
+    57.956078
+   ],
+   "рейтинг": 5,
+   "оценок": 30,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jetourperm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 218-13-05",
+    "+7 (342) 292-13-87",
+    "+7 (342) 292-12-73"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprestizh_jetour/95767190351/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "205937161954",
+   "название": "Фольксваген центр Экскурс",
+   "seoname": "folksvagen_tsentr_ekskurs",
+   "адрес": "ш. Космонавтов, 381, Пермь",
+   "координаты": [
+    56.125165,
+    57.953429
+   ],
+   "рейтинг": 4.7,
+   "оценок": 19,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://volkswagen-perm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 201-59-68"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/folksvagen_tsentr_ekskurs/205937161954/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "10011726207",
+   "название": "Восток Моторс, Haval City",
+   "seoname": "vostok_motors_haval_city",
+   "адрес": "ш. Космонавтов, 316В, д. Хмели",
+   "координаты": [
+    56.097542,
+    57.950387
+   ],
+   "рейтинг": 5,
+   "оценок": 154,
+   "отзывов": 109,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://haval-promo-perm.ru/",
+    "https://haval-promo-perm.ru/",
+    "https://vm-prm-haval.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 254-06-29"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "body_repair",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vostok_motors_haval_city/10011726207/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "184998534135",
+   "название": "Автосалон",
+   "seoname": "avtosalon",
+   "адрес": "ул. Архитектора Свиязева, 8Б",
+   "координаты": [
+    56.195684,
+    57.964715
+   ],
+   "рейтинг": 3.9,
+   "оценок": 28,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (982) 230-44-78",
+    "+7 (902) 802-98-25"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosalon/184998534135/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "104259429808",
+   "название": "Topcar",
+   "seoname": "topcar",
+   "адрес": "Рязанская ул., 130",
+   "координаты": [
+    56.177279,
+    57.970204
+   ],
+   "рейтинг": 4.8,
+   "оценок": 35,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (952) 333-85-85",
+    "+7 (342) 293-85-85"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "brokencars",
+    "car_park",
+    "leasing_registration",
+    "loan_processing",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/topcar/104259429808/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "112326576681",
+   "название": "Автопрестиж, Omoda",
+   "seoname": "avtoprestizh_omoda",
+   "адрес": "ш. Космонавтов, 361",
+   "координаты": [
+    56.12671,
+    57.956314
+   ],
+   "рейтинг": 4.7,
+   "оценок": 30,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://omoda-autoprestige-prm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 218-15-65",
+    "+7 (342) 292-19-66",
+    "+7 (342) 292-15-05"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprestizh_omoda/112326576681/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "1351912900",
+   "название": "Грузавтоимпорт",
+   "seoname": "gruzavtoimport",
+   "адрес": "Рязанская ул., 103, корп. 1",
+   "координаты": [
+    56.180694,
+    57.969578
+   ],
+   "рейтинг": 4.3,
+   "оценок": 131,
+   "отзывов": 56,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gaz59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 200-90-88",
+    "+7 (342) 200-99-69",
+    "+7 (342) 273-05-05"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "epassport_for_vehicles",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzavtoimport/1351912900/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "207883707123",
+   "название": "Seres Сатурн-Р-Авто",
+   "seoname": "seres_saturn_r_avto",
+   "адрес": "ш. Космонавтов, 399Б/1",
+   "координаты": [
+    56.101847,
+    57.949712
+   ],
+   "рейтинг": 4.8,
+   "оценок": 52,
+   "отзывов": 32,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://seres-saturn.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 250-23-25"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/seres_saturn_r_avto/207883707123/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "1688752771",
+   "название": "Вега-моторс, Киа",
+   "seoname": "vega_motors_kia",
+   "адрес": "ш. Космонавтов, 198",
+   "координаты": [
+    56.138211,
+    57.963627
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1387,
+   "отзывов": 441,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 249-30-03",
+    "+7 (342) 240-38-38"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "pickup",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vega_motors_kia/1688752771/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "1074718831",
+   "название": "Сатурн-Р-Авто, Lada",
+   "seoname": "saturn_r_avto_lada",
+   "адрес": "ш. Космонавтов, 362",
+   "координаты": [
+    56.074356,
+    57.944636
+   ],
+   "рейтинг": 5,
+   "оценок": 1997,
+   "отзывов": 1082,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://saturn.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 225-03-82"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "vulcanization",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/saturn_r_avto_lada/1074718831/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "1033233945",
+   "название": "Audi центр, Сатурн-Р",
+   "seoname": "audi_tsentr_saturn_r",
+   "адрес": "ш. Космонавтов, 399Б/1",
+   "координаты": [
+    56.101836,
+    57.95009
+   ],
+   "рейтинг": 4.9,
+   "оценок": 549,
+   "отзывов": 177,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://audi-service-perm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 256-62-56"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/audi_tsentr_saturn_r/1033233945/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "51416195535",
+   "название": "Восток Моторс, автомобили с пробегом",
+   "seoname": "vostok_motors_avtomobili_s_probegom",
+   "адрес": "ш. Космонавтов, 328/1, д. Хмели",
+   "координаты": [
+    56.089325,
+    57.948669
+   ],
+   "рейтинг": 4.8,
+   "оценок": 83,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://perm.vostok-motors.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 205-54-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vostok_motors_avtomobili_s_probegom/51416195535/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "188371458129",
+   "название": "Восток Моторс, Tenet",
+   "seoname": "vostok_motors_tenet",
+   "адрес": "ш. Космонавтов, 328/1, д. Хмели",
+   "координаты": [
+    56.088998,
+    57.948788
+   ],
+   "рейтинг": 5,
+   "оценок": 53,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenet-vostok-motors.ru/",
+    "https://vm-tenet.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-32-33"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "prayer_room",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vostok_motors_tenet/188371458129/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "236567145902",
+   "название": "Автопрестиж Jeland",
+   "seoname": "avtoprestizh_jeland",
+   "адрес": "ш. Космонавтов, 361",
+   "координаты": [
+    56.126712,
+    57.956154
+   ],
+   "рейтинг": 4.3,
+   "оценок": 5,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://jeland-autoprestige-prm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 287-20-07"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoprestizh_jeland/236567145902/",
+   "найдено_по": "автосалон с пробегом Индустриальный район"
+  },
+  {
+   "id": "1360911976",
+   "название": "Дав-Авто, Lada",
+   "seoname": "dav_avto_lada",
+   "адрес": "Бродовский тракт, 15",
+   "координаты": [
+    56.283592,
+    57.957112
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1722,
+   "отзывов": 837,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://lada-davauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 239-59-97"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dav_avto_lada/1360911976/",
+   "найдено_по": "автосалон с пробегом Кировский район"
+  },
+  {
+   "id": "146229133998",
+   "название": "Right Auto",
+   "seoname": "right_auto",
+   "адрес": "Усольская ул., 15, корп. 1",
+   "координаты": [
+    56.267167,
+    57.977471
+   ],
+   "рейтинг": 4.5,
+   "оценок": 32,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 259-29-59"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/right_auto/146229133998/",
+   "найдено_по": "автосалон с пробегом Кировский район"
+  },
+  {
+   "id": "157750888730",
+   "название": "Демидыч, Tenet Plus",
+   "seoname": "demidych_tenet_plus",
+   "адрес": "ул. Спешилова, 61",
+   "координаты": [
+    56.215088,
+    58.029655
+   ],
+   "рейтинг": 5,
+   "оценок": 44,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://demidich-tenetplus.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 258-04-83"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/demidych_tenet_plus/157750888730/",
+   "найдено_по": "автосалон с пробегом Ленинский район"
+  },
+  {
+   "id": "86851026821",
+   "название": "Jeland Сатурн-Р-Авто",
+   "seoname": "jeland_saturn_r_avto",
+   "адрес": "ул. Спешилова, 104А/1",
+   "координаты": [
+    56.19785,
+    58.036683
+   ],
+   "рейтинг": 4.4,
+   "оценок": 8,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jeland-saturn-r.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-49-87"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "registration_inspection",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jeland_saturn_r_avto/86851026821/",
+   "найдено_по": "автосалон с пробегом Ленинский район"
+  },
+  {
+   "id": "89235874301",
+   "название": "Ikea Auto",
+   "seoname": "ikea_auto",
+   "адрес": "ул. Спешилова, 104",
+   "координаты": [
+    56.198229,
+    58.036333
+   ],
+   "рейтинг": 4.9,
+   "оценок": 138,
+   "отзывов": 76,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ikeaauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 205-54-54"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ikea_auto/89235874301/",
+   "найдено_по": "автосалон с пробегом Ленинский район"
+  },
+  {
+   "id": "201359274010",
+   "название": "Jaecoo Сатурн-Р-Авто",
+   "seoname": "jaecoo_saturn_r_avto",
+   "адрес": "ул. Спешилова, 104А/1, Пермь",
+   "координаты": [
+    56.197786,
+    58.036594
+   ],
+   "рейтинг": 5,
+   "оценок": 114,
+   "отзывов": 74,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jaecoo-saturn-r.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-47-36"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jaecoo_saturn_r_avto/201359274010/",
+   "найдено_по": "автосалон с пробегом Ленинский район"
+  },
+  {
+   "id": "29115316164",
+   "название": "Риал-авто",
+   "seoname": "rial_avto",
+   "адрес": "ул. Макаренко, 30Б",
+   "координаты": [
+    56.295313,
+    58.009894
+   ],
+   "рейтинг": 4.4,
+   "оценок": 37,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://риал-авто.рф/"
+   ],
+   "телефоны": [
+    "+7 (342) 288-77-27"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "авторынок"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rial_avto/29115316164/",
+   "найдено_по": "автосалон с пробегом Мотовилихинский район"
+  },
+  {
+   "id": "6386021389",
+   "название": "Выкуп автомобилей",
+   "seoname": "vykup_avtomobiley",
+   "адрес": "ул. Макаренко, 30",
+   "координаты": [
+    56.293322,
+    58.009784
+   ],
+   "рейтинг": 5,
+   "оценок": 69,
+   "отзывов": 66,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://vykupavtomobileyperm.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (952) 326-00-06"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Выкуп автомобилей",
+    "автоломбард",
+    "автосалон"
+   ],
+   "признаки": [
+    "brokencars",
+    "cafe",
+    "car_park",
+    "payment_by_credit_card",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vykup_avtomobiley/6386021389/",
+   "найдено_по": "автосалон с пробегом Мотовилихинский район"
+  },
+  {
+   "id": "47803618984",
+   "название": "Автотрейд",
+   "seoname": "avtotreyd",
+   "адрес": "ул. Восстания, 24/1",
+   "координаты": [
+    56.315252,
+    58.039872
+   ],
+   "рейтинг": 4.1,
+   "оценок": 56,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "8 (800) 301-16-96",
+    "+7 (342) 258-26-96",
+    "+7 (919) 700-89-37"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автобусы и микроавтобусы"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "leasing_registration",
+    "official_dealer",
+    "repairs",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotreyd/47803618984/",
+   "найдено_по": "автосалон с пробегом Мотовилихинский район"
+  },
+  {
+   "id": "100299753889",
+   "название": "Форвард-Авто, Tenet",
+   "seoname": "forvard_avto_tenet",
+   "адрес": "ул. Героев Хасана, 105/3",
+   "координаты": [
+    56.265103,
+    57.961591
+   ],
+   "рейтинг": 5,
+   "оценок": 102,
+   "отзывов": 94,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://perm-chery-forward.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-51-27"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forvard_avto_tenet/100299753889/",
+   "найдено_по": "автосалон с пробегом Мотовилихинский район"
+  },
+  {
+   "id": "149867867556",
+   "название": "Демидыч Sollers",
+   "seoname": "demidych_sollers",
+   "адрес": "Уральская ул., 119",
+   "координаты": [
+    56.273524,
+    58.018316
+   ],
+   "рейтинг": 5,
+   "оценок": 120,
+   "отзывов": 100,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sollers-demidich.ru/",
+    "https://www.demidich.ru/cars/sollers"
+   ],
+   "телефоны": [
+    "+7 (342) 258-48-03"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/demidych_sollers/149867867556/",
+   "найдено_по": "автосалон с пробегом Орджоникидзевский район"
+  },
+  {
+   "id": "17305376501",
+   "название": "Hongqi Сатурн-Р-авто",
+   "seoname": "hongqi_saturn_r_avto",
+   "адрес": "ш. Космонавтов, 399Б/1",
+   "координаты": [
+    56.101953,
+    57.950036
+   ],
+   "рейтинг": 5,
+   "оценок": 78,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://hongqi-saturn.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 292-18-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "registration_inspection",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/hongqi_saturn_r_avto/17305376501/",
+   "найдено_по": "автосалон с пробегом Орджоникидзевский район"
+  },
+  {
+   "id": "176066848320",
+   "название": "Чанган центр Дав-Авто",
+   "seoname": "changan_tsentr_dav_avto",
+   "адрес": "ул. Героев Хасана, 76",
+   "координаты": [
+    56.264434,
+    57.957115
+   ],
+   "рейтинг": 5,
+   "оценок": 236,
+   "отзывов": 136,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://cars.dav-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-24-65"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_dav_avto/176066848320/",
+   "найдено_по": "автосалон с пробегом Свердловский район"
+  },
+  {
+   "id": "21646807159",
+   "название": "Chery, Форвард-Авто",
+   "seoname": "chery_forvard_avto",
+   "адрес": "ул. Героев Хасана, 105/3",
+   "координаты": [
+    56.265014,
+    57.961671
+   ],
+   "рейтинг": 5,
+   "оценок": 949,
+   "отзывов": 555,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://perm-chery-forward.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-51-27"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_forvard_avto/21646807159/",
+   "найдено_по": "автосалон с пробегом Свердловский район"
+  },
+  {
+   "id": "1164503433",
+   "название": "Toyota центр, Verra",
+   "seoname": "toyota_tsentr_verra",
+   "адрес": "ул. Героев Хасана, 79",
+   "координаты": [
+    56.260449,
+    57.976036
+   ],
+   "рейтинг": 5,
+   "оценок": 2248,
+   "отзывов": 680,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://toyota.verra.ru/",
+    "http://service.verra.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 292-14-89"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "diesel_service",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "mobile_tire_service",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "service_maintenance",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr_verra/1164503433/",
+   "найдено_по": "автосалон с пробегом Свердловский район"
+  },
+  {
+   "id": "215650176860",
+   "название": "Geely, Дав-авто",
+   "seoname": "geely_dav_avto",
+   "адрес": "Бродовский тракт, 15",
+   "координаты": [
+    56.285677,
+    57.957185
+   ],
+   "рейтинг": 5,
+   "оценок": 612,
+   "отзывов": 306,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-davauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-22-76",
+    "+7 (342) 246-26-06"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_dav_avto/215650176860/",
+   "найдено_по": "автосалон с пробегом Свердловский район"
+  },
+  {
+   "id": "108436188828",
+   "название": "Галерея-авто",
+   "seoname": "galereya_avto",
+   "адрес": "ул. Николая Островского, 55/1",
+   "координаты": [
+    56.262489,
+    58.008695
+   ],
+   "рейтинг": 4.6,
+   "оценок": 18,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://taplink.cc/galereyaauto"
+   ],
+   "телефоны": [
+    "+7 (912) 881-87-17",
+    "+7 (342) 243-17-17"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "brokencars",
+    "car_park",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "loan_processing",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/galereya_avto/108436188828/",
+   "найдено_по": "автосалон с пробегом Свердловский район"
+  },
+  {
+   "id": "7700643730",
+   "название": "Verra",
+   "seoname": "verra",
+   "адрес": "ул. Героев Хасана, 81Б",
+   "координаты": [
+    56.264115,
+    57.975997
+   ],
+   "рейтинг": 4.9,
+   "оценок": 236,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://verra.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 207-88-88",
+    "+7 (342) 211-84-81"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/verra/7700643730/",
+   "найдено_по": "автосалон с пробегом Свердловский район"
+  },
+  {
+   "id": "1089176990",
+   "название": "Гранд-Авто",
+   "seoname": "grand_avto",
+   "адрес": "Хлебозаводская ул., 19Б",
+   "координаты": [
+    56.253678,
+    57.967837
+   ],
+   "рейтинг": 4.5,
+   "оценок": 220,
+   "отзывов": 81,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 499-05-58",
+    "+7 (342) 277-10-67"
+   ],
+   "часы": "пн-сб 10:00–20:00; вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/grand_avto/1089176990/",
+   "найдено_по": "автосалон с пробегом Свердловский район"
+  }
+ ],
+ "расширено_по_районам": true
+}

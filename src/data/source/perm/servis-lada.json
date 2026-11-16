@@ -1,0 +1,1806 @@
+{
+ "ниша": "Сервис Lada",
+ "ключ": "servis-lada",
+ "запросы": [
+  "ремонт лада",
+  "ремонт ваз"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт лада": 47,
+  "ремонт ваз": 60
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Перми (регион 50)",
+ "город": "perm",
+ "компании": [
+  {
+   "id": "1109674465",
+   "название": "Форвард-Авто, Lada",
+   "seoname": "forvard_avto_lada",
+   "адрес": "ул. Решетникова, 5",
+   "координаты": [
+    56.20538,
+    58.011426
+   ],
+   "рейтинг": 4.8,
+   "оценок": 3218,
+   "отзывов": 1620,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://forward59.lada.ru/",
+    "https://forvard-lada-prm.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 239-59-63"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "good_place",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forvard_avto_lada/1109674465/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 67,
+   "загружено_дат": 86
+  },
+  {
+   "id": "44517500031",
+   "название": "Брайт Парк",
+   "seoname": "brayt_park",
+   "адрес": "Пушкарская ул., 138",
+   "координаты": [
+    56.30693,
+    57.997452
+   ],
+   "рейтинг": 4.9,
+   "оценок": 2511,
+   "отзывов": 1486,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://brightpark.ru/perm/",
+    "https://restart.auto/dealers/brightpark-perm/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-04-05",
+    "+7 (342) 248-00-32"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "test_drive",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/brayt_park/44517500031/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 51,
+   "загружено_дат": 79
+  },
+  {
+   "id": "148256997119",
+   "название": "Автомоё",
+   "seoname": "avtomoyo",
+   "адрес": "ул. Архитектора Свиязева, 37, корп. 1, Пермь",
+   "координаты": [
+    56.164595,
+    57.960075
+   ],
+   "рейтинг": 4.8,
+   "оценок": 2056,
+   "отзывов": 1178,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://perm.f1.avtomoe.com/"
+   ],
+   "телефоны": [
+    "+7 (932) 500-52-36",
+    "+7 (342) 270-01-44"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyo/148256997119/",
+   "последний_отзыв": "2026-09-17",
+   "отзывов_за_12_мес_из_загруженных": 38,
+   "загружено_дат": 78
+  },
+  {
+   "id": "1074718831",
+   "название": "Сатурн-Р-Авто, Lada",
+   "seoname": "saturn_r_avto_lada",
+   "адрес": "ш. Космонавтов, 362",
+   "координаты": [
+    56.074356,
+    57.944636
+   ],
+   "рейтинг": 5,
+   "оценок": 1997,
+   "отзывов": 1082,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://saturn.lada.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 225-03-82"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "keep_tires",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "vulcanization",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/saturn_r_avto_lada/1074718831/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 38,
+   "загружено_дат": 91
+  },
+  {
+   "id": "1489906635",
+   "название": "Лада центр Пермь",
+   "seoname": "lada_tsentr_perm",
+   "адрес": "ул. Спешилова, 105",
+   "координаты": [
+    56.200273,
+    58.034564
+   ],
+   "рейтинг": 5,
+   "оценок": 1727,
+   "отзывов": 966,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ladacenter.lada.ru/",
+    "https://ladacenter59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-36-45"
+   ],
+   "часы": "пн-сб 09:00–21:00; вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada_tsentr_perm/1489906635/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 64,
+   "загружено_дат": 64
+  },
+  {
+   "id": "1360911976",
+   "название": "Дав-Авто, Lada",
+   "seoname": "dav_avto_lada",
+   "адрес": "Бродовский тракт, 15",
+   "координаты": [
+    56.283592,
+    57.957112
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1722,
+   "отзывов": 836,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://lada-davauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 239-59-97"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dav_avto_lada/1360911976/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 57,
+   "загружено_дат": 85
+  },
+  {
+   "id": "1264081346",
+   "название": "АБС-Авто",
+   "seoname": "abs_avto",
+   "адрес": "ул. Куйбышева, 117",
+   "координаты": [
+    56.245175,
+    57.975388
+   ],
+   "рейтинг": 4.8,
+   "оценок": 560,
+   "отзывов": 307,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://abs-auto.su/"
+   ],
+   "телефоны": [
+    "+7 (342) 292-14-17"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gas_stops",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/abs_avto/1264081346/",
+   "последний_отзыв": "2026-11-07",
+   "отзывов_за_12_мес_из_загруженных": 44,
+   "загружено_дат": 90
+  },
+  {
+   "id": "105968762240",
+   "название": "Брайт Парк",
+   "seoname": "brayt_park",
+   "адрес": "Пушкарская ул., 138",
+   "координаты": [
+    56.306757,
+    57.997355
+   ],
+   "рейтинг": 4.8,
+   "оценок": 476,
+   "отзывов": 266,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://shop.brightpark.ru/",
+    "https://perm.lada.ru/pages/car-service/"
+   ],
+   "телефоны": [
+    "+7 (342) 210-37-26",
+    "+7 (342) 248-00-32"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/brayt_park/105968762240/",
+   "последний_отзыв": "2026-10-31",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 57
+  },
+  {
+   "id": "1104362397",
+   "название": "Римэкс",
+   "seoname": "rimeks",
+   "адрес": "ул. Малкова, 26/1, Пермь",
+   "координаты": [
+    56.193346,
+    57.99668
+   ],
+   "рейтинг": 4.4,
+   "оценок": 651,
+   "отзывов": 251,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://perm.rimeks.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 256-33-16",
+    "8 (800) 300-05-00"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_servicing",
+    "car_wash",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rimeks/1104362397/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 80
+  },
+  {
+   "id": "198026599088",
+   "название": "Grafit",
+   "seoname": "grafit",
+   "адрес": "Уральская ул., 76А, Пермь",
+   "координаты": [
+    56.293052,
+    58.028014
+   ],
+   "рейтинг": 4.7,
+   "оценок": 349,
+   "отзывов": 209,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://grafitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 205-81-27"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/grafit/198026599088/",
+   "последний_отзыв": "2026-09-29",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 73
+  },
+  {
+   "id": "1077848429",
+   "название": "Глушители",
+   "seoname": "glushiteli",
+   "адрес": "ул. Восстания, 17, Пермь",
+   "координаты": [
+    56.315814,
+    58.039782
+   ],
+   "рейтинг": 4.9,
+   "оценок": 353,
+   "отзывов": 197,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://glushiteli-perm.ru/"
+   ],
+   "телефоны": [
+    "+7 (912) 061-81-03",
+    "+7 (342) 279-58-88",
+    "+7 (342) 203-81-03"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт мототехники",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "toilet",
+    "tuning_of_motor_vehicles",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/glushiteli/1077848429/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 75
+  },
+  {
+   "id": "1090149318",
+   "название": "Леонов-Авто",
+   "seoname": "leonov_avto",
+   "адрес": "ул. Космонавта Леонова, 59/1",
+   "координаты": [
+    56.188881,
+    57.955894
+   ],
+   "рейтинг": 4.7,
+   "оценок": 457,
+   "отзывов": 166,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://leonov-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 228-59-59"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/leonov_avto/1090149318/",
+   "последний_отзыв": "2026-11-07",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 71
+  },
+  {
+   "id": "93246716610",
+   "название": "Римэкс",
+   "seoname": "rimeks",
+   "адрес": "ул. Чернышевского, 3А",
+   "координаты": [
+    56.27321,
+    57.998867
+   ],
+   "рейтинг": 4.5,
+   "оценок": 298,
+   "отзывов": 136,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://perm.rimeks.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 256-33-12",
+    "8 (800) 300-05-00"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_servicing",
+    "car_wash",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rimeks/93246716610/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 73
+  },
+  {
+   "id": "1002766641",
+   "название": "Дав-авто",
+   "seoname": "dav_avto",
+   "адрес": "Бродовский тракт, 9, корп. 1",
+   "координаты": [
+    56.27457,
+    57.956585
+   ],
+   "рейтинг": 4.2,
+   "оценок": 348,
+   "отзывов": 114,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://dav-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 457-29-93",
+    "+7 (951) 927-04-01"
+   ],
+   "часы": "пн-пт 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт"
+   ],
+   "признаки": [
+    "authorized_service",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dav_avto/1002766641/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 70
+  },
+  {
+   "id": "219327808775",
+   "название": "Тарзап",
+   "seoname": "tarzap",
+   "адрес": "ул. Лодыгина, 1А, Пермь",
+   "координаты": [
+    56.247229,
+    57.966372
+   ],
+   "рейтинг": 4.7,
+   "оценок": 200,
+   "отзывов": 106,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tarzap.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 329-54-35"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tarzap/219327808775/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 81
+  },
+  {
+   "id": "125564232039",
+   "название": "САН-Сервис",
+   "seoname": "san_servis",
+   "адрес": "ш. Космонавтов, 304/5, д. Хмели",
+   "координаты": [
+    56.076259,
+    57.949642
+   ],
+   "рейтинг": 5,
+   "оценок": 214,
+   "отзывов": 95,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sto-59.ru/"
+   ],
+   "телефоны": [
+    "+7 (982) 475-15-15"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб,вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автотенты и пологи",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "gas_stops",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_chains",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "transponders",
+    "transportation_storage_dangerous_goods",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/san_servis/125564232039/"
+  },
+  {
+   "id": "165976944387",
+   "название": "АКПП.Pro",
+   "seoname": "akpp_pro",
+   "адрес": "Подлесная ул., 47А",
+   "координаты": [
+    56.172326,
+    57.995728
+   ],
+   "рейтинг": 5,
+   "оценок": 95,
+   "отзывов": 89,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://perm.akpp.pro/"
+   ],
+   "телефоны": [
+    "+7 (843) 208-04-83",
+    "+7 (909) 731-79-49"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akpp_pro/165976944387/"
+  },
+  {
+   "id": "18796248299",
+   "название": "Автомакс",
+   "seoname": "avtomaks",
+   "адрес": "ул. Архитектора Свиязева, 39А, корп. 1",
+   "координаты": [
+    56.161518,
+    57.960744
+   ],
+   "рейтинг": 4.7,
+   "оценок": 171,
+   "отзывов": 87,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtomax59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 225-36-67"
+   ],
+   "часы": "пн-пт 09:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "torque_converter_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomaks/18796248299/"
+  },
+  {
+   "id": "1314839772",
+   "название": "Железный конь",
+   "seoname": "zhelezny_kon",
+   "адрес": "Промышленная ул., 52",
+   "координаты": [
+    56.12912,
+    57.948778
+   ],
+   "рейтинг": 4.8,
+   "оценок": 190,
+   "отзывов": 83,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.autoservice59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 277-88-20",
+    "+7 (902) 801-88-20"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "generators",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zhelezny_kon/1314839772/"
+  },
+  {
+   "id": "11192121494",
+   "название": "LR-Wert",
+   "seoname": "lr_wert",
+   "адрес": "Рязанская ул., 105Б, корп. 1, Пермь",
+   "координаты": [
+    56.176085,
+    57.968762
+   ],
+   "рейтинг": 4.9,
+   "оценок": 268,
+   "отзывов": 80,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 259-27-77",
+    "+7 (967) 901-77-79"
+   ],
+   "часы": "ежедневно, 09:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lr_wert/11192121494/"
+  },
+  {
+   "id": "1406845808",
+   "название": "Реммастер",
+   "seoname": "remmaster",
+   "адрес": "ул. Металлургов, 9",
+   "координаты": [
+    56.287304,
+    58.024863
+   ],
+   "рейтинг": 4.5,
+   "оценок": 190,
+   "отзывов": 74,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.remmaster-group.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 260-50-56",
+    "+7 (342) 260-17-17",
+    "+7 (995) 667-20-27",
+    "+7 (342) 215-92-00",
+    "+7 (342) 265-31-84"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб,вс 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "keep_tires",
+    "motorcycle_tire_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remmaster/1406845808/"
+  },
+  {
+   "id": "1000735684",
+   "название": "Формула Зеро",
+   "seoname": "formula_zero",
+   "адрес": "Пушкарская ул., 55, Пермь",
+   "координаты": [
+    56.296633,
+    58.002672
+   ],
+   "рейтинг": 4.3,
+   "оценок": 148,
+   "отзывов": 73,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://remontkuzova59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 230-81-87",
+    "+7 (951) 938-88-11"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "автоэмали, автомобильные краски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "bumper_repair",
+    "car_glass_replacement",
+    "door_repair",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "thickness_gauge_color",
+    "tinting",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/formula_zero/1000735684/"
+  },
+  {
+   "id": "198063434223",
+   "название": "Лига-сервис",
+   "seoname": "liga_servis",
+   "адрес": "ул. Овчинникова, 10",
+   "координаты": [
+    56.228911,
+    57.9953
+   ],
+   "рейтинг": 4.9,
+   "оценок": 163,
+   "отзывов": 69,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (932) 337-01-01",
+    "+7 (342) 287-01-01"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/liga_servis/198063434223/"
+  },
+  {
+   "id": "51268520871",
+   "название": "Юпитер Н",
+   "seoname": "yupiter_n",
+   "адрес": "ул. Куйбышева, 117А/1",
+   "координаты": [
+    56.246018,
+    57.97666
+   ],
+   "рейтинг": 4.9,
+   "оценок": 93,
+   "отзывов": 58,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://jupitern-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 354-44-55"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "disable_photopoi",
+    "freight_car_service",
+    "generators",
+    "hinged_equipment",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "truck_tire_service",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yupiter_n/51268520871/"
+  },
+  {
+   "id": "1120787904",
+   "название": "Интеллект-Авто",
+   "seoname": "intellekt_avto",
+   "адрес": "ул. Героев Хасана, 37Б/1",
+   "координаты": [
+    56.262336,
+    57.983082
+   ],
+   "рейтинг": 4.5,
+   "оценок": 111,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 294-42-38",
+    "+7 (901) 265-42-38",
+    "+7 (912) 783-09-94"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "installation",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/intellekt_avto/1120787904/"
+  },
+  {
+   "id": "1117265037",
+   "название": "Юг-Авто",
+   "seoname": "yug_avto",
+   "адрес": "ул. Героев Хасана, 45А/1",
+   "координаты": [
+    56.26101,
+    57.981641
+   ],
+   "рейтинг": 4.4,
+   "оценок": 103,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (902) 832-80-29"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "engine_endoscopy",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yug_avto/1117265037/"
+  },
+  {
+   "id": "1609573560",
+   "название": "Твой",
+   "seoname": "tvoy",
+   "адрес": "ул. Василия Васильева, 17/1",
+   "координаты": [
+    56.230593,
+    57.95358
+   ],
+   "рейтинг": 4.2,
+   "оценок": 82,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://club107977523.vsite.biz/",
+    "https://vk.link/autoservis_tvoi"
+   ],
+   "телефоны": [
+    "+7 (342) 288-86-89",
+    "+7 (909) 107-72-36"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/tvoy/1609573560/"
+  },
+  {
+   "id": "1840281925",
+   "название": "Ремонт стоек",
+   "seoname": "remont_stoyek",
+   "адрес": "Маршрутная ул., 14/3, Пермь",
+   "координаты": [
+    56.239218,
+    57.983796
+   ],
+   "рейтинг": 4.4,
+   "оценок": 64,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (902) 642-86-74",
+    "+7 (342) 281-34-25"
+   ],
+   "часы": "пн-чт 09:00–17:00; пт 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "disable_captions",
+    "disable_photopoi",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remont_stoyek/1840281925/"
+  },
+  {
+   "id": "1209517929",
+   "название": "Tuning Territory Service",
+   "seoname": "tuning_territory_service",
+   "адрес": "ул. Машинистов, 20А",
+   "координаты": [
+    56.11162,
+    58.038484
+   ],
+   "рейтинг": 4.5,
+   "оценок": 102,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (909) 114-44-49"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tuning_territory_service/1209517929/"
+  },
+  {
+   "id": "1239281256",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Сочинская ул., 4А",
+   "координаты": [
+    56.125279,
+    58.036683
+   ],
+   "рейтинг": 4.4,
+   "оценок": 67,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.autoserviceperm.ru/"
+   ],
+   "телефоны": [
+    "+7 (912) 492-58-59"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин мебели"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/1239281256/"
+  },
+  {
+   "id": "1170571810",
+   "название": "Лада",
+   "seoname": "lada",
+   "адрес": "ул. Халтурина, 8А",
+   "координаты": [
+    56.294792,
+    58.019071
+   ],
+   "рейтинг": 4.1,
+   "оценок": 61,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://lada-perm.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 635-53-41",
+    "+7 (342) 260-10-03",
+    "+7 (342) 286-40-57"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lada/1170571810/"
+  },
+  {
+   "id": "119473076420",
+   "название": "Автоштат",
+   "seoname": "avtoshtat",
+   "адрес": "ул. КИМ, 2Б, Пермь",
+   "координаты": [
+    56.306771,
+    58.02963
+   ],
+   "рейтинг": 4.9,
+   "оценок": 18,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 234-14-04",
+    "+7 (952) 664-14-04"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_diesel_engines",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoshtat/119473076420/"
+  },
+  {
+   "id": "149762083433",
+   "название": "Rvm Service",
+   "seoname": "rvm_service",
+   "адрес": "Норильская ул., 8, корп. 4, Пермь",
+   "координаты": [
+    56.19804,
+    57.971294
+   ],
+   "рейтинг": 4.9,
+   "оценок": 27,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://rvm-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (919) 445-08-44"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rvm_service/149762083433/"
+  },
+  {
+   "id": "93200025543",
+   "название": "Форсайдс",
+   "seoname": "forsayds",
+   "адрес": "Оверятская ул., 38, Пермь",
+   "координаты": [
+    56.131437,
+    57.961812
+   ],
+   "рейтинг": 4.2,
+   "оценок": 10,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://foursides.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (922) 385-57-73"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автохимчистка",
+    "автосвет"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "arches_noise_insulation",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "ceiling_cleaning",
+    "disk_maintenance",
+    "gift_certificate",
+    "glass_polishing",
+    "leather_repair",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repairs",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forsayds/93200025543/"
+  },
+  {
+   "id": "94575035866",
+   "название": "Соболь",
+   "seoname": "sobol",
+   "адрес": "ул. Героев Хасана, 50, Пермь",
+   "координаты": [
+    56.25691,
+    57.967836
+   ],
+   "рейтинг": 4.2,
+   "оценок": 6,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 230-83-22",
+    "+7 (922) 354-53-60"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "car_park",
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sobol/94575035866/"
+  }
+ ]
+}

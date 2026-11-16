@@ -1,0 +1,145 @@
+{
+ "ниша": "Сервис Lynk & Co",
+ "ключ": "servis-lynk-co",
+ "запросы": [
+  "lynk co сервис",
+  "lynk co ремонт",
+  "lynk co техническое обслуживание"
+ ],
+ "найдено_в_яндексе": {
+  "lynk co сервис": 1,
+  "lynk co ремонт": 1,
+  "lynk co техническое обслуживание": 2
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Перми (регион 50)",
+ "город": "perm",
+ "компании": [
+  {
+   "id": "222160734327",
+   "название": "Авилон Lynk & Co",
+   "seoname": "avilon_lynk_co",
+   "адрес": "Волгоградский просп., 43, корп. 2, Москва",
+   "координаты": [
+    37.719561,
+    55.713562
+   ],
+   "рейтинг": 4.7,
+   "оценок": 67,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://lynkco-avilon.ru/"
+   ],
+   "телефоны": [
+    "+7 (495) 153-33-47"
+   ],
+   "часы": "ежедневно, 09:00–21:40",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avilon_lynk_co/222160734327/",
+   "последний_отзыв": "2025-02-20",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 39
+  },
+  {
+   "id": "137506427584",
+   "название": "Автосервис 24",
+   "seoname": "avtoservis_24",
+   "адрес": "ул. Архитектора Свиязева, 35, корп. 3",
+   "координаты": [
+    56.166599,
+    57.959937
+   ],
+   "рейтинг": 4.1,
+   "оценок": 17,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (965) 576-65-41"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "elevator_wheelchair_accessible",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "injector_repair",
+    "installing_the_towbar",
+    "keep_tires",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "sandblasting",
+    "self_car_service",
+    "service_maintenance",
+    "starting_the_car",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_24/137506427584/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 9
+  }
+ ]
+}

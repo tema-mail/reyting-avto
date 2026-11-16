@@ -1,0 +1,1717 @@
+{
+ "ниша": "Автосвет и ремонт фар",
+ "ключ": "avtosvet",
+ "запросы": [
+  "замена линз в фарах",
+  "ремонт фар"
+ ],
+ "найдено_в_яндексе": {
+  "замена линз в фарах": 11,
+  "ремонт фар": 54,
+  "замена линз в фарах Дзержинский район": 9,
+  "замена линз в фарах Индустриальный район": 17,
+  "замена линз в фарах Кировский район": 9,
+  "замена линз в фарах Ленинский район": 2,
+  "замена линз в фарах Мотовилихинский район": 11,
+  "замена линз в фарах Орджоникидзевский район": 17,
+  "замена линз в фарах Свердловский район": 13
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Перми (регион 50)",
+ "город": "perm",
+ "компании": [
+  {
+   "id": "76646424367",
+   "название": "Ксеноншоп59",
+   "seoname": "ksenonshop59",
+   "адрес": "ш. Космонавтов, 188",
+   "координаты": [
+    56.140282,
+    57.964538
+   ],
+   "рейтинг": 5,
+   "оценок": 875,
+   "отзывов": 592,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://xenonshop59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-20-21"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "pickup",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ksenonshop59/76646424367/",
+   "последний_отзыв": "2026-11-08",
+   "отзывов_за_12_мес_из_загруженных": 49,
+   "загружено_дат": 73
+  },
+  {
+   "id": "129847596506",
+   "название": "АБС-Авто",
+   "seoname": "abs_avto",
+   "адрес": "ул. Окулова, 47Б, Пермь",
+   "координаты": [
+    56.207473,
+    58.011869
+   ],
+   "рейтинг": 5,
+   "оценок": 510,
+   "отзывов": 301,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://abs-auto.su/"
+   ],
+   "телефоны": [
+    "+7 (342) 292-14-17"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/abs_avto/129847596506/",
+   "последний_отзыв": "2026-11-08",
+   "отзывов_за_12_мес_из_загруженных": 41,
+   "загружено_дат": 81
+  },
+  {
+   "id": "1104362397",
+   "название": "Римэкс",
+   "seoname": "rimeks",
+   "адрес": "ул. Малкова, 26/1, Пермь",
+   "координаты": [
+    56.193346,
+    57.99668
+   ],
+   "рейтинг": 4.4,
+   "оценок": 651,
+   "отзывов": 251,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://perm.rimeks.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 256-33-16",
+    "8 (800) 300-05-00"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_servicing",
+    "car_wash",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rimeks/1104362397/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 80
+  },
+  {
+   "id": "1044037194",
+   "название": "Verra",
+   "seoname": "verra",
+   "адрес": "ул. Героев Хасана, 81Б",
+   "координаты": [
+    56.264073,
+    57.975536
+   ],
+   "рейтинг": 5,
+   "оценок": 549,
+   "отзывов": 211,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kuzov59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-35-02"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр",
+    "детейлинг"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "freight_car_service",
+    "good_place",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/verra/1044037194/",
+   "последний_отзыв": "2026-10-15",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 91
+  },
+  {
+   "id": "1709180610",
+   "название": "Grafit",
+   "seoname": "grafit",
+   "адрес": "ул. Архитектора Свиязева, 29В, Пермь",
+   "координаты": [
+    56.175316,
+    57.959726
+   ],
+   "рейтинг": 4.7,
+   "оценок": 344,
+   "отзывов": 195,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://grafitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 205-81-27"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/grafit/1709180610/",
+   "последний_отзыв": "2026-06-02",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 85
+  },
+  {
+   "id": "1384140323",
+   "название": "Кар Линк",
+   "seoname": "kar_link",
+   "адрес": "ул. Яблочкова, 26В",
+   "координаты": [
+    56.236489,
+    57.970197
+   ],
+   "рейтинг": 4.7,
+   "оценок": 374,
+   "отзывов": 142,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://carlink.su/"
+   ],
+   "телефоны": [
+    "+7 (342) 276-85-82",
+    "+7 (342) 279-04-22",
+    "+7 (342) 276-85-88"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "call_button",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kar_link/1384140323/",
+   "последний_отзыв": "2026-08-08",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 72
+  },
+  {
+   "id": "93246716610",
+   "название": "Римэкс",
+   "seoname": "rimeks",
+   "адрес": "ул. Чернышевского, 3А",
+   "координаты": [
+    56.27321,
+    57.998867
+   ],
+   "рейтинг": 4.5,
+   "оценок": 298,
+   "отзывов": 136,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://perm.rimeks.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 256-33-12",
+    "8 (800) 300-05-00"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_servicing",
+    "car_wash",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rimeks/93246716610/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 73
+  },
+  {
+   "id": "146394128357",
+   "название": "Mir Far",
+   "seoname": "mir_far",
+   "адрес": "ул. Крисанова, 73А",
+   "координаты": [
+    56.215832,
+    57.997505
+   ],
+   "рейтинг": 5,
+   "оценок": 210,
+   "отзывов": 126,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://mirfar.com/"
+   ],
+   "телефоны": [
+    "+7 (950) 457-11-25",
+    "+7 (909) 726-08-00"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "студия тюнинга",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_far/146394128357/",
+   "последний_отзыв": "2026-08-23",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 58
+  },
+  {
+   "id": "40941773760",
+   "название": "Авто Сига 59",
+   "seoname": "avto_siga_59",
+   "адрес": "Лихвинская ул., 85",
+   "координаты": [
+    56.304233,
+    57.982904
+   ],
+   "рейтинг": 4.9,
+   "оценок": 269,
+   "отзывов": 110,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://autosiga59.ru/"
+   ],
+   "телефоны": [
+    "+7 (952) 319-99-13",
+    "+7 (342) 203-17-53"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосвет"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "additional_equipment_installation",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "disable_captions",
+    "disable_photopoi",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_siga_59/40941773760/",
+   "последний_отзыв": "2026-08-18",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 51
+  },
+  {
+   "id": "219327808775",
+   "название": "Тарзап",
+   "seoname": "tarzap",
+   "адрес": "ул. Лодыгина, 1А, Пермь",
+   "координаты": [
+    56.247229,
+    57.966372
+   ],
+   "рейтинг": 4.7,
+   "оценок": 200,
+   "отзывов": 106,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tarzap.ru/"
+   ],
+   "телефоны": [
+    "+7 (922) 329-54-35"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tarzap/219327808775/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 81
+  },
+  {
+   "id": "1009407201",
+   "название": "Av-To",
+   "seoname": "av_to",
+   "адрес": "ул. Героев Хасана, 54",
+   "координаты": [
+    56.261224,
+    57.967705
+   ],
+   "рейтинг": 4.8,
+   "оценок": 204,
+   "отзывов": 94,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 268-56-44",
+    "+7 (902) 472-23-33"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/av_to/1009407201/",
+   "последний_отзыв": "2026-08-13",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 50
+  },
+  {
+   "id": "18796248299",
+   "название": "Автомакс",
+   "seoname": "avtomaks",
+   "адрес": "ул. Архитектора Свиязева, 39А, корп. 1",
+   "координаты": [
+    56.161518,
+    57.960744
+   ],
+   "рейтинг": 4.7,
+   "оценок": 171,
+   "отзывов": 87,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtomax59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 225-36-67"
+   ],
+   "часы": "пн-пт 09:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "torque_converter_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomaks/18796248299/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 93
+  },
+  {
+   "id": "167348484887",
+   "название": "Бокс 59",
+   "seoname": "boks_59",
+   "адрес": "ул. Индустриализации, 12В",
+   "координаты": [
+    56.29993,
+    58.026861
+   ],
+   "рейтинг": 4.9,
+   "оценок": 119,
+   "отзывов": 72,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://taplink.cc/bokc59"
+   ],
+   "телефоны": [
+    "+7 (951) 924-72-97",
+    "+7 (342) 298-67-19"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/boks_59/167348484887/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 62
+  },
+  {
+   "id": "161060923338",
+   "название": "Фанавто",
+   "seoname": "fanavto",
+   "адрес": "ул. Окулова, 47",
+   "координаты": [
+    56.207163,
+    58.012016
+   ],
+   "рейтинг": 4.8,
+   "оценок": 117,
+   "отзывов": 71,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://fanavto.com/"
+   ],
+   "телефоны": [
+    "+7 (342) 206-20-59"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "моторные масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fanavto/161060923338/",
+   "последний_отзыв": "2026-09-10",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 81
+  },
+  {
+   "id": "198931845608",
+   "название": "Бокс 5",
+   "seoname": "boks_5",
+   "адрес": "Краснофлотская ул., 15А",
+   "координаты": [
+    56.234469,
+    57.999132
+   ],
+   "рейтинг": 4.7,
+   "оценок": 157,
+   "отзывов": 71,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://box5-perm.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 804-31-15"
+   ],
+   "часы": "пн-пт 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/boks_5/198931845608/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 76
+  },
+  {
+   "id": "33472443580",
+   "название": "Xenonshop59.ru",
+   "seoname": "xenonshop59_ru",
+   "адрес": "ул. Восстания, 24, Пермь",
+   "координаты": [
+    56.315,
+    58.039198
+   ],
+   "рейтинг": 5,
+   "оценок": 71,
+   "отзывов": 68,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://xenonshop59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 259-56-18"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/xenonshop59_ru/33472443580/"
+  },
+  {
+   "id": "70993489748",
+   "название": "Паркк Сервис",
+   "seoname": "parkk_servis",
+   "адрес": "ул. Чкалова, 7, корп. 1",
+   "координаты": [
+    56.266728,
+    57.98451
+   ],
+   "рейтинг": 5,
+   "оценок": 104,
+   "отзывов": 54,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://parkk.pro/"
+   ],
+   "телефоны": [
+    "+7 (342) 248-63-80"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "diesel_service",
+    "electric car charging station",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "service_maintenance",
+    "street_entrance",
+    "tire_fitting",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/parkk_servis/70993489748/"
+  },
+  {
+   "id": "17724618902",
+   "название": "Кар Лайт",
+   "seoname": "kar_layt",
+   "адрес": "ул. Яблочкова, 26Е",
+   "координаты": [
+    56.234463,
+    57.970988
+   ],
+   "рейтинг": 5,
+   "оценок": 79,
+   "отзывов": 52,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 953-69-21"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "оклейка машин",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "additional_equipment_installation",
+    "anti_gravity_film",
+    "autovinil",
+    "car_park",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kar_layt/17724618902/"
+  },
+  {
+   "id": "88285488615",
+   "название": "Wertlab Мб",
+   "seoname": "wertlab_mb",
+   "адрес": "ул. Куйбышева, 115А",
+   "координаты": [
+    56.245978,
+    57.978733
+   ],
+   "рейтинг": 4.3,
+   "оценок": 139,
+   "отзывов": 51,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://wertlab-mb.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (342) 259-79-99"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_gravity_film",
+    "aquaprint",
+    "autovinil",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "installation_of_exhaust_systems",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/wertlab_mb/88285488615/"
+  },
+  {
+   "id": "1085862008",
+   "название": "АвтоСвет",
+   "seoname": "avtosvet",
+   "адрес": "ул. Николая Островского, 21",
+   "координаты": [
+    56.256823,
+    58.01471
+   ],
+   "рейтинг": 4.2,
+   "оценок": 97,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (902) 471-92-88",
+    "+7 (342) 293-92-88"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "автосервис, автотехцентр",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "additional_equipment_installation",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_door_closers",
+    "car_interior_re_lighting",
+    "car_noise_insulation",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "field_service",
+    "gift_certificate",
+    "glass_tinting",
+    "guarantee",
+    "home_visit",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "tuning_deflectors",
+    "tuning_of_motor_vehicles",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosvet/1085862008/"
+  },
+  {
+   "id": "161514228220",
+   "название": "Custom Car",
+   "seoname": "custom_car",
+   "адрес": "ул. Героев Хасана, 55А",
+   "координаты": [
+    56.260438,
+    57.978025
+   ],
+   "рейтинг": 4.8,
+   "оценок": 53,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 288-72-18"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет"
+   ],
+   "признаки": [
+    "repairs"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/custom_car/161514228220/"
+  },
+  {
+   "id": "113886564765",
+   "название": "Автостиль59",
+   "seoname": "avtostil59",
+   "адрес": "Пермский край, Краснокамск",
+   "координаты": [
+    55.784635,
+    58.09138
+   ],
+   "рейтинг": 4.9,
+   "оценок": 46,
+   "отзывов": 28,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (922) 382-87-88"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосвет",
+    "эвакуация автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtostil59/113886564765/"
+  },
+  {
+   "id": "86300889638",
+   "название": "ЕвроФура",
+   "seoname": "yevrofura",
+   "адрес": "Промышленная ул., 97Б/1, Пермь",
+   "координаты": [
+    56.136405,
+    57.929745
+   ],
+   "рейтинг": 4.4,
+   "оценок": 69,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://star-trucks.shop/"
+   ],
+   "телефоны": [
+    "+7 (982) 490-00-12",
+    "+7 (982) 490-00-06"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей",
+    "автомобильные прицепы"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts_cargo_trailers",
+    "trailer_repair",
+    "welding_works"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yevrofura/86300889638/"
+  },
+  {
+   "id": "1701700238",
+   "название": "АвтоОкулист",
+   "seoname": "avtookulist",
+   "адрес": "Ижевская ул., 21, корп. 1",
+   "координаты": [
+    56.270711,
+    57.982111
+   ],
+   "рейтинг": 4.7,
+   "оценок": 48,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (982) 481-81-68"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtookulist/1701700238/"
+  },
+  {
+   "id": "241749286584",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Целинная ул., 56",
+   "координаты": [
+    56.360632,
+    58.059909
+   ],
+   "рейтинг": 4.6,
+   "оценок": 52,
+   "отзывов": 25,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-tselinnaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (969) 814-01-73"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/241749286584/"
+  },
+  {
+   "id": "155552262899",
+   "название": "Азия-Авто",
+   "seoname": "aziya_avto",
+   "адрес": "Норильская ул., 8, корп. 4, Пермь",
+   "координаты": [
+    56.197848,
+    57.971189
+   ],
+   "рейтинг": 4.8,
+   "оценок": 25,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-v-permi.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (995) 481-18-08",
+    "+7 (952) 648-97-75",
+    "+7 (933) 344-61-34"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "turbine repair",
+    "urea",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aziya_avto/155552262899/"
+  },
+  {
+   "id": "99382637861",
+   "название": "ГОСТ",
+   "seoname": "gost",
+   "адрес": "Уральская ул., 76А",
+   "координаты": [
+    56.292966,
+    58.027964
+   ],
+   "рейтинг": 4.7,
+   "оценок": 21,
+   "отзывов": 17,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (342) 258-47-48",
+    "+7 (932) 338-90-76"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gost/99382637861/"
+  },
+  {
+   "id": "7674882522",
+   "название": "M&s Detailing",
+   "seoname": "m_s_detailing",
+   "адрес": "Водопроводная ул., 4/2, д. Кондратово",
+   "координаты": [
+    56.108999,
+    57.982791
+   ],
+   "рейтинг": 4.4,
+   "оценок": 13,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ms-detailing.pro/"
+   ],
+   "телефоны": [
+    "+7 (922) 361-60-00",
+    "+7 (922) 361-70-00"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "оклейка машин",
+    "детейлинг"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "antichrome",
+    "autovinil",
+    "bike_parking",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "ceiling_cleaning",
+    "disk_maintenance",
+    "ozonation",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "repairs",
+    "scratch_repair",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/m_s_detailing/7674882522/"
+  },
+  {
+   "id": "219732094835",
+   "название": "Шик Авто",
+   "seoname": "shik_avto",
+   "адрес": "Центральная ул., 2Д/1, село Лобаново",
+   "координаты": [
+    56.280284,
+    57.869185
+   ],
+   "рейтинг": 4.3,
+   "оценок": 6,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 593-17-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автосвет",
+    "автохимчистка"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shik_avto/219732094835/"
+  },
+  {
+   "id": "93200025543",
+   "название": "Форсайдс",
+   "seoname": "forsayds",
+   "адрес": "Оверятская ул., 38, Пермь",
+   "координаты": [
+    56.131437,
+    57.961812
+   ],
+   "рейтинг": 4.2,
+   "оценок": 10,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://foursides.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (922) 385-57-73"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автосвет",
+    "автохимчистка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "arches_noise_insulation",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "ceiling_cleaning",
+    "disk_maintenance",
+    "gift_certificate",
+    "glass_polishing",
+    "leather_repair",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repairs",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forsayds/93200025543/"
+  },
+  {
+   "id": "235829987728",
+   "название": "Фара пленка",
+   "seoname": "fara_plenka",
+   "адрес": "ш. Космонавтов, 65В",
+   "координаты": [
+    56.207096,
+    57.993034
+   ],
+   "рейтинг": 4.1,
+   "оценок": 4,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (982) 819-21-82"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Тонирование автостёкол",
+    "автосвет",
+    "детейлинг"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fara_plenka/235829987728/",
+   "найдено_по": "замена линз в фарах Дзержинский район"
+  },
+  {
+   "id": "143395266532",
+   "название": "АвтоСфера59",
+   "seoname": "avtosfera59",
+   "адрес": "Светлогорская ул., 3Г/3, Пермь",
+   "координаты": [
+    56.042862,
+    58.038854
+   ],
+   "рейтинг": 5,
+   "оценок": 48,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtosfera59.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (904) 844-73-60",
+    "+7 (952) 652-24-49"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "автосигнализация",
+    "автоакустика"
+   ],
+   "признаки": [
+    "additional_equipment_installation",
+    "car_noise_insulation",
+    "installation",
+    "installing_car_audio",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosfera59/143395266532/",
+   "найдено_по": "замена линз в фарах Дзержинский район"
+  },
+  {
+   "id": "1570954521",
+   "название": "Agm motors electric",
+   "seoname": "agm_motors_electric",
+   "адрес": "ул. Льва Шатрова, 16, корп. 1",
+   "координаты": [
+    56.265651,
+    57.987829
+   ],
+   "рейтинг": 4.4,
+   "оценок": 25,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (912) 598-98-59"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "оклейка машин",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "additional_equipment_installation",
+    "anti_gravity_film",
+    "autovinil",
+    "installation",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agm_motors_electric/1570954521/",
+   "найдено_по": "замена линз в фарах Дзержинский район"
+  },
+  {
+   "id": "1091289816",
+   "название": "Автосвет",
+   "seoname": "avtosvet",
+   "адрес": "ул. Куйбышева, 151",
+   "координаты": [
+    56.243809,
+    57.963497
+   ],
+   "рейтинг": 4.3,
+   "оценок": 96,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://autosveted.com/"
+   ],
+   "телефоны": [
+    "+7 (342) 294-04-53",
+    "+7 (901) 267-04-53"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "светотехника",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automotive_products",
+    "car_park",
+    "delivery",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "pickup",
+    "spare_parts",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosvet/1091289816/",
+   "найдено_по": "замена линз в фарах Индустриальный район"
+  },
+  {
+   "id": "32028217556",
+   "название": "Ремонт лобовых стёкол",
+   "seoname": "remont_lobovykh_styokol",
+   "адрес": "Магистральная ул., 53/11",
+   "координаты": [
+    55.952381,
+    58.014579
+   ],
+   "рейтинг": 4.5,
+   "оценок": 14,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (952) 662-22-55"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "автосвет",
+    "автоакустика"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remont_lobovykh_styokol/32028217556/",
+   "найдено_по": "замена линз в фарах Кировский район"
+  },
+  {
+   "id": "115043231301",
+   "название": "Sklad59.ru",
+   "seoname": "sklad59_ru",
+   "адрес": "просп. Декабристов, 68",
+   "координаты": [
+    56.198532,
+    57.976056
+   ],
+   "рейтинг": 4.3,
+   "оценок": 56,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sklad59.ru/"
+   ],
+   "телефоны": [
+    "+7 (342) 277-95-99"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаксессуары",
+    "автосвет",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "car_accessories",
+    "car_door_closers",
+    "car_floor_mats",
+    "car_park",
+    "delivery",
+    "eva_mats",
+    "payment_by_credit_card",
+    "pickup",
+    "ramp",
+    "repairs"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sklad59_ru/115043231301/",
+   "найдено_по": "замена линз в фарах Свердловский район"
+  }
+ ],
+ "расширено_по_районам": true
+}
