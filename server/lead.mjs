@@ -6,10 +6,11 @@
 // Кабинет: GET /api/leads, PATCH /api/leads/<номер> {stage}, GET /api/admin/report/<раздел>, PATCH /api/admin/recommendations/<id> {status},
 // GET /api/admin/events?m=YYYY-MM –
 // только с логином и паролем кабинета (Basic, тот же вход, что у замка админки).
-// Окружение: TG_TOKEN, TG_CHAT (через запятую), ADMIN_LOGIN, ADMIN_PASS, PORT (8090), ORIGIN (https://avtoball.ru).
+// Второй вход кабинета – СВЕРХ админ: SVERH_LOGIN и SVERH_PASS_HASH (scrypt «соль:хэш» в hex, самого пароля на сервере нет).
+// Окружение: TG_TOKEN, TG_CHAT (через запятую), ADMIN_LOGIN, ADMIN_PASS, SVERH_LOGIN, SVERH_PASS_HASH, PORT (8090), ORIGIN (https://avtoball.ru).
 import { createServer } from 'node:http';
 import { appendFile, mkdir, readFile, rename, writeFile } from 'node:fs/promises';
-import { timingSafeEqual } from 'node:crypto';
+import { createHmac, randomBytes, scrypt, timingSafeEqual } from 'node:crypto';
 
 const PORT = Number(process.env.PORT || 8090);
 const DATA = process.env.DATA_DIR || '/data';
@@ -18,6 +19,10 @@ const TG_TOKEN = process.env.TG_TOKEN || '';
 const TG_CHATS = (process.env.TG_CHAT || '').split(',').map((s) => s.trim()).filter(Boolean);
 const ORIGINS = (process.env.ORIGIN || 'https://avtoball.ru,https://admin.avtoball.ru').split(',').map((s) => s.trim());
 const ADMIN = process.env.ADMIN_LOGIN && process.env.ADMIN_PASS ? `${process.env.ADMIN_LOGIN}:${process.env.ADMIN_PASS}` : '';
+// СВЕРХ админ (Артём, 17.11.2026) – рядом с парой владельца. Переменных нет или хэш не того вида – вход выключен, пара владельца работает как раньше.
+const SVERH_LOGIN = String(process.env.SVERH_LOGIN || '').trim();
+const [SVERH_SALT = '', SVERH_HASH = ''] = String(process.env.SVERH_PASS_HASH || '').trim().split(':');
+const SVERH = Boolean(SVERH_LOGIN) && /^[0-9a-f]{16,}$/i.test(SVERH_SALT) && /^[0-9a-f]{128}$/i.test(SVERH_HASH);
 const STAGES = ['новая', 'в работе', 'выполнена', 'отказ', 'архив'];
 const REPORTS = ['metrika', 'seo', 'pages', 'recommendations'];
 // статусы рекомендаций – как у агента улучшений (~/.claude/skills/uluchsheniya)
@@ -30,12 +35,33 @@ const WINDOW_MS = 10 * 60 * 1000;
 const LIMIT = 5; // заявок с одного адреса за 10 минут
 const hits = new Map();
 
-function authed(req) {
+const same = (a, b) => a.length === b.length && timingSafeEqual(a, b);
+const MEMO_KEY = randomBytes(32);
+const mark = (s) => createHmac('sha256', MEMO_KEY).update(s).digest();
+let sverhMemo = null; // отпечаток пары, уже прошедшей scrypt: кабинет шлёт Basic с каждым запросом, считать хэш заново незачем
+let sverhQueue = Promise.resolve(); // scrypt по одному: расчёт берёт 16 МБ, у контейнера 96 МБ
+function sverhKey(pass) {
+  const p = sverhQueue.then(() => new Promise((resolve) => scrypt(pass, Buffer.from(SVERH_SALT, 'hex'), 64, (err, key) => resolve(err ? null : key))));
+  sverhQueue = p;
+  return p;
+}
+const over = (key, limit) => (hits.get(key) || []).filter((t) => Date.now() - t < WINDOW_MS).length >= limit;
+async function authed(req, ip) {
   const h = String(req.headers.authorization || '');
-  if (!ADMIN || !h.startsWith('Basic ')) return false;
-  const got = Buffer.from(Buffer.from(h.slice(6), 'base64').toString('utf8'));
-  const want = Buffer.from(ADMIN);
-  return got.length === want.length && timingSafeEqual(got, want);
+  if (!h.startsWith('Basic ')) return false;
+  const pair = Buffer.from(h.slice(6), 'base64').toString('utf8');
+  if (ADMIN && same(Buffer.from(pair), Buffer.from(ADMIN))) return true;
+  if (!SVERH) return false;
+  const m = mark(pair);
+  if (sverhMemo && same(m, sverhMemo)) return true;
+  // перебор с одного адреса хэш не считает: после 20 отказов за 10 минут – сразу отказ
+  if (over('auth:' + ip, 20)) return false;
+  const i = pair.indexOf(':');
+  // хэш считаем и при чужом логине – время ответа не выдаёт, угадан ли логин
+  const key = await sverhKey(i < 0 ? '' : pair.slice(i + 1));
+  const ok = Boolean(key) && same(key, Buffer.from(SVERH_HASH, 'hex')) && i > 0 && same(Buffer.from(pair.slice(0, i)), Buffer.from(SVERH_LOGIN));
+  if (ok) sverhMemo = m;
+  return ok;
 }
 function limited(key, limit = LIMIT) {
   const now = Date.now();
@@ -140,10 +166,10 @@ createServer(async (req, res) => {
   const origin = req.headers.origin;
   const ip = String(req.headers['x-forwarded-for'] || req.socket.remoteAddress || '').split(',')[0].trim();
   const path = req.url.split('?')[0];
-  if (path === '/api/health') return send(res, 200, { ok: true, telegram: Boolean(TG_TOKEN && TG_CHATS.length), admin: Boolean(ADMIN) });
+  if (path === '/api/health') return send(res, 200, { ok: true, telegram: Boolean(TG_TOKEN && TG_CHATS.length), admin: Boolean(ADMIN), sverh: SVERH });
 
   if (path.startsWith('/api/admin/') || path === '/api/leads' || path.startsWith('/api/leads/')) {
-    if (!authed(req)) { if (limited('auth:' + ip, 20)) return send(res, 429, { ok: false, error: 'rate' }, origin); return send(res, 401, { ok: false }, origin); }
+    if (!(await authed(req, ip))) { if (limited('auth:' + ip, 20)) return send(res, 429, { ok: false, error: 'rate' }, origin); return send(res, 401, { ok: false }, origin); }
     try {
       if (path.startsWith('/api/admin/')) return await adminApi(req, res);
       if (req.method === 'GET' && path === '/api/leads') return send(res, 200, { ok: true, leads: await readLeads() }, origin);
