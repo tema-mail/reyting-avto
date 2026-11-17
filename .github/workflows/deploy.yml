@@ -27,6 +27,9 @@ jobs:
           cache: npm
       - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         run: npm ci
+      # тесты замка кабинета (оба входа открывают, неверный – нет)
+      - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
+        run: npm test
       # Боевая сборка: корень домена, индексация открыта, формы шлют в свой приёмник /api/lead (server/lead.mjs).
       - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         run: npm run build
@@ -39,6 +42,9 @@ jobs:
         env:
           ADMIN_LOGIN: ${{ secrets.ADMIN_LOGIN }}
           ADMIN_PASS: ${{ secrets.ADMIN_PASS }}
+          # второй вход – СВЕРХ админ Артёма; нет секретов – один вход владельца и предупреждение
+          SVERH_LOGIN: ${{ secrets.SVERH_LOGIN }}
+          SVERH_PASS: ${{ secrets.SVERH_PASS }}
       - if: env.DEPLOY_KEY != '' && env.DEPLOY_KNOWN_HOSTS != ''
         run: |
           install -m 700 -d ~/.ssh

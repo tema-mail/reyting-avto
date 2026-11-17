@@ -7,7 +7,8 @@
     "dev": "astro dev",
     "build": "node scripts/proverka-ballov.mjs && node scripts/proverka-ya.mjs && astro build && node scripts/proverka-ssylok.mjs",
     "preview": "astro preview",
-    "proverka": "node scripts/proverka-ballov.mjs"
+    "proverka": "node scripts/proverka-ballov.mjs",
+    "test": "node --test scripts/*.test.mjs"
   },
   "dependencies": {
     "@astrojs/preact": "^6.1.1",

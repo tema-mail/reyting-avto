@@ -1,0 +1,5 @@
+# Автобалл – ход работ по коду сайта
+
+Решения и открытые вопросы – в закрытом репо `~/Sites/reytingi/docs/sayty/resheniya-avto.md`; здесь – только ход работ по коду.
+
+- 17.11.2026 – кабинет /admin/: второй вход СВЕРХ админа Артёма рядом со входом владельца (схема – ~/Sites/sverh-admin/docs/zamok-dva-vhoda.md). Страницы под случайным ключом, его копии – под ключом владельца (~/.config/avtoball/admin-login, admin-pass – не менялись) и СВЕРХ (~/.config/sverh-admin/dostup.txt на маке, откуда идёт выкладка deploy/vylozhit.sh; для deploy.yml – секреты SVERH_LOGIN/SVERH_PASS). Тест замка – `npm test` (scripts/admin-lock.test.mjs). «Оставаться в системе» и «Выйти» – те же ключи ab_admin_auth/keep. Не сделано: сервер заявок и отчётов (server/lead.mjs, /api/leads и /api/admin/*) знает одну пару ADMIN_LOGIN/ADMIN_PASS – под входом СВЕРХ страницы кабинета открываются, а разделы с данными сервера отвечают «сервер не принял вход кабинета»; нужен второй вход в lead.mjs и строка в /opt/avtoball/lead.env с перезапуском avtoball-api.
