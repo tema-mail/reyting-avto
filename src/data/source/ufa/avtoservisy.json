@@ -1,0 +1,7199 @@
+{
+ "ниша": "Автосервисы",
+ "ключ": "avtoservisy",
+ "запросы": [
+  "автосервис"
+ ],
+ "найдено_в_яндексе": {
+  "автосервис": 77,
+  "автосервис Дёмский район": 45,
+  "автосервис Калининский район": 58,
+  "автосервис Кировский район": 61,
+  "автосервис Ленинский район": 48,
+  "автосервис Октябрьский район": 72,
+  "автосервис Орджоникидзевский район": 49,
+  "автосервис Советский район": 60
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Уфе (регион 172)",
+ "город": "ufa",
+ "компании": [
+  {
+   "id": "107560636798",
+   "название": "АвтоПремьер, Haval",
+   "seoname": "avtopremyer_haval",
+   "адрес": "Трамвайная ул., 1/4, Уфа",
+   "координаты": [
+    56.055755,
+    54.797877
+   ],
+   "рейтинг": 5,
+   "оценок": 1143,
+   "отзывов": 695,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://havalufa.ru/",
+    "https://haval-apm.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 212-00-67"
+   ],
+   "часы": "пн-сб 09:00–21:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtopremyer_haval/107560636798/",
+   "последний_отзыв": "2026-10-04",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 50
+  },
+  {
+   "id": "1264838012",
+   "название": "АвтоКор",
+   "seoname": "avtokor",
+   "адрес": "Революционная ул., 96/3",
+   "координаты": [
+    55.983319,
+    54.728088
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1463,
+   "отзывов": 604,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autokorufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 224-62-46",
+    "+7 (347) 200-04-84",
+    "+7 (347) 241-74-74"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "пункт техосмотра",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adjusting_headlights",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "gas_stops",
+    "generators",
+    "hinged_equipment",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokor/1264838012/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 47,
+   "загружено_дат": 79
+  },
+  {
+   "id": "1161321895",
+   "название": "АкМастер",
+   "seoname": "akmaster",
+   "адрес": "ул. Менделеева, 134А",
+   "координаты": [
+    56.006468,
+    54.71411
+   ],
+   "рейтинг": 4.7,
+   "оценок": 817,
+   "отзывов": 483,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://akmaster.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (347) 200-99-75"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akmaster/1161321895/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 53,
+   "загружено_дат": 64
+  },
+  {
+   "id": "230591508988",
+   "название": "Job & Joy",
+   "seoname": "job_joy",
+   "адрес": "Бакалинская ул., 19/1",
+   "координаты": [
+    55.98828,
+    54.716351
+   ],
+   "рейтинг": 5,
+   "оценок": 655,
+   "отзывов": 412,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://jobjoy.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 236-16-49",
+    "+7 (993) 061-41-56"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/job_joy/230591508988/",
+   "последний_отзыв": "2026-10-14",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 50
+  },
+  {
+   "id": "1187107261",
+   "название": "Синий Бокс",
+   "seoname": "siniy_boks",
+   "адрес": "ул. Сагита Агиша, 2/9",
+   "координаты": [
+    55.998448,
+    54.728016
+   ],
+   "рейтинг": 4.9,
+   "оценок": 819,
+   "отзывов": 364,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://siniybox.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 258-80-15"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "тонирование автостёкол",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "installation",
+    "payment_by_credit_card",
+    "repairs",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/siniy_boks/1187107261/",
+   "последний_отзыв": "2026-08-12",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 52
+  },
+  {
+   "id": "217482444958",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Рихарда Зорге, 7",
+   "координаты": [
+    55.984194,
+    54.749242
+   ],
+   "рейтинг": 4.9,
+   "оценок": 429,
+   "отзывов": 314,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ufa.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 298-01-86"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/217482444958/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 47,
+   "загружено_дат": 83
+  },
+  {
+   "id": "81541980488",
+   "название": "Автомоё",
+   "seoname": "avtomoyo",
+   "адрес": "ул. Кирова, 107/3",
+   "координаты": [
+    55.984731,
+    54.728048
+   ],
+   "рейтинг": 4.8,
+   "оценок": 617,
+   "отзывов": 284,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtomoe-sto102.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 224-22-49",
+    "+7 (937) 154-38-31"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyo/81541980488/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 55,
+   "загружено_дат": 65
+  },
+  {
+   "id": "168747644414",
+   "название": "Ledovый",
+   "seoname": "ledovy",
+   "адрес": "ул. Ленина, 148, корп. 1",
+   "координаты": [
+    55.959044,
+    54.74468
+   ],
+   "рейтинг": 5,
+   "оценок": 624,
+   "отзывов": 269,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://ledoviy-ufa.ru/",
+    "https://taplink.cc/ledoviy"
+   ],
+   "телефоны": [
+    "+7 (967) 451-74-55"
+   ],
+   "часы": "пн-сб 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "автосервис, автотехцентр",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "additional_equipment_installation",
+    "anti_gravity_film",
+    "bike_parking",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "commercial_vehicles_repair",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ledovy/168747644414/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 85
+  },
+  {
+   "id": "141528439681",
+   "название": "25 Часов",
+   "seoname": "25_chasov",
+   "адрес": "бул. Хадии Давлетшиной, 7",
+   "координаты": [
+    55.990065,
+    54.737182
+   ],
+   "рейтинг": 4.3,
+   "оценок": 468,
+   "отзывов": 208,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.bashavtotorg.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 420-53-28",
+    "+7 (917) 805-00-25"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "street_entrance",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/25_chasov/141528439681/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 51
+  },
+  {
+   "id": "1117458417",
+   "название": "Мастер кузова",
+   "seoname": "master_kuzova",
+   "адрес": "Аэропортовская ул., 5, село Чесноковка",
+   "координаты": [
+    55.933062,
+    54.641685
+   ],
+   "рейтинг": 5,
+   "оценок": 438,
+   "отзывов": 199,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://master-kuzova.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 299-96-86",
+    "+7 (917) 462-00-07",
+    "+7 (927) 333-96-86",
+    "+7 (917) 381-57-61"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_noise_insulation",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "glass_tinting",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "truck_tire_service",
+    "wheel_alignment",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master_kuzova/1117458417/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 76
+  },
+  {
+   "id": "32250378354",
+   "название": "Агрегатка",
+   "seoname": "agregatka",
+   "адрес": "Трамвайная ул., 2/22, Уфа",
+   "координаты": [
+    56.081302,
+    54.796553
+   ],
+   "рейтинг": 4.9,
+   "оценок": 371,
+   "отзывов": 196,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://akpp102.agregatka.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 311-11-77"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт АКПП",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "good_place"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/agregatka/32250378354/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 83
+  },
+  {
+   "id": "74396876382",
+   "название": "Rwt motors",
+   "seoname": "rwt_motors",
+   "адрес": "Республика Башкортостан, Уфа, Кировский район, жилой район Цветы Башкирии",
+   "координаты": [
+    55.92767,
+    54.677283
+   ],
+   "рейтинг": 5,
+   "оценок": 274,
+   "отзывов": 184,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://rwtmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 200-07-86"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "смазочные материалы"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "disable_photopoi",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rwt_motors/74396876382/",
+   "последний_отзыв": "2026-11-01",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 61
+  },
+  {
+   "id": "61022524403",
+   "название": "Nемец Expert",
+   "seoname": "nemets_expert",
+   "адрес": "Полевая ул., 44, корп. 1, село Зубово",
+   "координаты": [
+    55.922538,
+    54.62988
+   ],
+   "рейтинг": 4.9,
+   "оценок": 472,
+   "отзывов": 184,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nemec-expert.ru/"
+   ],
+   "телефоны": [
+    "+7 (963) 136-82-22"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nemets_expert/61022524403/",
+   "последний_отзыв": "2026-09-07",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 89
+  },
+  {
+   "id": "118667434462",
+   "название": "Set 100",
+   "seoname": "set_100",
+   "адрес": "Бакалинская ул., 15",
+   "координаты": [
+    55.994905,
+    54.714805
+   ],
+   "рейтинг": 5,
+   "оценок": 254,
+   "отзывов": 168,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://set-sto.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (980) 964-83-98"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/set_100/118667434462/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 68
+  },
+  {
+   "id": "227345017322",
+   "название": "БМВ-Центр",
+   "seoname": "bmv_tsentr",
+   "адрес": "ул. Клавдии Абрамовой, 5, Уфа",
+   "координаты": [
+    56.025186,
+    54.751217
+   ],
+   "рейтинг": 5,
+   "оценок": 286,
+   "отзывов": 163,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bmwcentre.ru/"
+   ],
+   "телефоны": [
+    "+7 (960) 396-33-46",
+    "+7 (347) 299-26-99",
+    "+7 (960) 396-33-46"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "coffee_to_go",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bmv_tsentr/227345017322/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 59
+  },
+  {
+   "id": "34994674681",
+   "название": "Феникс авто",
+   "seoname": "feniks_avto",
+   "адрес": "ул. Менделеева, 137, корп. 1",
+   "координаты": [
+    55.992585,
+    54.713858
+   ],
+   "рейтинг": 4.5,
+   "оценок": 244,
+   "отзывов": 150,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (964) 950-57-75"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "disable_captions",
+    "engine_endoscopy",
+    "field_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/feniks_avto/34994674681/"
+  },
+  {
+   "id": "186187102645",
+   "название": "ММС-сервис",
+   "seoname": "mms_servis",
+   "адрес": "ул. Кирова, 128/1",
+   "координаты": [
+    55.981266,
+    54.724422
+   ],
+   "рейтинг": 5,
+   "оценок": 279,
+   "отзывов": 126,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://ммс-сервис.рф/"
+   ],
+   "телефоны": [
+    "+7 (347) 266-77-55",
+    "+7 (927) 236-77-55"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mms_servis/186187102645/"
+  },
+  {
+   "id": "100439771453",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Свободы, 55, Уфа",
+   "координаты": [
+    56.112986,
+    54.826201
+   ],
+   "рейтинг": 5,
+   "оценок": 94,
+   "отзывов": 81,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jmm-service.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 473-50-20"
+   ],
+   "часы": "пн-пт 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/100439771453/"
+  },
+  {
+   "id": "1066444044",
+   "название": "Мастер Мотор",
+   "seoname": "master_motor",
+   "адрес": "бул. Ибрагимова, 88",
+   "координаты": [
+    55.969955,
+    54.739051
+   ],
+   "рейтинг": 4.7,
+   "оценок": 145,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.mmotor.ru/",
+    "http://www.master-motor.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 290-86-01"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master_motor/1066444044/"
+  },
+  {
+   "id": "230386276991",
+   "название": "СтоДва",
+   "seoname": "stodva",
+   "адрес": "ул. Менделеева, 134/4А",
+   "координаты": [
+    56.007535,
+    54.713479
+   ],
+   "рейтинг": 5,
+   "оценок": 88,
+   "отзывов": 56,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://sto2servis.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 757-61-02"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stodva/230386276991/"
+  },
+  {
+   "id": "244977938282",
+   "название": "Tenet АвтоПремьер",
+   "seoname": "tenet_avtopremyer",
+   "адрес": "Трамвайная ул., 1/4, Уфа",
+   "координаты": [
+    56.055314,
+    54.797757
+   ],
+   "рейтинг": 5,
+   "оценок": 51,
+   "отзывов": 49,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tenet-ufa.ru/",
+    "https://tenet-avtopremier.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 211-74-51"
+   ],
+   "часы": "пн-сб 09:00–21:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tenet_avtopremyer/244977938282/"
+  },
+  {
+   "id": "57028116098",
+   "название": "Абсолют",
+   "seoname": "absolyut",
+   "адрес": "ул. Менделеева, 177Б",
+   "координаты": [
+    56.007774,
+    54.720683
+   ],
+   "рейтинг": 4.7,
+   "оценок": 96,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (967) 740-60-00",
+    "+7 (917) 790-60-00"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/absolyut/57028116098/"
+  },
+  {
+   "id": "7728745901",
+   "название": "Автоцентрмира",
+   "seoname": "avtotsentrmira",
+   "адрес": "ул. Мира, 14А",
+   "координаты": [
+    56.067412,
+    54.813629
+   ],
+   "рейтинг": 4.9,
+   "оценок": 74,
+   "отзывов": 40,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autocentrmira.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 286-01-60",
+    "+7 (917) 386-11-11"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentrmira/7728745901/"
+  },
+  {
+   "id": "1261935786",
+   "название": "Гарант",
+   "seoname": "garant",
+   "адрес": "Амурская ул., 60А",
+   "координаты": [
+    55.972525,
+    54.726505
+   ],
+   "рейтинг": 4.3,
+   "оценок": 68,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 386-51-11",
+    "+7 (987) 135-66-89"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garant/1261935786/"
+  },
+  {
+   "id": "167447327050",
+   "название": "Автоазбука",
+   "seoname": "avtoazbuka",
+   "адрес": "ул. Цюрупы, 138",
+   "координаты": [
+    55.961711,
+    54.742112
+   ],
+   "рейтинг": 4.2,
+   "оценок": 60,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 493-14-55",
+    "+7 (987) 254-31-31"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoazbuka/167447327050/"
+  },
+  {
+   "id": "178757348091",
+   "название": "Грузовой АльфаСервис",
+   "seoname": "gruzovoy_alfaservis",
+   "адрес": "Чебоксарская ул., 74",
+   "координаты": [
+    55.800081,
+    54.683398
+   ],
+   "рейтинг": 4,
+   "оценок": 66,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://osremont.ru/"
+   ],
+   "телефоны": [
+    "+7 (989) 304-27-90",
+    "+7 (927) 324-43-02"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр",
+    "запчасти для грузовых автомобилей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "coffee_to_go",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzovoy_alfaservis/178757348091/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "93270149751",
+   "название": "GTS Service",
+   "seoname": "gts_service",
+   "адрес": "Центральная ул., 43",
+   "координаты": [
+    55.809607,
+    54.680983
+   ],
+   "рейтинг": 4.8,
+   "оценок": 17,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://gt-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 210-75-40"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр",
+    "эвакуация автомобилей"
+   ],
+   "признаки": [
+    "freight_car_service"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gts_service/93270149751/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "51188555811",
+   "название": "Кармастер_Дема",
+   "seoname": "karmaster_dema",
+   "адрес": "Чебоксарская ул., 21/1к6",
+   "координаты": [
+    55.806417,
+    54.683788
+   ],
+   "рейтинг": 4.7,
+   "оценок": 36,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 957-77-72",
+    "+7 (962) 534-51-95"
+   ],
+   "часы": "вт-сб 09:00–19:00, перерыв 13:00–13:50",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "electric car charging station",
+    "engine_endoscopy",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/karmaster_dema/51188555811/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "1033166956",
+   "название": "СервисТехЦентр",
+   "seoname": "servistekhtsentr",
+   "адрес": "ул. Хамматова, 11",
+   "координаты": [
+    55.829223,
+    54.715325
+   ],
+   "рейтинг": 4.1,
+   "оценок": 357,
+   "отзывов": 137,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://stc02.ru/"
+   ],
+   "телефоны": [
+    "+7 (963) 906-52-60",
+    "+7 (987) 038-26-75",
+    "+7 (937) 363-36-78"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "generators",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/servistekhtsentr/1033166956/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "69836819547",
+   "название": "ДёМастер",
+   "seoname": "dyomaster",
+   "адрес": "Республика Башкортостан, Уфа, жилой район Дёма",
+   "координаты": [
+    55.847432,
+    54.701938
+   ],
+   "рейтинг": 4.1,
+   "оценок": 58,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://demaster-sto.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 833-44-44"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "certified_service",
+    "chip_tuning",
+    "chrome_plating",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "glass_polishing",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leather_repair",
+    "ozonation",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "ramp",
+    "removing_dents_without_painting",
+    "repair_dsg",
+    "sandblasting",
+    "scratch_repair",
+    "self_service",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "termobudki",
+    "thickness_gauge_checking",
+    "tire_blacking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dyomaster/69836819547/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "221539429221",
+   "название": "Мир Масел",
+   "seoname": "mir_masel",
+   "адрес": "Центральная ул., 21А",
+   "координаты": [
+    55.82675,
+    54.694761
+   ],
+   "рейтинг": 5,
+   "оценок": 187,
+   "отзывов": 128,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mirmasel02.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 226-87-40"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_masel/221539429221/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "49609897790",
+   "название": "Маяк-Авто",
+   "seoname": "mayak_avto",
+   "адрес": "Центральная ул., 57",
+   "координаты": [
+    55.805316,
+    54.677803
+   ],
+   "рейтинг": 4.7,
+   "оценок": 368,
+   "отзывов": 136,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ufagbo.ru/",
+    "https://gboufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 451-74-11",
+    "+7 (908) 355-78-41",
+    "+7 (908) 355-78-44",
+    "+7 (347) 225-78-48",
+    "+7 (908) 355-78-46"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Установка ГБО",
+    "переоборудование транспортных средств"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "field_service",
+    "freight_car_service",
+    "gce_repair",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mayak_avto/49609897790/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "1125118084",
+   "название": "Колесо.ру",
+   "seoname": "koleso_ru",
+   "адрес": "Республика Башкортостан, Уфа, улица Демьяна Бедного",
+   "координаты": [
+    55.849067,
+    54.696198
+   ],
+   "рейтинг": 4.7,
+   "оценок": 407,
+   "отзывов": 155,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ufa.koleso.ru/shops/demyana-bednogo-ul-d-16-1/"
+   ],
+   "телефоны": [
+    "8 (800) 100-68-78",
+    "+7 (347) 246-60-30"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "шиномонтаж",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "buying_tires_wheels",
+    "car_servicing",
+    "delivery",
+    "discs",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_chains",
+    "tire_fitting",
+    "tires",
+    "truck_tire_service",
+    "wheel_alignment",
+    "wheel_balancing"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koleso_ru/1125118084/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "186967448255",
+   "название": "5поСТОв",
+   "seoname": "5postov",
+   "адрес": "Центральная ул., 33/1А",
+   "координаты": [
+    55.817339,
+    54.688883
+   ],
+   "рейтинг": 4.1,
+   "оценок": 257,
+   "отзывов": 110,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://5postov.2gis.biz/"
+   ],
+   "телефоны": [
+    "+7 (965) 657-97-59"
+   ],
+   "часы": "пн-пт 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/5postov/186967448255/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "172936815623",
+   "название": "Авторитэйл, ГАЗ",
+   "seoname": "avtoriteyl_gaz",
+   "адрес": "Кандринская ул., 2",
+   "координаты": [
+    55.796531,
+    54.691361
+   ],
+   "рейтинг": 4.6,
+   "оценок": 306,
+   "отзывов": 121,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://02.autoretail.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 301-10-91"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_of_refrigerated_trucks",
+    "self_car_service",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoriteyl_gaz/172936815623/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "1180730256",
+   "название": "Альянс Техцентр",
+   "seoname": "alyans_tekhtsentr",
+   "адрес": "Чебоксарская ул., 17/2",
+   "координаты": [
+    55.806881,
+    54.684028
+   ],
+   "рейтинг": 4.3,
+   "оценок": 595,
+   "отзывов": 209,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://aljans-transtehtsentr.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 741-42-01"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "пункт техосмотра",
+    "автомойка"
+   ],
+   "признаки": [
+    "adjusting_headlights",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_blacking",
+    "tire_fitting",
+    "vibrationstand",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alyans_tekhtsentr/1180730256/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "176319125720",
+   "название": "Автокомплекс Баланово",
+   "seoname": "avtokompleks_balanovo",
+   "адрес": "ул. Баланово, 1",
+   "координаты": [
+    55.807198,
+    54.702686
+   ],
+   "рейтинг": 4.2,
+   "оценок": 269,
+   "отзывов": 103,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (961) 361-70-03"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "автомойка"
+   ],
+   "признаки": [
+    "car_valeting",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokompleks_balanovo/176319125720/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "70877773885",
+   "название": "Дим",
+   "seoname": "dim",
+   "адрес": "Кандринская ул., 2, корп. 1",
+   "координаты": [
+    55.79792,
+    54.69118
+   ],
+   "рейтинг": 4.6,
+   "оценок": 262,
+   "отзывов": 123,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 600-28-58"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dim/70877773885/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "60833215077",
+   "название": "АвтоТехКомплекс",
+   "seoname": "avtotekhkompleks",
+   "адрес": "Центральная ул., 13, корп. 1",
+   "координаты": [
+    55.836871,
+    54.698404
+   ],
+   "рейтинг": 4.5,
+   "оценок": 39,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avto-teh-tsentralnaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 742-72-74",
+    "+7 (987) 043-22-77"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "покраска автомобилей"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "diesel_service",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotekhkompleks/60833215077/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "98628584410",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Центральная ул., 1",
+   "координаты": [
+    55.845264,
+    54.702449
+   ],
+   "рейтинг": 3.8,
+   "оценок": 42,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/98628584410/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "1020098409",
+   "название": "Ойл-Маркет",
+   "seoname": "oyl_market",
+   "адрес": "Центральная ул., 19, корп. 1",
+   "координаты": [
+    55.830452,
+    54.696373
+   ],
+   "рейтинг": 4.6,
+   "оценок": 413,
+   "отзывов": 162,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://oil-market.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 293-00-33"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oyl_market/1020098409/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "1313269087",
+   "название": "Трансмаркет",
+   "seoname": "transmarket",
+   "адрес": "Крайняя ул., 4",
+   "координаты": [
+    55.796511,
+    54.683315
+   ],
+   "рейтинг": 5,
+   "оценок": 147,
+   "отзывов": 121,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tm-autoservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 361-04-28"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "diesel_service",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/transmarket/1313269087/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "1542566111",
+   "название": "Дёмский кордон",
+   "seoname": "dyomskiy_kordon",
+   "адрес": "Васильковая ул., 5",
+   "координаты": [
+    55.899679,
+    54.698332
+   ],
+   "рейтинг": 4.3,
+   "оценок": 119,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 415-12-12"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "цемент",
+    "приём и скупка вторсырья"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dyomskiy_kordon/1542566111/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "161085330677",
+   "название": "Автодвор-рб.рф",
+   "seoname": "avtodvor_rb_rf",
+   "адрес": "Чебоксарская ул., 12",
+   "координаты": [
+    55.808635,
+    54.687521
+   ],
+   "рейтинг": 4,
+   "оценок": 42,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 801-13-45",
+    "+7 (962) 522-00-01"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "body_repair",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodvor_rb_rf/161085330677/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "1805984773",
+   "название": "Баштурбоком",
+   "seoname": "bashturbokom",
+   "адрес": "Майкопская ул., 5",
+   "координаты": [
+    55.797819,
+    54.685957
+   ],
+   "рейтинг": 4.3,
+   "оценок": 53,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://баштурбоком.рф/"
+   ],
+   "телефоны": [
+    "+7 (347) 271-53-67",
+    "+7 (917) 759-28-80",
+    "+7 (917) 349-71-83"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "payment_by_credit_card",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bashturbokom/1805984773/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "9195222933",
+   "название": "Parts Garage",
+   "seoname": "parts_garage",
+   "адрес": "Майкопская ул., 18, корп. 2",
+   "координаты": [
+    55.80954,
+    54.692907
+   ],
+   "рейтинг": 4.7,
+   "оценок": 76,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 301-36-85",
+    "+7 (987) 242-23-95"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/parts_garage/9195222933/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "38555060976",
+   "название": "Chip Flash",
+   "seoname": "chip_flash",
+   "адрес": "Чебоксарская ул., 12",
+   "координаты": [
+    55.808871,
+    54.687752
+   ],
+   "рейтинг": 4.5,
+   "оценок": 17,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (999) 131-91-07",
+    "+7 (996) 100-20-30"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chip_flash/38555060976/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "27838708067",
+   "название": "Автоэлектрик",
+   "seoname": "avtoelektrik",
+   "адрес": "Центральная ул., 57",
+   "координаты": [
+    55.805366,
+    54.677819
+   ],
+   "рейтинг": 4.4,
+   "оценок": 59,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.autoelectric-ufa.ru/",
+    "https://vk.link/generatorstarterufa"
+   ],
+   "телефоны": [
+    "+7 (917) 388-32-20",
+    "+7 (347) 216-08-68",
+    "+7 (917) 403-17-07",
+    "+7 (347) 216-02-00",
+    "+7 (347) 272-31-07",
+    "+7 (917) 747-64-05"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "delivery",
+    "generators",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "repairs",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoelektrik/27838708067/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "111632159853",
+   "название": "10 Атмосфер",
+   "seoname": "10_atmosfer",
+   "адрес": "Центральная ул., 1Б",
+   "координаты": [
+    55.84596,
+    54.70264
+   ],
+   "рейтинг": 4.6,
+   "оценок": 82,
+   "отзывов": 32,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (999) 133-41-16"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/10_atmosfer/111632159853/",
+   "найдено_по": "автосервис Дёмский район"
+  },
+  {
+   "id": "108833597448",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Комаринская ул., 44",
+   "координаты": [
+    56.110375,
+    54.679725
+   ],
+   "рейтинг": 4.3,
+   "оценок": 32,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://grandcto-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (977) 095-48-52",
+    "+7 (906) 108-48-69"
+   ],
+   "часы": "вт-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/108833597448/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "220807740595",
+   "название": "АвтоДеталь",
+   "seoname": "avtodetal",
+   "адрес": "ул. Уфимское Шоссе, 17А, Уфа",
+   "координаты": [
+    56.053377,
+    54.786169
+   ],
+   "рейтинг": 4.5,
+   "оценок": 330,
+   "отзывов": 139,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autodetal-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 226-36-91",
+    "+7 (347) 226-39-36",
+    "+7 (347) 226-15-69"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт турбин",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodetal/220807740595/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "76245506170",
+   "название": "Chery АвтоПремьер",
+   "seoname": "chery_avtopremyer",
+   "адрес": "Трамвайная ул., 1/4",
+   "координаты": [
+    56.05572,
+    54.797687
+   ],
+   "рейтинг": 5,
+   "оценок": 234,
+   "отзывов": 139,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ufa-chery.ru/",
+    "https://chery-avtopremier.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 201-73-85",
+    "+7 (347) 201-93-87"
+   ],
+   "часы": "пн-сб 09:00–21:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chery_avtopremyer/76245506170/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "1034748954",
+   "название": "МС моторс Skoda",
+   "seoname": "ms_motors_skoda",
+   "адрес": "Трамвайная ул., 1/5",
+   "координаты": [
+    56.055615,
+    54.798673
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1251,
+   "отзывов": 423,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.msmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 226-02-22"
+   ],
+   "часы": "пн-сб 09:00–21:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ms_motors_skoda/1034748954/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "79274150992",
+   "название": "Мир масел",
+   "seoname": "mir_masel",
+   "адрес": "Интернациональная ул., 5А/3",
+   "координаты": [
+    56.060026,
+    54.810499
+   ],
+   "рейтинг": 5,
+   "оценок": 163,
+   "отзывов": 120,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mirmasel02.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 226-87-40"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_masel/79274150992/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "90688730562",
+   "название": "Рем-Ю",
+   "seoname": "rem_yu",
+   "адрес": "Интернациональная ул., 161/1",
+   "координаты": [
+    56.12198,
+    54.80011
+   ],
+   "рейтинг": 5,
+   "оценок": 110,
+   "отзывов": 90,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://service.rem-u.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 938-36-88"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "delivery",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "self_service_car_wash",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rem_yu/90688730562/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "189378743911",
+   "название": "Мир Масел",
+   "seoname": "mir_masel",
+   "адрес": "Сельская Богородская ул., 6АК3",
+   "координаты": [
+    56.138802,
+    54.789009
+   ],
+   "рейтинг": 5,
+   "оценок": 147,
+   "отзывов": 112,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mirmasel02.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 226-87-40"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_masel/189378743911/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "1195538376",
+   "название": "Автоцентр Плюс",
+   "seoname": "avtotsentr_plyus",
+   "адрес": "Цветочная ул., 38А",
+   "координаты": [
+    56.075461,
+    54.804781
+   ],
+   "рейтинг": 4.7,
+   "оценок": 843,
+   "отзывов": 440,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoplus-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 246-04-07",
+    "+7 (927) 236-31-06"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_plyus/1195538376/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "19644371079",
+   "название": "Леоника",
+   "seoname": "leonika",
+   "адрес": "бул. Тухвата Янаби, 34",
+   "координаты": [
+    56.12291,
+    54.784784
+   ],
+   "рейтинг": 4.2,
+   "оценок": 81,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 777-71-98"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/leonika/19644371079/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "1026701838",
+   "название": "Шарм",
+   "seoname": "sharm",
+   "адрес": "ул. Советов, 13",
+   "координаты": [
+    56.22594,
+    54.784176
+   ],
+   "рейтинг": 3.8,
+   "оценок": 359,
+   "отзывов": 154,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (901) 812-89-20",
+    "+7 (901) 816-91-40"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sharm/1026701838/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "1159209261",
+   "название": "Авто+",
+   "seoname": "avto_",
+   "адрес": "Интернациональная ул., 26Б",
+   "координаты": [
+    56.09667,
+    54.807344
+   ],
+   "рейтинг": 4.4,
+   "оценок": 204,
+   "отзывов": 94,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoplus02.2gis.biz/"
+   ],
+   "телефоны": [
+    "+7 (927) 085-86-63",
+    "+7 (917) 739-79-19"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "good_place",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_/1159209261/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "1203135659",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Сельская Богородская ул., 27/1",
+   "координаты": [
+    56.140542,
+    54.789978
+   ],
+   "рейтинг": 3.7,
+   "оценок": 52,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 431-82-70",
+    "+7 (347) 285-03-67"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_wash",
+    "street_entrance",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/1203135659/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "28936213694",
+   "название": "Амавто",
+   "seoname": "amavto",
+   "адрес": "ул. имени Фронтовых Бригад, 10, корп. 11",
+   "координаты": [
+    56.125267,
+    54.773035
+   ],
+   "рейтинг": 4.9,
+   "оценок": 101,
+   "отзывов": 50,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 363-25-80",
+    "+7 (987) 602-28-25"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "freight_car_service",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/amavto/28936213694/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "1721096245",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Байкальская ул., 75А",
+   "координаты": [
+    56.14319,
+    54.794545
+   ],
+   "рейтинг": 4.9,
+   "оценок": 68,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 753-59-03",
+    "+7 (927) 957-52-44"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/1721096245/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "106998959685",
+   "название": "Абсолют авто",
+   "seoname": "absolyut_avto",
+   "адрес": "ул. Орджоникидзе, 15В",
+   "координаты": [
+    56.127599,
+    54.806214
+   ],
+   "рейтинг": 4.1,
+   "оценок": 47,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 927-85-15",
+    "+7 (987) 600-42-80"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "body_repair",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/absolyut_avto/106998959685/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "107975237455",
+   "название": "Брендсервис",
+   "seoname": "brendservis",
+   "адрес": "бул. Тухвата Янаби, 36Б",
+   "координаты": [
+    56.123237,
+    54.785014
+   ],
+   "рейтинг": 2.1,
+   "оценок": 38,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 794-35-94",
+    "+7 (917) 417-28-95"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "аварийный комиссар"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/brendservis/107975237455/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "51703348637",
+   "название": "Автомоё",
+   "seoname": "avtomoyo",
+   "адрес": "Индустриальное ш., 3/1",
+   "координаты": [
+    56.079503,
+    54.807991
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1493,
+   "отзывов": 774,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtomoe-sto102.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 788-02-31",
+    "+7 (347) 224-22-49"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "engine_endoscopy",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomoyo/51703348637/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "42221409106",
+   "название": "Центр ремонта автоэлектрики",
+   "seoname": "tsentr_remonta_avtoelektriki",
+   "адрес": "Республика Башкортостан, Уфа, улица Набережная Моторостроителей",
+   "координаты": [
+    56.111694,
+    54.774216
+   ],
+   "рейтинг": 3.9,
+   "оценок": 25,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 755-81-79"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_wash",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_remonta_avtoelektriki/42221409106/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "221740096752",
+   "название": "Garillaz",
+   "seoname": "garillaz",
+   "адрес": "ул. Адмирала Ушакова, 21/4",
+   "координаты": [
+    56.146089,
+    54.804239
+   ],
+   "рейтинг": 4.9,
+   "оценок": 82,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (905) 003-07-08",
+    "+7 (987) 130-60-60",
+    "+7 (987) 476-50-00"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "field_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garillaz/221740096752/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "29516805012",
+   "название": "Автоэлектрика",
+   "seoname": "avtoelektrika",
+   "адрес": "ул. имени Фронтовых Бригад, 10, корп. 5",
+   "координаты": [
+    56.126711,
+    54.77334
+   ],
+   "рейтинг": 4.3,
+   "оценок": 16,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 433-33-39",
+    "+7 (919) 145-19-77"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoelektrika/29516805012/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "27760218826",
+   "название": "Bmw102",
+   "seoname": "bmw102",
+   "адрес": "Цветочная ул., 3/1",
+   "координаты": [
+    56.058621,
+    54.807808
+   ],
+   "рейтинг": 4.7,
+   "оценок": 221,
+   "отзывов": 85,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (965) 925-66-66",
+    "+7 (965) 925-66-69",
+    "+7 (965) 925-66-68"
+   ],
+   "часы": "пн-пт 09:30–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_valeting",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bmw102/27760218826/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "242340131552",
+   "название": "ГК АвтоВаг",
+   "seoname": "gk_avtovag",
+   "адрес": "Индустриальное ш., 26/4Б",
+   "координаты": [
+    56.086043,
+    54.805726
+   ],
+   "рейтинг": 4.9,
+   "оценок": 174,
+   "отзывов": 77,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://70000001034190320.2gis.biz/"
+   ],
+   "телефоны": [
+    "+7 (917) 761-02-21"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "call_button",
+    "car_park",
+    "chip_tuning",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gk_avtovag/242340131552/",
+   "найдено_по": "автосервис Калининский район"
+  },
+  {
+   "id": "168303783238",
+   "название": "ПроСТО Сервис",
+   "seoname": "prosto_servis",
+   "адрес": "просп. Салавата Юлаева, 32, Уфа",
+   "координаты": [
+    55.991165,
+    54.725192
+   ],
+   "рейтинг": 4.3,
+   "оценок": 55,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pro-sto-service.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (969) 814-77-80"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "doubloons_loyalty_card",
+    "engine_endoscopy",
+    "gas_stops",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prosto_servis/168303783238/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "101657653583",
+   "название": "Глушитель Профи",
+   "seoname": "glushitel_profi",
+   "адрес": "ул. Кирова, 128/1к1",
+   "координаты": [
+    55.979798,
+    54.724103
+   ],
+   "рейтинг": 5,
+   "оценок": 86,
+   "отзывов": 76,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://102.glushitelprofi.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 451-73-65"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "installation_of_exhaust_systems",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/glushitel_profi/101657653583/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "152185851225",
+   "название": "АвтоДеталь",
+   "seoname": "avtodetal",
+   "адрес": "ул. Кузнецовский Затон, 22/1, Уфа",
+   "координаты": [
+    55.986971,
+    54.683905
+   ],
+   "рейтинг": 4.5,
+   "оценок": 114,
+   "отзывов": 52,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autodetal-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 226-85-18",
+    "+7 (347) 226-39-36",
+    "+7 (347) 226-15-69"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodetal/152185851225/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "94769417501",
+   "название": "Grosta",
+   "seoname": "grosta",
+   "адрес": "Бакалинская ул., 15",
+   "координаты": [
+    55.994932,
+    54.71486
+   ],
+   "рейтинг": 4.4,
+   "оценок": 85,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://grosta.ru/",
+    "https://ufa.grosta.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 250-00-10",
+    "+7 (987) 254-94-10"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "car_servicing",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/grosta/94769417501/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "9282230396",
+   "название": "Фикс авто",
+   "seoname": "fiks_avto",
+   "адрес": "ул. Кирова, 65/1к1",
+   "координаты": [
+    55.969754,
+    54.729123
+   ],
+   "рейтинг": 5,
+   "оценок": 63,
+   "отзывов": 53,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 340-22-25"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 10:00–19:00; вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_car_service",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fiks_avto/9282230396/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "172665012891",
+   "название": "Римэкс",
+   "seoname": "rimeks",
+   "адрес": "ул. Пугачёва, 15/1",
+   "координаты": [
+    55.982516,
+    54.6905
+   ],
+   "рейтинг": 4.5,
+   "оценок": 199,
+   "отзывов": 98,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ufa.rimeks.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 229-44-31",
+    "8 (800) 300-05-00"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_servicing",
+    "car_wash",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rimeks/172665012891/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "41210132358",
+   "название": "Акбузат",
+   "seoname": "akbuzat",
+   "адрес": "ул. Менделеева, 162А, Уфа",
+   "координаты": [
+    56.032657,
+    54.749622
+   ],
+   "рейтинг": 5,
+   "оценок": 116,
+   "отзывов": 96,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (967) 451-74-15"
+   ],
+   "часы": "ежедневно, 10:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akbuzat/41210132358/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "231198704957",
+   "название": "Такуми",
+   "seoname": "takumi",
+   "адрес": "ул. Зайнаб Биишевой, 19",
+   "координаты": [
+    55.980516,
+    54.695456
+   ],
+   "рейтинг": 5,
+   "оценок": 283,
+   "отзывов": 169,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://takumi-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 764-04-40",
+    "+7 (347) 257-44-40"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Аккумуляторы, ИБП и зарядные устройства",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/takumi/231198704957/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "1032425488",
+   "название": "Авто УЗИ",
+   "seoname": "avto_uzi",
+   "адрес": "ул. Софьи Перовской, 13/2А",
+   "координаты": [
+    55.987826,
+    54.70089
+   ],
+   "рейтинг": 4.7,
+   "оценок": 590,
+   "отзывов": 307,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtouzi.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 494-48-30"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб,вс 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосвет",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "additional_equipment_installation",
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "installation",
+    "parking_disabled",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_uzi/1032425488/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "39951375828",
+   "название": "Найс Гараж",
+   "seoname": "nays_garazh",
+   "адрес": "Кавказская ул., 8, корп. 3",
+   "координаты": [
+    55.975526,
+    54.705364
+   ],
+   "рейтинг": 5,
+   "оценок": 326,
+   "отзывов": 201,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nicegarage-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 111-66-11"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nays_garazh/39951375828/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "1011100079",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Азналинская ул., 1А",
+   "координаты": [
+    55.919822,
+    54.650152
+   ],
+   "рейтинг": 4.7,
+   "оценок": 124,
+   "отзывов": 57,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (901) 810-74-83"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "сварочные работы"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "mobile_tire_service",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/1011100079/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "1558661089",
+   "название": "У Марата",
+   "seoname": "u_marata",
+   "адрес": "ул. Кирова, 101/1А",
+   "координаты": [
+    55.982607,
+    54.727326
+   ],
+   "рейтинг": 4.3,
+   "оценок": 96,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 485-03-03"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "автостёкла"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "field_service",
+    "glass_polishing",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installation",
+    "installing_the_towbar",
+    "keep_tires",
+    "mobile_tire_service",
+    "motorcycle_tire_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/u_marata/1558661089/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "1025858293",
+   "название": "Дали",
+   "seoname": "dali",
+   "адрес": "ул. Кирова, 128А, корп. 1",
+   "координаты": [
+    55.982045,
+    54.723431
+   ],
+   "рейтинг": 4.3,
+   "оценок": 133,
+   "отзывов": 58,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://dali102.2gis.biz/"
+   ],
+   "телефоны": [
+    "+7 (927) 310-50-91",
+    "+7 (917) 349-38-92"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dali/1025858293/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "1031992212",
+   "название": "Ракета",
+   "seoname": "raketa",
+   "адрес": "ул. Энгельса, 35А",
+   "координаты": [
+    55.963597,
+    54.722359
+   ],
+   "рейтинг": 4.4,
+   "оценок": 205,
+   "отзывов": 86,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (347) 266-55-40"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "body_repair",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/raketa/1031992212/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "166418054436",
+   "название": "ТТ-сервис",
+   "seoname": "tt_servis",
+   "адрес": "Кавказская ул., 19А, Уфа",
+   "координаты": [
+    55.976362,
+    54.707861
+   ],
+   "рейтинг": 5,
+   "оценок": 86,
+   "отзывов": 50,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 140-11-22"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "delivery",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tt_servis/166418054436/",
+   "найдено_по": "автосервис Кировский район"
+  },
+  {
+   "id": "115350997133",
+   "название": "100avto",
+   "seoname": "100avto",
+   "адрес": "ул. 50-летия Октября, 13",
+   "координаты": [
+    55.966552,
+    54.738343
+   ],
+   "рейтинг": 4.7,
+   "оценок": 60,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 612-58-27"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/100avto/115350997133/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "75583984103",
+   "название": "Японец",
+   "seoname": "yaponets",
+   "адрес": "Корабельная ул., 9, Уфа",
+   "координаты": [
+    55.97813,
+    54.680285
+   ],
+   "рейтинг": 4.8,
+   "оценок": 253,
+   "отзывов": 127,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://japonecufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 210-77-61"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yaponets/75583984103/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "81623562025",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Алексеевское ш., 1",
+   "координаты": [
+    55.94953,
+    54.784733
+   ],
+   "рейтинг": 4.4,
+   "оценок": 55,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 947-04-26"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/81623562025/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "54695912683",
+   "название": "Элемент 102",
+   "seoname": "element_102",
+   "адрес": "ул. Кирова, 128/1Б, Уфа",
+   "координаты": [
+    55.980592,
+    54.723934
+   ],
+   "рейтинг": 5,
+   "оценок": 233,
+   "отзывов": 186,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://element102.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 442-21-02"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб 11:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "приём и скупка вторсырья",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "catalysts",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/element_102/54695912683/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "91133556186",
+   "название": "Pro-Service",
+   "seoname": "pro_service",
+   "адрес": "ул. Жуковского, 31В",
+   "координаты": [
+    55.890787,
+    54.779643
+   ],
+   "рейтинг": 4.8,
+   "оценок": 120,
+   "отзывов": 65,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 488-51-89",
+    "+7 (917) 410-61-56",
+    "+7 (937) 150-71-50"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pro_service/91133556186/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "64270909495",
+   "название": "Ярика",
+   "seoname": "yarika",
+   "адрес": "ул. Лётчиков, 5/6",
+   "координаты": [
+    55.864567,
+    54.792025
+   ],
+   "рейтинг": 4.8,
+   "оценок": 137,
+   "отзывов": 69,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 939-79-00"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yarika/64270909495/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "111405064591",
+   "название": "Автолига",
+   "seoname": "avtoliga",
+   "адрес": "Выгонная ул., 4",
+   "координаты": [
+    55.912711,
+    54.742186
+   ],
+   "рейтинг": 4.6,
+   "оценок": 34,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 616-11-36"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoliga/111405064591/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "215166407006",
+   "название": "У Айрата",
+   "seoname": "u_ayrata",
+   "адрес": "ул. Ахметова, 201/1",
+   "координаты": [
+    55.891752,
+    54.775414
+   ],
+   "рейтинг": 4.7,
+   "оценок": 182,
+   "отзывов": 107,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://zaton-avtoservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 317-45-13"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "kaspi_red",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/u_ayrata/215166407006/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "237211500321",
+   "название": "Пилот",
+   "seoname": "pilot",
+   "адрес": "ул. Лётчиков, 5/6",
+   "координаты": [
+    55.864374,
+    54.791882
+   ],
+   "рейтинг": 4.6,
+   "оценок": 157,
+   "отзывов": 68,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (962) 535-02-42",
+    "+7 (917) 411-10-00"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "tire_fitting",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pilot/237211500321/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "193849204270",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "просп. Дружбы Народов, 3А",
+   "координаты": [
+    55.945405,
+    54.764353
+   ],
+   "рейтинг": 4.3,
+   "оценок": 42,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (986) 705-39-38",
+    "+7 (986) 705-39-89"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/193849204270/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "1103126239",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Пушкина, 42/2",
+   "координаты": [
+    55.925117,
+    54.724953
+   ],
+   "рейтинг": 4.1,
+   "оценок": 42,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (347) 266-27-28",
+    "+7 (927) 236-27-28"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/1103126239/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "1051621830",
+   "название": "Мастер Дизель",
+   "seoname": "master_dizel",
+   "адрес": "ул. Ахметова, 270/3",
+   "координаты": [
+    55.890079,
+    54.779216
+   ],
+   "рейтинг": 4.9,
+   "оценок": 741,
+   "отзывов": 296,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://ufa-remont-turbin.ru/",
+    "http://dizel-ufa.ru/",
+    "http://vp44ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 759-92-91",
+    "+7 (937) 862-87-12"
+   ],
+   "часы": "пн-пт 09:00–18:30, перерыв 13:00–14:00; сб 09:00–16:30, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "спецтехника и спецавтомобили"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "refuse_and_street_sweeping_vehicles",
+    "repairs",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master_dizel/1051621830/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "86163349719",
+   "название": "Checkавто",
+   "seoname": "checkavto",
+   "адрес": "ул. Достоевского, 29А",
+   "координаты": [
+    55.934692,
+    54.73644
+   ],
+   "рейтинг": 4.6,
+   "оценок": 58,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtoservis-na-dostoevskogo.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (347) 266-85-82",
+    "+7 (927) 345-80-61",
+    "+7 (927) 082-05-05"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "автомойка"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "gift_certificate",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/checkavto/86163349719/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "165419805691",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Рижская ул., 3/1",
+   "координаты": [
+    55.897507,
+    54.741759
+   ],
+   "рейтинг": 4.2,
+   "оценок": 22,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (995) 946-33-27",
+    "+7 (927) 943-91-70",
+    "+7 (937) 165-18-00"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/165419805691/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "165840461990",
+   "название": "Механика",
+   "seoname": "mekhanika",
+   "адрес": "Тендерная ул., 16",
+   "координаты": [
+    55.93582,
+    54.739839
+   ],
+   "рейтинг": 4.8,
+   "оценок": 70,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://mechanika.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (969) 616-27-66"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "Установка ГБО"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "field_service",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mekhanika/165840461990/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "1648938134",
+   "название": "Мега-Сервис 4х4",
+   "seoname": "mega_servis_4kh4",
+   "адрес": "Кирзаводская ул., 1/3к1",
+   "координаты": [
+    55.90171,
+    54.738633
+   ],
+   "рейтинг": 4.6,
+   "оценок": 67,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 794-45-00",
+    "+7 (917) 744-44-77"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "chip_tuning",
+    "gift_certificate",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mega_servis_4kh4/1648938134/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "186021023052",
+   "название": "Кэм плюс",
+   "seoname": "kem_plyus",
+   "адрес": "Союзная ул., 33/1",
+   "координаты": [
+    55.874157,
+    54.787178
+   ],
+   "рейтинг": 4.1,
+   "оценок": 112,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kem-pljus.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 381-00-07",
+    "+7 (917) 369-91-10"
+   ],
+   "часы": "пн-сб 09:30–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "автомойка"
+   ],
+   "признаки": [
+    "basic_service",
+    "keep_tires",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "truck_tire_service",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kem_plyus/186021023052/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "1759878933",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Бориса Домашникова, 25/1",
+   "координаты": [
+    55.946555,
+    54.741147
+   ],
+   "рейтинг": 4.1,
+   "оценок": 42,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 940-06-28",
+    "+7 (965) 940-06-28",
+    "+7 (917) 752-65-95"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/1759878933/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "171172060895",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Деревенская Переправа, 48",
+   "координаты": [
+    55.909321,
+    54.748033
+   ],
+   "рейтинг": 4.6,
+   "оценок": 108,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 366-86-28",
+    "+7 (917) 404-43-83"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "автомойка"
+   ],
+   "признаки": [
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/171172060895/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "162719870296",
+   "название": "Автосервис, автотехцентр",
+   "seoname": "avtoservis_avtotekhtsentr",
+   "адрес": "ул. Нехаева, 82",
+   "координаты": [
+    55.915811,
+    54.731224
+   ],
+   "рейтинг": 4.3,
+   "оценок": 13,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 343-46-00",
+    "+7 (996) 402-31-33",
+    "+7 (917) 373-07-30"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_avtotekhtsentr/162719870296/",
+   "найдено_по": "автосервис Ленинский район"
+  },
+  {
+   "id": "70428887443",
+   "название": "Deluxe",
+   "seoname": "deluxe",
+   "адрес": "ул. 50 лет СССР, 42/3",
+   "координаты": [
+    56.02213,
+    54.747787
+   ],
+   "рейтинг": 5,
+   "оценок": 883,
+   "отзывов": 412,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://deluxeufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (995) 222-20-54"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Детейлинг",
+    "шиномонтаж",
+    "автомойка"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "aquablasting",
+    "bike_parking",
+    "cafe",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "leather_repair",
+    "mobile_tire_service",
+    "motorcycle_tire_repair",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "tire_blacking",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/deluxe/70428887443/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "96509279950",
+   "название": "Развал Сервис",
+   "seoname": "razval_servis",
+   "адрес": "ул. Кирова, 128/1к1, Уфа",
+   "координаты": [
+    55.979797,
+    54.724006
+   ],
+   "рейтинг": 5,
+   "оценок": 36,
+   "отзывов": 35,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://развалсервис.рф/"
+   ],
+   "телефоны": [
+    "+7 (927) 308-88-11"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/razval_servis/96509279950/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "1050629700",
+   "название": "Автоцентр Керг",
+   "seoname": "avtotsentr_kerg",
+   "адрес": "просп. Салавата Юлаева, 32, Уфа",
+   "координаты": [
+    55.990525,
+    54.725472
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1665,
+   "отзывов": 502,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.kerg-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 279-81-31",
+    "+7 (347) 293-99-77",
+    "+7 (347) 293-99-99"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосалон",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "certified_service",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "doubloons_loyalty_card",
+    "electric car charging station",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gas_stops",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_kerg/1050629700/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "45553714831",
+   "название": "Lamark",
+   "seoname": "lamark",
+   "адрес": "Комсомольская ул., 68",
+   "координаты": [
+    56.000957,
+    54.746727
+   ],
+   "рейтинг": 4.9,
+   "оценок": 108,
+   "отзывов": 74,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://anticorcenter-ufa.ru/",
+    "https://ufa.anticorcenter.ru/"
+   ],
+   "телефоны": [
+    "+7 (984) 500-49-22"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Нанесение покрытий",
+    "автосервис, автотехцентр",
+    "антикоррозийная обработка"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "car_park",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lamark/45553714831/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "62002192695",
+   "название": "Haval Pro Башавтоком",
+   "seoname": "haval_pro_bashavtokom",
+   "адрес": "Сельская Богородская ул., 65",
+   "координаты": [
+    56.08335,
+    54.791362
+   ],
+   "рейтинг": 5,
+   "оценок": 84,
+   "отзывов": 77,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://haval-pro-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 201-76-29",
+    "+7 (347) 200-06-48"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_floor_mats",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "certified_service",
+    "delivery",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "eva_mats",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "luggage_racks_roof_boxes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/haval_pro_bashavtokom/62002192695/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "240534335624",
+   "название": "JETOUR Башавтоком",
+   "seoname": "jetour_bashavtokom",
+   "адрес": "Сельская Богородская ул., 65",
+   "координаты": [
+    56.08335,
+    54.791362
+   ],
+   "рейтинг": 5,
+   "оценок": 60,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jetourufa.com/"
+   ],
+   "телефоны": [
+    "+7 (347) 201-02-98"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/jetour_bashavtokom/240534335624/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "1197934720",
+   "название": "Дамир",
+   "seoname": "damir",
+   "адрес": "Кулундинская ул., 27",
+   "координаты": [
+    56.052311,
+    54.776243
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1385,
+   "отзывов": 571,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://damirufa-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 298-66-88",
+    "+7 (963) 136-66-88"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/damir/1197934720/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "150791223449",
+   "название": "Салават починит",
+   "seoname": "salavat_pochinit",
+   "адрес": "ул. 50 лет СССР, 30, корп. 3",
+   "координаты": [
+    56.01203,
+    54.746327
+   ],
+   "рейтинг": 5,
+   "оценок": 290,
+   "отзывов": 113,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 604-05-00",
+    "+7 (937) 336-05-00"
+   ],
+   "часы": "пн-пт 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/salavat_pochinit/150791223449/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "190492748534",
+   "название": "Стойка",
+   "seoname": "stoyka",
+   "адрес": "ул. Лесотехникума, 92/3Б",
+   "координаты": [
+    56.025558,
+    54.752496
+   ],
+   "рейтинг": 5,
+   "оценок": 223,
+   "отзывов": 111,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://stoyka-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 402-00-07",
+    "+7 (917) 044-88-17"
+   ],
+   "часы": "пн-пт 10:00–21:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stoyka/190492748534/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "227850249369",
+   "название": "Car-Ufa",
+   "seoname": "car_ufa",
+   "адрес": "Новосибирская ул., 2, корп. 1",
+   "координаты": [
+    55.979277,
+    54.751943
+   ],
+   "рейтинг": 5,
+   "оценок": 234,
+   "отзывов": 110,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://car-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (963) 907-14-03",
+    "+7 (965) 655-84-05"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "diesel_service",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/car_ufa/227850249369/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "1096257742",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Комсомольская ул., 133А",
+   "координаты": [
+    56.012954,
+    54.759021
+   ],
+   "рейтинг": 4.3,
+   "оценок": 113,
+   "отзывов": 49,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 356-91-91",
+    "+7 (965) 668-08-38"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/1096257742/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "87191509890",
+   "название": "Ойл-Маркет",
+   "seoname": "oyl_market",
+   "адрес": "ул. Лесотехникума, 47",
+   "координаты": [
+    56.026966,
+    54.752857
+   ],
+   "рейтинг": 4.7,
+   "оценок": 408,
+   "отзывов": 177,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://oil-market.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 293-00-33"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oyl_market/87191509890/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "112137554227",
+   "название": "Ремонт ходовой части",
+   "seoname": "remont_khodovoy_chasti",
+   "адрес": "ул. Лесотехникума, 15",
+   "координаты": [
+    56.024117,
+    54.760139
+   ],
+   "рейтинг": 4.2,
+   "оценок": 88,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 836-38-00",
+    "+7 (927) 236-88-00"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "body_repair",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remont_khodovoy_chasti/112137554227/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "10299871916",
+   "название": "Стольник",
+   "seoname": "stolnik",
+   "адрес": "Самаркандская ул., 4/1",
+   "координаты": [
+    56.060827,
+    54.784694
+   ],
+   "рейтинг": 4.6,
+   "оценок": 275,
+   "отзывов": 97,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (347) 200-07-94",
+    "+7 (927) 236-07-94"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "смазочные материалы"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stolnik/10299871916/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "1208456595",
+   "название": "Подкова",
+   "seoname": "podkova",
+   "адрес": "ул. Новожёнова, 86/1",
+   "координаты": [
+    56.062144,
+    54.787092
+   ],
+   "рейтинг": 4,
+   "оценок": 141,
+   "отзывов": 50,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 480-64-31",
+    "+7 (347) 284-32-22"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/podkova/1208456595/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "1656946664",
+   "название": "Шанс",
+   "seoname": "shans",
+   "адрес": "ул. Маршала Жукова, 1/1",
+   "координаты": [
+    56.046355,
+    54.76457
+   ],
+   "рейтинг": 4.3,
+   "оценок": 445,
+   "отзывов": 181,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtocenter-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 266-60-61",
+    "+7 (347) 266-60-65",
+    "+7 (347) 266-60-62",
+    "+7 (347) 221-02-12",
+    "+7 (347) 266-60-67"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_wash",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shans/1656946664/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "1123455559",
+   "название": "Ойл-Маркет",
+   "seoname": "oyl_market",
+   "адрес": "ул. Маршала Жукова, 39",
+   "координаты": [
+    56.069394,
+    54.779214
+   ],
+   "рейтинг": 4.4,
+   "оценок": 930,
+   "отзывов": 368,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://oil-market.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 293-00-33"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oyl_market/1123455559/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "28042147808",
+   "название": "Автосервис Эверест",
+   "seoname": "avtoservis_everest",
+   "адрес": "ул. Уфимское Шоссе, 17",
+   "координаты": [
+    56.052435,
+    54.785398
+   ],
+   "рейтинг": 5,
+   "оценок": 262,
+   "отзывов": 153,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://everest-ulitsa-ufimskoe-shosse.clients.site/",
+    "https://эвереставто.рф/services/remont-glushiteley"
+   ],
+   "телефоны": [
+    "+7 (969) 814-71-12",
+    "+7 (917) 459-09-27"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт выхлопных систем",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "installation_of_exhaust_systems",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_everest/28042147808/",
+   "найдено_по": "автосервис Октябрьский район"
+  },
+  {
+   "id": "1177278692",
+   "название": "Changan, Демидыч",
+   "seoname": "changan_demidych",
+   "адрес": "ул. Дмитрия Донского, 53",
+   "координаты": [
+    56.09904,
+    54.824172
+   ],
+   "рейтинг": 5,
+   "оценок": 2085,
+   "отзывов": 1082,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://demidich02-changanauto.ru/",
+    "https://changanufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 215-11-86",
+    "+7 (347) 216-07-64"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "guarantee",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "payment_by_credit_card",
+    "pickup",
+    "ramp",
+    "repairs",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_demidych/1177278692/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "73453143026",
+   "название": "АвтоДруг",
+   "seoname": "avtodrug",
+   "адрес": "Трамвайная ул., 16/6, Уфа",
+   "координаты": [
+    56.109205,
+    54.798406
+   ],
+   "рейтинг": 4.6,
+   "оценок": 52,
+   "отзывов": 33,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://авто-друг.рф/",
+    "https://avtodrug-tramvajnaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 756-66-61"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "good_place",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodrug/73453143026/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "23398827736",
+   "название": "Антикоруфа.ру",
+   "seoname": "antikorufa_ru",
+   "адрес": "Индустриальное ш., 26/9, Уфа",
+   "координаты": [
+    56.086222,
+    54.804897
+   ],
+   "рейтинг": 5,
+   "оценок": 47,
+   "отзывов": 40,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://antikorufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (938) 543-96-38"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "антикоррозийная обработка",
+    "нанесение покрытий"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/antikorufa_ru/23398827736/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "10764484984",
+   "название": "ФранцузСервис",
+   "seoname": "frantsuzservis",
+   "адрес": "Инициативная ул., 13А",
+   "координаты": [
+    56.093249,
+    54.831075
+   ],
+   "рейтинг": 4.4,
+   "оценок": 231,
+   "отзывов": 98,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://francuzservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 451-75-24",
+    "+7 (937) 850-12-21"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/frantsuzservis/10764484984/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "228568082033",
+   "название": "Графит Сервис",
+   "seoname": "grafit_servis",
+   "адрес": "ул. 50 лет СССР, 39, корп. 11, Уфа",
+   "координаты": [
+    56.023764,
+    54.750089
+   ],
+   "рейтинг": 5,
+   "оценок": 48,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ufa.grafit-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 210-73-20"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "vibrationstand",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/grafit_servis/228568082033/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "198985994681",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Дмитрия Донского, 67/2",
+   "координаты": [
+    56.103775,
+    54.823161
+   ],
+   "рейтинг": 5,
+   "оценок": 373,
+   "отзывов": 283,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-1636478647.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 383-27-18"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/198985994681/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "79611241805",
+   "название": "Avto boss",
+   "seoname": "avto_boss",
+   "адрес": "Республика Башкортостан, городской округ Уфа, Орджоникидзевский район",
+   "координаты": [
+    56.028327,
+    54.777478
+   ],
+   "рейтинг": 4.3,
+   "оценок": 116,
+   "отзывов": 69,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 953-06-05",
+    "+7 (964) 802-96-03"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автотехпомощь",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "street_entrance",
+    "trailer_repair",
+    "urgent_departure",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_boss/79611241805/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "7442010370",
+   "название": "Уршак+",
+   "seoname": "urshak_",
+   "адрес": "ул. Льва Толстого, 21",
+   "координаты": [
+    56.07542,
+    54.826019
+   ],
+   "рейтинг": 4,
+   "оценок": 99,
+   "отзывов": 34,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (901) 441-50-40"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "cylinder_blocks_boring",
+    "guarantee",
+    "toilet",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/urshak_/7442010370/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "125396770617",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Генерала Шаймуратова, 46",
+   "координаты": [
+    56.101863,
+    54.822243
+   ],
+   "рейтинг": 4,
+   "оценок": 15,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (964) 964-57-33",
+    "+7 (917) 730-67-29"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/125396770617/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "122337444813",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Генерала Шаймуратова, 22",
+   "координаты": [
+    56.096157,
+    54.82401
+   ],
+   "рейтинг": 4.4,
+   "оценок": 19,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 480-89-42"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/122337444813/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "1188558750",
+   "название": "Параллель",
+   "seoname": "parallel",
+   "адрес": "ул. Ульяновых, 57А",
+   "координаты": [
+    56.081593,
+    54.826237
+   ],
+   "рейтинг": 4.4,
+   "оценок": 403,
+   "отзывов": 161,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ask-parallel.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 955-60-99",
+    "+7 (347) 240-08-80"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "автомойка"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_wash",
+    "payment_by_credit_card",
+    "payment_from_car",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/parallel/1188558750/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "14595402467",
+   "название": "Про Брейкс",
+   "seoname": "pro_breyks",
+   "адрес": "Пристанская ул., 4, корп. 4",
+   "координаты": [
+    56.069876,
+    54.833739
+   ],
+   "рейтинг": 5,
+   "оценок": 103,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://pro-brakes.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 333-44-30",
+    "+7 (347) 299-01-00"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "basic_service",
+    "payment_by_credit_card",
+    "pickup",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pro_breyks/14595402467/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "230562688978",
+   "название": "Газель Service",
+   "seoname": "gazel_service",
+   "адрес": "ул. Свободы, 68",
+   "координаты": [
+    56.112688,
+    54.824122
+   ],
+   "рейтинг": 4.7,
+   "оценок": 105,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 793-73-15"
+   ],
+   "часы": "пн-пт 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт МКПП",
+    "ремонт электрооборудования"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "freight_car_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gazel_service/230562688978/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "126977258170",
+   "название": "СТО дорог",
+   "seoname": "sto_dorog",
+   "адрес": "просп. Октября, 155Б",
+   "координаты": [
+    56.040941,
+    54.802303
+   ],
+   "рейтинг": 5,
+   "оценок": 54,
+   "отзывов": 25,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chip-tuning-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 236-12-43"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб,вс 10:00–13:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "car_park",
+    "chip_tuning",
+    "good_place",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sto_dorog/126977258170/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "117092095817",
+   "название": "Main Service",
+   "seoname": "main_service",
+   "адрес": "ул. Дмитрия Донского, 5А, корп. 1",
+   "координаты": [
+    56.092666,
+    54.827159
+   ],
+   "рейтинг": 4.5,
+   "оценок": 113,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://mainservice.pro/"
+   ],
+   "телефоны": [
+    "+7 (347) 200-99-25",
+    "+7 (927) 310-03-48"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "diesel_service",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/main_service/117092095817/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "196465321559",
+   "название": "Zen-service",
+   "seoname": "zen_service",
+   "адрес": "просп. Октября, 155А",
+   "координаты": [
+    56.041642,
+    54.800964
+   ],
+   "рейтинг": 5,
+   "оценок": 140,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://zen-service.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (961) 365-55-50"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр",
+    "детейлинг"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "basic_service",
+    "body_repair",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zen_service/196465321559/",
+   "найдено_по": "автосервис Орджоникидзевский район"
+  },
+  {
+   "id": "84407911810",
+   "название": "Автоцентр Плюс",
+   "seoname": "avtotsentr_plyus",
+   "адрес": "Владивостокская ул., 4БК1",
+   "координаты": [
+    55.989476,
+    54.728207
+   ],
+   "рейтинг": 4.9,
+   "оценок": 607,
+   "отзывов": 333,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoplus-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 246-04-07",
+    "+7 (927) 236-31-06"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_plyus/84407911810/",
+   "найдено_по": "автосервис Советский район"
+  },
+  {
+   "id": "175144558545",
+   "название": "А-Гараж",
+   "seoname": "a_garazh",
+   "адрес": "ул. Менделеева, 149/1",
+   "координаты": [
+    56.000507,
+    54.715437
+   ],
+   "рейтинг": 4.6,
+   "оценок": 69,
+   "отзывов": 47,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://agarageufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 498-51-10",
+    "+7 (917) 373-04-44"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосигнализация",
+    "автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "auto_glass_repair",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installation",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/a_garazh/175144558545/",
+   "найдено_по": "автосервис Советский район"
+  },
+  {
+   "id": "1184385597",
+   "название": "Тойота Лекcyc центр Verra",
+   "seoname": "toyota_lekcyc_tsentr_verra",
+   "адрес": "просп. Салавата Юлаева, 24",
+   "координаты": [
+    55.981963,
+    54.720847
+   ],
+   "рейтинг": 4.8,
+   "оценок": 2155,
+   "отзывов": 706,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.toyota-ufa.ru/",
+    "https://service.toyota-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 200-98-21"
+   ],
+   "часы": "ежедневно, 08:20–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "electric car charging station",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_lekcyc_tsentr_verra/1184385597/",
+   "найдено_по": "автосервис Советский район"
+  },
+  {
+   "id": "160964677754",
+   "название": "Geely Verra",
+   "seoname": "geely_verra",
+   "адрес": "просп. Салавата Юлаева, 24",
+   "координаты": [
+    55.981743,
+    54.720664
+   ],
+   "рейтинг": 5,
+   "оценок": 738,
+   "отзывов": 371,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://geely-verra.ru/",
+    "https://geely.verra-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 212-07-26"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "electric car charging station",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_verra/160964677754/",
+   "найдено_по": "автосервис Советский район"
+  },
+  {
+   "id": "164406265705",
+   "название": "G-Energy Service",
+   "seoname": "g_energy_service",
+   "адрес": "Заводская ул., 11",
+   "координаты": [
+    55.99421,
+    54.736748
+   ],
+   "рейтинг": 4.5,
+   "оценок": 73,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://g-energy.org/service/ru/station/ooo-riaprom_RU-154"
+   ],
+   "телефоны": [
+    "+7 (347) 200-08-74"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/g_energy_service/164406265705/",
+   "найдено_по": "автосервис Советский район"
+  },
+  {
+   "id": "1156295001",
+   "название": "Японец",
+   "seoname": "yaponets",
+   "адрес": "ул. Минигали Губайдуллина, 16",
+   "координаты": [
+    55.992126,
+    54.724209
+   ],
+   "рейтинг": 5,
+   "оценок": 721,
+   "отзывов": 401,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://japonecufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 210-77-60",
+    "+7 (347) 210-77-49"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "aquablasting",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "engine_endoscopy",
+    "good_place",
+    "heater_flushing",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yaponets/1156295001/",
+   "найдено_по": "автосервис Советский район"
+  },
+  {
+   "id": "199338797394",
+   "название": "Град",
+   "seoname": "grad",
+   "адрес": "Кировоградская ул., 24",
+   "координаты": [
+    55.969057,
+    54.747315
+   ],
+   "рейтинг": 4.7,
+   "оценок": 193,
+   "отзывов": 106,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://grad-service.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 605-08-88"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "airbag_repair",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "delivery",
+    "disable_captions",
+    "generators",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/grad/199338797394/",
+   "найдено_по": "автосервис Советский район"
+  },
+  {
+   "id": "219531096163",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Комсомольская ул., 18/1",
+   "координаты": [
+    55.997054,
+    54.74231
+   ],
+   "рейтинг": 4.5,
+   "оценок": 84,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (963) 136-70-66",
+    "+7 (347) 298-70-66",
+    "+7 (965) 937-38-88",
+    "+7 (967) 937-38-88"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/219531096163/",
+   "найдено_по": "автосервис Советский район"
+  },
+  {
+   "id": "221841405275",
+   "название": "Хороший сервис",
+   "seoname": "khoroshiy_servis",
+   "адрес": "Кировоградская ул., 36/1Ж",
+   "координаты": [
+    55.973584,
+    54.747128
+   ],
+   "рейтинг": 4.7,
+   "оценок": 107,
+   "отзывов": 58,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://horoshij-servis.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 430-84-90"
+   ],
+   "часы": "пн-пт 10:00–20:00, перерыв 13:00–14:00; сб 10:00–19:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_servicing",
+    "diesel_service",
+    "discs",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "tires",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/khoroshiy_servis/221841405275/",
+   "найдено_по": "автосервис Советский район"
+  },
+  {
+   "id": "1248440500",
+   "название": "Ойл-Маркет",
+   "seoname": "oyl_market",
+   "адрес": "Бакалинская ул., 64",
+   "координаты": [
+    55.989696,
+    54.719244
+   ],
+   "рейтинг": 4.3,
+   "оценок": 892,
+   "отзывов": 354,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://oil-market.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 293-00-33"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oyl_market/1248440500/",
+   "найдено_по": "автосервис Советский район"
+  },
+  {
+   "id": "1722462879",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Айская ул., 69/2А",
+   "координаты": [
+    55.97656,
+    54.731111
+   ],
+   "рейтинг": 4.2,
+   "оценок": 21,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avto-ekspert-ajskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (937) 334-17-07"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/1722462879/",
+   "найдено_по": "автосервис Советский район"
+  },
+  {
+   "id": "1105717147",
+   "название": "Автосервис у Вадима",
+   "seoname": "avtoservis_u_vadima",
+   "адрес": "ул. Худайбердина, 105А",
+   "координаты": [
+    55.965599,
+    54.744533
+   ],
+   "рейтинг": 4.4,
+   "оценок": 76,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtoservis-u-vadima.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (937) 305-85-80"
+   ],
+   "часы": "пн-пт 10:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_u_vadima/1105717147/",
+   "найдено_по": "автосервис Советский район"
+  }
+ ],
+ "расширено_по_районам": true
+}

@@ -1,0 +1,81 @@
+{
+ "ниша": "Сервис Lynk & Co",
+ "ключ": "servis-lynk-co",
+ "запросы": [
+  "lynk co сервис",
+  "lynk co ремонт",
+  "lynk co техническое обслуживание"
+ ],
+ "найдено_в_яндексе": {
+  "lynk co сервис": 1,
+  "lynk co ремонт": 1,
+  "lynk co техническое обслуживание": 1
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Уфе (регион 172)",
+ "город": "ufa",
+ "компании": [
+  {
+   "id": "228568082033",
+   "название": "Графит Сервис",
+   "seoname": "grafit_servis",
+   "адрес": "ул. 50 лет СССР, 39, корп. 11, Уфа",
+   "координаты": [
+    56.023764,
+    54.750089
+   ],
+   "рейтинг": 5,
+   "оценок": 46,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ufa.grafit-service.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 210-73-20"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "vibrationstand",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/grafit_servis/228568082033/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 35
+  }
+ ]
+}

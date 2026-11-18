@@ -1,0 +1,785 @@
+{
+ "ниша": "Сервис Mercedes-Benz",
+ "ключ": "servis-mercedes",
+ "запросы": [
+  "ремонт мерседес"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт мерседес": 48
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Уфе (регион 172)",
+ "город": "ufa",
+ "компании": [
+  {
+   "id": "1197934720",
+   "название": "Дамир",
+   "seoname": "damir",
+   "адрес": "Кулундинская ул., 27",
+   "координаты": [
+    56.052311,
+    54.776243
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1385,
+   "отзывов": 571,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://damirufa-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 298-66-88",
+    "+7 (963) 136-66-88"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/damir/1197934720/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 74
+  },
+  {
+   "id": "74396876382",
+   "название": "Rwt motors",
+   "seoname": "rwt_motors",
+   "адрес": "Республика Башкортостан, Уфа, Кировский район, жилой район Цветы Башкирии",
+   "координаты": [
+    55.92767,
+    54.677283
+   ],
+   "рейтинг": 5,
+   "оценок": 274,
+   "отзывов": 184,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://rwtmotors.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 200-07-86"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "смазочные материалы"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "disable_photopoi",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rwt_motors/74396876382/",
+   "последний_отзыв": "2026-11-01",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 61
+  },
+  {
+   "id": "61022524403",
+   "название": "Nемец Expert",
+   "seoname": "nemets_expert",
+   "адрес": "Полевая ул., 44, корп. 1, село Зубово",
+   "координаты": [
+    55.922538,
+    54.62988
+   ],
+   "рейтинг": 4.9,
+   "оценок": 472,
+   "отзывов": 184,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nemec-expert.ru/"
+   ],
+   "телефоны": [
+    "+7 (963) 136-82-22"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nemets_expert/61022524403/",
+   "последний_отзыв": "2026-09-07",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 89
+  },
+  {
+   "id": "66503579996",
+   "название": "Римэкс",
+   "seoname": "rimeks",
+   "адрес": "ул. Уфимское Шоссе, 1/1, Уфа",
+   "координаты": [
+    56.038893,
+    54.781837
+   ],
+   "рейтинг": 4.4,
+   "оценок": 301,
+   "отзывов": 147,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ufa.rimeks.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 300-05-00",
+    "+7 (347) 225-81-34"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rimeks/66503579996/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 80
+  },
+  {
+   "id": "1663725615",
+   "название": "М7 Гараж",
+   "seoname": "m7_garazh",
+   "адрес": "Трактовая ул., 9/3, д. Вавилово",
+   "координаты": [
+    55.848376,
+    54.805359
+   ],
+   "рейтинг": 5,
+   "оценок": 240,
+   "отзывов": 112,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.m7garage.ru/"
+   ],
+   "телефоны": [
+    "+7 (906) 843-87-77",
+    "+7 (961) 042-77-77"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "cylinder_blocks_boring",
+    "cylinder_liners",
+    "diesel_service",
+    "electric car charging station",
+    "good_place",
+    "guarantee",
+    "injector_repair",
+    "injectors_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/m7_garazh/1663725615/",
+   "последний_отзыв": "2026-09-07",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 63
+  },
+  {
+   "id": "10764484984",
+   "название": "ФранцузСервис",
+   "seoname": "frantsuzservis",
+   "адрес": "Инициативная ул., 13А, Уфа",
+   "координаты": [
+    56.093249,
+    54.831075
+   ],
+   "рейтинг": 4.4,
+   "оценок": 231,
+   "отзывов": 98,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://francuzservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 451-75-24",
+    "+7 (937) 850-12-21"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/frantsuzservis/10764484984/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 85
+  },
+  {
+   "id": "172665012891",
+   "название": "Римэкс",
+   "seoname": "rimeks",
+   "адрес": "ул. Пугачёва, 15/1",
+   "координаты": [
+    55.982516,
+    54.6905
+   ],
+   "рейтинг": 4.5,
+   "оценок": 199,
+   "отзывов": 98,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ufa.rimeks.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 229-44-31",
+    "8 (800) 300-05-00"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "car_servicing",
+    "car_wash",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rimeks/172665012891/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 76
+  },
+  {
+   "id": "100439771453",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Свободы, 55, Уфа",
+   "координаты": [
+    56.112986,
+    54.826201
+   ],
+   "рейтинг": 5,
+   "оценок": 94,
+   "отзывов": 81,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jmm-service.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 473-50-20"
+   ],
+   "часы": "пн-пт 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/100439771453/",
+   "последний_отзыв": "2026-06-25",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 58
+  },
+  {
+   "id": "175144558545",
+   "название": "А-Гараж",
+   "seoname": "a_garazh",
+   "адрес": "ул. Менделеева, 149/1, Уфа",
+   "координаты": [
+    56.000507,
+    54.715437
+   ],
+   "рейтинг": 4.6,
+   "оценок": 69,
+   "отзывов": 47,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://agarageufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 498-51-10",
+    "+7 (917) 373-04-44"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосигнализация",
+    "автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "auto_glass_repair",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installation",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/a_garazh/175144558545/",
+   "последний_отзыв": "2026-11-07",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 69
+  },
+  {
+   "id": "89276177241",
+   "название": "АвтоЛидер-Юг",
+   "seoname": "avtolider_yug",
+   "адрес": "Республика Башкортостан, М-5 Урал, 1491-й километр, 1, корп. 2",
+   "координаты": [
+    56.288501,
+    54.739847
+   ],
+   "рейтинг": 4.2,
+   "оценок": 152,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (347) 293-43-43",
+    "+7 (927) 312-52-22",
+    "+7 (927) 316-82-78",
+    "+7 (347) 294-41-55",
+    "+7 (937) 476-57-47",
+    "+7 (347) 293-41-77"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "запчасти для спецтехники"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtolider_yug/89276177241/",
+   "последний_отзыв": "2026-09-28",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 48
+  },
+  {
+   "id": "1182599721",
+   "название": "Автоинтерсервис",
+   "seoname": "avtointerservis",
+   "адрес": "Бакалинская ул., 52Б",
+   "координаты": [
+    55.994421,
+    54.716459
+   ],
+   "рейтинг": 4.5,
+   "оценок": 91,
+   "отзывов": 30,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtointerservis.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (967) 451-74-85"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "delivery",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtointerservis/1182599721/",
+   "последний_отзыв": "2026-05-27",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 30
+  },
+  {
+   "id": "168303783238",
+   "название": "ПроСТО Сервис",
+   "seoname": "prosto_servis",
+   "адрес": "просп. Салавата Юлаева, 32, Уфа",
+   "координаты": [
+    55.991165,
+    54.725192
+   ],
+   "рейтинг": 4.3,
+   "оценок": 55,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pro-sto-service.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (969) 814-77-80"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prosto_servis/168303783238/",
+   "последний_отзыв": "2026-07-27",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 44
+  },
+  {
+   "id": "106503148490",
+   "название": "Мерседес-Бенц Сервис",
+   "seoname": "mersedes_bents_servis",
+   "адрес": "Рубежная ул., 170/1",
+   "координаты": [
+    55.928418,
+    54.668587
+   ],
+   "рейтинг": 4.9,
+   "оценок": 25,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.mercedes-ufa.art-motors.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 212-06-85"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "coffee_to_go",
+    "diesel_service",
+    "electric car charging station",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mersedes_bents_servis/106503148490/",
+   "последний_отзыв": "2026-10-14",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 11
+  },
+  {
+   "id": "219348906697",
+   "название": "Вим-сервис",
+   "seoname": "vim_servis",
+   "адрес": "Бирский тракт, 77/3, Уфа",
+   "координаты": [
+    56.088246,
+    54.890169
+   ],
+   "рейтинг": 4,
+   "оценок": 3,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (962) 544-78-88"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vim_servis/219348906697/",
+   "последний_отзыв": "2026-10-20",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 5
+  }
+ ]
+}

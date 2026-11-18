@@ -1,0 +1,2820 @@
+{
+ "ниша": "Ремонт сколов и трещин стекла",
+ "ключ": "remont-skolov",
+ "запросы": [
+  "ремонт сколов на лобовом стекле"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт сколов на лобовом стекле": 42,
+  "ремонт сколов на лобовом стекле Дёмский район": 7,
+  "ремонт сколов на лобовом стекле Калининский район": 15,
+  "ремонт сколов на лобовом стекле Кировский район": 22,
+  "ремонт сколов на лобовом стекле Ленинский район": 17,
+  "ремонт сколов на лобовом стекле Октябрьский район": 31,
+  "ремонт сколов на лобовом стекле Орджоникидзевский район": 17,
+  "ремонт сколов на лобовом стекле Советский район": 28
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Уфе (регион 172)",
+ "город": "ufa",
+ "компании": [
+  {
+   "id": "1170848500",
+   "название": "Xl",
+   "seoname": "xl",
+   "адрес": "ул. Маршала Жукова, 39/3",
+   "координаты": [
+    56.067527,
+    54.779789
+   ],
+   "рейтинг": 4.7,
+   "оценок": 531,
+   "отзывов": 288,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (347) 293-50-20"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_accessories",
+    "car_floor_mats",
+    "car_park",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "eva_mats",
+    "freight_car_service",
+    "generators",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "repairs",
+    "self_car_service",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_chains",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/xl/1170848500/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 61
+  },
+  {
+   "id": "1548595755",
+   "название": "Стеклофф",
+   "seoname": "stekloff",
+   "адрес": "Рязанская ул., 14Б",
+   "координаты": [
+    56.017735,
+    54.7547
+   ],
+   "рейтинг": 4.9,
+   "оценок": 434,
+   "отзывов": 228,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://stekloffvufe.ru/",
+    "http://avtostekla02.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 294-08-30",
+    "+7 (987) 254-08-30",
+    "+7 (905) 351-03-34",
+    "+7 (347) 299-03-34"
+   ],
+   "часы": "пн-сб 10:00–19:00; вс 11:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "automotive_products",
+    "car_park",
+    "delivery",
+    "gift_certificate",
+    "glass_tinting",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stekloff/1548595755/",
+   "последний_отзыв": "2026-09-13",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 84
+  },
+  {
+   "id": "1229099419",
+   "название": "АвтоСтекло",
+   "seoname": "avtosteklo",
+   "адрес": "ул. Пархоменко, 198",
+   "координаты": [
+    55.973438,
+    54.748059
+   ],
+   "рейтинг": 5,
+   "оценок": 347,
+   "отзывов": 195,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.ufa-avtosteklo.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 758-00-05",
+    "+7 (901) 813-22-33"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "automotive_products",
+    "delivery",
+    "gift_certificate",
+    "installation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wholesale"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosteklo/1229099419/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 49,
+   "загружено_дат": 85
+  },
+  {
+   "id": "1263813468",
+   "название": "БорАвтоСтекло",
+   "seoname": "boravtosteklo",
+   "адрес": "ул. Менделеева, 134/4Б",
+   "координаты": [
+    56.008239,
+    54.713838
+   ],
+   "рейтинг": 5,
+   "оценок": 295,
+   "отзывов": 151,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtosteklo-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 601-32-48"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/boravtosteklo/1263813468/",
+   "последний_отзыв": "2026-08-12",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 66
+  },
+  {
+   "id": "85356526412",
+   "название": "БорАвтоРеал",
+   "seoname": "boravtoreal",
+   "адрес": "ул. Пугачёва, 49",
+   "координаты": [
+    55.994821,
+    54.685235
+   ],
+   "рейтинг": 5,
+   "оценок": 265,
+   "отзывов": 124,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.boravtoreal.com/"
+   ],
+   "телефоны": [
+    "+7 (987) 133-33-26",
+    "+7 (347) 273-91-56",
+    "+7 (347) 273-33-26"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_replacement",
+    "gift_certificate",
+    "installation",
+    "payment_by_credit_card",
+    "preliminary_registration"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/boravtoreal/85356526412/",
+   "последний_отзыв": "2026-10-10",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 89
+  },
+  {
+   "id": "240140441799",
+   "название": "ГлассПро",
+   "seoname": "glasspro",
+   "адрес": "бул. Давлеткильдеева, 1",
+   "координаты": [
+    56.029957,
+    54.766677
+   ],
+   "рейтинг": 5,
+   "оценок": 254,
+   "отзывов": 123,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://glassproufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 364-42-22",
+    "+7 (917) 408-58-85",
+    "+7 (917) 041-05-85"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "gift_certificate",
+    "glass_tinting",
+    "installation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/glasspro/240140441799/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 63
+  },
+  {
+   "id": "36018384614",
+   "название": "Кембрий",
+   "seoname": "kembriy",
+   "адрес": "Республика Башкортостан, Уфа, Новосибирская улица",
+   "координаты": [
+    55.973137,
+    54.754305
+   ],
+   "рейтинг": 5,
+   "оценок": 178,
+   "отзывов": 110,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.ck-kembrii.ru/",
+    "https://www.kembrii.ru/"
+   ],
+   "телефоны": [
+    "+7 (919) 602-21-00"
+   ],
+   "часы": "пн-сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "детейлинг",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "armoring_headlights",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wholesale",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kembriy/36018384614/",
+   "последний_отзыв": "2026-07-19",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 85
+  },
+  {
+   "id": "1582996529",
+   "название": "Автостекло 45",
+   "seoname": "avtosteklo_45",
+   "адрес": "ул. Баланово, 1/15, посёлок Баланово",
+   "координаты": [
+    55.808044,
+    54.699795
+   ],
+   "рейтинг": 5,
+   "оценок": 265,
+   "отзывов": 100,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://steklo102.ru/?ysclid=lpcvdp21kh615013139",
+    "https://steklo102.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 774-94-24"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "armoring_headlights",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "car_armoring",
+    "glass_tinting",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosteklo_45/1582996529/",
+   "последний_отзыв": "2026-07-19",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 86
+  },
+  {
+   "id": "1302556426",
+   "название": "Микаэль",
+   "seoname": "mikael",
+   "адрес": "ул. Пугачёва, 68",
+   "координаты": [
+    55.99311,
+    54.687361
+   ],
+   "рейтинг": 5,
+   "оценок": 131,
+   "отзывов": 80,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 738-69-99"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "кузовной ремонт",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mikael/1302556426/",
+   "последний_отзыв": "2026-08-25",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 80
+  },
+  {
+   "id": "1242576132",
+   "название": "Автограф",
+   "seoname": "avtograf",
+   "адрес": "ул. Юрия Гагарина, 49/1",
+   "координаты": [
+    56.076677,
+    54.775316
+   ],
+   "рейтинг": 4.9,
+   "оценок": 114,
+   "отзывов": 71,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://remontvmyatin.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 339-70-73"
+   ],
+   "часы": "пн-пт 11:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bumper_repair",
+    "good_place",
+    "kaspi_red",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtograf/1242576132/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 54
+  },
+  {
+   "id": "218106439545",
+   "название": "13 Студия Детейлинга",
+   "seoname": "13_studiya_deteylinga",
+   "адрес": "Бакалинская ул., 3",
+   "координаты": [
+    55.998031,
+    54.712187
+   ],
+   "рейтинг": 5,
+   "оценок": 60,
+   "отзывов": 58,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 771-11-91"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "тонирование автостёкол",
+    "автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "aquablasting",
+    "arches_noise_insulation",
+    "armoring_headlights",
+    "auto_glass_repair",
+    "bike_parking",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "carbon_fiber_lamination",
+    "ceiling_cleaning",
+    "chrome_plating",
+    "gift_certificate",
+    "glass_polishing",
+    "glass_tinting",
+    "installation",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/13_studiya_deteylinga/218106439545/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 24,
+   "загружено_дат": 33
+  },
+  {
+   "id": "54680637856",
+   "название": "Скола-нет.рф",
+   "seoname": "skola_net_rf",
+   "адрес": "ул. Маршала Жукова, 29, корп. 1",
+   "координаты": [
+    56.057186,
+    54.771045
+   ],
+   "рейтинг": 4.9,
+   "оценок": 69,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://скола-нет.рф/"
+   ],
+   "телефоны": [
+    "+7 (960) 381-07-77"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "delivery",
+    "gift_certificate",
+    "glass_polishing",
+    "installation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skola_net_rf/54680637856/",
+   "последний_отзыв": "2026-09-09",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 65
+  },
+  {
+   "id": "242692651135",
+   "название": "Доктор триплекс+",
+   "seoname": "doktor_tripleks_",
+   "адрес": "ул. Ахметова, 250",
+   "координаты": [
+    55.891549,
+    54.777512
+   ],
+   "рейтинг": 5,
+   "оценок": 77,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 250-02-02"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/doktor_tripleks_/242692651135/",
+   "последний_отзыв": "2026-09-21",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 47
+  },
+  {
+   "id": "125234845711",
+   "название": "Автостекло 102",
+   "seoname": "avtosteklo_102",
+   "адрес": "ул. Авроры, 3/2",
+   "координаты": [
+    56.002536,
+    54.695706
+   ],
+   "рейтинг": 4.9,
+   "оценок": 85,
+   "отзывов": 45,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 017-17-06",
+    "+7 (906) 107-15-67"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "guarantee",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosteklo_102/125234845711/",
+   "последний_отзыв": "2026-06-30",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 49
+  },
+  {
+   "id": "233613500641",
+   "название": "РБ",
+   "seoname": "rb",
+   "адрес": "ул. Дмитрия Донского, 10, Уфа",
+   "координаты": [
+    56.088471,
+    54.824544
+   ],
+   "рейтинг": 4.8,
+   "оценок": 58,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 326-99-79"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автокондиционеры",
+    "автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "delivery",
+    "gift_certificate",
+    "glass_polishing",
+    "glass_tinting",
+    "installation",
+    "leather_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "repairs",
+    "scratch_repair",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rb/233613500641/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 46,
+   "загружено_дат": 63
+  },
+  {
+   "id": "1305950598",
+   "название": "AG Experts",
+   "seoname": "ag_experts",
+   "адрес": "просп. Октября, 4/1, Уфа",
+   "координаты": [
+    55.987714,
+    54.740836
+   ],
+   "рейтинг": 4.8,
+   "оценок": 53,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://agexperts.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 200-84-90"
+   ],
+   "часы": "вт-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "delivery",
+    "gift_certificate",
+    "installation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ag_experts/1305950598/"
+  },
+  {
+   "id": "132028504754",
+   "название": "Равт",
+   "seoname": "ravt",
+   "адрес": "ул. Кирова, 128/1литА",
+   "координаты": [
+    55.980026,
+    54.724531
+   ],
+   "рейтинг": 4.8,
+   "оценок": 64,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автостеклауфа.рф/"
+   ],
+   "телефоны": [
+    "+7 (917) 749-98-40"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "студия тюнинга",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "delivery",
+    "gift_certificate",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "wholesale",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ravt/132028504754/"
+  },
+  {
+   "id": "36275576593",
+   "название": "Дядя Лобофф",
+   "seoname": "dyadya_loboff",
+   "адрес": "ул. Рихарда Зорге, 5",
+   "координаты": [
+    55.982496,
+    54.747839
+   ],
+   "рейтинг": 4.6,
+   "оценок": 64,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://djadja-loboff.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (917) 772-20-12"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "автохимчистка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dyadya_loboff/36275576593/"
+  },
+  {
+   "id": "11806450770",
+   "название": "Автостекло 45",
+   "seoname": "avtosteklo_45",
+   "адрес": "ул. Гафури, 54Б",
+   "координаты": [
+    55.931162,
+    54.729083
+   ],
+   "рейтинг": 4.4,
+   "оценок": 41,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://steklo102.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 455-02-02",
+    "+7 (917) 774-94-24"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "armoring_headlights",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "car_armoring",
+    "glass_tinting",
+    "installation",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosteklo_45/11806450770/"
+  },
+  {
+   "id": "144861729900",
+   "название": "ExpertAutoGlass",
+   "seoname": "expertautoglass",
+   "адрес": "ул. Запотоцкого, 41",
+   "координаты": [
+    55.9467,
+    54.743384
+   ],
+   "рейтинг": 4.5,
+   "оценок": 32,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (963) 902-34-34",
+    "+7 (996) 636-36-00"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "installation",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/expertautoglass/144861729900/"
+  },
+  {
+   "id": "76662637187",
+   "название": "NekrasOff",
+   "seoname": "nekrasoff",
+   "адрес": "ул. Цюрупы, 156/4",
+   "координаты": [
+    55.964674,
+    54.744392
+   ],
+   "рейтинг": 4.8,
+   "оценок": 23,
+   "отзывов": 18,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nekrasoff-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 517-13-26",
+    "+7 (937) 859-41-02"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "кузовной ремонт",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "armoring_headlights",
+    "authorized_service",
+    "bike_parking",
+    "bumper_repair",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "carbon_fiber_lamination",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nekrasoff/76662637187/"
+  },
+  {
+   "id": "1123770866",
+   "название": "Авто-максимум",
+   "seoname": "avto_maksimum",
+   "адрес": "ул. Пархоменко, 133/1к1",
+   "координаты": [
+    55.965402,
+    54.741914
+   ],
+   "рейтинг": 4.7,
+   "оценок": 32,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtomaximum-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 341-98-30"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_maksimum/1123770866/"
+  },
+  {
+   "id": "81476402125",
+   "название": "Стеклофф",
+   "seoname": "stekloff",
+   "адрес": "Бакалинская ул., 15",
+   "координаты": [
+    55.994922,
+    54.714855
+   ],
+   "рейтинг": 4.4,
+   "оценок": 12,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtostekla02.ru/"
+   ],
+   "телефоны": [
+    "+7 (909) 349-29-39"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автостёкла"
+   ],
+   "признаки": [
+    "authorized_service",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "car_park",
+    "car_wash",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "installation",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "temporary-closed",
+   "карточка": "https://yandex.ru/maps/org/stekloff/81476402125/"
+  },
+  {
+   "id": "178522022849",
+   "название": "Ton Car Ufa",
+   "seoname": "ton_car_ufa",
+   "адрес": "ул. Баланово, 1/15, посёлок Баланово",
+   "координаты": [
+    55.808102,
+    54.699997
+   ],
+   "рейтинг": 5,
+   "оценок": 107,
+   "отзывов": 43,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (965) 943-00-02"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 11:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Тонирование автостёкол",
+    "детейлинг",
+    "автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "armoring_headlights",
+    "auto_glass_repair",
+    "bike_parking",
+    "car_armoring",
+    "car_park",
+    "glass_tinting",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ton_car_ufa/178522022849/",
+   "найдено_по": "ремонт сколов на лобовом стекле Дёмский район"
+  },
+  {
+   "id": "47344128592",
+   "название": "Mdr-25",
+   "seoname": "mdr_25",
+   "адрес": "Армянская ул., 2, корп. 2",
+   "координаты": [
+    55.813301,
+    54.685646
+   ],
+   "рейтинг": 4.7,
+   "оценок": 15,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://neuro-1755189.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (905) 007-49-54"
+   ],
+   "часы": "пн-сб 09:30–20:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "car_armoring",
+    "car_body_film",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "ceiling_cleaning",
+    "glass_polishing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "ramp",
+    "scratch_repair",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mdr_25/47344128592/",
+   "найдено_по": "ремонт сколов на лобовом стекле Дёмский район"
+  },
+  {
+   "id": "1222393585",
+   "название": "Уфимское стекло",
+   "seoname": "ufimskoye_steklo",
+   "адрес": "Благоварская ул., 4",
+   "координаты": [
+    55.89801,
+    54.737863
+   ],
+   "рейтинг": 4.2,
+   "оценок": 32,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ufimskoe-steklo-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 382-02-91"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "ремонт спецтехники",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "delivery",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "trailer_repair"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ufimskoye_steklo/1222393585/",
+   "найдено_по": "ремонт сколов на лобовом стекле Дёмский район"
+  },
+  {
+   "id": "104751568907",
+   "название": "VIP garage ufa",
+   "seoname": "vip_garage_ufa",
+   "адрес": "Кандринская ул., 2",
+   "координаты": [
+    55.797066,
+    54.691355
+   ],
+   "рейтинг": 4,
+   "оценок": 34,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://vipgarageufa.2gis.biz/"
+   ],
+   "телефоны": [
+    "+7 (927) 933-71-11"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автостёкла"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vip_garage_ufa/104751568907/",
+   "найдено_по": "ремонт сколов на лобовом стекле Дёмский район"
+  },
+  {
+   "id": "1801017423",
+   "название": "Автолиния",
+   "seoname": "avtoliniya",
+   "адрес": "ул. Ульяновых, 64, Уфа",
+   "координаты": [
+    56.085883,
+    54.826802
+   ],
+   "рейтинг": 4.2,
+   "оценок": 13,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://autolineufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 353-75-90",
+    "+7 (917) 754-80-90"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "стекольная мастерская",
+    "стекло, стекольная продукция"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "auto_glass_replacement",
+    "delivery",
+    "glass_roof",
+    "glass_visor",
+    "installation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "shower_walls",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoliniya/1801017423/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "244400633257",
+   "название": "Bb_box",
+   "seoname": "bb_box",
+   "адрес": "Сосновская ул., 150А",
+   "координаты": [
+    56.157214,
+    54.809637
+   ],
+   "рейтинг": 4.8,
+   "оценок": 19,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://bb-box.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (937) 159-09-00"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб,вс 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "детейлинг"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "car_park",
+    "glass_polishing",
+    "installation",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bb_box/244400633257/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "1067915947",
+   "название": "Автостекло",
+   "seoname": "avtosteklo",
+   "адрес": "Интернациональная ул., 30",
+   "координаты": [
+    56.098744,
+    54.806921
+   ],
+   "рейтинг": 4.7,
+   "оценок": 15,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (962) 535-77-11",
+    "+7 (960) 386-00-45"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "тонирование автостёкол",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "auto_glass_replacement",
+    "car_floor_mats",
+    "car_park",
+    "delivery",
+    "eva_mats",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosteklo/1067915947/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "184388821680",
+   "название": "Юлдаш",
+   "seoname": "yuldash",
+   "адрес": "Боровая ул., 14, корп. 3",
+   "координаты": [
+    56.172113,
+    54.806408
+   ],
+   "рейтинг": 4.5,
+   "оценок": 324,
+   "отзывов": 94,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtosteklo-juldash.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 312-79-09",
+    "+7 (937) 479-18-88",
+    "+7 (347) 229-40-95"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "installation",
+    "pickup",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yuldash/184388821680/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "1195538376",
+   "название": "Автоцентр Плюс",
+   "seoname": "avtotsentr_plyus",
+   "адрес": "Цветочная ул., 38А",
+   "координаты": [
+    56.075461,
+    54.804781
+   ],
+   "рейтинг": 4.7,
+   "оценок": 843,
+   "отзывов": 440,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoplus-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 246-04-07",
+    "+7 (927) 236-31-06"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_plyus/1195538376/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "1602265334",
+   "название": "БашАвтоСтекло",
+   "seoname": "bashavtosteklo",
+   "адрес": "ул. Дмитрия Донского, 50",
+   "координаты": [
+    56.101353,
+    54.823028
+   ],
+   "рейтинг": 4.5,
+   "оценок": 80,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://башавтостекло.рф/"
+   ],
+   "телефоны": [
+    "+7 (347) 266-17-84",
+    "+7 (927) 236-17-84"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "бронированные стёкла",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "armoring_headlights",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "gift_certificate",
+    "glass_tinting",
+    "installation",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bashavtosteklo/1602265334/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "16143114485",
+   "название": "Зеленый Змей",
+   "seoname": "zeleny_zmey",
+   "адрес": "Интернациональная ул., 73/2",
+   "координаты": [
+    56.083036,
+    54.810164
+   ],
+   "рейтинг": 5,
+   "оценок": 74,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 307-02-02"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Тонирование автостёкол",
+    "бронированные стёкла",
+    "автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "armoring_headlights",
+    "auto_glass_repair",
+    "gift_certificate",
+    "glass_polishing",
+    "glass_tinting",
+    "installation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zeleny_zmey/16143114485/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "128859070540",
+   "название": "Автостеклов",
+   "seoname": "avtosteklov",
+   "адрес": "Сельская Богородская ул., 64, корп. 1",
+   "координаты": [
+    56.082064,
+    54.792565
+   ],
+   "рейтинг": 4,
+   "оценок": 14,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 956-77-10",
+    "+7 (917) 743-41-39"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "glass_tinting",
+    "installation"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosteklov/128859070540/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "157209829292",
+   "название": "Crystal touch",
+   "seoname": "crystal_touch",
+   "адрес": "Трамвайная ул., 9/2",
+   "координаты": [
+    56.079982,
+    54.799226
+   ],
+   "рейтинг": 5,
+   "оценок": 41,
+   "отзывов": 29,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 484-97-47"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "автосвет",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "antichrome",
+    "armoring_headlights",
+    "bike_parking",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "carbon_fiber_lamination",
+    "gift_certificate",
+    "glass_polishing",
+    "good_place",
+    "ozonation",
+    "parking_disabled",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/crystal_touch/157209829292/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "26589542977",
+   "название": "Автоэкспресс",
+   "seoname": "avtoekspress",
+   "адрес": "Инициативная ул., 1/1к9",
+   "координаты": [
+    56.094354,
+    54.830743
+   ],
+   "рейтинг": 4.8,
+   "оценок": 50,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoexpressufa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (927) 333-39-27"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "installation",
+    "pickup",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoekspress/26589542977/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "170100416946",
+   "название": "Экспресс Сервис",
+   "seoname": "ekspress_servis",
+   "адрес": "ул. Новожёнова, 92Б",
+   "координаты": [
+    56.071969,
+    54.784546
+   ],
+   "рейтинг": 4.7,
+   "оценок": 30,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://expressservice.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (987) 583-33-78",
+    "+7 (987) 480-10-00"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб,вс 12:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "заправка автокондиционеров",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "call_button",
+    "delivery",
+    "installation",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ekspress_servis/170100416946/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "221534052792",
+   "название": "Кузовной Про",
+   "seoname": "kuzovnoy_pro",
+   "адрес": "Трамвайная ул., 1/5",
+   "координаты": [
+    56.054901,
+    54.798649
+   ],
+   "рейтинг": 4.9,
+   "оценок": 60,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kuzovnoi.pro/"
+   ],
+   "телефоны": [
+    "+7 (347) 298-38-08",
+    "+7 (963) 136-38-08"
+   ],
+   "часы": "пн-сб 09:00–21:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "детейлинг",
+    "автостёкла"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "payment_by_credit_card",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "welding_works"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kuzovnoy_pro/221534052792/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "165896548984",
+   "название": "Автотрейд",
+   "seoname": "avtotreyd",
+   "адрес": "Самаркандская ул., 4/3",
+   "координаты": [
+    56.060728,
+    54.785158
+   ],
+   "рейтинг": 4.6,
+   "оценок": 14,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autosteklo.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 224-99-66",
+    "8 (800) 555-54-15"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotreyd/165896548984/",
+   "найдено_по": "ремонт сколов на лобовом стекле Калининский район"
+  },
+  {
+   "id": "1345156280",
+   "название": "Санрайз",
+   "seoname": "sanrayz",
+   "адрес": "Бакалинская ул., 9/4",
+   "координаты": [
+    55.992825,
+    54.715505
+   ],
+   "рейтинг": 4.9,
+   "оценок": 119,
+   "отзывов": 95,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sunrise-detailing.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (347) 262-85-33",
+    "+7 (937) 849-85-33"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Оклейка машин",
+    "детейлинг",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "armoring_headlights",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sanrayz/1345156280/",
+   "найдено_по": "ремонт сколов на лобовом стекле Кировский район"
+  },
+  {
+   "id": "1558661089",
+   "название": "У Марата",
+   "seoname": "u_marata",
+   "адрес": "ул. Кирова, 101/1А",
+   "координаты": [
+    55.982607,
+    54.727326
+   ],
+   "рейтинг": 4.3,
+   "оценок": 96,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 485-03-03"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "автостёкла"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "field_service",
+    "glass_polishing",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installation",
+    "installing_the_towbar",
+    "keep_tires",
+    "mobile_tire_service",
+    "motorcycle_tire_repair",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/u_marata/1558661089/",
+   "найдено_по": "ремонт сколов на лобовом стекле Кировский район"
+  },
+  {
+   "id": "244202099325",
+   "название": "УфаАвтоСтекло",
+   "seoname": "ufaavtosteklo",
+   "адрес": "ул. Лесотехникума, 49/1А",
+   "координаты": [
+    56.03029,
+    54.752073
+   ],
+   "рейтинг": 4.6,
+   "оценок": 27,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ufaavtosteklo.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 155-42-41"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ufaavtosteklo/244202099325/",
+   "найдено_по": "ремонт сколов на лобовом стекле Кировский район"
+  },
+  {
+   "id": "178141066665",
+   "название": "Кембрий",
+   "seoname": "kembriy",
+   "адрес": "ул. Пархоменко, 171/1",
+   "координаты": [
+    55.969398,
+    54.748425
+   ],
+   "рейтинг": 4.6,
+   "оценок": 13,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.ck-kembrii.ru/",
+    "https://kembrii.ru/"
+   ],
+   "телефоны": [
+    "+7 (919) 602-21-00",
+    "+7 (904) 736-77-66",
+    "+7 (987) 475-22-65"
+   ],
+   "часы": "пн-сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "детейлинг"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "car_park",
+    "car_valeting",
+    "glass_tinting",
+    "installation",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kembriy/178141066665/",
+   "найдено_по": "ремонт сколов на лобовом стекле Кировский район"
+  },
+  {
+   "id": "235261119341",
+   "название": "Гараж № 5",
+   "seoname": "garazh_5",
+   "адрес": "Базисный пр., 6/2В",
+   "координаты": [
+    55.963541,
+    54.769197
+   ],
+   "рейтинг": 5,
+   "оценок": 314,
+   "отзывов": 141,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://ufa.garage5.su/"
+   ],
+   "телефоны": [
+    "+7 (347) 211-71-88"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "детейлинг"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "bike_parking",
+    "bumper_repair",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wheels_powder_coating",
+    "glass_polishing",
+    "good_place",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "raptor_painting",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garazh_5/235261119341/",
+   "найдено_по": "ремонт сколов на лобовом стекле Ленинский район"
+  },
+  {
+   "id": "1259751873",
+   "название": "Мастерская по ремонту автостекол",
+   "seoname": "masterskaya_po_remontu_avtostekol",
+   "адрес": "бул. Ибрагимова, 55/1",
+   "координаты": [
+    55.965241,
+    54.742155
+   ],
+   "рейтинг": 4.4,
+   "оценок": 11,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (919) 150-91-84"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/masterskaya_po_remontu_avtostekol/1259751873/",
+   "найдено_по": "ремонт сколов на лобовом стекле Ленинский район"
+  },
+  {
+   "id": "119849140862",
+   "название": "ТриплексУфа",
+   "seoname": "tripleksufa",
+   "адрес": "ул. Пархоменко, 171/1",
+   "координаты": [
+    55.969406,
+    54.748317
+   ],
+   "рейтинг": 4.2,
+   "оценок": 5,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 306-34-08",
+    "+7 (917) 434-36-97"
+   ],
+   "часы": "пн-сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "delivery",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tripleksufa/119849140862/",
+   "найдено_по": "ремонт сколов на лобовом стекле Ленинский район"
+  },
+  {
+   "id": "1245175168",
+   "название": "Арттон",
+   "seoname": "artton",
+   "адрес": "ул. Юрия Гагарина, 49/1",
+   "координаты": [
+    56.07665,
+    54.775347
+   ],
+   "рейтинг": 5,
+   "оценок": 140,
+   "отзывов": 75,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.ufa-artton.ru/",
+    "https://ufa-artton.ru/services/"
+   ],
+   "телефоны": [
+    "+7 (917) 755-71-41"
+   ],
+   "часы": "пн-сб 10:00–19:00; вс 12:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "студия тюнинга",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "armoring_headlights",
+    "autovinil",
+    "car_park",
+    "car_valeting",
+    "gift_certificate",
+    "parking_disabled",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/artton/1245175168/",
+   "найдено_по": "ремонт сколов на лобовом стекле Октябрьский район"
+  },
+  {
+   "id": "205668774590",
+   "название": "Детейлинг- студия ТТС",
+   "seoname": "deteyling_studiya_tts",
+   "адрес": "ул. Маршала Жукова, 34",
+   "координаты": [
+    56.075778,
+    54.783414
+   ],
+   "рейтинг": 4.3,
+   "оценок": 4,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://service.tts.ru/deteiling/"
+   ],
+   "телефоны": [
+    "+7 (347) 210-71-12"
+   ],
+   "часы": "вт-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "бронированные стёкла",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "ceiling_cleaning",
+    "glass_polishing",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/deteyling_studiya_tts/205668774590/",
+   "найдено_по": "ремонт сколов на лобовом стекле Октябрьский район"
+  },
+  {
+   "id": "1013226353",
+   "название": "Центр кузовного ремонта",
+   "seoname": "tsentr_kuzovnogo_remonta",
+   "адрес": "просп. Салавата Юлаева, 95",
+   "координаты": [
+    56.021507,
+    54.7531
+   ],
+   "рейтинг": 4.6,
+   "оценок": 172,
+   "отзывов": 49,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.tts.ru/body-repair/"
+   ],
+   "телефоны": [
+    "+7 (347) 201-96-92"
+   ],
+   "часы": "пн-пт 08:30–17:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт"
+   ],
+   "признаки": [
+    "authorized_service",
+    "removing_dents_without_painting",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_kuzovnogo_remonta/1013226353/",
+   "найдено_по": "ремонт сколов на лобовом стекле Октябрьский район"
+  },
+  {
+   "id": "1774109560",
+   "название": "Центр кузовного ремонта ТТС",
+   "seoname": "tsentr_kuzovnogo_remonta_tts",
+   "адрес": "ул. Маршала Жукова, 36",
+   "координаты": [
+    56.076253,
+    54.783963
+   ],
+   "рейтинг": 4.9,
+   "оценок": 148,
+   "отзывов": 67,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.tts.ru/body-repair/"
+   ],
+   "телефоны": [
+    "+7 (347) 201-97-04"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт"
+   ],
+   "признаки": [
+    "good_place",
+    "removing_dents_without_painting",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_kuzovnogo_remonta_tts/1774109560/",
+   "найдено_по": "ремонт сколов на лобовом стекле Октябрьский район"
+  },
+  {
+   "id": "86822862731",
+   "название": "Автостекло",
+   "seoname": "avtosteklo",
+   "адрес": "ул. Уфимское Шоссе, 34/1",
+   "координаты": [
+    56.058284,
+    54.789962
+   ],
+   "рейтинг": 4.6,
+   "оценок": 17,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 743-02-99",
+    "+7 (906) 102-70-01"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosteklo/86822862731/",
+   "найдено_по": "ремонт сколов на лобовом стекле Октябрьский район"
+  },
+  {
+   "id": "241925792185",
+   "название": "Автоцентр Плюс",
+   "seoname": "avtotsentr_plyus",
+   "адрес": "просп. Октября, 71, корп. 1",
+   "координаты": [
+    56.013807,
+    54.767381
+   ],
+   "рейтинг": 4.6,
+   "оценок": 321,
+   "отзывов": 173,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoplus-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 246-04-07",
+    "+7 (927) 236-31-06"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "покраска автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_plyus/241925792185/",
+   "найдено_по": "ремонт сколов на лобовом стекле Октябрьский район"
+  },
+  {
+   "id": "63760559270",
+   "название": "Автостекло",
+   "seoname": "avtosteklo",
+   "адрес": "ул. Маршала Жукова, 29, корп. 1",
+   "координаты": [
+    56.057283,
+    54.771098
+   ],
+   "рейтинг": 3.5,
+   "оценок": 6,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.ufaplenka.ru/",
+    "https://www.drive2.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 236-09-06",
+    "+7 (927) 356-09-06"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Тонирование автостёкол",
+    "студия тюнинга",
+    "автостёкла"
+   ],
+   "признаки": [
+    "autovinil",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosteklo/63760559270/",
+   "найдено_по": "ремонт сколов на лобовом стекле Октябрьский район"
+  },
+  {
+   "id": "193047440264",
+   "название": "Ветро",
+   "seoname": "vetro",
+   "адрес": "Рязанская ул., 14Б",
+   "координаты": [
+    56.017811,
+    54.754766
+   ],
+   "рейтинг": 4.3,
+   "оценок": 9,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vetro.pro/"
+   ],
+   "телефоны": [
+    "8 (800) 707-44-94",
+    "8 (800) 351-16-70",
+    "+7 (958) 578-09-43"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "glass_tinting",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vetro/193047440264/",
+   "найдено_по": "ремонт сколов на лобовом стекле Октябрьский район"
+  },
+  {
+   "id": "136248003278",
+   "название": "Ton_Glass",
+   "seoname": "ton_glass",
+   "адрес": "Инициативная ул., 1/2",
+   "координаты": [
+    56.094493,
+    54.831093
+   ],
+   "рейтинг": 4.3,
+   "оценок": 26,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ton-glass.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (906) 373-06-44",
+    "+7 (967) 365-61-61"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Тонирование автостёкол",
+    "детейлинг",
+    "автостёкла"
+   ],
+   "признаки": [
+    "car_park",
+    "glass_tinting",
+    "installation",
+    "parking_disabled",
+    "ramp",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ton_glass/136248003278/",
+   "найдено_по": "ремонт сколов на лобовом стекле Орджоникидзевский район"
+  },
+  {
+   "id": "1689728970",
+   "название": "Фу-яо",
+   "seoname": "fu_yao",
+   "адрес": "ул. Войкова, 1, корп. 3",
+   "координаты": [
+    56.0776,
+    54.835429
+   ],
+   "рейтинг": 4.4,
+   "оценок": 80,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://фуяо-уфа.рф/"
+   ],
+   "телефоны": [
+    "+7 (347) 274-96-76",
+    "+7 (917) 754-61-12"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "delivery",
+    "installation",
+    "pickup",
+    "street_entrance",
+    "wholesale"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fu_yao/1689728970/",
+   "найдено_по": "ремонт сколов на лобовом стекле Орджоникидзевский район"
+  },
+  {
+   "id": "25128899431",
+   "название": "Фуяо",
+   "seoname": "fuyao",
+   "адрес": "ул. Войкова, 1, корп. 3",
+   "координаты": [
+    56.077551,
+    54.835287
+   ],
+   "рейтинг": 4.5,
+   "оценок": 52,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (347) 274-96-76",
+    "+7 (917) 754-61-12"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "delivery",
+    "installation",
+    "pickup"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fuyao/25128899431/",
+   "найдено_по": "ремонт сколов на лобовом стекле Орджоникидзевский район"
+  },
+  {
+   "id": "148085322970",
+   "название": "UfaTonirovka",
+   "seoname": "ufatonirovka",
+   "адрес": "ул. Минигали Губайдуллина, 16",
+   "координаты": [
+    55.991905,
+    54.724334
+   ],
+   "рейтинг": 4.8,
+   "оценок": 69,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ufatonirovka.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 451-75-34",
+    "+7 (917) 777-82-32"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–17:00; вс 11:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Тонирование автостёкол",
+    "автохимчистка",
+    "детейлинг"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "armoring_headlights",
+    "car_armoring",
+    "gift_certificate",
+    "glass_polishing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ufatonirovka/148085322970/",
+   "найдено_по": "ремонт сколов на лобовом стекле Советский район"
+  },
+  {
+   "id": "84407911810",
+   "название": "Автоцентр Плюс",
+   "seoname": "avtotsentr_plyus",
+   "адрес": "Владивостокская ул., 4БК1",
+   "координаты": [
+    55.989476,
+    54.728207
+   ],
+   "рейтинг": 4.9,
+   "оценок": 607,
+   "отзывов": 333,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoplus-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 246-04-07",
+    "+7 (927) 236-31-06"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_plyus/84407911810/",
+   "найдено_по": "ремонт сколов на лобовом стекле Советский район"
+  },
+  {
+   "id": "68047988554",
+   "название": "Avtoglass",
+   "seoname": "avtoglass",
+   "адрес": "Владивостокская ул., 1Б",
+   "координаты": [
+    55.986297,
+    54.726677
+   ],
+   "рейтинг": 4.3,
+   "оценок": 4,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 766-26-66",
+    "+7 (917) 766-60-13"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автостёкла"
+   ],
+   "признаки": [
+    "auto_glass_repair",
+    "auto_glass_replacement",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoglass/68047988554/",
+   "найдено_по": "ремонт сколов на лобовом стекле Советский район"
+  },
+  {
+   "id": "175144558545",
+   "название": "А-Гараж",
+   "seoname": "a_garazh",
+   "адрес": "ул. Менделеева, 149/1",
+   "координаты": [
+    56.000507,
+    54.715437
+   ],
+   "рейтинг": 4.6,
+   "оценок": 69,
+   "отзывов": 47,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://agarageufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 498-51-10",
+    "+7 (917) 373-04-44"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосигнализация",
+    "автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "auto_glass_repair",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installation",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/a_garazh/175144558545/",
+   "найдено_по": "ремонт сколов на лобовом стекле Советский район"
+  }
+ ],
+ "расширено_по_районам": true
+}

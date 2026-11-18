@@ -1,0 +1,2228 @@
+{
+ "ниша": "Парктроники и камеры",
+ "ключ": "ustanovka-parktronikov",
+ "запросы": [
+  "установка парктроников",
+  "установка камеры заднего вида"
+ ],
+ "найдено_в_яндексе": {
+  "установка парктроников": 75,
+  "установка камеры заднего вида": 59
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Уфе (регион 172)",
+ "город": "ufa",
+ "компании": [
+  {
+   "id": "150402070073",
+   "название": "Xenon 02",
+   "seoname": "xenon_02",
+   "адрес": "ул. Минигали Губайдуллина, 14/3",
+   "координаты": [
+    55.993981,
+    54.723853
+   ],
+   "рейтинг": 5,
+   "оценок": 766,
+   "отзывов": 653,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://xenonufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (969) 777-80-02"
+   ],
+   "часы": "пн-пт 10:00–20:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "студия тюнинга",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "additional_equipment_installation",
+    "car_park",
+    "certified_service",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/xenon_02/150402070073/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 74
+  },
+  {
+   "id": "1375117194",
+   "название": "Kia ТТС",
+   "seoname": "kia_tts",
+   "адрес": "просп. Салавата Юлаева, 65",
+   "координаты": [
+    55.995842,
+    54.73066
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1314,
+   "отзывов": 552,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.tts.ru/",
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (347) 201-97-53",
+    "+7 (347) 201-96-92"
+   ],
+   "часы": "пн-сб 09:00–23:00; вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kia_tts/1375117194/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 86
+  },
+  {
+   "id": "1187107261",
+   "название": "Синий Бокс",
+   "seoname": "siniy_boks",
+   "адрес": "ул. Сагита Агиша, 2/9",
+   "координаты": [
+    55.998448,
+    54.728016
+   ],
+   "рейтинг": 4.9,
+   "оценок": 819,
+   "отзывов": 364,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://siniybox.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 258-80-15"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "тонирование автостёкол",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "installation",
+    "payment_by_credit_card",
+    "repairs",
+    "street_entrance",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/siniy_boks/1187107261/",
+   "последний_отзыв": "2026-08-12",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 52
+  },
+  {
+   "id": "1137619147",
+   "название": "Синий бокс",
+   "seoname": "siniy_boks",
+   "адрес": "ул. Суворова, 55/1",
+   "координаты": [
+    56.120702,
+    54.812458
+   ],
+   "рейтинг": 4.7,
+   "оценок": 858,
+   "отзывов": 338,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://siniybox.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 258-80-15"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосигнализация",
+    "тонирование автостёкол",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "installation",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/siniy_boks/1137619147/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 52
+  },
+  {
+   "id": "84407911810",
+   "название": "Автоцентр Плюс",
+   "seoname": "avtotsentr_plyus",
+   "адрес": "Владивостокская ул., 4БК1",
+   "координаты": [
+    55.989476,
+    54.728207
+   ],
+   "рейтинг": 4.9,
+   "оценок": 607,
+   "отзывов": 331,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autoplus-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 246-04-07",
+    "+7 (927) 236-31-06"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кузовной ремонт",
+    "ремонт двигателей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentr_plyus/84407911810/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 65,
+   "загружено_дат": 83
+  },
+  {
+   "id": "121395223778",
+   "название": "StarLine",
+   "seoname": "starline",
+   "адрес": "Трамвайная ул., 5Б",
+   "координаты": [
+    56.079091,
+    54.797342
+   ],
+   "рейтинг": 4.9,
+   "оценок": 734,
+   "отзывов": 319,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://slufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 258-88-55"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосигнализация",
+    "тонирование автостёкол",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "branded_service",
+    "car_park",
+    "car_wash",
+    "company_store",
+    "delivery",
+    "gift_certificate",
+    "guarantee",
+    "installation",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/starline/121395223778/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 48
+  },
+  {
+   "id": "145096148822",
+   "название": "Hertz Auto",
+   "seoname": "hertz_auto",
+   "адрес": "Рязанская ул., 1А",
+   "координаты": [
+    56.017666,
+    54.753844
+   ],
+   "рейтинг": 4.9,
+   "оценок": 543,
+   "отзывов": 308,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://hertzauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 925-98-74"
+   ],
+   "часы": "пн-ср 09:00–19:00; чт 11:00–19:00; пт-вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоакустика",
+    "студия тюнинга",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autovinil",
+    "basic_service",
+    "car_door_closers",
+    "car_interior_re_lighting",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "delivery",
+    "gift_certificate",
+    "glass_tinting",
+    "good_place",
+    "guarantee",
+    "installing_car_audio",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/hertz_auto/145096148822/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 74
+  },
+  {
+   "id": "1032425488",
+   "название": "Авто УЗИ",
+   "seoname": "avto_uzi",
+   "адрес": "ул. Софьи Перовской, 13/2А",
+   "координаты": [
+    55.987826,
+    54.70089
+   ],
+   "рейтинг": 4.7,
+   "оценок": 589,
+   "отзывов": 306,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtouzi.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 494-48-30"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб,вс 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосигнализация",
+    "автосвет"
+   ],
+   "признаки": [
+    "additional_equipment_installation",
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "installation",
+    "parking_disabled",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_uzi/1032425488/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 53
+  },
+  {
+   "id": "39951375828",
+   "название": "Найс Гараж",
+   "seoname": "nays_garazh",
+   "адрес": "Кавказская ул., 8, корп. 3, Уфа",
+   "координаты": [
+    55.975526,
+    54.705364
+   ],
+   "рейтинг": 5,
+   "оценок": 324,
+   "отзывов": 200,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nicegarage-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 111-66-11"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "развал-схождение",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nays_garazh/39951375828/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 39,
+   "загружено_дат": 94
+  },
+  {
+   "id": "1174838164",
+   "название": "Синий бокс",
+   "seoname": "siniy_boks",
+   "адрес": "Интернациональная ул., 12/1",
+   "координаты": [
+    56.067576,
+    54.811301
+   ],
+   "рейтинг": 4.4,
+   "оценок": 492,
+   "отзывов": 187,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.siniybox.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 258-80-15",
+    "+7 (347) 294-00-80",
+    "+7 (987) 254-00-80"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Студия тюнинга",
+    "автосервис, автотехцентр",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "glass_tinting",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/siniy_boks/1174838164/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 54
+  },
+  {
+   "id": "167486161070",
+   "название": "Reborn Kibercar",
+   "seoname": "reborn_kibercar",
+   "адрес": "Силикатная ул., 3, корп. 1",
+   "координаты": [
+    55.916188,
+    54.746581
+   ],
+   "рейтинг": 5,
+   "оценок": 269,
+   "отзывов": 167,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://reborn.su/"
+   ],
+   "телефоны": [
+    "+7 (927) 236-93-50"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "автоакустика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "call_button",
+    "car_door_closers",
+    "car_interior_re_lighting",
+    "car_noise_insulation",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "electric car charging station",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installation_of_exhaust_systems",
+    "installing_car_audio",
+    "installing_the_towbar",
+    "kaspi_red",
+    "kz_kaspi_qr",
+    "kz_transfer_to_kaspi",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "tuning_deflectors",
+    "tuning_of_motor_vehicles",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reborn_kibercar/167486161070/",
+   "последний_отзыв": "2026-11-07",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 63
+  },
+  {
+   "id": "220807740595",
+   "название": "АвтоДеталь",
+   "seoname": "avtodetal",
+   "адрес": "ул. Уфимское Шоссе, 17А, Уфа",
+   "координаты": [
+    56.053377,
+    54.786169
+   ],
+   "рейтинг": 4.5,
+   "оценок": 330,
+   "отзывов": 139,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autodetal-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 226-36-91",
+    "+7 (347) 226-39-36",
+    "+7 (347) 226-15-69"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт турбин",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "street_entrance",
+    "toilet",
+    "turbine repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodetal/220807740595/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 93
+  },
+  {
+   "id": "49609897790",
+   "название": "Маяк-Авто",
+   "seoname": "mayak_avto",
+   "адрес": "Центральная ул., 57, Уфа",
+   "координаты": [
+    55.805316,
+    54.677803
+   ],
+   "рейтинг": 4.7,
+   "оценок": 368,
+   "отзывов": 136,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ufagbo.ru/",
+    "https://gboufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 451-74-11",
+    "+7 (908) 355-78-41",
+    "+7 (908) 355-78-44",
+    "+7 (347) 225-78-48",
+    "+7 (908) 355-78-46"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Установка ГБО",
+    "переоборудование транспортных средств"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "field_service",
+    "freight_car_service",
+    "gce_repair",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mayak_avto/49609897790/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 83
+  },
+  {
+   "id": "67981044904",
+   "название": "Техосмотр на Цветочной",
+   "seoname": "tekhosmotr_na_tsvetochnoy",
+   "адрес": "Цветочная ул., 38, Уфа",
+   "координаты": [
+    56.074475,
+    54.804331
+   ],
+   "рейтинг": 5,
+   "оценок": 227,
+   "отзывов": 89,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ptoufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 412-97-85"
+   ],
+   "часы": "пн 09:00–19:00; вт-пт 08:00–19:00; сб 08:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Пункт техосмотра"
+   ],
+   "признаки": [
+    "car_park",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tekhosmotr_na_tsvetochnoy/67981044904/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 86
+  },
+  {
+   "id": "233549193751",
+   "название": "Avtoestetika102",
+   "seoname": "avtoestetika102",
+   "адрес": "ул. Рабкоров, 1А",
+   "координаты": [
+    55.992295,
+    54.705243
+   ],
+   "рейтинг": 5,
+   "оценок": 191,
+   "отзывов": 85,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtoestetika102.ru/"
+   ],
+   "телефоны": [
+    "+7 (906) 102-10-20"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "студия тюнинга",
+    "автоателье"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "aquablasting",
+    "aquaprint",
+    "autovinil",
+    "car_armoring",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "carbon_fiber_lamination",
+    "chrome_plating",
+    "gift_certificate",
+    "glass_polishing",
+    "glass_tinting",
+    "good_place",
+    "leather_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tuning_deflectors",
+    "tuning_of_motor_vehicles",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoestetika102/233549193751/",
+   "последний_отзыв": "2026-09-26",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 73
+  },
+  {
+   "id": "126039015079",
+   "название": "Хама Тюнинг",
+   "seoname": "khama_tyuning",
+   "адрес": "Бакалинская ул., 9/8",
+   "координаты": [
+    55.993097,
+    54.716368
+   ],
+   "рейтинг": 4.9,
+   "оценок": 126,
+   "отзывов": 81,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://hamatuning.ru/"
+   ],
+   "телефоны": [
+    "+7 (929) 752-15-27",
+    "+7 (937) 493-96-09"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоакустика",
+    "детейлинг",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "car_armoring",
+    "car_door_closers",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "carbon_fiber_lamination",
+    "delivery",
+    "gift_certificate",
+    "good_place",
+    "installing_car_audio",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/khama_tyuning/126039015079/"
+  },
+  {
+   "id": "1245175168",
+   "название": "Арттон",
+   "seoname": "artton",
+   "адрес": "ул. Юрия Гагарина, 49/1, Уфа",
+   "координаты": [
+    56.07665,
+    54.775347
+   ],
+   "рейтинг": 5,
+   "оценок": 139,
+   "отзывов": 75,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.ufa-artton.ru/",
+    "https://ufa-artton.ru/services/"
+   ],
+   "телефоны": [
+    "+7 (917) 755-71-41"
+   ],
+   "часы": "пн-сб 10:00–19:00; вс 12:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детейлинг",
+    "студия тюнинга",
+    "тонирование автостёкол"
+   ],
+   "признаки": [
+    "anti_gravity_film",
+    "armoring_headlights",
+    "autovinil",
+    "car_park",
+    "car_valeting",
+    "gift_certificate",
+    "parking_disabled",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/artton/1245175168/"
+  },
+  {
+   "id": "151872247668",
+   "название": "StarLine",
+   "seoname": "starline",
+   "адрес": "ул. Пугачёва, 64",
+   "координаты": [
+    55.99377,
+    54.687124
+   ],
+   "рейтинг": 5,
+   "оценок": 79,
+   "отзывов": 71,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (901) 952-02-02"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб,вс 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосигнализация",
+    "автоакустика",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Matryoshka",
+    "car_accessories",
+    "car_door_closers",
+    "car_noise_insulation",
+    "car_park",
+    "gift_certificate",
+    "installation",
+    "installing_car_audio",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/starline/151872247668/"
+  },
+  {
+   "id": "89961766172",
+   "название": "Киберкар",
+   "seoname": "kiberkar",
+   "адрес": "Силикатная ул., 3Б",
+   "координаты": [
+    55.917261,
+    54.746415
+   ],
+   "рейтинг": 5,
+   "оценок": 79,
+   "отзывов": 60,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.kibercar.com/"
+   ],
+   "телефоны": [
+    "+7 (927) 236-93-50"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Студия тюнинга",
+    "автосервис, автотехцентр",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "authorized_service",
+    "car_door_closers",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "guarantee",
+    "installation_of_exhaust_systems",
+    "installing_the_towbar",
+    "kaspi_red",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tuning_of_motor_vehicles",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kiberkar/89961766172/"
+  },
+  {
+   "id": "99930761079",
+   "название": "Камертон",
+   "seoname": "kamerton",
+   "адрес": "ул. Менделеева, 134А",
+   "координаты": [
+    56.006399,
+    54.713973
+   ],
+   "рейтинг": 4.9,
+   "оценок": 103,
+   "отзывов": 58,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autozvuk-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 321-58-58"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоакустика",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "car_door_closers",
+    "car_noise_insulation",
+    "delivery",
+    "good_place",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "tuning_of_motor_vehicles",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kamerton/99930761079/"
+  },
+  {
+   "id": "230386276991",
+   "название": "СтоДва",
+   "seoname": "stodva",
+   "адрес": "ул. Менделеева, 134/4А, Уфа",
+   "координаты": [
+    56.007535,
+    54.713479
+   ],
+   "рейтинг": 5,
+   "оценок": 88,
+   "отзывов": 56,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://sto2servis.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 757-61-02"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stodva/230386276991/"
+  },
+  {
+   "id": "9282230396",
+   "название": "Фикс авто",
+   "seoname": "fiks_avto",
+   "адрес": "ул. Кирова, 65/1к1, Уфа",
+   "координаты": [
+    55.969754,
+    54.729123
+   ],
+   "рейтинг": 5,
+   "оценок": 63,
+   "отзывов": 53,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 340-22-25"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 10:00–19:00; вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "self_car_service",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fiks_avto/9282230396/"
+  },
+  {
+   "id": "134675812113",
+   "название": "БитБоксАвто",
+   "seoname": "bitboksavto",
+   "адрес": "ул. Ленина, 156",
+   "координаты": [
+    55.96086,
+    54.746826
+   ],
+   "рейтинг": 5,
+   "оценок": 69,
+   "отзывов": 53,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bitboxauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (909) 349-62-99"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоакустика",
+    "детейлинг",
+    "студия тюнинга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "antichrome",
+    "arches_noise_insulation",
+    "autovinil",
+    "car_armoring",
+    "car_body_film",
+    "car_door_closers",
+    "car_interior_re_lighting",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "cars_russification",
+    "ceiling_cleaning",
+    "delivery",
+    "gift_certificate",
+    "glass_polishing",
+    "glass_tinting",
+    "installing_car_audio",
+    "leather_repair",
+    "ozonation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "scratch_repair",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet_for_disabled",
+    "tuning_of_motor_vehicles",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bitboksavto/134675812113/"
+  },
+  {
+   "id": "175144558545",
+   "название": "А-Гараж",
+   "seoname": "a_garazh",
+   "адрес": "ул. Менделеева, 149/1",
+   "координаты": [
+    56.000507,
+    54.715437
+   ],
+   "рейтинг": 4.6,
+   "оценок": 69,
+   "отзывов": 47,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://agarageufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (917) 498-51-10",
+    "+7 (917) 373-04-44"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автосигнализация",
+    "автостёкла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "auto_glass_repair",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installation",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/a_garazh/175144558545/"
+  },
+  {
+   "id": "138204208326",
+   "название": "АвтоКартель",
+   "seoname": "avtokartel",
+   "адрес": "ул. Защитников Отечества, 8",
+   "координаты": [
+    55.945716,
+    54.79166
+   ],
+   "рейтинг": 5,
+   "оценок": 58,
+   "отзывов": 45,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 333-22-26"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "field_service",
+    "freight_car_service",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "keep_tires",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "starting_the_car",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "welding_works",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokartel/138204208326/"
+  },
+  {
+   "id": "69836819547",
+   "название": "ДёМастер",
+   "seoname": "dyomaster",
+   "адрес": "Республика Башкортостан, Уфа, жилой район Дёма",
+   "координаты": [
+    55.847432,
+    54.701938
+   ],
+   "рейтинг": 4.1,
+   "оценок": 59,
+   "отзывов": 43,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://demaster-sto.ru/"
+   ],
+   "телефоны": [
+    "+7 (937) 833-44-44"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг",
+    "автомойка"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "antichrome",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "call_button",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "car_wheels_powder_coating",
+    "carbon_fiber_lamination",
+    "certified_service",
+    "chip_tuning",
+    "chrome_plating",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "gift_certificate",
+    "glass_polishing",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leather_repair",
+    "ozonation",
+    "painting_car_rims",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "ramp",
+    "removing_dents_without_painting",
+    "repair_dsg",
+    "sandblasting",
+    "scratch_repair",
+    "self_service",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "termobudki",
+    "thickness_gauge_checking",
+    "tire_blacking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dyomaster/69836819547/"
+  },
+  {
+   "id": "115350997133",
+   "название": "100avto",
+   "seoname": "100avto",
+   "адрес": "ул. 50-летия Октября, 13, Уфа",
+   "координаты": [
+    55.966552,
+    54.738343
+   ],
+   "рейтинг": 4.7,
+   "оценок": 60,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (987) 612-58-27"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/100avto/115350997133/"
+  },
+  {
+   "id": "88244696248",
+   "название": "Комфорт Авто",
+   "seoname": "komfort_avto",
+   "адрес": "Рязанская ул., 12/3",
+   "координаты": [
+    56.017809,
+    54.754942
+   ],
+   "рейтинг": 5,
+   "оценок": 74,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://comfortcar.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (967) 743-72-80",
+    "+7 (905) 253-76-26"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб,вс 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосвет",
+    "автосигнализация",
+    "автоакустика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "additional_equipment_installation",
+    "car_noise_insulation",
+    "installation",
+    "installing_car_audio",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/komfort_avto/88244696248/"
+  },
+  {
+   "id": "7728745901",
+   "название": "Автоцентрмира",
+   "seoname": "avtotsentrmira",
+   "адрес": "ул. Мира, 14А, Уфа",
+   "координаты": [
+    56.067412,
+    54.813629
+   ],
+   "рейтинг": 4.9,
+   "оценок": 74,
+   "отзывов": 40,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autocentrmira.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 286-01-60",
+    "+7 (917) 386-11-11"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotsentrmira/7728745901/"
+  },
+  {
+   "id": "79313552255",
+   "название": "АвтоПро",
+   "seoname": "avtopro",
+   "адрес": "ул. Маршала Жукова, 42/3, Уфа",
+   "координаты": [
+    56.078769,
+    54.789592
+   ],
+   "рейтинг": 5,
+   "оценок": 50,
+   "отзывов": 38,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autopro-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 451-74-39",
+    "+7 (927) 344-44-68"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtopro/79313552255/"
+  },
+  {
+   "id": "230948157744",
+   "название": "Апгрейд Авто",
+   "seoname": "apgreyd_avto",
+   "адрес": "ул. Кирова, 128/1к1",
+   "координаты": [
+    55.979881,
+    54.72413
+   ],
+   "рейтинг": 4.9,
+   "оценок": 68,
+   "отзывов": 36,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://up-grade-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (927) 353-35-23"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоакустика",
+    "студия тюнинга",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_door_closers",
+    "car_interior_re_lighting",
+    "car_interior_wallpapering",
+    "car_noise_insulation",
+    "cars_russification",
+    "gift_certificate",
+    "glass_tinting",
+    "good_place",
+    "installing_car_audio",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "tuning_of_motor_vehicles",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/apgreyd_avto/230948157744/"
+  },
+  {
+   "id": "91458301392",
+   "название": "АвтоЛогика",
+   "seoname": "avtologika",
+   "адрес": "ул. Минигали Губайдуллина, 14/5",
+   "координаты": [
+    55.993115,
+    54.723668
+   ],
+   "рейтинг": 5,
+   "оценок": 29,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (937) 313-78-40"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосигнализация",
+    "автоакустика",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "car_door_closers",
+    "car_park",
+    "disable_captions",
+    "gift_certificate",
+    "installation",
+    "installing_car_audio",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtologika/91458301392/"
+  },
+  {
+   "id": "168303783238",
+   "название": "ПроСТО Сервис",
+   "seoname": "prosto_servis",
+   "адрес": "просп. Салавата Юлаева, 32, Уфа",
+   "координаты": [
+    55.991165,
+    54.725192
+   ],
+   "рейтинг": 4.3,
+   "оценок": 55,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pro-sto-service.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (969) 814-77-80"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "gas_stops",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "hydraulic_cylinders",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/prosto_servis/168303783238/"
+  },
+  {
+   "id": "82286865875",
+   "название": "Like Sound",
+   "seoname": "like_sound",
+   "адрес": "ул. Кирова, 128/1литА",
+   "координаты": [
+    55.980063,
+    54.724676
+   ],
+   "рейтинг": 4.7,
+   "оценок": 48,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://likesound.ru/"
+   ],
+   "телефоны": [
+    "+7 (987) 040-40-40"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоакустика",
+    "студия тюнинга",
+    "автосигнализация"
+   ],
+   "признаки": [
+    "autovinil",
+    "delivery",
+    "gift_certificate",
+    "installation",
+    "payment_by_credit_card",
+    "pickup",
+    "repairs",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/like_sound/82286865875/"
+  },
+  {
+   "id": "1167285776",
+   "название": "City Car",
+   "seoname": "city_car",
+   "адрес": "Революционная ул., 99",
+   "координаты": [
+    55.963191,
+    54.734642
+   ],
+   "рейтинг": 4.7,
+   "оценок": 32,
+   "отзывов": 15,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://citycar-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (347) 266-67-44",
+    "+7 (927) 236-67-44"
+   ],
+   "часы": "пн-сб 10:00–18:00, перерыв 14:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Студия тюнинга",
+    "автосигнализация",
+    "автоакустика"
+   ],
+   "признаки": [
+    "good_place",
+    "installation",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/city_car/1167285776/"
+  },
+  {
+   "id": "24460108640",
+   "название": "АвтоКомфорт",
+   "seoname": "avtokomfort",
+   "адрес": "Тамбовская ул., 4/12",
+   "координаты": [
+    55.991747,
+    54.705325
+   ],
+   "рейтинг": 4.7,
+   "оценок": 15,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://avtokomfort.pro/"
+   ],
+   "телефоны": [
+    "+7 (906) 376-65-55",
+    "+7 (967) 379-97-77"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Установка ГБО",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "gce_repair",
+    "gift_certificate",
+    "guarantee",
+    "installation",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokomfort/24460108640/"
+  },
+  {
+   "id": "108833597448",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "Комаринская ул., 44, д. Карпово",
+   "координаты": [
+    56.110375,
+    54.679725
+   ],
+   "рейтинг": 4.3,
+   "оценок": 32,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://grandcto-ufa.ru/"
+   ],
+   "телефоны": [
+    "+7 (977) 095-48-52",
+    "+7 (906) 108-48-69"
+   ],
+   "часы": "вт-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "guarantee",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/108833597448/"
+  },
+  {
+   "id": "108553844843",
+   "название": "Хама Тюнинг",
+   "seoname": "khama_tyuning",
+   "адрес": "ул. Лесотехникума, 49/1",
+   "координаты": [
+    56.030091,
+    54.751442
+   ],
+   "рейтинг": 4.4,
+   "оценок": 24,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://hamatuning.ru/"
+   ],
+   "телефоны": [
+    "+7 (929) 752-15-27"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоакустика",
+    "студия тюнинга",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/khama_tyuning/108553844843/"
+  },
+  {
+   "id": "63151638953",
+   "название": "Solaris ТрансТехСервис",
+   "seoname": "solaris_transtekhservis",
+   "адрес": "ул. Пархоменко, 156/3к1",
+   "координаты": [
+    55.968159,
+    54.741868
+   ],
+   "рейтинг": 4.3,
+   "оценок": 13,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.tts.ru/service-record/"
+   ],
+   "телефоны": [
+    "+7 (347) 200-81-23"
+   ],
+   "часы": "пн-сб 09:00–20:00; вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/solaris_transtekhservis/63151638953/"
+  },
+  {
+   "id": "1040662745",
+   "название": "AutoZoneUfa",
+   "seoname": "autozoneufa",
+   "адрес": "ул. 50 лет СССР, 30/2",
+   "координаты": [
+    56.00864,
+    54.748941
+   ],
+   "рейтинг": 4.7,
+   "оценок": 17,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (927) 314-49-77"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосигнализация",
+    "автосервис, автотехцентр",
+    "автоакустика"
+   ],
+   "признаки": [
+    "delivery",
+    "installation",
+    "preliminary_registration",
+    "repairs",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/autozoneufa/1040662745/"
+  },
+  {
+   "id": "245155136880",
+   "название": "Pereshil",
+   "seoname": "pereshil",
+   "адрес": "ул. Рихарда Зорге, 17/4, Уфа",
+   "координаты": [
+    55.983512,
+    54.753248
+   ],
+   "рейтинг": 4.3,
+   "оценок": 5,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (917) 806-73-20"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоателье",
+    "детейлинг"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_gravity_film",
+    "car_armoring",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "leather_repair",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pereshil/245155136880/"
+  },
+  {
+   "id": "146017494213",
+   "название": "Auto Republic",
+   "seoname": "auto_republic",
+   "адрес": "ул. Гоголя, 23/1",
+   "координаты": [
+    55.935757,
+    54.72308
+   ],
+   "рейтинг": 4.3,
+   "оценок": 5,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://taplink.cc/autorepublic102"
+   ],
+   "телефоны": [
+    "+7 (993) 046-50-10"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоакустика",
+    "детейлинг",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_gravity_film",
+    "car_accessories",
+    "car_armoring",
+    "car_door_closers",
+    "car_noise_insulation",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "delivery",
+    "disable_captions",
+    "gift_certificate",
+    "glass_polishing",
+    "installing_car_audio",
+    "parking_disabled",
+    "pickup",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/auto_republic/146017494213/"
+  }
+ ]
+}
