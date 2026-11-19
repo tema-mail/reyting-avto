@@ -1,0 +1,3841 @@
+{
+ "ниша": "Грузовой шиномонтаж",
+ "ключ": "gruzovoy-shinomontazh",
+ "запросы": [
+  "грузовой шиномонтаж"
+ ],
+ "найдено_в_яндексе": {
+  "грузовой шиномонтаж": 39,
+  "грузовой шиномонтаж Ворошиловский район": 39,
+  "грузовой шиномонтаж Железнодорожный район": 16,
+  "грузовой шиномонтаж Кировский район": 13,
+  "грузовой шиномонтаж Ленинский район": 15,
+  "грузовой шиномонтаж Октябрьский район": 18,
+  "грузовой шиномонтаж Первомайский район": 41,
+  "грузовой шиномонтаж Пролетарский район": 14,
+  "грузовой шиномонтаж Советский район": 17
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Ростову-на-Дону (регион 39)",
+ "город": "rostov-na-donu",
+ "компании": [
+  {
+   "id": "63421453086",
+   "название": "Мосавтошина",
+   "seoname": "mosavtoshina",
+   "адрес": "просп. Королёва, 5/2",
+   "координаты": [
+    39.69736,
+    47.295009
+   ],
+   "рейтинг": 5,
+   "оценок": 1469,
+   "отзывов": 771,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mosautoshina.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 333-28-30"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "delivery",
+    "guarantee",
+    "keep_tires",
+    "motorcycle_tire_repair",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "vulcanization",
+    "wheel_balancing",
+    "wholesale"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mosavtoshina/63421453086/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 59,
+   "загружено_дат": 89
+  },
+  {
+   "id": "36512604251",
+   "название": "Дакар",
+   "seoname": "dakar",
+   "адрес": "ул. Доватора, 146/3",
+   "координаты": [
+    39.602113,
+    47.242607
+   ],
+   "рейтинг": 5,
+   "оценок": 1498,
+   "отзывов": 758,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dakar61.ru/"
+   ],
+   "телефоны": [
+    "+7 (928) 122-70-34",
+    "+7 (938) 128-81-35"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "delivery",
+    "guarantee",
+    "keep_tires",
+    "motorcycle_tire_repair",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "tire_fitting",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing",
+    "wholesale",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dakar/36512604251/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 58
+  },
+  {
+   "id": "80829820307",
+   "название": "БиК Авто",
+   "seoname": "bik_avto",
+   "адрес": "Машиностроительный пер., 7/1",
+   "координаты": [
+    39.604523,
+    47.208201
+   ],
+   "рейтинг": 5,
+   "оценок": 1175,
+   "отзывов": 710,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bikavto.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 204-26-89"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "installing_the_towbar",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sandblasting",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "truck_tire_service",
+    "turbine repair",
+    "urea",
+    "vibrationstand",
+    "vulcanization",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bik_avto/80829820307/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 55,
+   "загружено_дат": 83
+  },
+  {
+   "id": "1161645981",
+   "название": "Автосервис ЭталонАвто",
+   "seoname": "avtoservis_etalonavto",
+   "адрес": "ул. Оганова, 39Б",
+   "координаты": [
+    39.662776,
+    47.280441
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1167,
+   "отзывов": 689,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.etalon-avto.pro/"
+   ],
+   "телефоны": [
+    "+7 (938) 135-00-23"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "generators",
+    "good_place",
+    "guarantee",
+    "injector_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "piston_groups",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "spare_parts",
+    "starters",
+    "tire_fitting",
+    "turbine repair",
+    "vibrationstand",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_etalonavto/1161645981/",
+   "последний_отзыв": "2026-10-08",
+   "отзывов_за_12_мес_из_загруженных": 38,
+   "загружено_дат": 81
+  },
+  {
+   "id": "42028106852",
+   "название": "Вулканизация № 1",
+   "seoname": "vulkanizatsiya_1",
+   "адрес": "Портовая ул., 188А",
+   "координаты": [
+    39.671144,
+    47.202664
+   ],
+   "рейтинг": 5,
+   "оценок": 946,
+   "отзывов": 420,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (918) 599-97-00",
+    "+7 (904) 341-67-78"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шиномонтаж",
+    "автосервис, автотехцентр",
+    "нанесение покрытий"
+   ],
+   "признаки": [
+    "mobile_tire_service",
+    "street_entrance",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vulkanizatsiya_1/42028106852/",
+   "последний_отзыв": "2026-11-03",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 49
+  },
+  {
+   "id": "143386230517",
+   "название": "У Серго",
+   "seoname": "u_sergo",
+   "адрес": "Горсоветская ул., 42, микрорайон Берберовка",
+   "координаты": [
+    39.776482,
+    47.24041
+   ],
+   "рейтинг": 5,
+   "оценок": 545,
+   "отзывов": 334,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (952) 416-66-00"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "good_place",
+    "guarantee",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/u_sergo/143386230517/",
+   "последний_отзыв": "2026-09-12",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 77
+  },
+  {
+   "id": "1783976897",
+   "название": "Шиномонтаж 24 Часа",
+   "seoname": "shinomontazh_24_chasa",
+   "адрес": "Белорусская ул., 89",
+   "координаты": [
+    39.744608,
+    47.280141
+   ],
+   "рейтинг": 5,
+   "оценок": 482,
+   "отзывов": 235,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://shinomontazh-24-chasa-belorusskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (928) 115-57-55"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шины и диски"
+   ],
+   "признаки": [
+    "buying_tires_wheels",
+    "call_button",
+    "discs",
+    "keep_tires",
+    "parking_disabled",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "tires"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh_24_chasa/1783976897/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 74
+  },
+  {
+   "id": "143441207884",
+   "название": "Альта Авто",
+   "seoname": "alta_avto",
+   "адрес": "Белорусская ул., 159",
+   "координаты": [
+    39.734635,
+    47.282687
+   ],
+   "рейтинг": 4.9,
+   "оценок": 437,
+   "отзывов": 217,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (909) 433-00-44",
+    "+7 (909) 411-00-44"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "моторные масла",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "generators",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alta_avto/143441207884/",
+   "последний_отзыв": "2026-08-10",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 92
+  },
+  {
+   "id": "1150451532",
+   "название": "Шинный Дом",
+   "seoname": "shinny_dom",
+   "адрес": "просп. Стачки, 70, Ростов-на-Дону",
+   "координаты": [
+    39.660598,
+    47.211735
+   ],
+   "рейтинг": 4.9,
+   "оценок": 339,
+   "отзывов": 156,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.shin-dom.ru/"
+   ],
+   "телефоны": [
+    "+7 (918) 553-94-97",
+    "+7 (918) 520-01-34",
+    "+7 (918) 558-94-97"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "delivery",
+    "discs",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "tires",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wholesale",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinny_dom/1150451532/",
+   "последний_отзыв": "2026-09-19",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 90
+  },
+  {
+   "id": "136240336544",
+   "название": "Мастер",
+   "seoname": "master",
+   "адрес": "просп. 40-летия Победы, 318А",
+   "координаты": [
+    39.836049,
+    47.240839
+   ],
+   "рейтинг": 4.7,
+   "оценок": 221,
+   "отзывов": 115,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://stoavtomaster.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 866-16-11",
+    "+7 (863) 260-61-61"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master/136240336544/",
+   "последний_отзыв": "2026-07-10",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 78
+  },
+  {
+   "id": "3094762081",
+   "название": "Доктор Шин",
+   "seoname": "doktor_shin",
+   "адрес": "ул. Добровольского, 21Б, микрорайон Северный",
+   "координаты": [
+    39.701489,
+    47.29765
+   ],
+   "рейтинг": 4.8,
+   "оценок": 241,
+   "отзывов": 108,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://doctorshin161.ru/"
+   ],
+   "телефоны": [
+    "+7 (928) 226-29-14",
+    "+7 (928) 100-66-99"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "discs",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "tire_fitting",
+    "tires",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/doktor_shin/3094762081/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 48
+  },
+  {
+   "id": "82043803472",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "ул. Щербакова, 45/1",
+   "координаты": [
+    39.778179,
+    47.267684
+   ],
+   "рейтинг": 4.9,
+   "оценок": 198,
+   "отзывов": 103,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://shinomontazh-ulitsa-scherbakova.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (951) 832-11-17",
+    "+7 (988) 534-17-58"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски",
+    "заправка автокондиционеров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "mobile_tire_service",
+    "pickup",
+    "preliminary_registration",
+    "tire_fitting",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/82043803472/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 24,
+   "загружено_дат": 85
+  },
+  {
+   "id": "159654087958",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "Темерницкая ул., 5Б, корп. 1, посёлок Верхнетемерницкий",
+   "координаты": [
+    39.711891,
+    47.301536
+   ],
+   "рейтинг": 5,
+   "оценок": 201,
+   "отзывов": 95,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 345-46-22"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/159654087958/",
+   "последний_отзыв": "2026-10-28",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 65
+  },
+  {
+   "id": "32098682392",
+   "название": "Доктор Шин",
+   "seoname": "doktor_shin",
+   "адрес": "ул. Нариманова, 44",
+   "координаты": [
+    39.711869,
+    47.263555
+   ],
+   "рейтинг": 4.7,
+   "оценок": 178,
+   "отзывов": 85,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://doctorshin161.ru/"
+   ],
+   "телефоны": [
+    "+7 (928) 100-66-99",
+    "+7 (928) 226-29-14"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "discs",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "tire_fitting",
+    "tires",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/doktor_shin/32098682392/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 43
+  },
+  {
+   "id": "1087571297",
+   "название": "Шиномоменто",
+   "seoname": "shinomomento",
+   "адрес": "Таганрогская ул., 144А",
+   "координаты": [
+    39.62349,
+    47.259603
+   ],
+   "рейтинг": 4.5,
+   "оценок": 126,
+   "отзывов": 75,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://shinomomento.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 200-09-09"
+   ],
+   "часы": "ежедневно, 08:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "elevator_wheelchair_accessible",
+    "good_place",
+    "guarantee",
+    "kaspi_red",
+    "keep_tires",
+    "mobile_tire_service",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "toilet_for_disabled",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomomento/1087571297/",
+   "последний_отзыв": "2026-11-07",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 57
+  },
+  {
+   "id": "18517160813",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "Магистральная ул., 2",
+   "координаты": [
+    39.803482,
+    47.299828
+   ],
+   "рейтинг": 4.4,
+   "оценок": 119,
+   "отзывов": 72,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (928) 100-84-43",
+    "+7 (988) 940-20-88",
+    "+7 (900) 185-46-54"
+   ],
+   "часы": "ежедневно, 08:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/18517160813/"
+  },
+  {
+   "id": "1318788921",
+   "название": "ШиНКа",
+   "seoname": "shinka",
+   "адрес": "ул. Коминтерна, 47А",
+   "координаты": [
+    39.661989,
+    47.205324
+   ],
+   "рейтинг": 4.7,
+   "оценок": 119,
+   "отзывов": 64,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.tyrer.ru/"
+   ],
+   "телефоны": [
+    "+7 (928) 110-04-43"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "buying_tires_wheels",
+    "car_servicing",
+    "delivery",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "vulcanization",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinka/1318788921/"
+  },
+  {
+   "id": "239046755789",
+   "название": "Промэнерго",
+   "seoname": "promenergo",
+   "адрес": "2-я Обзорная ул., 52",
+   "координаты": [
+    39.603038,
+    47.229226
+   ],
+   "рейтинг": 4.9,
+   "оценок": 83,
+   "отзывов": 59,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://автосервисгрузовой.рф/",
+    "http://главспецсервис.рф/",
+    "https://alfa-rost.ru/"
+   ],
+   "телефоны": [
+    "+7 (928) 617-07-00",
+    "+7 (928) 779-07-00"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "компрессоры и компрессорное оборудование",
+    "ремонт промышленного оборудования"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "freight_car_service",
+    "guarantee",
+    "heater_flushing",
+    "industrial_electronics",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repairs",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "termobudki",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/promenergo/239046755789/"
+  },
+  {
+   "id": "37065570183",
+   "название": "Автотехцентр",
+   "seoname": "avtotekhtsentr",
+   "адрес": "просп. Ленина, 69, Аксай",
+   "координаты": [
+    39.855708,
+    47.28258
+   ],
+   "рейтинг": 4.4,
+   "оценок": 140,
+   "отзывов": 56,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtoservis-aksay.ru/"
+   ],
+   "телефоны": [
+    "+7 (961) 436-56-46",
+    "+7 (988) 892-15-55",
+    "+7 (918) 890-10-38"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtotekhtsentr/37065570183/"
+  },
+  {
+   "id": "228422321078",
+   "название": "Мир больших колёс",
+   "seoname": "mir_bolshikh_kolyos",
+   "адрес": "Западная ул., 33, Аксай",
+   "координаты": [
+    39.851478,
+    47.266569
+   ],
+   "рейтинг": 5,
+   "оценок": 100,
+   "отзывов": 56,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.mbk-global.com/"
+   ],
+   "телефоны": [
+    "+7 (863) 320-54-02",
+    "8 (800) 555-40-51"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски",
+    "Аккумуляторы, ИБП и зарядные устройства"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "charging_and_restoring_batteries",
+    "delivery",
+    "discs",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "tires",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wholesale",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mir_bolshikh_kolyos/228422321078/"
+  },
+  {
+   "id": "91307160779",
+   "название": "ШинОк",
+   "seoname": "shinok",
+   "адрес": "ул. Речников, 42, Аксай",
+   "координаты": [
+    39.873863,
+    47.286964
+   ],
+   "рейтинг": 4.8,
+   "оценок": 73,
+   "отзывов": 45,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://shinok-ulitsa-rechnikov.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (993) 085-02-05",
+    "+7 (909) 434-11-02"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "buying_tires_wheels",
+    "call_button",
+    "discs",
+    "doubloons_loyalty_card",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "tires",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinok/91307160779/"
+  },
+  {
+   "id": "195473229490",
+   "название": "Шиномонтаж 777",
+   "seoname": "shinomontazh_777",
+   "адрес": "Курская ул., 10, стр. 1",
+   "координаты": [
+    39.668839,
+    47.242882
+   ],
+   "рейтинг": 5,
+   "оценок": 56,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://wheel-express.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (928) 111-82-60"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шиномонтаж",
+    "заправка автокондиционеров",
+    "автотехпомощь"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "field_service",
+    "guarantee",
+    "keep_tires",
+    "mobile_tire_service",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "truck_tire_service",
+    "urgent_departure",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh_777/195473229490/"
+  },
+  {
+   "id": "28371958536",
+   "название": "Большое колесо",
+   "seoname": "bolshoye_koleso",
+   "адрес": "Промышленная ул., 2, Аксай",
+   "координаты": [
+    39.853077,
+    47.276192
+   ],
+   "рейтинг": 4.7,
+   "оценок": 61,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (928) 183-82-39"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bolshoye_koleso/28371958536/"
+  },
+  {
+   "id": "1913648996",
+   "название": "Грузовой шиномонтаж",
+   "seoname": "gruzovoy_shinomontazh",
+   "адрес": "просп. Шолохова, 181А",
+   "координаты": [
+    39.78863,
+    47.254846
+   ],
+   "рейтинг": 4.7,
+   "оценок": 61,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 501-45-49",
+    "+7 (904) 445-30-99"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "body_repair",
+    "payment_by_credit_card",
+    "tire_fitting",
+    "truck_tire_service"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzovoy_shinomontazh/1913648996/"
+  },
+  {
+   "id": "65548028157",
+   "название": "Грузовой шиномонтаж",
+   "seoname": "gruzovoy_shinomontazh",
+   "адрес": "Западная ул., 64, Аксай",
+   "координаты": [
+    39.848943,
+    47.285131
+   ],
+   "рейтинг": 4,
+   "оценок": 8,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (967) 660-06-63"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzovoy_shinomontazh/65548028157/"
+  },
+  {
+   "id": "58060403415",
+   "название": "Rw",
+   "seoname": "rw",
+   "адрес": "Марксистский пер., 2А, Ростов-на-Дону",
+   "координаты": [
+    39.720033,
+    47.266218
+   ],
+   "рейтинг": 5,
+   "оценок": 169,
+   "отзывов": 154,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (906) 183-21-11"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски",
+    "сварочные работы"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "buying_tires_wheels",
+    "delivery",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rw/58060403415/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "61437376615",
+   "название": "Норд-Авто",
+   "seoname": "nord_avto",
+   "адрес": "ул. Добровольского, 19/7, микрорайон Северный",
+   "координаты": [
+    39.700641,
+    47.296248
+   ],
+   "рейтинг": 5,
+   "оценок": 385,
+   "отзывов": 210,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nordauto.pro/"
+   ],
+   "телефоны": [
+    "+7 (863) 229-20-50",
+    "+7 (929) 817-07-99"
+   ],
+   "часы": "ежедневно, 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nord_avto/61437376615/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "23940188115",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "просп. Королёва, 30Б",
+   "координаты": [
+    39.719612,
+    47.295778
+   ],
+   "рейтинг": 4.4,
+   "оценок": 9,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://shinomontag.mozellosite.com/"
+   ],
+   "телефоны": [
+    "+7 (961) 414-39-36",
+    "+7 (950) 843-42-28"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "guarantee",
+    "mobile_tire_service",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/23940188115/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "213304621526",
+   "название": "Шинавто24",
+   "seoname": "shinavto24",
+   "адрес": "Ростов-на-Дону, проспект Михаила Нагибина",
+   "координаты": [
+    39.717,
+    47.257567
+   ],
+   "рейтинг": 4.4,
+   "оценок": 130,
+   "отзывов": 73,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://shinomontazh-avtogarazhnyj-pereulok.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (929) 820-71-69"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шиномонтаж",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "mobile_tire_service",
+    "motorcycle_tire_repair",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinavto24/213304621526/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "72063650662",
+   "название": "РемСтрим",
+   "seoname": "remstrim",
+   "адрес": "Вятская ул., 116, корп. 3",
+   "координаты": [
+    39.76628,
+    47.280002
+   ],
+   "рейтинг": 4.6,
+   "оценок": 11,
+   "отзывов": 10,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://remstream.ru/"
+   ],
+   "телефоны": [
+    "+7 (918) 525-23-06"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "toilet",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/remstrim/72063650662/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "1037980829",
+   "название": "VIP Драйвер",
+   "seoname": "vip_drayver",
+   "адрес": "просп. Королёва, 11А",
+   "координаты": [
+    39.706548,
+    47.295226
+   ],
+   "рейтинг": 4.7,
+   "оценок": 976,
+   "отзывов": 420,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.vip-driver.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 291-87-35",
+    "+7 (863) 220-02-02"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_servicing",
+    "car_wash",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vip_drayver/1037980829/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "101873229732",
+   "название": "Шиномонтажная мастерская",
+   "seoname": "shinomontazhnaya_masterskaya",
+   "адрес": "Орская ул., 19А",
+   "координаты": [
+    39.779108,
+    47.283768
+   ],
+   "рейтинг": 5,
+   "оценок": 205,
+   "отзывов": 133,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (950) 843-42-28"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "mobile_tire_service",
+    "payment_by_credit_card",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazhnaya_masterskaya/101873229732/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "1142490674",
+   "название": "Гараж",
+   "seoname": "garazh",
+   "адрес": "ул. Борко, 3/5, микрорайон Северный",
+   "координаты": [
+    39.704646,
+    47.281264
+   ],
+   "рейтинг": 4.5,
+   "оценок": 152,
+   "отзывов": 63,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (918) 558-87-16"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "basic_service",
+    "preliminary_registration",
+    "tire_fitting"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garazh/1142490674/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "191038448641",
+   "название": "Честный гараж",
+   "seoname": "chestny_garazh",
+   "адрес": "Фурмановская ул., 150Б",
+   "координаты": [
+    39.731721,
+    47.271606
+   ],
+   "рейтинг": 5,
+   "оценок": 200,
+   "отзывов": 112,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (934) 663-49-02"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "tire_fitting",
+    "trailer_repair"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chestny_garazh/191038448641/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "93583731132",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "бул. Комарова, 12А, микрорайон Северный",
+   "координаты": [
+    39.695106,
+    47.287845
+   ],
+   "рейтинг": 4.5,
+   "оценок": 81,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 404-40-63"
+   ],
+   "часы": "ежедневно, 08:30–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/93583731132/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "237805664208",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "Орбитальная ул., 70, микрорайон Северный",
+   "координаты": [
+    39.729436,
+    47.302299
+   ],
+   "рейтинг": 4.7,
+   "оценок": 56,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (966) 222-21-21",
+    "+7 (985) 144-64-97"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/237805664208/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "50275284480",
+   "название": "Шиномонтажная мастерская № 2",
+   "seoname": "shinomontazhnaya_masterskaya_2",
+   "адрес": "Орбитальная ул., 3В, микрорайон Северный",
+   "координаты": [
+    39.714478,
+    47.301253
+   ],
+   "рейтинг": 4.7,
+   "оценок": 32,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 345-46-22"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazhnaya_masterskaya_2/50275284480/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "40974067905",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "Орбитальная ул., 3М, микрорайон Северный",
+   "координаты": [
+    39.716185,
+    47.301216
+   ],
+   "рейтинг": 4.9,
+   "оценок": 71,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 345-46-22"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/40974067905/",
+   "найдено_по": "грузовой шиномонтаж Ворошиловский район"
+  },
+  {
+   "id": "108767718601",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "2-я Краснодарская ул., 119Б",
+   "координаты": [
+    39.645609,
+    47.206078
+   ],
+   "рейтинг": 5,
+   "оценок": 42,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://shinomontazh-2-ja-krasnodarskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (928) 212-72-72"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "заправка автокондиционеров",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/108767718601/",
+   "найдено_по": "грузовой шиномонтаж Железнодорожный район"
+  },
+  {
+   "id": "95415260844",
+   "название": "Orange",
+   "seoname": "orange",
+   "адрес": "Портовая ул., 381",
+   "координаты": [
+    39.654421,
+    47.195284
+   ],
+   "рейтинг": 4.2,
+   "оценок": 54,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (952) 565-70-00"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "diesel_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_refrigerated_trucks",
+    "self_car_service",
+    "tire_fitting",
+    "toilet_for_disabled",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/orange/95415260844/",
+   "найдено_по": "грузовой шиномонтаж Железнодорожный район"
+  },
+  {
+   "id": "196512491793",
+   "название": "Формула61",
+   "seoname": "formula61",
+   "адрес": "Портовая ул., 435",
+   "координаты": [
+    39.64859,
+    47.193245
+   ],
+   "рейтинг": 4.4,
+   "оценок": 708,
+   "отзывов": 292,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://formula61-pro-lab.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (928) 279-49-61",
+    "+7 (928) 279-49-62",
+    "+7 (928) 279-49-60"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "развал-схождение"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "cars_russification",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_photopoi",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "starting_the_car",
+    "tire_fitting",
+    "toilet",
+    "vulcanization",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/formula61/196512491793/",
+   "найдено_по": "грузовой шиномонтаж Железнодорожный район"
+  },
+  {
+   "id": "16680849434",
+   "название": "Шиномоменто",
+   "seoname": "shinomomento",
+   "адрес": "ул. Текучёва, 160",
+   "координаты": [
+    39.688993,
+    47.231035
+   ],
+   "рейтинг": 4.4,
+   "оценок": 95,
+   "отзывов": 59,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://shinomomento.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 200-09-09",
+    "+7 (988) 250-18-15"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "buying_tires_wheels",
+    "call_button",
+    "delivery",
+    "discs",
+    "guarantee",
+    "kaspi_red",
+    "keep_tires",
+    "kz_kaspi_qr",
+    "kz_transfer_to_kaspi",
+    "mobile_tire_service",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "tire_fitting",
+    "tires",
+    "toilet_for_disabled",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomomento/16680849434/",
+   "найдено_по": "грузовой шиномонтаж Железнодорожный район"
+  },
+  {
+   "id": "129753908386",
+   "название": "Южный Ветер",
+   "seoname": "yuzhny_veter",
+   "адрес": "Университетский пер., 131А",
+   "координаты": [
+    39.722943,
+    47.232582
+   ],
+   "рейтинг": 5,
+   "оценок": 300,
+   "отзывов": 187,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://juzhnyj-veter-ulitsa-tekucheva.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (928) 229-90-13",
+    "+7 (863) 229-98-88"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "freight_car_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yuzhny_veter/129753908386/",
+   "найдено_по": "грузовой шиномонтаж Железнодорожный район"
+  },
+  {
+   "id": "1173118534",
+   "название": "Шины диски",
+   "seoname": "shiny_diski",
+   "адрес": "ул. Доватора, 34А",
+   "координаты": [
+    39.643295,
+    47.242932
+   ],
+   "рейтинг": 4.8,
+   "оценок": 410,
+   "отзывов": 165,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (863) 279-27-20",
+    "+7 (928) 279-27-20",
+    "+7 (928) 279-27-36"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "discs",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "tires",
+    "vulcanization",
+    "wheel_balancing",
+    "wholesale",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shiny_diski/1173118534/",
+   "найдено_по": "грузовой шиномонтаж Железнодорожный район"
+  },
+  {
+   "id": "58665907723",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "Ростов-на-Дону, улица Юго-восточная промзона, 6/2",
+   "координаты": [
+    39.610745,
+    47.254363
+   ],
+   "рейтинг": 4.2,
+   "оценок": 10,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (961) 329-75-55"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "guarantee",
+    "keep_tires",
+    "motorcycle_tire_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/58665907723/",
+   "найдено_по": "грузовой шиномонтаж Железнодорожный район"
+  },
+  {
+   "id": "110475741104",
+   "название": "Моторесурс",
+   "seoname": "motoresurs",
+   "адрес": "ул. Пескова, 25",
+   "координаты": [
+    39.575954,
+    47.216729
+   ],
+   "рейтинг": 4.7,
+   "оценок": 80,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ремонт-грузовиков-61.рф/"
+   ],
+   "телефоны": [
+    "+7 (900) 132-99-98",
+    "+7 (952) 565-29-29"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "buying_tires_wheels",
+    "car_park",
+    "car_servicing",
+    "delivery",
+    "diesel_service",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motoresurs/110475741104/",
+   "найдено_по": "грузовой шиномонтаж Железнодорожный район"
+  },
+  {
+   "id": "90958779054",
+   "название": "Колесо 161",
+   "seoname": "koleso_161",
+   "адрес": "Ростов-на-Дону, Западный",
+   "координаты": [
+    39.588845,
+    47.242568
+   ],
+   "рейтинг": 4.6,
+   "оценок": 21,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (918) 854-90-08",
+    "+7 (952) 414-44-18"
+   ],
+   "часы": "пн-сб 09:00–18:00; вс 09:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "шиномонтаж",
+    "оптовая компания"
+   ],
+   "признаки": [
+    "car_servicing",
+    "delivery",
+    "tire_fitting",
+    "wheelchair_accessability",
+    "wholesale"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koleso_161/90958779054/",
+   "найдено_по": "грузовой шиномонтаж Железнодорожный район"
+  },
+  {
+   "id": "98721167677",
+   "название": "Мр Шина",
+   "seoname": "mr_shina",
+   "адрес": "ул. Пескова, 25",
+   "координаты": [
+    39.575954,
+    47.216729
+   ],
+   "рейтинг": 4.3,
+   "оценок": 9,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://mr-shina-ulitsa-peskova.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (900) 132-99-98"
+   ],
+   "часы": "пн-пт 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "adblue",
+    "automotive_products",
+    "buying_tires_wheels",
+    "car_park",
+    "car_servicing",
+    "delivery",
+    "discs",
+    "generators",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "spare_parts",
+    "starters",
+    "starting_the_car",
+    "tire_fitting",
+    "tires",
+    "toilet",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mr_shina/98721167677/",
+   "найдено_по": "грузовой шиномонтаж Железнодорожный район"
+  },
+  {
+   "id": "208760434769",
+   "название": "Гиамах магазин Шины Диски",
+   "seoname": "giamakh_magazin_shiny_diski",
+   "адрес": "ул. Доватора, 146/5",
+   "координаты": [
+    39.603932,
+    47.245561
+   ],
+   "рейтинг": 4.8,
+   "оценок": 62,
+   "отзывов": 33,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://giamax.ru/"
+   ],
+   "телефоны": [
+    "+7 (928) 178-21-21",
+    "+7 (938) 155-65-65"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "buying_tires_wheels",
+    "discs",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "tires",
+    "vulcanization",
+    "wheel_balancing",
+    "wholesale"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/giamakh_magazin_shiny_diski/208760434769/",
+   "найдено_по": "грузовой шиномонтаж Железнодорожный район"
+  },
+  {
+   "id": "72626535870",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "пер. Энергетиков, 1А/5",
+   "координаты": [
+    39.740805,
+    47.237148
+   ],
+   "рейтинг": 4.7,
+   "оценок": 110,
+   "отзывов": 59,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://shiny-diski-shinomontazh-1665812373.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (928) 190-09-90",
+    "+7 (909) 408-15-21"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "discs",
+    "keep_tires",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "tire_fitting",
+    "tires",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/72626535870/",
+   "найдено_по": "грузовой шиномонтаж Кировский район"
+  },
+  {
+   "id": "84729118945",
+   "название": "Колесный Доктор",
+   "seoname": "kolesny_doktor",
+   "адрес": "просп. 40-летия Победы, 128",
+   "координаты": [
+    39.80092,
+    47.235003
+   ],
+   "рейтинг": 4.7,
+   "оценок": 95,
+   "отзывов": 46,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 494-25-20"
+   ],
+   "часы": "ежедневно, 08:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kolesny_doktor/84729118945/",
+   "найдено_по": "грузовой шиномонтаж Кировский район"
+  },
+  {
+   "id": "189879166785",
+   "название": "ШинКА",
+   "seoname": "shinka",
+   "адрес": "Ростов-на-Дону, Нахичевань, улица Богданова",
+   "координаты": [
+    39.776826,
+    47.226592
+   ],
+   "рейтинг": 4.9,
+   "оценок": 58,
+   "отзывов": 45,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://shinka-ulitsa-bogdanova.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (918) 500-51-15"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "keep_tires",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinka/189879166785/",
+   "найдено_по": "грузовой шиномонтаж Кировский район"
+  },
+  {
+   "id": "61146006378",
+   "название": "ПихтинАвто",
+   "seoname": "pikhtinavto",
+   "адрес": "ул. Нансена, 156А",
+   "координаты": [
+    39.728819,
+    47.243538
+   ],
+   "рейтинг": 4.5,
+   "оценок": 4218,
+   "отзывов": 1677,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://pixtinauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 200-77-88"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "adblue",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hinged_equipment",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starting_the_car",
+    "street_entrance",
+    "tire_chains",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pikhtinavto/61146006378/",
+   "найдено_по": "грузовой шиномонтаж Кировский район"
+  },
+  {
+   "id": "71583429633",
+   "название": "Шинный центр",
+   "seoname": "shinny_tsentr",
+   "адрес": "Кривошлыковский пер., 2Б",
+   "координаты": [
+    39.766756,
+    47.242576
+   ],
+   "рейтинг": 4.3,
+   "оценок": 14,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (950) 846-84-95",
+    "+7 (982) 000-11-11"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб,вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "adblue",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "call_button",
+    "car_park",
+    "delivery",
+    "discs",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "kz_kaspi_qr",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "starting_the_car",
+    "tire_chains",
+    "tire_fitting",
+    "tires",
+    "toilet",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinny_tsentr/71583429633/",
+   "найдено_по": "грузовой шиномонтаж Кировский район"
+  },
+  {
+   "id": "56707589302",
+   "название": "СпецТех Сервис",
+   "seoname": "spetstekh_servis",
+   "адрес": "Ростов-на-Дону, микрорайон Заречная",
+   "координаты": [
+    39.692157,
+    47.191032
+   ],
+   "рейтинг": 5,
+   "оценок": 33,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://spetsteh-servis.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (905) 479-37-61"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "автосервис, автотехцентр",
+    "ремонт спецтехники"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "aquablasting",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "onsite_diagnostics_cars",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "refuse_and_street_sweeping_vehicles",
+    "repair_of_refrigerated_trucks",
+    "sandblasting",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/spetstekh_servis/56707589302/",
+   "найдено_по": "грузовой шиномонтаж Кировский район"
+  },
+  {
+   "id": "142866361373",
+   "название": "НикАвто",
+   "seoname": "nikavto",
+   "адрес": "ул. Черевичкина, 106/2",
+   "координаты": [
+    39.783407,
+    47.23589
+   ],
+   "рейтинг": 4.9,
+   "оценок": 91,
+   "отзывов": 41,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kuzovrnd.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (952) 581-08-46",
+    "+7 (932) 100-00-46"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт автоэлектрики"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nikavto/142866361373/",
+   "найдено_по": "грузовой шиномонтаж Кировский район"
+  },
+  {
+   "id": "1159334008",
+   "название": "Автошина",
+   "seoname": "avtoshina",
+   "адрес": "ул. Рыльского, 2/1",
+   "координаты": [
+    39.780583,
+    47.239047
+   ],
+   "рейтинг": 4.7,
+   "оценок": 66,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://car-tire.ru/",
+    "https://avtoshina-ulitsa-rylskogo.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (863) 283-08-85",
+    "+7 (863) 283-08-11"
+   ],
+   "часы": "пн-пт 08:30–17:30, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "delivery",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "wholesale"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoshina/1159334008/",
+   "найдено_по": "грузовой шиномонтаж Кировский район"
+  },
+  {
+   "id": "228630100765",
+   "название": "Автосервис Геннадия Шаповалова",
+   "seoname": "avtoservis_gennadiya_shapovalova",
+   "адрес": "просп. Сиверса, 29",
+   "координаты": [
+    39.684944,
+    47.223894
+   ],
+   "рейтинг": 0,
+   "оценок": 13,
+   "отзывов": 17,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtoservis-gennadija-prospekt-siversa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (999) 472-88-66",
+    "+7 (863) 220-02-01",
+    "+7 (863) 292-88-66"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "airbag_repair",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_gennadiya_shapovalova/228630100765/",
+   "найдено_по": "грузовой шиномонтаж Кировский район"
+  },
+  {
+   "id": "230477849325",
+   "название": "Шиномонтаж и сварка аргон",
+   "seoname": "shinomontazh_i_svarka_argon",
+   "адрес": "Портовая ул., 436",
+   "координаты": [
+    39.642321,
+    47.19281
+   ],
+   "рейтинг": 4.4,
+   "оценок": 88,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (988) 543-48-57"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "заправка автокондиционеров",
+    "сварочные работы"
+   ],
+   "признаки": [
+    "guarantee",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "starting_the_car",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh_i_svarka_argon/230477849325/",
+   "найдено_по": "грузовой шиномонтаж Ленинский район"
+  },
+  {
+   "id": "18910928534",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "ул. Страны Советов, 7Б",
+   "координаты": [
+    39.754637,
+    47.252796
+   ],
+   "рейтинг": 4.9,
+   "оценок": 31,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 186-12-19"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "автодиагностика",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "guarantee",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "truck_tire_service",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/18910928534/",
+   "найдено_по": "грузовой шиномонтаж Ленинский район"
+  },
+  {
+   "id": "211334282458",
+   "название": "Шиномонтаж 24",
+   "seoname": "shinomontazh_24",
+   "адрес": "Красноармейская ул., 115",
+   "координаты": [
+    39.729099,
+    47.231717
+   ],
+   "рейтинг": 4.4,
+   "оценок": 376,
+   "отзывов": 188,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://shinomontazh-24-krasnoarmejskaja-ulitsa.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (928) 602-19-10"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh_24/211334282458/",
+   "найдено_по": "грузовой шиномонтаж Ленинский район"
+  },
+  {
+   "id": "56623642118",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "пер. Нефтекачка, 16Б",
+   "координаты": [
+    39.621274,
+    47.251862
+   ],
+   "рейтинг": 5,
+   "оценок": 71,
+   "отзывов": 49,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-na-neftekachke.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (908) 193-08-97"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "keep_tires",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "self_car_service",
+    "tire_fitting",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/56623642118/",
+   "найдено_по": "грузовой шиномонтаж Октябрьский район"
+  },
+  {
+   "id": "71865943126",
+   "название": "МегаШина",
+   "seoname": "megashina",
+   "адрес": "Монтажная ул., 2",
+   "координаты": [
+    39.687291,
+    47.269584
+   ],
+   "рейтинг": 4.4,
+   "оценок": 96,
+   "отзывов": 36,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 198-40-80"
+   ],
+   "часы": "пн-пт 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "delivery",
+    "guarantee",
+    "motorcycle_tire_repair",
+    "payment_by_credit_card",
+    "pickup",
+    "tire_fitting",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/megashina/71865943126/",
+   "найдено_по": "грузовой шиномонтаж Октябрьский район"
+  },
+  {
+   "id": "37741348844",
+   "название": "Доктор Шин",
+   "seoname": "doktor_shin",
+   "адрес": "ул. Борко, 1А, микрорайон Северный",
+   "координаты": [
+    39.704386,
+    47.27866
+   ],
+   "рейтинг": 4.8,
+   "оценок": 306,
+   "отзывов": 146,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://doctorshin161.ru/"
+   ],
+   "телефоны": [
+    "+7 (928) 100-66-99",
+    "+7 (928) 226-29-14"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "discs",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "tires",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/doktor_shin/37741348844/",
+   "найдено_по": "грузовой шиномонтаж Октябрьский район"
+  },
+  {
+   "id": "1150046946",
+   "название": "Вояж",
+   "seoname": "voyazh",
+   "адрес": "Ростовская область, Мясниковский район, Краснокрымское сельское поселение, 60К-9, 1-й километр, 2/1",
+   "координаты": [
+    39.658316,
+    47.295636
+   ],
+   "рейтинг": 4.1,
+   "оценок": 319,
+   "отзывов": 113,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://razborka-v-rostove.ru/car-center.html",
+    "http://вояж-юг.рф/"
+   ],
+   "телефоны": [
+    "+7 (863) 278-34-31",
+    "+7 (863) 277-97-97",
+    "+7 (863) 223-25-05",
+    "+7 (928) 966-99-07",
+    "+7 (928) 214-22-02",
+    "+7 (863) 223-25-15"
+   ],
+   "часы": "ежедневно, 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "авторазбор",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "preliminary_registration",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voyazh/1150046946/",
+   "найдено_по": "грузовой шиномонтаж Октябрьский район"
+  },
+  {
+   "id": "215530597928",
+   "название": "Профишина",
+   "seoname": "profishina",
+   "адрес": "Изумрудная ул., 18",
+   "координаты": [
+    39.798781,
+    47.288499
+   ],
+   "рейтинг": 4.3,
+   "оценок": 28,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://profishina61.ru/"
+   ],
+   "телефоны": [
+    "+7 (918) 539-18-18"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/profishina/215530597928/",
+   "найдено_по": "грузовой шиномонтаж Первомайский район"
+  },
+  {
+   "id": "217546647760",
+   "название": "Колесо.ру",
+   "seoname": "koleso_ru",
+   "адрес": "Вятская ул., 120А",
+   "координаты": [
+    39.775748,
+    47.278266
+   ],
+   "рейтинг": 5,
+   "оценок": 248,
+   "отзывов": 131,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://rnd.koleso.ru/shops/vyatskaya-120a/"
+   ],
+   "телефоны": [
+    "+7 (863) 269-69-66",
+    "+7 (903) 406-78-76",
+    "+7 (863) 310-93-10",
+    "8 (800) 100-68-78"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "car_servicing",
+    "delivery",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koleso_ru/217546647760/",
+   "найдено_по": "грузовой шиномонтаж Первомайский район"
+  },
+  {
+   "id": "40569184343",
+   "название": "Болдрайв",
+   "seoname": "boldrayv",
+   "адрес": "ул. 50-летия Ростсельмаша, 8Б",
+   "координаты": [
+    39.764037,
+    47.274316
+   ],
+   "рейтинг": 5,
+   "оценок": 220,
+   "отзывов": 172,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://boldrive.ru/"
+   ],
+   "телефоны": [
+    "+7 (901) 000-01-49"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "coffee_to_go",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "doubloons_loyalty_card",
+    "engine_endoscopy",
+    "field_service",
+    "freight_car_service",
+    "generators",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "ramp",
+    "repair_dsg",
+    "spare_parts",
+    "starters",
+    "starting_the_car",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/boldrayv/40569184343/",
+   "найдено_по": "грузовой шиномонтаж Первомайский район"
+  },
+  {
+   "id": "1168625206",
+   "название": "Авторемонт",
+   "seoname": "avtoremont",
+   "адрес": "ул. Просвещения, 35, микрорайон Сельмаш",
+   "координаты": [
+    39.775327,
+    47.252572
+   ],
+   "рейтинг": 4.8,
+   "оценок": 348,
+   "отзывов": 149,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://remontavto-rostov.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 869-06-57"
+   ],
+   "часы": "ежедневно, 08:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шины и диски"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "airbag_repair",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "commercial_vehicles_repair",
+    "electric car charging station",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoremont/1168625206/",
+   "найдено_по": "грузовой шиномонтаж Первомайский район"
+  },
+  {
+   "id": "95431684759",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "Ростов-на-Дону, 46",
+   "координаты": [
+    39.791594,
+    47.321323
+   ],
+   "рейтинг": 4.6,
+   "оценок": 110,
+   "отзывов": 64,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (988) 534-17-58"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "mobile_tire_service",
+    "motorcycle_tire_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "starting_the_car",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/95431684759/",
+   "найдено_по": "грузовой шиномонтаж Первомайский район"
+  },
+  {
+   "id": "187377141017",
+   "название": "Шинка",
+   "seoname": "shinka",
+   "адрес": "ул. 50-летия Ростсельмаша, 8Г",
+   "координаты": [
+    39.763234,
+    47.272653
+   ],
+   "рейтинг": 5,
+   "оценок": 74,
+   "отзывов": 56,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (928) 765-42-88"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски",
+    "заправка автокондиционеров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "buying_tires_wheels",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "motorcycle_tire_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "starting_the_car",
+    "tire_fitting",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinka/187377141017/",
+   "найдено_по": "грузовой шиномонтаж Первомайский район"
+  },
+  {
+   "id": "218324462423",
+   "название": "Доктор Шин",
+   "seoname": "doktor_shin",
+   "адрес": "ул. Думенко, 20/1, микрорайон Темерник",
+   "координаты": [
+    39.745681,
+    47.296627
+   ],
+   "рейтинг": 4.8,
+   "оценок": 65,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://doctorshin161.ru/"
+   ],
+   "телефоны": [
+    "+7 (928) 100-66-99",
+    "+7 (928) 226-29-14"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "discs",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "tire_fitting",
+    "tires",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/doktor_shin/218324462423/",
+   "найдено_по": "грузовой шиномонтаж Первомайский район"
+  },
+  {
+   "id": "16756105656",
+   "название": "Шиномонтаж № 3",
+   "seoname": "shinomontazh_3",
+   "адрес": "ул. Думенко, 3/2, микрорайон Темерник",
+   "координаты": [
+    39.741474,
+    47.294951
+   ],
+   "рейтинг": 4.7,
+   "оценок": 28,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (904) 345-46-22"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh_3/16756105656/",
+   "найдено_по": "грузовой шиномонтаж Первомайский район"
+  },
+  {
+   "id": "223996714364",
+   "название": "Шиномонтаж",
+   "seoname": "shinomontazh",
+   "адрес": "Белорусская ул., 130А",
+   "координаты": [
+    39.735719,
+    47.282704
+   ],
+   "рейтинг": 4.3,
+   "оценок": 98,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (952) 607-07-74",
+    "+7 (961) 329-02-02"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinomontazh/223996714364/",
+   "найдено_по": "грузовой шиномонтаж Первомайский район"
+  },
+  {
+   "id": "17633226867",
+   "название": "Доктор Шин",
+   "seoname": "doktor_shin",
+   "адрес": "просп. Космонавтов, 2Д, микрорайон Северный",
+   "координаты": [
+    39.719082,
+    47.277844
+   ],
+   "рейтинг": 4.7,
+   "оценок": 128,
+   "отзывов": 75,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://doctorshin161.ru/"
+   ],
+   "телефоны": [
+    "+7 (928) 226-29-14",
+    "+7 (928) 100-66-99"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шиномонтаж",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "discs",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "tires",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/doktor_shin/17633226867/",
+   "найдено_по": "грузовой шиномонтаж Первомайский район"
+  },
+  {
+   "id": "12771881899",
+   "название": "Атсервис",
+   "seoname": "atservis",
+   "адрес": "ул. 1-й Конной Армии, 9",
+   "координаты": [
+    39.760162,
+    47.249112
+   ],
+   "рейтинг": 4.7,
+   "оценок": 36,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (928) 102-94-34"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "delivery",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "self_car_service",
+    "tire_fitting",
+    "trailer_repair",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/atservis/12771881899/",
+   "найдено_по": "грузовой шиномонтаж Первомайский район"
+  },
+  {
+   "id": "144346964687",
+   "название": "Шина161",
+   "seoname": "shina161",
+   "адрес": "просп. 40-летия Победы, 276",
+   "координаты": [
+    39.821248,
+    47.237467
+   ],
+   "рейтинг": 5,
+   "оценок": 48,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://shina161.com/"
+   ],
+   "телефоны": [
+    "+7 (928) 144-88-77"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "vulcanization",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shina161/144346964687/",
+   "найдено_по": "грузовой шиномонтаж Пролетарский район"
+  },
+  {
+   "id": "115901941049",
+   "название": "Шиныгрузовые.рф",
+   "seoname": "shinygruzovyye_rf",
+   "адрес": "ул. Петрожицкого, 1Д, корп. 1, Пролетарский район",
+   "координаты": [
+    39.842088,
+    47.249317
+   ],
+   "рейтинг": 4.2,
+   "оценок": 7,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (969) 224-40-01"
+   ],
+   "часы": "ежедневно, 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "buying_tires_wheels",
+    "delivery",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shinygruzovyye_rf/115901941049/",
+   "найдено_по": "грузовой шиномонтаж Пролетарский район"
+  },
+  {
+   "id": "99160579508",
+   "название": "Комтранс Сервис Ростов",
+   "seoname": "komtrans_servis_rostov",
+   "адрес": "ул. Петрожицкого, 8Г, Пролетарский район",
+   "координаты": [
+    39.836803,
+    47.250312
+   ],
+   "рейтинг": 4.5,
+   "оценок": 78,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://scug61.ru/"
+   ],
+   "телефоны": [
+    "+7 (928) 103-06-00",
+    "+7 (938) 131-17-19"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/komtrans_servis_rostov/99160579508/",
+   "найдено_по": "грузовой шиномонтаж Пролетарский район"
+  },
+  {
+   "id": "75999683526",
+   "название": "Колесо.ру",
+   "seoname": "koleso_ru",
+   "адрес": "ул. Доватора, 159",
+   "координаты": [
+    39.629987,
+    47.237388
+   ],
+   "рейтинг": 5,
+   "оценок": 229,
+   "отзывов": 133,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://rnd.koleso.ru/shops/ul-dovatora-159/"
+   ],
+   "телефоны": [
+    "+7 (863) 269-69-49"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koleso_ru/75999683526/",
+   "найдено_по": "грузовой шиномонтаж Советский район"
+  },
+  {
+   "id": "120259767076",
+   "название": "Колесный Сервис",
+   "seoname": "kolesny_servis",
+   "адрес": "ул. Малиновского, 13Н/2",
+   "координаты": [
+    39.612971,
+    47.219318
+   ],
+   "рейтинг": 4.7,
+   "оценок": 82,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kolesnyj-servis.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (938) 116-66-96"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Шиномонтаж"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "keep_tires",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "starting_the_car",
+    "vulcanization",
+    "wheel_balancing",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kolesny_servis/120259767076/",
+   "найдено_по": "грузовой шиномонтаж Советский район"
+  },
+  {
+   "id": "90073683753",
+   "название": "Росшина",
+   "seoname": "rosshina",
+   "адрес": "ул. Доватора, 150",
+   "координаты": [
+    39.596102,
+    47.238476
+   ],
+   "рейтинг": 4.3,
+   "оценок": 58,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://rostov.rostyre.com/catalog/truck_tires"
+   ],
+   "телефоны": [
+    "+7 (863) 220-90-88",
+    "+7 (863) 220-91-11"
+   ],
+   "часы": "пн-пт 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Шины и диски",
+    "шиномонтаж",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "keep_tires",
+    "payment_by_credit_card",
+    "pickup",
+    "truck_tire_service"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rosshina/90073683753/",
+   "найдено_по": "грузовой шиномонтаж Советский район"
+  },
+  {
+   "id": "75353289165",
+   "название": "Грузовой автосервис",
+   "seoname": "gruzovoy_avtoservis",
+   "адрес": "ул. Доватора, 146Л",
+   "координаты": [
+    39.60897,
+    47.24041
+   ],
+   "рейтинг": 2.6,
+   "оценок": 8,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (951) 522-83-94"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "freight_car_service"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gruzovoy_avtoservis/75353289165/",
+   "найдено_по": "грузовой шиномонтаж Советский район"
+  }
+ ],
+ "расширено_по_районам": true
+}

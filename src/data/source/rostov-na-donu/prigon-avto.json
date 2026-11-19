@@ -1,0 +1,3508 @@
+{
+ "ниша": "Пригон авто из Японии, Кореи и Китая",
+ "ключ": "prigon-avto",
+ "запросы": [
+  "авто из японии",
+  "автомобили из японии под заказ",
+  "авто из кореи",
+  "автомобили из кореи под заказ",
+  "авто из китая",
+  "автомобили из китая под заказ"
+ ],
+ "найдено_в_яндексе": {
+  "авто из японии": 14,
+  "автомобили из японии под заказ": 30,
+  "авто из кореи": 1,
+  "автомобили из кореи под заказ": 7,
+  "авто из китая": 21,
+  "автомобили из китая под заказ": 34,
+  "авто из японии Ворошиловский район": 0,
+  "авто из японии Железнодорожный район": 0,
+  "авто из японии Кировский район": 0,
+  "авто из японии Ленинский район": 0,
+  "авто из японии Октябрьский район": 0,
+  "авто из японии Первомайский район": 0,
+  "авто из японии Пролетарский район": 0,
+  "авто из японии Советский район": 0
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Ростову-на-Дону (регион 39)",
+ "город": "rostov-na-donu",
+ "компании": [
+  {
+   "id": "1252735200",
+   "название": "Reaktor",
+   "seoname": "reaktor",
+   "адрес": "ул. Писарева, 73, Новосибирск",
+   "координаты": [
+    82.925053,
+    55.049581
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1893,
+   "отзывов": 1196,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nsk.reaktor24.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-50-89"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "street_entrance",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reaktor/1252735200/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 71,
+   "загружено_дат": 77
+  },
+  {
+   "id": "1053278546",
+   "название": "Автосупермаркет Автолюбитель",
+   "seoname": "avtosupermarket_avtolyubitel",
+   "адрес": "Октябрьский просп., 58, Новокузнецк",
+   "координаты": [
+    87.152903,
+    53.746609
+   ],
+   "рейтинг": 4.7,
+   "оценок": 2904,
+   "отзывов": 757,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autolub.su/"
+   ],
+   "телефоны": [
+    "+7 (3843) 71-49-58",
+    "+7 (906) 924-13-37",
+    "+7 (961) 715-75-77",
+    "+7 (961) 715-75-65",
+    "+7 (961) 715-75-51",
+    "+7 (961) 715-75-53",
+    "+7 (961) 715-75-54",
+    "+7 (961) 715-75-36",
+    "+7 (3843) 71-49-80",
+    "+7 (3843) 71-50-88",
+    "+7 (905) 900-11-12",
+    "+7 (961) 715-75-40"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–19:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "Аккумуляторы, ИБП и зарядные устройства"
+   ],
+   "признаки": [
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "car_park",
+    "payment_by_credit_card",
+    "pickup",
+    "spare_parts",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wholesale"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtosupermarket_avtolyubitel/1053278546/",
+   "последний_отзыв": "2026-08-24",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 66
+  },
+  {
+   "id": "140791872893",
+   "название": "Автозаказ.ру",
+   "seoname": "avtozakaz_ru",
+   "адрес": "Днепровская ул., 21, корп. 3, Владивосток",
+   "координаты": [
+    131.9265,
+    43.142976
+   ],
+   "рейтинг": 4.4,
+   "оценок": 889,
+   "отзывов": 665,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://autozakaz.ru/"
+   ],
+   "телефоны": [
+    "+7 (953) 215-38-88",
+    "+7 (964) 452-78-88",
+    "+7 (902) 051-11-88",
+    "+7 (966) 272-58-88",
+    "+7 (994) 000-00-36"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "авторынок",
+    "автоподбор"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cars_for_order",
+    "delivery",
+    "japanese_car_auctions",
+    "motopodbor",
+    "motorcycle_auction",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtozakaz_ru/140791872893/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 53,
+   "загружено_дат": 62
+  },
+  {
+   "id": "1463354712",
+   "название": "Worldcar.ru",
+   "seoname": "worldcar_ru",
+   "адрес": "Семёновская ул., 25А, Владивосток",
+   "координаты": [
+    131.887941,
+    43.117922
+   ],
+   "рейтинг": 5,
+   "оценок": 741,
+   "отзывов": 610,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://worldcar.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 333-62-32"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "registration_inspection",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/worldcar_ru/1463354712/",
+   "последний_отзыв": "2026-08-13",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 49
+  },
+  {
+   "id": "93087812445",
+   "название": "Зелёный Угол",
+   "seoname": "zelyony_ugol",
+   "адрес": "Приморский край, Владивосток, Ленинский район",
+   "координаты": [
+    131.962325,
+    43.124175
+   ],
+   "рейтинг": 4.6,
+   "оценок": 1749,
+   "отзывов": 577,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://zuvl.ru/"
+   ],
+   "телефоны": [
+    "+7 (423) 266-39-88",
+    "+7 (950) 280-59-08"
+   ],
+   "часы": "ежедневно, 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Авторынок",
+    "автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "delivery",
+    "epassport_for_vehicles",
+    "loan_processing",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zelyony_ugol/93087812445/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 62
+  },
+  {
+   "id": "1004258979",
+   "название": "Geely, Автосеть Дон",
+   "seoname": "geely_avtoset_don",
+   "адрес": "просп. Королёва, 1Х",
+   "координаты": [
+    39.687159,
+    47.282668
+   ],
+   "рейтинг": 4.9,
+   "оценок": 861,
+   "отзывов": 460,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://geely-vikauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 320-24-16"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "страхование автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/geely_avtoset_don/1004258979/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 37,
+   "загружено_дат": 82
+  },
+  {
+   "id": "48474812132",
+   "название": "Reaktor",
+   "seoname": "reaktor",
+   "адрес": "Станционная ул., 26А, Новосибирск",
+   "координаты": [
+    82.862382,
+    54.998082
+   ],
+   "рейтинг": 4.4,
+   "оценок": 1016,
+   "отзывов": 437,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://reaktor24.ru/",
+    "https://nsk.reaktor24.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-50-29"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "автокосметика, автохимия"
+   ],
+   "признаки": [
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "spare_parts",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/reaktor/48474812132/",
+   "последний_отзыв": "2026-11-05",
+   "отзывов_за_12_мес_из_загруженных": 63,
+   "загружено_дат": 82
+  },
+  {
+   "id": "1267603716",
+   "название": "АвтоГарантСити",
+   "seoname": "avtogarantsiti",
+   "адрес": "Шилкинская ул., 32А, Владивосток",
+   "координаты": [
+    131.931176,
+    43.117922
+   ],
+   "рейтинг": 5,
+   "оценок": 1072,
+   "отзывов": 412,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://autogarantcity.ru/"
+   ],
+   "телефоны": [
+    "+7 (423) 239-20-63"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "diesel_service",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "urea",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtogarantsiti/1267603716/",
+   "последний_отзыв": "2026-09-21",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 92
+  },
+  {
+   "id": "77318019319",
+   "название": "Япония транзит",
+   "seoname": "yaponiya_tranzit",
+   "адрес": "просп. Красного Знамени, 15А, Владивосток",
+   "координаты": [
+    131.892046,
+    43.129279
+   ],
+   "рейтинг": 5,
+   "оценок": 577,
+   "отзывов": 375,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (965) 679-22-32"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион",
+    "мотосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "epassport_for_vehicles",
+    "loan_processing",
+    "payment_by_credit_card",
+    "pickup",
+    "registration_inspection",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yaponiya_tranzit/77318019319/",
+   "последний_отзыв": "2026-11-04",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 63
+  },
+  {
+   "id": "40874626271",
+   "название": "Джапан Стар",
+   "seoname": "dzhapan_star",
+   "адрес": "ул. Грибоедова, 46А, Владивосток",
+   "координаты": [
+    131.911177,
+    43.119859
+   ],
+   "рейтинг": 5,
+   "оценок": 430,
+   "отзывов": 363,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://jpstar.ru/",
+    "https://korea.jpstar.ru/",
+    "https://china.jpstar.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 555-98-07",
+    "+7 (964) 432-70-47"
+   ],
+   "часы": "пн-пт 10:00–18:00, перерыв 13:00–14:00; сб 10:00–15:00; вс 12:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "автосалон"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "japanese_car_auctions",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dzhapan_star/40874626271/",
+   "последний_отзыв": "2026-09-03",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 44
+  },
+  {
+   "id": "1017522042",
+   "название": "Автоход",
+   "seoname": "avtokhod",
+   "адрес": "Северная ул., 165/1, Благовещенск",
+   "координаты": [
+    127.505022,
+    50.279199
+   ],
+   "рейтинг": 4.7,
+   "оценок": 549,
+   "отзывов": 330,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://autohodrf.ru/"
+   ],
+   "телефоны": [
+    "+7 (4162) 31-33-30",
+    "+7 (965) 671-33-30",
+    "+7 (968) 132-21-00"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "call_button",
+    "car_park",
+    "car_valeting",
+    "car_wash",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repair_of_refrigerated_trucks",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokhod/1017522042/",
+   "последний_отзыв": "2026-10-31",
+   "отзывов_за_12_мес_из_загруженных": 36,
+   "загружено_дат": 52
+  },
+  {
+   "id": "109978121757",
+   "название": "JapAutoBuy",
+   "seoname": "japautobuy",
+   "адрес": "ул. Горького, 136, Благовещенск",
+   "координаты": [
+    127.542259,
+    50.264757
+   ],
+   "рейтинг": 5,
+   "оценок": 403,
+   "отзывов": 329,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://japautobuy.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 444-50-28",
+    "+7 (999) 681-33-35"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–16:00; вс 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "japanese_car_auctions",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/japautobuy/109978121757/",
+   "последний_отзыв": "2026-10-29",
+   "отзывов_за_12_мес_из_загруженных": 44,
+   "загружено_дат": 47
+  },
+  {
+   "id": "1791775635",
+   "название": "Джапан Лайф",
+   "seoname": "dzhapan_layf",
+   "адрес": "Нижнепортовая ул., 1, Владивосток",
+   "координаты": [
+    131.882783,
+    43.11149
+   ],
+   "рейтинг": 5,
+   "оценок": 447,
+   "отзывов": 326,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jplife.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 700-18-94",
+    "+7 (951) 000-26-26"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион",
+    "автоэкспертиза, оценка автомобилей"
+   ],
+   "признаки": [
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "epassport_for_vehicles",
+    "japanese_car_auctions",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dzhapan_layf/1791775635/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 48,
+   "загружено_дат": 79
+  },
+  {
+   "id": "1203357823",
+   "название": "Changan центр Сокол Моторс",
+   "seoname": "changan_tsentr_sokol_motors",
+   "адрес": "просп. Шолохова, 237",
+   "координаты": [
+    39.818854,
+    47.268562
+   ],
+   "рейтинг": 4.6,
+   "оценок": 709,
+   "отзывов": 316,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sales.sokolmotors-changanauto.ru/",
+    "https://sokolmotors-changanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 309-34-05"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "автомойка"
+   ],
+   "признаки": [
+    "access_by_agreement",
+    "authorized_service",
+    "bike_parking",
+    "cafe",
+    "car_park",
+    "car_polishing",
+    "car_valeting",
+    "car_wash",
+    "car_waxing",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pre_sale_preparation",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "self_service_car_wash",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "tire_blacking",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/changan_tsentr_sokol_motors/1203357823/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 44,
+   "загружено_дат": 84
+  },
+  {
+   "id": "1189942041",
+   "название": "SferaCar",
+   "seoname": "sferacar",
+   "адрес": "1-я Морская ул., 9, Владивосток",
+   "координаты": [
+    131.878132,
+    43.112302
+   ],
+   "рейтинг": 5,
+   "оценок": 548,
+   "отзывов": 311,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sferacar.ru/",
+    "https://korean.sferacar.ru/",
+    "https://china.sferacar.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 555-69-16"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 11:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "спецтехника и спецавтомобили",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "elevator_wheelchair_accessible",
+    "japanese_car_auctions"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sferacar/1189942041/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 50,
+   "загружено_дат": 64
+  },
+  {
+   "id": "168427911732",
+   "название": "Япония-Трейд",
+   "seoname": "yaponiya_treyd",
+   "адрес": "ул. Кирова, 45, Владивосток",
+   "координаты": [
+    131.909973,
+    43.17732
+   ],
+   "рейтинг": 4.6,
+   "оценок": 468,
+   "отзывов": 271,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://jptrade.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 600-31-13",
+    "+7 (994) 101-00-20"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yaponiya_treyd/168427911732/"
+  },
+  {
+   "id": "27517755633",
+   "название": "Orbis Auto, Toyota",
+   "seoname": "orbis_auto_toyota",
+   "адрес": "Кульджинский тракт, 120, Алматы",
+   "координаты": [
+    77.025064,
+    43.317267
+   ],
+   "рейтинг": 5,
+   "оценок": 927,
+   "отзывов": 218,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://toyota-city.kz/",
+    "http://toyota-city.kz/"
+   ],
+   "телефоны": [
+    "+7 (775) 096-77-36"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "prayer_room",
+    "preliminary_registration",
+    "ramp",
+    "registration_inspection",
+    "street_entrance",
+    "test_drive",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/orbis_auto_toyota/27517755633/"
+  },
+  {
+   "id": "64583945418",
+   "название": "Север Авто",
+   "seoname": "sever_avto",
+   "адрес": "ул. Руднева, 1В, Владивосток",
+   "координаты": [
+    131.942276,
+    43.131914
+   ],
+   "рейтинг": 4.7,
+   "оценок": 426,
+   "отзывов": 208,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://severdv.online/"
+   ],
+   "телефоны": [
+    "8 (800) 600-50-95"
+   ],
+   "часы": "ежедневно, 10:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "автосалон"
+   ],
+   "признаки": [
+    "epassport_for_vehicles",
+    "japanese_car_auctions",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "trade_in"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sever_avto/64583945418/"
+  },
+  {
+   "id": "1001297232",
+   "название": "Бэст Мастер",
+   "seoname": "best_master",
+   "адрес": "бул. Молодёжи, 36Б, стр. 36, микрорайон Академгородок, Советский район, Новосибирск",
+   "координаты": [
+    83.091595,
+    54.864461
+   ],
+   "рейтинг": 4.9,
+   "оценок": 600,
+   "отзывов": 206,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.bm-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 310-50-70",
+    "+7 (913) 925-33-42",
+    "+7 (913) 013-24-25",
+    "+7 (983) 000-33-42"
+   ],
+   "часы": "пн-пт 08:00–21:00; сб,вс 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "basic_service",
+    "car_park",
+    "car_wash",
+    "chip_tuning",
+    "engine_endoscopy",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/best_master/1001297232/"
+  },
+  {
+   "id": "1683691724",
+   "название": "Антарес",
+   "seoname": "antares",
+   "адрес": "ул. Адмирала Юмашева, 35, Владивосток",
+   "координаты": [
+    131.956068,
+    43.125948
+   ],
+   "рейтинг": 5,
+   "оценок": 292,
+   "отзывов": 199,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.antaresjp.ru/",
+    "https://dzen.ru/antaresauto"
+   ],
+   "телефоны": [
+    "8 (800) 550-21-91",
+    "+7 (994) 102-66-03"
+   ],
+   "часы": "пн-пт 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "авторынок",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "car_park",
+    "delivery",
+    "epassport_for_vehicles",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/antares/1683691724/"
+  },
+  {
+   "id": "154437689310",
+   "название": "Авторитэйл, ГАЗ",
+   "seoname": "avtoriteyl_gaz",
+   "адрес": "Левобережная ул., 2П",
+   "координаты": [
+    39.726628,
+    47.20585
+   ],
+   "рейтинг": 4.7,
+   "оценок": 419,
+   "отзывов": 179,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://61.autoretail.ru/?utm-source=yandex"
+   ],
+   "телефоны": [
+    "8 (800) 300-63-97"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "запчасти для грузовых автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "airbag_repair",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "epassport_for_vehicles",
+    "field_service",
+    "freight_car_service",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "mobile_tire_service",
+    "official_dealer",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "repair_of_refrigerated_trucks",
+    "test_drive",
+    "tire_fitting",
+    "trade_in",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoriteyl_gaz/154437689310/"
+  },
+  {
+   "id": "1046136829",
+   "название": "Маленькая Япония",
+   "seoname": "malenkaya_yaponiya",
+   "адрес": "Краснознамённая ул., 196, Уссурийск",
+   "координаты": [
+    131.954296,
+    43.810876
+   ],
+   "рейтинг": 4.4,
+   "оценок": 568,
+   "отзывов": 174,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ljapan.ru/"
+   ],
+   "телефоны": [
+    "+7 (4234) 33-95-26",
+    "8 (800) 301-44-88",
+    "+7 (4234) 33-32-50",
+    "8 (800) 222-08-22"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр",
+    "моторные масла"
+   ],
+   "признаки": [
+    "adblue",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "delivery",
+    "diesel_service",
+    "gas_stops",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "hybrid_car_repair",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "spare_parts",
+    "starters",
+    "tire_chains",
+    "tire_fitting",
+    "toilet",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/malenkaya_yaponiya/1046136829/"
+  },
+  {
+   "id": "1285458798",
+   "название": "Свой автосервис",
+   "seoname": "svoy_avtoservis",
+   "адрес": "просп. Строителей, 143, Барнаул",
+   "координаты": [
+    83.742312,
+    53.339503
+   ],
+   "рейтинг": 4.3,
+   "оценок": 396,
+   "отзывов": 173,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://auto22.pro/"
+   ],
+   "телефоны": [
+    "+7 (3852) 72-22-22"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/svoy_avtoservis/1285458798/"
+  },
+  {
+   "id": "174571827449",
+   "название": "Юмико.рф",
+   "seoname": "yumiko_rf",
+   "адрес": "Черёмуховая ул., 7, Владивосток",
+   "координаты": [
+    131.903406,
+    43.098469
+   ],
+   "рейтинг": 5,
+   "оценок": 172,
+   "отзывов": 152,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://youmeco.ru/"
+   ],
+   "телефоны": [
+    "+7 (984) 198-01-88",
+    "+7 (423) 208-01-88"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cars_for_order",
+    "disable_captions",
+    "japanese_car_auctions",
+    "motorcycle_auction",
+    "registration_inspection",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yumiko_rf/174571827449/"
+  },
+  {
+   "id": "1130086964",
+   "название": "Car22",
+   "seoname": "car22",
+   "адрес": "просп. Космонавтов, 6/4, Барнаул",
+   "координаты": [
+    83.740277,
+    53.388831
+   ],
+   "рейтинг": 4.5,
+   "оценок": 544,
+   "отзывов": 152,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://car22.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 241-18-81"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–18:00; вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "авторазбор"
+   ],
+   "признаки": [
+    "automotive_products",
+    "delivery",
+    "payment_by_credit_card",
+    "pickup",
+    "spare_parts",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/car22/1130086964/"
+  },
+  {
+   "id": "10921303780",
+   "название": "Exist.ru",
+   "seoname": "exist_ru",
+   "адрес": "ул. Баррикад, 60Г, Иркутск",
+   "координаты": [
+    104.336268,
+    52.29135
+   ],
+   "рейтинг": 4.4,
+   "оценок": 436,
+   "отзывов": 145,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.exist.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 097-56-65",
+    "+7 (902) 768-49-09",
+    "+7 (3952) 50-00-11"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "смазочные материалы",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "automotive_products",
+    "car_door_closers",
+    "car_floor_mats",
+    "delivery",
+    "generators",
+    "gift_certificate",
+    "hinged_equipment",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "spare_parts",
+    "starters",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/exist_ru/10921303780/"
+  },
+  {
+   "id": "212430917469",
+   "название": "Сакура Авто Трейд",
+   "seoname": "sakura_avto_treyd",
+   "адрес": "ул. Толстого, 32А, Владивосток",
+   "координаты": [
+    131.912473,
+    43.121031
+   ],
+   "рейтинг": 5,
+   "оценок": 183,
+   "отзывов": 144,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://satauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 296-00-00"
+   ],
+   "часы": "пн-пт 09:30–19:00; сб 11:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион",
+    "автоподбор"
+   ],
+   "признаки": [
+    "car_park",
+    "epassport_for_vehicles",
+    "japanese_car_auctions",
+    "motopodbor",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sakura_avto_treyd/212430917469/"
+  },
+  {
+   "id": "112416965477",
+   "название": "Топ Кар Импорт",
+   "seoname": "top_kar_import",
+   "адрес": "ул. Толстого, 32А, Владивосток",
+   "координаты": [
+    131.912341,
+    43.120973
+   ],
+   "рейтинг": 5,
+   "оценок": 157,
+   "отзывов": 134,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://topcarjapan.ru/"
+   ],
+   "телефоны": [
+    "+7 (924) 120-28-88"
+   ],
+   "часы": "пн-пт 12:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "авторынок",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "delivery",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "japanese_car_auctions",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "ramp",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/top_kar_import/112416965477/"
+  },
+  {
+   "id": "192162130668",
+   "название": "Аукцион Кар",
+   "seoname": "auktsion_kar",
+   "адрес": "Военное ш., 46А, Владивосток",
+   "координаты": [
+    131.926144,
+    43.134486
+   ],
+   "рейтинг": 5,
+   "оценок": 145,
+   "отзывов": 130,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.acj-car.ru/"
+   ],
+   "телефоны": [
+    "+7 (924) 002-60-77",
+    "+7 (423) 200-60-77"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "продажа автомобилей с пробегом",
+    "автоподбор"
+   ],
+   "признаки": [
+    "car_park",
+    "cars_for_order",
+    "japanese_car_auctions",
+    "loan_processing",
+    "motopodbor",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/auktsion_kar/192162130668/"
+  },
+  {
+   "id": "127917083662",
+   "название": "Service Auto",
+   "seoname": "service_auto",
+   "адрес": "Алматы, Омская улица",
+   "координаты": [
+    76.968178,
+    43.292572
+   ],
+   "рейтинг": 5,
+   "оценок": 281,
+   "отзывов": 129,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://serviceauto.kz/"
+   ],
+   "телефоны": [
+    "+7 (707) 726-74-74",
+    "+7 (727) 317-22-89",
+    "+7 (701) 746-59-75",
+    "+7 (777) 132-35-83"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "automotive_products",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "kz_kaspi_qr",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "repair_of_refrigerated_trucks",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/service_auto/127917083662/"
+  },
+  {
+   "id": "1108050641",
+   "название": "Avtopilot",
+   "seoname": "avtopilot",
+   "адрес": "ул. Нурмакова, 14, Алматы",
+   "координаты": [
+    76.905942,
+    43.256458
+   ],
+   "рейтинг": 5,
+   "оценок": 328,
+   "отзывов": 125,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtopilot.kz/"
+   ],
+   "телефоны": [
+    "+7 (707) 757-14-14",
+    "+7 (701) 713-91-88",
+    "+7 (727) 378-99-30",
+    "+7 (707) 329-16-32"
+   ],
+   "часы": "пн-пт 09:00–17:30; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "field_service",
+    "generators",
+    "gift_certificate",
+    "guarantee",
+    "hinged_equipment",
+    "installing_the_towbar",
+    "kaspi_red",
+    "kz_kaspi_qr",
+    "kz_transfer_to_kaspi",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "transponders",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtopilot/1108050641/"
+  },
+  {
+   "id": "1350674148",
+   "название": "Абакан Авто",
+   "seoname": "abakan_avto",
+   "адрес": "ул. Крылова, 41, корп. 2, Абакан",
+   "координаты": [
+    91.440802,
+    53.735282
+   ],
+   "рейтинг": 4.5,
+   "оценок": 208,
+   "отзывов": 116,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://abakanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (3902) 21-33-30",
+    "+7 (983) 191-33-30",
+    "+7 (923) 596-14-56",
+    "+7 (923) 596-11-14"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/abakan_avto/1350674148/"
+  },
+  {
+   "id": "1719109474",
+   "название": "Регион Авто",
+   "seoname": "region_avto",
+   "адрес": "Светланская ул., 83, Владивосток",
+   "координаты": [
+    131.90271,
+    43.115423
+   ],
+   "рейтинг": 4.8,
+   "оценок": 140,
+   "отзывов": 110,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://regionauto.org/"
+   ],
+   "телефоны": [
+    "8 (800) 600-21-70"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "продажа автомобилей с пробегом",
+    "спецтехника и спецавтомобили"
+   ],
+   "признаки": [
+    "car_park",
+    "japanese_car_auctions",
+    "payment_by_credit_card",
+    "refuse_and_street_sweeping_vehicles",
+    "registration_inspection",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/region_avto/1719109474/"
+  },
+  {
+   "id": "1823119024",
+   "название": "АвтоДАН",
+   "seoname": "avtodan",
+   "адрес": "ул. Абая, 119, Семей",
+   "координаты": [
+    80.233219,
+    50.413658
+   ],
+   "рейтинг": 5,
+   "оценок": 376,
+   "отзывов": 110,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (708) 831-70-74",
+    "+7 (7222) 77-30-39"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "adblue",
+    "advanced_after_sales_service",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "call_button",
+    "car_park",
+    "coffee_to_go",
+    "delivery",
+    "disable_captions",
+    "kaspi_red",
+    "kz_kaspi_qr",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wheel_alignment",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtodan/1823119024/"
+  },
+  {
+   "id": "159322492578",
+   "название": "ZipCar",
+   "seoname": "zipcar",
+   "адрес": "Зейская ул., 12, Владивосток",
+   "координаты": [
+    131.934137,
+    43.116378
+   ],
+   "рейтинг": 5,
+   "оценок": 118,
+   "отзывов": 108,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtozakaz.zipcar.pw/"
+   ],
+   "телефоны": [
+    "+7 (924) 241-11-33"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион",
+    "автоподбор"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "japanese_car_auctions",
+    "motorcycle_auction",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zipcar/159322492578/"
+  },
+  {
+   "id": "1614877331",
+   "название": "Прайм Авто",
+   "seoname": "praym_avto",
+   "адрес": "пр. Энергетиков, 8/3, Новосибирск",
+   "координаты": [
+    82.873655,
+    55.009941
+   ],
+   "рейтинг": 4.3,
+   "оценок": 281,
+   "отзывов": 105,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://primeauto.one/",
+    "https://212nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 202-12-35",
+    "+7 (383) 383-03-03"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "bike_parking",
+    "brokencars",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/praym_avto/1614877331/"
+  },
+  {
+   "id": "125665727761",
+   "название": "Акира Авто",
+   "seoname": "akira_avto",
+   "адрес": "ул. Карла Либкнехта, 14, Владивосток",
+   "координаты": [
+    131.921474,
+    43.113774
+   ],
+   "рейтинг": 5,
+   "оценок": 134,
+   "отзывов": 103,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://akira-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (924) 333-88-44"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "gift_certificate",
+    "parking_disabled",
+    "street_entrance",
+    "toilet_for_disabled"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akira_avto/125665727761/"
+  },
+  {
+   "id": "163622547111",
+   "название": "Авто-профи",
+   "seoname": "avto_profi",
+   "адрес": "ул. Чапаева, 21, Новосибирск",
+   "координаты": [
+    83.073287,
+    54.978291
+   ],
+   "рейтинг": 4.5,
+   "оценок": 255,
+   "отзывов": 94,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 383-06-90"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автосервис, автотехцентр",
+    "смазочные материалы"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_profi/163622547111/"
+  },
+  {
+   "id": "198180670909",
+   "название": "Азия под капотом",
+   "seoname": "aziya_pod_kapotom",
+   "адрес": "ул. Прапорщика Комарова, 45, Владивосток",
+   "координаты": [
+    131.893291,
+    43.121294
+   ],
+   "рейтинг": 5,
+   "оценок": 118,
+   "отзывов": 89,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vladivostok.asiapk.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 220-99-99"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "автосалон",
+    "автоподбор"
+   ],
+   "признаки": [
+    "call_button",
+    "cars_for_order",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aziya_pod_kapotom/198180670909/"
+  },
+  {
+   "id": "1265909971",
+   "название": "J&c Auto",
+   "seoname": "j_c_auto",
+   "адрес": "ул. Сибиряков-Гвардейцев, 62, корп. 2, Новосибирск",
+   "координаты": [
+    82.896043,
+    54.939663
+   ],
+   "рейтинг": 4.9,
+   "оценок": 203,
+   "отзывов": 82,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://jc54.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 319-85-22",
+    "+7 (913) 917-85-22",
+    "+7 (383) 299-85-22",
+    "+7 (913) 985-85-22"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "антикоррозийная обработка",
+    "автодиагностика",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/j_c_auto/1265909971/"
+  },
+  {
+   "id": "53221374239",
+   "название": "Japan Logistic",
+   "seoname": "japan_logistic",
+   "адрес": "ул. Суханова, 3А, Владивосток",
+   "координаты": [
+    131.894193,
+    43.117442
+   ],
+   "рейтинг": 5,
+   "оценок": 86,
+   "отзывов": 77,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.japanlogistic.ru/"
+   ],
+   "телефоны": [
+    "+7 (984) 198-38-48",
+    "8 (800) 350-63-73"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "disable_captions",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "japanese_car_auctions",
+    "loan_processing",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/japan_logistic/53221374239/"
+  },
+  {
+   "id": "61685962416",
+   "название": "Мигавто",
+   "seoname": "migavto",
+   "адрес": "Пионерская ул., 198/4А, Благовещенск",
+   "координаты": [
+    127.540621,
+    50.299675
+   ],
+   "рейтинг": 4.7,
+   "оценок": 214,
+   "отзывов": 77,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://migavto.info/"
+   ],
+   "телефоны": [
+    "+7 (914) 046-55-61",
+    "+7 (4162) 22-95-61"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "hybrid_car_repair",
+    "injector_repair",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_of_diesel_engines",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/migavto/61685962416/"
+  },
+  {
+   "id": "26930330204",
+   "название": "Джапан Авто Групп",
+   "seoname": "dzhapan_avto_grupp",
+   "адрес": "Снеговая ул., 1, стр. 11, Владивосток",
+   "координаты": [
+    131.929736,
+    43.136966
+   ],
+   "рейтинг": 5,
+   "оценок": 98,
+   "отзывов": 75,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://jpn-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (423) 255-58-50",
+    "+7 (908) 981-43-73",
+    "+7 (908) 994-00-90",
+    "+7 (924) 735-75-77"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "elevator_wheelchair_accessible",
+    "epassport_for_vehicles",
+    "japanese_car_auctions",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dzhapan_avto_grupp/26930330204/"
+  },
+  {
+   "id": "57463129198",
+   "название": "Темп-А",
+   "seoname": "temp_a",
+   "адрес": "Народный просп., 27Б, Владивосток",
+   "координаты": [
+    131.918214,
+    43.127865
+   ],
+   "рейтинг": 4.7,
+   "оценок": 142,
+   "отзывов": 72,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tempa-cars.ru/"
+   ],
+   "телефоны": [
+    "+7 (902) 052-77-11",
+    "+7 (423) 280-00-22",
+    "+7 (902) 060-57-75",
+    "+7 (902) 077-77-44"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоаукцион"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "japanese_car_auctions",
+    "leasing_registration",
+    "loan_processing",
+    "motorcycle_auction",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/temp_a/57463129198/"
+  },
+  {
+   "id": "159869718607",
+   "название": "АвтоРевизорВЛ. ру",
+   "seoname": "avtorevizorvl_ru",
+   "адрес": "ул. Стрельникова, 7, Владивосток",
+   "координаты": [
+    131.864758,
+    43.09729
+   ],
+   "рейтинг": 5,
+   "оценок": 72,
+   "отзывов": 68,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtorevizorvl.ru/",
+    "https://youtu.be/IQ-6HxEJ2sw"
+   ],
+   "телефоны": [
+    "+7 (924) 729-42-53"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "cargo_transportation",
+    "disable_captions",
+    "japanese_car_auctions",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtorevizorvl_ru/159869718607/"
+  },
+  {
+   "id": "1221935927",
+   "название": "Техцентр Сумотори",
+   "seoname": "tekhtsentr_sumotori",
+   "адрес": "1-я Рабочая ул., 91, Артём",
+   "координаты": [
+    132.10681,
+    43.332016
+   ],
+   "рейтинг": 4.3,
+   "оценок": 277,
+   "отзывов": 66,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://zavod-sumotori.ru/"
+   ],
+   "телефоны": [
+    "+7 (914) 791-53-12",
+    "+7 (914) 703-30-56",
+    "+7 (914) 792-14-70",
+    "+7 (914) 791-68-64",
+    "+7 (914) 792-11-91",
+    "+7 (423) 260-02-00"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт грузовых автомобилей",
+    "магазин автозапчастей и автотоваров",
+    "запчасти для грузовых автомобилей",
+    "грузовые автомобили, грузовая техника",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "diesel_service",
+    "freight_car_service",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet",
+    "trailer_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tekhtsentr_sumotori/1221935927/"
+  },
+  {
+   "id": "4844342719",
+   "название": "Сумотори-Авто",
+   "seoname": "sumotori_avto",
+   "адрес": "Тульская ул., 2, Артём",
+   "координаты": [
+    132.08798,
+    43.315053
+   ],
+   "рейтинг": 4.4,
+   "оценок": 197,
+   "отзывов": 65,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://sumotoricar.ru/"
+   ],
+   "телефоны": [
+    "+7 (423) 260-01-00",
+    "+7 (914) 792-37-28"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "cafe",
+    "car_park",
+    "car_wash",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "registration_inspection",
+    "test_drive",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sumotori_avto/4844342719/"
+  },
+  {
+   "id": "154373613501",
+   "название": "Авто Сила",
+   "seoname": "avto_sila",
+   "адрес": "ул. Нейбута, 125, стр. 15, Владивосток",
+   "координаты": [
+    131.969178,
+    43.127903
+   ],
+   "рейтинг": 4.5,
+   "оценок": 135,
+   "отзывов": 62,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtosilavl.ru/"
+   ],
+   "телефоны": [
+    "+7 (924) 527-48-49",
+    "+7 (924) 940-10-29"
+   ],
+   "часы": "пн-пт 09:15–18:00; сб 09:15–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Авторазбор",
+    "магазин автозапчастей и автотоваров",
+    "автомобильные радиаторы"
+   ],
+   "признаки": [
+    "automotive_products",
+    "car_park",
+    "contract_engines",
+    "delivery",
+    "disable_captions",
+    "gas_stops",
+    "generators",
+    "hinged_equipment",
+    "pickup",
+    "piston_groups",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "tire_chains",
+    "urea"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_sila/154373613501/"
+  },
+  {
+   "id": "1014914553",
+   "название": "КЦ Авто",
+   "seoname": "kts_avto",
+   "адрес": "Октябрьский просп., 53, Новокузнецк",
+   "координаты": [
+    87.154671,
+    53.746571
+   ],
+   "рейтинг": 4.5,
+   "оценок": 184,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kcsib.ru/"
+   ],
+   "телефоны": [
+    "+7 (3843) 78-52-78",
+    "+7 (3843) 78-52-77",
+    "+7 (951) 178-52-78",
+    "+7 (951) 178-52-77"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "автоаксессуары",
+    "автостёкла"
+   ],
+   "признаки": [
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "car_floor_mats",
+    "car_park",
+    "gas_stops",
+    "generators",
+    "hydraulic_cylinders",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "spare_parts",
+    "starters",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kts_avto/1014914553/"
+  },
+  {
+   "id": "1875036421",
+   "название": "АвтоМотор",
+   "seoname": "avtomotor",
+   "адрес": "Станционная ул., 38, корп. 50, Новосибирск",
+   "координаты": [
+    82.82413,
+    55.008444
+   ],
+   "рейтинг": 4.5,
+   "оценок": 157,
+   "отзывов": 53,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://автомотор.онлайн/",
+    "http://автомотор.рус/"
+   ],
+   "телефоны": [
+    "+7 (913) 002-40-36",
+    "+7 (913) 001-05-87"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "авторазбор"
+   ],
+   "признаки": [
+    "automotive_products",
+    "car_park",
+    "contract_engines",
+    "delivery",
+    "generators",
+    "gift_certificate",
+    "hinged_equipment",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtomotor/1875036421/"
+  },
+  {
+   "id": "114011057729",
+   "название": "Авто Заказ ДВ",
+   "seoname": "avto_zakaz_dv",
+   "адрес": "ул. Административный городок, 1, Находка",
+   "координаты": [
+    132.896763,
+    42.824751
+   ],
+   "рейтинг": 4.9,
+   "оценок": 57,
+   "отзывов": 52,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://autozakaz-dv.ru/"
+   ],
+   "телефоны": [
+    "+7 (914) 320-65-35",
+    "+7 (902) 480-99-97",
+    "+7 (984) 156-73-57"
+   ],
+   "часы": "пн-пт 12:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автоподбор"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_zakaz_dv/114011057729/"
+  },
+  {
+   "id": "1102854725",
+   "название": "ДВ Лайн",
+   "seoname": "dv_layn",
+   "адрес": "ул. Крыгина, 35, Владивосток",
+   "координаты": [
+    131.858996,
+    43.08827
+   ],
+   "рейтинг": 4.4,
+   "оценок": 114,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://dvline.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 965-91-21",
+    "8 (800) 700-13-95",
+    "+7 (908) 442-48-76",
+    "+7 (908) 967-13-77",
+    "+7 (967) 754-57-77"
+   ],
+   "часы": "пн-пт 09:30–17:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мотосалон",
+    "автоаукцион",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cars_for_order",
+    "delivery",
+    "epassport_for_vehicles",
+    "japanese_car_auctions",
+    "motopodbor",
+    "motorcycle_auction",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "test_drive",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dv_layn/1102854725/"
+  },
+  {
+   "id": "47965823179",
+   "название": "Самурай Авто Групп",
+   "seoname": "samuray_avto_grupp",
+   "адрес": "Сельская ул., 6А, Владивосток",
+   "координаты": [
+    131.940138,
+    43.133131
+   ],
+   "рейтинг": 4.8,
+   "оценок": 54,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://самурай-авто-групп.рф/"
+   ],
+   "телефоны": [
+    "+7 (991) 068-85-27",
+    "8 (800) 101-75-27",
+    "+7 (914) 685-65-51"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "продажа автомобилей с пробегом",
+    "автоподбор"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "car_park",
+    "cars_for_order",
+    "japanese_car_auctions",
+    "parking_disabled",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samuray_avto_grupp/47965823179/"
+  },
+  {
+   "id": "53696178985",
+   "название": "Токито",
+   "seoname": "tokito",
+   "адрес": "Лесная ул., 107, Владивосток",
+   "координаты": [
+    131.92826,
+    43.187588
+   ],
+   "рейтинг": 4.6,
+   "оценок": 70,
+   "отзывов": 45,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://tokito-auto.ru/"
+   ],
+   "телефоны": [
+    "+7 (953) 215-45-51",
+    "+7 (995) 222-47-29",
+    "8 (800) 551-75-81"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Заказ автомобилей",
+    "автоаукцион",
+    "спецтехника и спецавтомобили"
+   ],
+   "признаки": [
+    "japanese_car_auctions",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tokito/53696178985/"
+  },
+  {
+   "id": "1789993111",
+   "название": "АвтоГен",
+   "seoname": "avtogen",
+   "адрес": "просп. Острякова, 38А, Владивосток",
+   "координаты": [
+    131.900998,
+    43.136174
+   ],
+   "рейтинг": 4.6,
+   "оценок": 92,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (914) 792-33-02",
+    "+7 (914) 349-44-89",
+    "+7 (914) 326-12-34",
+    "+7 (423) 272-33-02"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "keep_tires",
+    "mobile_tire_service",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tire_fitting",
+    "truck_tire_service",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtogen/1789993111/"
+  },
+  {
+   "id": "76449630341",
+   "название": "Аркейд Авто",
+   "seoname": "arkeyd_avto",
+   "адрес": "просп. Сиверса, 12Е",
+   "координаты": [
+    39.690759,
+    47.223345
+   ],
+   "рейтинг": 4.8,
+   "оценок": 55,
+   "отзывов": 32,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://arkeid.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 204-49-02",
+    "+7 (928) 147-96-98"
+   ],
+   "часы": "пн-сб 10:00–20:00; вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "продажа автомобилей с пробегом",
+    "выкуп автомобилей"
+   ],
+   "признаки": [
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/arkeyd_avto/76449630341/"
+  },
+  {
+   "id": "1025744203",
+   "название": "ДжапанТрек",
+   "seoname": "dzhapantrek",
+   "адрес": "Светланская ул., 85, Владивосток",
+   "координаты": [
+    131.903873,
+    43.115832
+   ],
+   "рейтинг": 4.3,
+   "оценок": 73,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.japantrek.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 700-16-14",
+    "+7 (902) 050-70-44",
+    "+7 (902) 050-80-00"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "перевозка автомобилей",
+    "внешнеторговые и внешнеэкономические организации"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "transportation_of_motor_vehicles",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dzhapantrek/1025744203/"
+  },
+  {
+   "id": "1579039835",
+   "название": "Китайско-Корейский квартал",
+   "seoname": "kitaysko_koreyskiy_kvartal",
+   "адрес": "ул. Олега Кошевого, 65Г, Иркутск",
+   "координаты": [
+    104.245015,
+    52.325539
+   ],
+   "рейтинг": 4.4,
+   "оценок": 50,
+   "отзывов": 28,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://korkv.ru/"
+   ],
+   "телефоны": [
+    "+7 (914) 000-87-45",
+    "+7 (3952) 43-26-92",
+    "+7 (914) 000-76-92"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "смазочные материалы",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "car_accessories",
+    "car_park",
+    "delivery",
+    "generators",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_chains"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kitaysko_koreyskiy_kvartal/1579039835/"
+  },
+  {
+   "id": "35504603763",
+   "название": "АвтоЮг",
+   "seoname": "avtoyug",
+   "адрес": "Геологическая ул., 9",
+   "координаты": [
+    39.772737,
+    47.266423
+   ],
+   "рейтинг": 4.9,
+   "оценок": 29,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gruzovik-shop.ru/",
+    "https://ugavto-rostov.ru/"
+   ],
+   "телефоны": [
+    "+7 (961) 436-53-32",
+    "8 (800) 201-45-94"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "грузовые автомобили, грузовая техника"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cafe",
+    "car_park",
+    "cars_for_order",
+    "delivery",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "hinged_equipment",
+    "leasing_registration",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoyug/35504603763/"
+  },
+  {
+   "id": "1251601423",
+   "название": "Китай-Авто",
+   "seoname": "kitay_avto",
+   "адрес": "просп. Ленина, 66Б, Кемерово",
+   "координаты": [
+    86.108665,
+    55.345507
+   ],
+   "рейтинг": 4.3,
+   "оценок": 61,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://kitai-avto42.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 567-42-77"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб 11:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "смазочные материалы",
+    "автоаксессуары"
+   ],
+   "признаки": [
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "car_accessories",
+    "car_door_closers",
+    "car_park",
+    "payment_by_credit_card",
+    "pickup",
+    "spare_parts"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kitay_avto/1251601423/"
+  },
+  {
+   "id": "1058800968",
+   "название": "Маленькая Япония",
+   "seoname": "malenkaya_yaponiya",
+   "адрес": "Снеговая ул., 13Ж, корп. 1, Владивосток",
+   "координаты": [
+    131.942312,
+    43.137065
+   ],
+   "рейтинг": 4.2,
+   "оценок": 96,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (423) 244-17-11",
+    "+7 (423) 250-75-08"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/malenkaya_yaponiya/1058800968/"
+  },
+  {
+   "id": "107206090369",
+   "название": "Kochiba",
+   "seoname": "kochiba",
+   "адрес": "просп. Красного Знамени, 51А, Владивосток",
+   "координаты": [
+    131.905724,
+    43.128117
+   ],
+   "рейтинг": 4.5,
+   "оценок": 32,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kochiba.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 201-81-12",
+    "+7 (914) 966-04-41",
+    "+7 (902) 075-57-57",
+    "8 (804) 700-08-35"
+   ],
+   "часы": "пн-пт 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоаукцион",
+    "автоподбор",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "japanese_car_auctions",
+    "motopodbor",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kochiba/107206090369/"
+  },
+  {
+   "id": "28001336578",
+   "название": "Японец",
+   "seoname": "yaponets",
+   "адрес": "ул. Фадеева, 30, Владивосток",
+   "координаты": [
+    131.948369,
+    43.102458
+   ],
+   "рейтинг": 4.4,
+   "оценок": 31,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.yaponecvl.ru/"
+   ],
+   "телефоны": [
+    "+7 (914) 076-14-76",
+    "+7 (964) 453-55-53"
+   ],
+   "часы": "пн-пт 09:00–17:00; сб,вс 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров",
+    "авторазбор",
+    "шины и диски"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automotive_products",
+    "car_park",
+    "contract_engines",
+    "delivery",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yaponets/28001336578/"
+  },
+  {
+   "id": "47606983854",
+   "название": "Вл-ам",
+   "seoname": "vl_am",
+   "адрес": "Приморский край, Надеждинский район, территория опережающего социально-экономического развития Надеждинская, улица имени Сергея Рахманинова, 30",
+   "координаты": [
+    132.004456,
+    43.34585
+   ],
+   "рейтинг": 4.3,
+   "оценок": 23,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vl-am.ru/"
+   ],
+   "телефоны": [
+    "+7 (908) 992-54-44"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Авторынок",
+    "автосалон",
+    "продажа автомобилей с пробегом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "delivery",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "toilet",
+    "trade_in",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vl_am/47606983854/"
+  },
+  {
+   "id": "177454496488",
+   "название": "Имп-А Гарант",
+   "seoname": "imp_a_garant",
+   "адрес": "Нерчинская ул., 14, Владивосток, Россия",
+   "координаты": [
+    131.895007,
+    43.123228
+   ],
+   "рейтинг": 4.6,
+   "оценок": 11,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://impagarant.ru/"
+   ],
+   "телефоны": [
+    "+7 (916) 184-43-34"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автоподбор",
+    "автоаукцион",
+    "внешнеторговые и внешнеэкономические организации"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/imp_a_garant/177454496488/"
+  },
+  {
+   "id": "154069262103",
+   "название": "Wegugin Kti Inc.",
+   "seoname": "wegugin_kti_inc_",
+   "адрес": "Хвасон, Ujeong-eup, Beodeul-ro, 256",
+   "координаты": [
+    126.78777,
+    37.084006
+   ],
+   "рейтинг": 4.9,
+   "оценок": 10,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://korean-cars.parts/"
+   ],
+   "телефоны": [
+    "+82 10 73 58 56 96"
+   ],
+   "часы": "пн-пт 09:00–23:00; сб,вс 14:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "магазин автозапчастей и автотоваров",
+    "автоаукцион"
+   ],
+   "признаки": [
+    "automotive_products",
+    "car_park",
+    "delivery",
+    "gift_certificate",
+    "pickup",
+    "registration_inspection",
+    "spare_parts",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/wegugin_kti_inc_/154069262103/"
+  },
+  {
+   "id": "212574377213",
+   "название": "Carex Korea",
+   "seoname": "carex_korea",
+   "адрес": "ул. имени Дзержинского, 197/1, Краснодар",
+   "координаты": [
+    38.978589,
+    45.096662
+   ],
+   "рейтинг": 4.4,
+   "оценок": 8,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://carexkorea.ru/krasnodar"
+   ],
+   "телефоны": [
+    "+7 (993) 993-50-59"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автоподбор",
+    "заказ автомобилей"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/carex_korea/212574377213/"
+  },
+  {
+   "id": "183638318652",
+   "название": "Восток Ком Авто",
+   "seoname": "vostok_kom_avto",
+   "адрес": "ул. Маковского, 505, Владивосток",
+   "координаты": [
+    132.088186,
+    43.301095
+   ],
+   "рейтинг": 4.3,
+   "оценок": 36,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (914) 707-15-90",
+    "+7 (914) 724-53-11",
+    "+7 (914) 731-95-29",
+    "8 (800) 600-17-70"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "cars_for_order",
+    "cars_russification",
+    "diesel_service",
+    "freight_car_service",
+    "leasing_registration",
+    "loan_processing",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "registration_inspection",
+    "show_briefly_about_the_place_block",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vostok_kom_avto/183638318652/"
+  },
+  {
+   "id": "147567822699",
+   "название": "Восток Транс Импорт",
+   "seoname": "vostok_trans_import",
+   "адрес": "ул. Калинина, 241В, Владивосток",
+   "координаты": [
+    131.890309,
+    43.091978
+   ],
+   "рейтинг": 0,
+   "оценок": 186,
+   "отзывов": 176,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://koreacars.me/",
+    "https://vtransim.ru/",
+    "https://chinesecars.sale/"
+   ],
+   "телефоны": [
+    "8 (800) 200-69-65"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Заказ автомобилей",
+    "продажа автомобилей с пробегом",
+    "спецтехника и спецавтомобили"
+   ],
+   "признаки": [
+    "car_park",
+    "loan_processing",
+    "refuse_and_street_sweeping_vehicles",
+    "registration_inspection",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/vostok_trans_import/147567822699/"
+  },
+  {
+   "id": "1097426782",
+   "название": "АвтоСити",
+   "seoname": "avtositi",
+   "адрес": "ул. Баррикад, 98, Иркутск",
+   "координаты": [
+    104.358716,
+    52.291813
+   ],
+   "рейтинг": 3.8,
+   "оценок": 299,
+   "отзывов": 82,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://auto.drom.ru/dealer309832"
+   ],
+   "телефоны": [
+    "+7 (902) 566-67-19",
+    "+7 (3952) 92-22-29"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Авторынок"
+   ],
+   "признаки": [
+    "delivery",
+    "gift_certificate",
+    "parking_disabled",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtositi/1097426782/"
+  },
+  {
+   "id": "73309211576",
+   "название": "World Import",
+   "seoname": "world_import",
+   "адрес": "Нижнепортовая ул., 4, Владивосток",
+   "координаты": [
+    131.866835,
+    43.100784
+   ],
+   "рейтинг": 0,
+   "оценок": 18,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.world-import.ru/"
+   ],
+   "телефоны": [
+    "+7 (924) 120-16-16"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Продажа автомобилей с пробегом",
+    "автосалон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "gift_certificate",
+    "loan_processing",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "registration_inspection",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/world_import/73309211576/"
+  },
+  {
+   "id": "1017257153",
+   "название": "Ниппон Авто Honda-Центр",
+   "seoname": "nippon_avto_honda_tsentr",
+   "адрес": "ул. Маковского, 30В, Владивосток",
+   "координаты": [
+    131.950009,
+    43.201223
+   ],
+   "рейтинг": 3.8,
+   "оценок": 79,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (423) 270-13-78",
+    "+7 (423) 258-12-22",
+    "+7 (423) 257-73-17",
+    "+7 (423) 233-49-26"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "basic_service",
+    "body_repair",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nippon_avto_honda_tsentr/1017257153/"
+  },
+  {
+   "id": "68607593431",
+   "название": "Auto Japan",
+   "seoname": "auto_japan",
+   "адрес": "ул. Нейбута, 10А, стр. 3, Владивосток",
+   "координаты": [
+    131.956937,
+    43.103636
+   ],
+   "рейтинг": 3.4,
+   "оценок": 35,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (950) 299-02-48",
+    "+7 (423) 291-46-00"
+   ],
+   "часы": "пн-пт 10:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Авторазбор",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "pickup",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/auto_japan/68607593431/"
+  },
+  {
+   "id": "1572877204",
+   "название": "Автор",
+   "seoname": "avtor",
+   "адрес": "Тенистая ул., 101А, Благовещенск",
+   "координаты": [
+    127.535484,
+    50.285528
+   ],
+   "рейтинг": 3.7,
+   "оценок": 24,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtorgaz.ru/"
+   ],
+   "телефоны": [
+    "+7 (924) 444-09-29",
+    "+7 (4162) 22-98-13"
+   ],
+   "часы": "пн-пт 09:00–18:00, перерыв 12:00–13:00; сб 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон"
+   ],
+   "признаки": [
+    "authorized_service",
+    "car_park",
+    "cars_for_order",
+    "epassport_for_vehicles",
+    "leasing_registration",
+    "loan_processing",
+    "test_drive",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtor/1572877204/"
+  }
+ ],
+ "расширено_по_районам": true
+}

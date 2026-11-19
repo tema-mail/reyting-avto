@@ -1,0 +1,1244 @@
+{
+ "ниша": "Сервис Toyota и Lexus",
+ "ключ": "servis-toyota",
+ "запросы": [
+  "ремонт тойота",
+  "ремонт лексус"
+ ],
+ "найдено_в_яндексе": {
+  "ремонт тойота": 78,
+  "ремонт лексус": 1
+ },
+ "дата_съёма": "2026-11-10",
+ "источник": "Яндекс Карты, поиск по Ростову-на-Дону (регион 39)",
+ "город": "rostov-na-donu",
+ "компании": [
+  {
+   "id": "165115385142",
+   "название": "Fit Service",
+   "seoname": "fit_service",
+   "адрес": "ул. Малиновского, 96/58",
+   "координаты": [
+    39.614716,
+    47.239486
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1592,
+   "отзывов": 1089,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://rnd.fitauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 221-02-47"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "экспресс-пункт замены масла"
+   ],
+   "признаки": [
+    "basic_service",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tire_fitting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fit_service/165115385142/",
+   "последний_отзыв": "2026-10-30",
+   "отзывов_за_12_мес_из_загруженных": 73,
+   "загружено_дат": 88
+  },
+  {
+   "id": "1004015942",
+   "название": "Тойота-центр",
+   "seoname": "toyota_tsentr",
+   "адрес": "ул. Мечникова, 112А",
+   "координаты": [
+    39.689324,
+    47.23879
+   ],
+   "рейтинг": 4.8,
+   "оценок": 2295,
+   "отзывов": 589,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (863) 242-90-00"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосалон",
+    "выкуп автомобилей",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "bike_parking",
+    "body_repair",
+    "cafe",
+    "car_park",
+    "car_wash",
+    "cars_for_order",
+    "cars_russification",
+    "chip_tuning",
+    "diesel_service",
+    "engine_endoscopy",
+    "epassport_for_vehicles",
+    "guarantee",
+    "installing_the_towbar",
+    "leasing_registration",
+    "loan_processing",
+    "official_dealer",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "test_drive",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trade_in",
+    "urea",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/toyota_tsentr/1004015942/",
+   "последний_отзыв": "2026-10-07",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 66
+  },
+  {
+   "id": "1670317002",
+   "название": "Рулевой",
+   "seoname": "rulevoy",
+   "адрес": "Таганрогская ул., 181",
+   "координаты": [
+    39.631513,
+    47.258736
+   ],
+   "рейтинг": 5,
+   "оценок": 645,
+   "отзывов": 452,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://rnd.rulevoi-sto.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 333-96-17"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rulevoy/1670317002/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 53,
+   "загружено_дат": 73
+  },
+  {
+   "id": "176320725658",
+   "название": "Турбо",
+   "seoname": "turbo",
+   "адрес": "ул. Доватора, 181",
+   "координаты": [
+    39.62525,
+    47.237479
+   ],
+   "рейтинг": 4.6,
+   "оценок": 699,
+   "отзывов": 288,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://turbo161.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 270-48-48",
+    "+7 (928) 155-91-35",
+    "+7 (863) 270-48-48",
+    "+7 (928) 156-23-36"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/turbo/176320725658/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 77
+  },
+  {
+   "id": "122674180537",
+   "название": "БестВей",
+   "seoname": "bestvey",
+   "адрес": "20-я ул., 45В, микрорайон Новое Поселение, Ростов-на-Дону",
+   "координаты": [
+    39.686433,
+    47.237607
+   ],
+   "рейтинг": 4.6,
+   "оценок": 423,
+   "отзывов": 261,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bestway61.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 204-43-46",
+    "+7 (863) 320-25-93",
+    "+7 (863) 320-31-27",
+    "+7 (863) 320-26-84"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт двигателей",
+    "Ремонт АКПП"
+   ],
+   "признаки": [
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "car_wash",
+    "chip_tuning",
+    "cylinder_blocks_boring",
+    "diesel_service",
+    "engine_endoscopy",
+    "guarantee",
+    "hybrid_car_repair",
+    "hydroblock_repair",
+    "injector_repair",
+    "injectors_repair",
+    "painting_car_rims",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_diesel_engines",
+    "service_maintenance",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "torque_converter_repair",
+    "turbine repair",
+    "variator_repair",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bestvey/122674180537/",
+   "последний_отзыв": "2026-11-09",
+   "отзывов_за_12_мес_из_загруженных": 37,
+   "загружено_дат": 84
+  },
+  {
+   "id": "7220743504",
+   "название": "Ангар Групп",
+   "seoname": "angar_grupp",
+   "адрес": "просп. Ленина, 53, Аксай",
+   "координаты": [
+    39.860227,
+    47.279211
+   ],
+   "рейтинг": 4.8,
+   "оценок": 395,
+   "отзывов": 205,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://angar61.ru/"
+   ],
+   "телефоны": [
+    "+7 (961) 400-70-90"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "автодиагностика",
+    "кузовной ремонт"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "cars_russification",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hybrid_car_repair",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "repair_dsg",
+    "service_maintenance",
+    "show_briefly_about_the_place_block",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/angar_grupp/7220743504/",
+   "последний_отзыв": "2026-11-02",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 71
+  },
+  {
+   "id": "1111843678",
+   "название": "Мотор Сервис",
+   "seoname": "motor_servis",
+   "адрес": "ул. Оганова, 39А/7",
+   "координаты": [
+    39.660287,
+    47.277259
+   ],
+   "рейтинг": 4.9,
+   "оценок": 349,
+   "отзывов": 165,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://motor-service-rostov.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 401-42-74",
+    "+7 (863) 221-42-74",
+    "+7 (863) 247-22-02"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "студия тюнинга",
+    "автокондиционеры"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "diesel_service",
+    "good_place",
+    "guarantee",
+    "installation",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repairs",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/motor_servis/1111843678/",
+   "последний_отзыв": "2026-09-16",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 90
+  },
+  {
+   "id": "49274179604",
+   "название": "SPb Avto",
+   "seoname": "spb_avto",
+   "адрес": "1-я Форматная ул., 10, Ростов-на-Дону",
+   "координаты": [
+    39.65546,
+    47.29409
+   ],
+   "рейтинг": 4.9,
+   "оценок": 404,
+   "отзывов": 162,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (908) 503-03-04"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "шиномонтаж"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/spb_avto/49274179604/",
+   "последний_отзыв": "2026-07-26",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 47
+  },
+  {
+   "id": "181694112434",
+   "название": "Автосервис, автотехцентр",
+   "seoname": "avtoservis_avtotekhtsentr",
+   "адрес": "ул. Текучёва, 77",
+   "координаты": [
+    39.687812,
+    47.231245
+   ],
+   "рейтинг": 4.9,
+   "оценок": 245,
+   "отзывов": 140,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoservis-avtotehtsentr-ulitsa-tekucheva.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (904) 448-44-47",
+    "+7 (961) 407-70-77"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "thickness_gauge_checking",
+    "toilet",
+    "urea",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis_avtotekhtsentr/181694112434/",
+   "последний_отзыв": "2026-11-06",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 85
+  },
+  {
+   "id": "1679521042",
+   "название": "Свт-центр",
+   "seoname": "svt_tsentr",
+   "адрес": "Днепроградская ул., 7/1",
+   "координаты": [
+    39.691998,
+    47.278847
+   ],
+   "рейтинг": 4.9,
+   "оценок": 255,
+   "отзывов": 139,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (900) 137-21-37",
+    "+7 (904) 444-10-14"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт АКПП",
+    "автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "car_park",
+    "engine_endoscopy",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "thickness_gauge_checking",
+    "toilet",
+    "torque_converter_repair",
+    "variator_repair",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/svt_tsentr/1679521042/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 74
+  },
+  {
+   "id": "218338452668",
+   "название": "М-моторс",
+   "seoname": "m_motors",
+   "адрес": "Энергичная ул., 99, Ростов-на-Дону",
+   "координаты": [
+    39.663926,
+    47.294054
+   ],
+   "рейтинг": 4.7,
+   "оценок": 255,
+   "отзывов": 132,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://m-motors61.ru/"
+   ],
+   "телефоны": [
+    "+7 (961) 436-55-26"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт АКПП"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/m_motors/218338452668/",
+   "последний_отзыв": "2026-07-18",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 51
+  },
+  {
+   "id": "80544144799",
+   "название": "АвтоЭксперт",
+   "seoname": "avtoekspert",
+   "адрес": "пер. Энергетиков, 10",
+   "координаты": [
+    39.738019,
+    47.238538
+   ],
+   "рейтинг": 4.3,
+   "оценок": 225,
+   "отзывов": 119,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avto-ex.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 320-37-52"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "детейлинг"
+   ],
+   "признаки": [
+    "OSAGO_repair",
+    "Possible_with_dog",
+    "anti_corrosion_treatment",
+    "anti_gravity_film",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_valeting",
+    "car_wash",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "guarantee",
+    "hybrid_car_repair",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "toilet_for_disabled",
+    "welding_works",
+    "wheel_alignment",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoekspert/80544144799/",
+   "последний_отзыв": "2026-08-06",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 94
+  },
+  {
+   "id": "162303684236",
+   "название": "4bullservice",
+   "seoname": "4bullservice",
+   "адрес": "ул. 1-й Пятилетки, 8И, Батайск",
+   "координаты": [
+    39.719465,
+    47.135926
+   ],
+   "рейтинг": 4.8,
+   "оценок": 200,
+   "отзывов": 117,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (901) 139-14-91",
+    "+7 (961) 301-05-35"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "certified_service",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "doubloons_loyalty_card",
+    "engine_endoscopy",
+    "gas_stops",
+    "generators",
+    "good_place",
+    "guarantee",
+    "heater_flushing",
+    "home_visit",
+    "installing_the_towbar",
+    "onsite_diagnostics_cars",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/4bullservice/162303684236/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 64
+  },
+  {
+   "id": "136240336544",
+   "название": "Мастер",
+   "seoname": "master",
+   "адрес": "просп. 40-летия Победы, 318А",
+   "координаты": [
+    39.836049,
+    47.240839
+   ],
+   "рейтинг": 4.7,
+   "оценок": 221,
+   "отзывов": 115,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://stoavtomaster.ru/"
+   ],
+   "телефоны": [
+    "+7 (950) 866-16-11",
+    "+7 (863) 260-61-61"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "кузовной ремонт",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "bumper_repair",
+    "car_park",
+    "car_wash",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "freight_car_service",
+    "good_place",
+    "guarantee",
+    "installing_the_towbar",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "removing_dents_without_painting",
+    "service_maintenance",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wheel_alignment",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/master/136240336544/",
+   "последний_отзыв": "2026-07-10",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 78
+  },
+  {
+   "id": "1019190583",
+   "название": "Автокомплекс",
+   "seoname": "avtokompleks",
+   "адрес": "ул. Текучёва, 170",
+   "координаты": [
+    39.691184,
+    47.231663
+   ],
+   "рейтинг": 4.4,
+   "оценок": 185,
+   "отзывов": 103,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://avtokompleks-ulitsa-tekucheva.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (863) 267-69-63",
+    "+7 (904) 501-00-15",
+    "+7 (928) 270-44-46"
+   ],
+   "часы": "пн-сб 09:00–19:00; вс 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр"
+   ],
+   "признаки": [
+    "authorized_service",
+    "basic_service",
+    "car_park",
+    "mobile_tire_service",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtokompleks/1019190583/",
+   "последний_отзыв": "2026-07-03",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 74
+  },
+  {
+   "id": "42690161917",
+   "название": "ЮгРемСтарт",
+   "seoname": "yugremstart",
+   "адрес": "Днепропетровская ул., 32/72",
+   "координаты": [
+    39.798562,
+    47.278426
+   ],
+   "рейтинг": 4.6,
+   "оценок": 169,
+   "отзывов": 78,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ugremont-v.ru/"
+   ],
+   "телефоны": [
+    "+7 (928) 766-77-99"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ремонт стартеров и генераторов",
+    "ремонт автоэлектрики",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automotive_products",
+    "car_park",
+    "delivery",
+    "generators",
+    "guarantee",
+    "hydrogen_generators",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "toilet"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yugremstart/42690161917/"
+  },
+  {
+   "id": "49353652340",
+   "название": "Скан-Юго-Восток",
+   "seoname": "skan_yugo_vostok",
+   "адрес": "Промышленная ул., 1А/1, Аксай",
+   "координаты": [
+    39.853217,
+    47.277469
+   ],
+   "рейтинг": 4.4,
+   "оценок": 219,
+   "отзывов": 78,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://scanauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (958) 499-20-68",
+    "8 (800) 505-33-88",
+    "+7 (863) 303-54-56"
+   ],
+   "часы": "ежедневно, 08:00–21:00, перерыв 12:00–13:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "ремонт грузовых автомобилей",
+    "грузовые автомобили, грузовая техника"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "advanced_after_sales_service",
+    "airbag_repair",
+    "authorized_service",
+    "basic_service",
+    "body_repair",
+    "car_park",
+    "car_wash",
+    "certified_service",
+    "commercial_vehicles_repair",
+    "delivery",
+    "diesel_service",
+    "engine_endoscopy",
+    "field_service",
+    "freight_car_service",
+    "gift_certificate",
+    "guarantee",
+    "heater_flushing",
+    "hinged_equipment",
+    "home_visit",
+    "installing_the_towbar",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "repair_dsg",
+    "repair_of_refrigerated_trucks",
+    "repairs",
+    "show_briefly_about_the_place_block",
+    "thickness_gauge_checking",
+    "tire_fitting",
+    "toilet",
+    "trailer_repair",
+    "urea",
+    "welding_works",
+    "wheel_alignment",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skan_yugo_vostok/49353652340/"
+  },
+  {
+   "id": "1654209446",
+   "название": "Авто Проф-Тех центр",
+   "seoname": "avto_prof_tekh_tsentr",
+   "адрес": "Автомобильный пер., 27А",
+   "координаты": [
+    39.722774,
+    47.247782
+   ],
+   "рейтинг": 4.2,
+   "оценок": 63,
+   "отзывов": 43,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (928) 614-07-00"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "anti_corrosion_treatment",
+    "basic_service",
+    "body_repair",
+    "wheel_alignment"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avto_prof_tekh_tsentr/1654209446/"
+  },
+  {
+   "id": "123264983339",
+   "название": "ASMotor",
+   "seoname": "asmotor",
+   "адрес": "Орбитальная ул., 84А, микрорайон Северный",
+   "координаты": [
+    39.737085,
+    47.301589
+   ],
+   "рейтинг": 5,
+   "оценок": 56,
+   "отзывов": 39,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://avtoasmotor.ru/",
+    "https://asmotor.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (923) 998-95-07"
+   ],
+   "часы": "вт-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "заправка автокондиционеров",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "chip_tuning",
+    "commercial_vehicles_repair",
+    "diesel_service",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "tire_fitting",
+    "toilet",
+    "welding_works",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/asmotor/123264983339/"
+  },
+  {
+   "id": "51329538510",
+   "название": "Автосервис",
+   "seoname": "avtoservis",
+   "адрес": "ул. Кочубея, 248А",
+   "координаты": [
+    39.665167,
+    47.200975
+   ],
+   "рейтинг": 4.8,
+   "оценок": 84,
+   "отзывов": 39,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://autoservice161.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (909) 438-36-65",
+    "+7 (928) 185-28-30"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "Ремонт АКПП",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "basic_service",
+    "car_park",
+    "good_place",
+    "preliminary_registration",
+    "street_entrance",
+    "tire_fitting",
+    "toilet",
+    "vulcanization",
+    "welding_works",
+    "wheel_balancing",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtoservis/51329538510/"
+  },
+  {
+   "id": "1141056780",
+   "название": "J-Motors",
+   "seoname": "j_motors",
+   "адрес": "ул. Нансена, 85, Ростов-на-Дону",
+   "координаты": [
+    39.691845,
+    47.246051
+   ],
+   "рейтинг": 4.5,
+   "оценок": 67,
+   "отзывов": 37,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (863) 204-05-46"
+   ],
+   "часы": "пн-сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "продажа двигателей",
+    "магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "authorized_service",
+    "automotive_products",
+    "basic_service",
+    "car_park",
+    "engine_endoscopy",
+    "generators",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spare_parts",
+    "starters",
+    "tire_fitting",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/j_motors/1141056780/"
+  },
+  {
+   "id": "197290167692",
+   "название": "Автозапчасти 111",
+   "seoname": "avtozapchasti_111",
+   "адрес": "ул. Малиновского, 35А, Ростов-на-Дону",
+   "координаты": [
+    39.61248,
+    47.23627
+   ],
+   "рейтинг": 4.6,
+   "оценок": 49,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://111avto.ru/"
+   ],
+   "телефоны": [
+    "+7 (863) 200-74-07",
+    "+7 (908) 192-03-50"
+   ],
+   "часы": "пн-сб 08:00–17:00; вс 08:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин автозапчастей и автотоваров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adblue",
+    "autocosmetics_autochemicals",
+    "automotive_products",
+    "car_park",
+    "generators",
+    "payment_by_credit_card",
+    "pickup",
+    "piston_groups",
+    "spare_parts",
+    "starters",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avtozapchasti_111/197290167692/"
+  },
+  {
+   "id": "128043680093",
+   "название": "Фиолент Авто",
+   "seoname": "fiolent_avto",
+   "адрес": "ул. Евдокимова, 15А, Ростов-на-Дону",
+   "координаты": [
+    39.707593,
+    47.27085
+   ],
+   "рейтинг": 4.9,
+   "оценок": 23,
+   "отзывов": 21,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://fiolentauto.ru/"
+   ],
+   "телефоны": [
+    "+7 (951) 500-60-00"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "экспресс-пункт замены масла",
+    "ремонт двигателей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "basic_service",
+    "car_park",
+    "cars_russification",
+    "diesel_service",
+    "disable_captions",
+    "engine_endoscopy",
+    "good_place",
+    "guarantee",
+    "home_visit",
+    "hybrid_car_repair",
+    "onsite_diagnostics_cars",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "repair_dsg",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "welding_works",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fiolent_avto/128043680093/"
+  },
+  {
+   "id": "33928342630",
+   "название": "AutoWorks",
+   "seoname": "autoworks",
+   "адрес": "Орская ул., 14/28, Ростов-на-Дону",
+   "координаты": [
+    39.782747,
+    47.28561
+   ],
+   "рейтинг": 4.7,
+   "оценок": 13,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (988) 942-39-95"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Автосервис, автотехцентр",
+    "сварочные работы",
+    "шиномонтаж"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "disable_captions",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/autoworks/33928342630/"
+  }
+ ]
+}
